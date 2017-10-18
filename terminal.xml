@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="/usr/local/bin/bash" />
+    <option name="myPasteOnMiddleMouseButton" value="false" />
+  </component>
+</application>

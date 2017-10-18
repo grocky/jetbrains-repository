@@ -1,0 +1,41 @@
+<keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="VimWindowClose">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="VimWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="VimWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="VimWindowNext">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="VimWindowOnly">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="VimWindowPrev">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="VimWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="VimWindowSplitHorizontal">
+    <keyboard-shortcut first-keystroke="comma" second-keystroke="h" />
+  </action>
+  <action id="VimWindowSplitVertical">
+    <keyboard-shortcut first-keystroke="comma" second-keystroke="s" />
+  </action>
+  <action id="VimWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+</keymap>

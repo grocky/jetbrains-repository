@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\StockBlocks\Mvc\Extensions\MvcEnum.of(value)" />
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="XML" />
+      <blacklist language="YAML" />
+    </blacklists>
+  </component>
+</application>

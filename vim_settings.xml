@@ -1,0 +1,529 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks>
+      <mark key="M" line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" />
+    </globalmarks>
+    <filemarks>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceListenerCollection.php" timestamp="1508265679994" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" timestamp="1507752188991">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcEventLoggingData.php" timestamp="1508263650348" />
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PayerClient.php" timestamp="1506885249803">
+        <mark key="'" line="23" column="36" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicStockItemApiController.php" timestamp="1507735581781">
+        <mark key="[" line="50" column="101" />
+        <mark key="]" line="50" column="11" />
+        <mark key="^" line="50" column="11" />
+        <mark key="." line="50" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" timestamp="1507863196983">
+        <mark key="'" line="122" column="29" />
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="83" column="39" />
+        <mark key="^" line="83" column="39" />
+        <mark key="." line="83" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" timestamp="1507750996661">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="9" />
+        <mark key="." line="41" column="9" />
+        <mark key="^" line="41" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/TipaltiClientFactory.php" timestamp="1506892784623">
+        <mark key="'" line="23" column="57" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1506977028493">
+        <mark key="'" line="27" column="35" />
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiApiResponse.php" timestamp="1506882935973">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="10" column="165" />
+        <mark key="]" line="10" column="167" />
+        <mark key="." line="10" column="167" />
+        <mark key="^" line="10" column="167" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/config/common.yml" timestamp="1508265831433">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="226" column="15" />
+        <mark key="]" line="226" column="18" />
+        <mark key="." line="226" column="18" />
+        <mark key="^" line="226" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketplacePurchaseBase.php" timestamp="1507859317468">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/PublicApi/Routes/GraphicPublicApiRouteCollection.php" timestamp="1507383871341">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171002203457_alter_contributor_payouts_with_nullable_did_successfully_process.php" timestamp="1507212318592">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/PublicApi/Routes/VideoPublicApiRouteCollection.php" timestamp="1507383885372">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" timestamp="1507981219296">
+        <mark key="'" line="10" column="46" />
+        <mark key="^" line="16" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestContributorPayouts.php" timestamp="1506909990447">
+        <mark key="'" line="141" column="134" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="41" />
+        <mark key="." line="32" column="41" />
+        <mark key="^" line="32" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/Helpers/Limelight/LimelightApiRequest.php" timestamp="1506963031949">
+        <mark key="'" line="84" column="166" />
+        <mark key="[" line="84" column="167" />
+        <mark key="]" line="84" column="173" />
+        <mark key="." line="84" column="173" />
+        <mark key="^" line="84" column="173" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" timestamp="1506885481843">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="51" />
+        <mark key="^" line="26" column="51" />
+        <mark key="." line="26" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Toasters/ViewModels/CrossSellToasterWidgetBodyViewModel.php" timestamp="1507833865188">
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="39" />
+        <mark key="^" line="48" column="39" />
+        <mark key="." line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171007125821_public_api_add_get_stock_item_endpoint.php" timestamp="1507381447530">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1506893046463">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="28" column="55" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171007125837_public_api_add_get_stock_item_endpoint_for_seed_user.php" timestamp="1507382060700">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" timestamp="1508158563887">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="50" column="60" />
+        <mark key="]" line="50" column="58" />
+        <mark key="." line="50" column="58" />
+        <mark key="^" line="50" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestEnterpriseMarketplacePurchases.php" timestamp="1507859421392">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Services/Logger/MvcFluentLogger.php" timestamp="1508263840051">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutCalculationService.php" timestamp="1507862757813" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Api/Routes/PublicApiRouteCollection.php" timestamp="1507384011508">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="35" />
+        <mark key="^" line="43" column="10" />
+        <mark key="." line="43" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConfiguration.php" timestamp="1507383763372">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Helpers/PublicApiFunctionNames.php" timestamp="1507382117493">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" timestamp="1507861273686">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507950900716">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/PublicApi/Routes/AudioPublicApiRouteCollection.php" timestamp="1507383850321">
+        <mark key="'" line="13" column="20" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/graphicstock/marketplace/GraphicMarketPlacePurchases_IntegrationTest.php" timestamp="1507829365185">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/MarketplaceFactory.php" timestamp="1507859534991" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" timestamp="1507819414408">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="67" column="6" />
+        <mark key="." line="26" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="365" column="36" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="217" column="30" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="392" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="394" column="40" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="396" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="17" column="7" filename="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PayeeClient.php" />
+      <jump line="10" column="63" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorTipaltiSyncService.php" />
+      <jump line="22" column="48" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PayeeClient.php" />
+      <jump line="13" column="6" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="76" column="18" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="79" column="13" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="11" column="27" filename="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" />
+      <jump line="27" column="34" filename="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" />
+      <jump line="2" column="14" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorTipaltiSyncService.php" />
+      <jump line="24" column="36" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PayerClient.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
+      <jump line="24" column="57" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/TipaltiClientFactory.php" />
+      <jump line="71" column="30" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" />
+      <jump line="23" column="30" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" />
+      <jump line="64" column="24" filename="$USER_HOME$/Projects/StockBlocks/tests/framework/AbstractBaseTest.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorTipaltiSyncService.php" />
+      <jump line="562" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestContributorPayouts.php" />
+      <jump line="31" column="85" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestContributorPayouts.php" />
+      <jump line="141" column="134" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestContributorPayouts.php" />
+      <jump line="34" column="49" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" />
+      <jump line="12" column="29" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" />
+      <jump line="33" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/framework/AbstractBaseTest.php" />
+      <jump line="249" column="112" filename="$USER_HOME$/Projects/StockBlocks/tests/framework/AbstractBaseTest.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="192" column="39" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="332" column="57" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="127" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="859" column="4" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="4" column="6" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" />
+      <jump line="31" column="6" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" />
+      <jump line="67" column="6" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" />
+      <jump line="32" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="34" column="85" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorTipaltiSyncService.php" />
+      <jump line="30" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="97" column="24" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketplacePurchaseBase.php" />
+      <jump line="542" column="30" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="255" column="33" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/LimelightPaymentGateway.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/LimelightPaymentGateway.php" />
+      <jump line="85" column="26" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/LimelightPaymentGateway.php" />
+      <jump line="84" column="166" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/Helpers/Limelight/LimelightApiRequest.php" />
+      <jump line="32" column="33" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
+      <jump line="187" column="26" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" />
+      <jump line="27" column="35" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" />
+      <jump line="27" column="33" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" />
+      <jump line="14" column="15" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestEnterpriseMarketplacePurchases.php" />
+      <jump line="64" column="58" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestEnterpriseMarketplacePurchases.php" />
+      <jump line="6" column="32" filename="$USER_HOME$/Projects/StockBlocks/docker/images/webhead/Dockerfile" />
+      <jump line="7" column="4" filename="$USER_HOME$/Projects/StockBlocks/docker/images/webhead/Dockerfile" />
+      <jump line="45" column="32" filename="$USER_HOME$/Projects/StockBlocks/docker/images/webhead/Dockerfile" />
+      <jump line="52" column="28" filename="$USER_HOME$/Projects/StockBlocks/docker/images/webhead/Dockerfile" />
+      <jump line="53" column="5" filename="$USER_HOME$/Projects/StockBlocks/docker/images/webhead/Dockerfile" />
+      <jump line="59" column="29" filename="$USER_HOME$/Projects/StockBlocks/docker/images/webhead/Dockerfile" />
+      <jump line="60" column="37" filename="$USER_HOME$/Projects/StockBlocks/docker/images/webhead/Dockerfile" />
+      <jump line="49" column="24" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchApiHelperServiceBuilder/TestFeaturesBuilder.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" />
+      <jump line="14" column="43" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Routes/MvcRouter.php" />
+      <jump line="342" column="27" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Routes/MvcRouter.php" />
+      <jump line="15" column="20" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/PublicApi/Routes/AudioPublicApiRouteCollection.php" />
+      <jump line="14" column="20" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/PublicApi/Routes/VideoPublicApiRouteCollection.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/PublicApi/Routes/VideoPublicApiRouteCollection.php" />
+      <jump line="21" column="42" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/DTOs/PublicSearchApiStockItemResponseFactory.php" />
+      <jump line="24" column="27" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/DTOs/PublicApiStockItemResponseFactory.php" />
+      <jump line="44" column="11" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="24" column="41" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" />
+      <jump line="239" column="34" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="16" column="46" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="120" column="20" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="20" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketplacePurchaseBase.php" />
+      <jump line="222" column="22" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestEnterpriseMarketplacePurchases.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestEnterpriseMarketplacePurchases.php" />
+      <jump line="730" column="28" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="124" column="29" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
+      <jump line="38" column="41" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="118" column="25" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" />
+      <jump line="138" column="24" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" />
+      <jump line="150" column="43" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" />
+      <jump line="153" column="33" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" />
+      <jump line="466" column="28" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" />
+      <jump line="471" column="27" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" />
+      <jump line="10" column="46" filename="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" />
+      <jump line="73" column="12" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="127" column="8" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="50" column="58" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="124" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>false</text>
+      </register>
+      <register name="-" type="4">
+        <text>false</text>
+      </register>
+      <register name="/" type="4">
+        <text>event</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFNFQVJDSF9DQUNIRV9LRVlfUFJFRklYID0gJ3NlYXJjaDonOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFNpbWlsYXJTZWFyY2hfZ3JhcGhpY1N0b2NrUmVxdWVzdCgpIHsKCiAgICAgICAgc2VsZjo6c2V0U2l0ZUVudmlyb25tZW50KFNpdGVFbnVtOjpHUkFQSElDU1RPQ0spOwogICAgICAgIHNlbGY6OnNldFNpdGVDb25maWd1cmF0aW9uRm9yU2l0ZShTaXRlRW51bTo6R1JBUEhJQ1NUT0NLKTsKICAgICAgICAkdGhpcy0+Y29uZmlndXJlU2VydmljZXMoKTsKCiAgICAgICAgJHRoaXMtPm1vY2tBcGlSZXNwb25zZS0+c2hvdWxkUmVjZWl2ZSgnaXNWYWxpZCcpLT5hbmRSZXR1cm4odHJ1ZSk7CiAgICAgICAgJHNlYXJjaE1vZGVsT3B0aW9uc0RUTyA9ICR0aGlzLT5idWlsZEdyYXBoaWNTdG9ja01vZGVsT3B0aW9uc0RUTygpOwoKICAgICAgICAkdGhpcy0+YnVpbGRNb2NrRGVwZW5kZW5jaWVzKCRudW1iZXJPZlJlc3VsdHMgPSAyKTsKCiAgICAgICAgJHRoaXMtPm1vY2tDb252ZXJzaW9uU2VydmljZS0+c2hvdWxkUmVjZWl2ZSgnY29udmVydCcpCiAgICAgICAgICAgIC0+d2l0aCgkc2VhcmNoTW9kZWxPcHRpb25zRFRPLCBTaW1pbGFyU2VhcmNoQXBpUmVxdWVzdDo6Y2xhc3MpCiAgICAgICAgICAgIC0+YW5kUmV0dXJuKG5ldyBUZXJtU2VhcmNoQXBpUmVxdWVzdCgpKTsKCiAgICAgICAgJHJlc3VsdHMgPSAkdGhpcy0+ZXhlY3V0ZVNpbWlsYXJTZWFyY2hUZXN0KCRzZWFyY2hNb2RlbE9wdGlvbnNEVE8pOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTZWFyY2hSZXN1bHRzRFRPOjpjbGFzcywgJHJlc3VsdHMpOwoKICAgIH0K</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTZWFyY2hSZXN1bHRzRFRPOjpjbGFzcywgJHJlc3VsdHMpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTZWFyY2hSZXN1bHRzRFRPOjpjbGFzcywgJHJlc3VsdHMpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YnVpbGRNb2NrRGVwZW5kZW5jaWVzKCRudW1iZXJPZlJlc3VsdHMgPSAyKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPm1vY2tDb252ZXJzaW9uU2VydmljZS0+c2hvdWxkUmVjZWl2ZSgnY29udmVydCcpCiAgICAgICAgICAgIC0+d2l0aCgkc2VhcmNoTW9kZWxPcHRpb25zRFRPLCBTaW1pbGFyU2VhcmNoQXBpUmVxdWVzdDo6Y2xhc3MpCiAgICAgICAgICAgIC0+YW5kUmV0dXJuKG5ldyBUZXJtU2VhcmNoQXBpUmVxdWVzdCgpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>event</last-search>
+      <last-offset />
+      <last-pattern>event</last-pattern>
+      <last-replace>protected</last-replace>
+      <last-substitute>private</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>float</entry>
+        <entry>DateTime</entry>
+        <entry>int</entry>
+        <entry>tipalti</entry>
+        <entry>set</entry>
+        <entry>errorMessages</entry>
+        <entry>SietConf</entry>
+        <entry>SiteConf</entry>
+        <entry>getSiteConf</entry>
+        <entry>private</entry>
+        <entry>Video</entry>
+        <entry>test_ContributorsNotEligibleForTaxTreatyBenefits_USContributorsNotImpacted</entry>
+        <entry>account</entry>
+        <entry>success</entry>
+        <entry>cache</entry>
+        <entry>getCacheKey</entry>
+        <entry>testmar</entry>
+        <entry>nginx</entry>
+        <entry>MakeRoute</entry>
+        <entry>makeRouteWithDomain</entry>
+        <entry>similar</entry>
+        <entry>testOrganizationNotConfiguredCorrectly</entry>
+        <entry>var_dump</entry>
+        <entry>search</entry>
+        <entry>similarSearch</entry>
+        <entry>getName</entry>
+        <entry>similar-search</entry>
+        <entry>event</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>434</entry>
+        <entry>%s/\/stock-image//</entry>
+        <entry>207</entry>
+        <entry>sp</entry>
+        <entry>vsp</entry>
+        <entry>%s/double/float/</entry>
+        <entry>s/Message/Code/g</entry>
+        <entry>s/errorCode/b/g</entry>
+        <entry>s/b/i/g</entry>
+        <entry>s/i/d/g</entry>
+        <entry>s/d/s/g</entry>
+        <entry>q</entry>
+        <entry>%s/public function \(set.*\)$/private function \1/</entry>
+        <entry>%s/@see/@link/</entry>
+        <entry>%s/private/protected</entry>
+        <entry>m-2</entry>
+        <entry>210</entry>
+        <entry>49</entry>
+        <entry>99</entry>
+        <entry>76]</entry>
+        <entry>47</entry>
+        <entry>76</entry>
+        <entry>755</entry>
+        <entry>758</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed SPACE</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

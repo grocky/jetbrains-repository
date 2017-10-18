@@ -1,0 +1,109 @@
+<keymap version="1" name="Rocky-keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoBookmark0">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+    <keyboard-shortcut first-keystroke="alt numpad0" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="alt numpad1" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+    <keyboard-shortcut first-keystroke="alt numpad2" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="alt numpad3" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="VimWindowClose">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="VimWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="VimWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="VimWindowNext">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="VimWindowOnly">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="VimWindowPrev">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="VimWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="VimWindowSplitHorizontal">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="s" />
+  </action>
+  <action id="VimWindowSplitVertical">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="v" />
+  </action>
+  <action id="VimWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="org.moreunit.actions.jump">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+</keymap>
