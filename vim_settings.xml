@@ -2728,8 +2728,8 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508342338165">
-        <mark key="'" line="62" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508342499885">
+        <mark key="'" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/BaseServiceFactory.php" timestamp="1431206288992">
         <mark key="[" line="11" column="50" />
@@ -4137,7 +4137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/EntityServiceFactoryInterface.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteInProductMessageNamesInterface.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfiguration.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfigurationInterface.php" />
@@ -4237,6 +4236,7 @@
       <jump line="193" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Controllers/VideoSearchController.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
+      <jump line="29" column="46" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
