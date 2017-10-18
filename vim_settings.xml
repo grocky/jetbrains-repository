@@ -1000,7 +1000,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1433083900085">
+      <file name="/Dummy.txt" timestamp="1508358277095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3442,6 +3442,13 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/wasabi/server/components/external-api-integrations/ContentImportService.js" timestamp="1508358471165">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/customerio/Api/Read/Customer.php" timestamp="1432177340357">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="5" column="0" />
@@ -4077,6 +4084,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1508357274748" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -4137,9 +4145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteInProductMessageNamesInterface.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfiguration.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfigurationInterface.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="4" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
@@ -4237,6 +4242,9 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="29" column="46" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
+      <jump line="34" column="6" filename="$USER_HOME$/Projects/wasabi/server/components/external-api-integrations/ContentImportService.js" />
+      <jump line="149" column="46" filename="$USER_HOME$/Projects/wasabi/server/components/external-api-integrations/ContentImportService.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/wasabi/server/components/external-api-integrations/ContentImportService.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4282,7 +4290,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>144</text>
       </register>
     </registers>
     <search>
@@ -4338,6 +4346,7 @@
         <entry>755</entry>
         <entry>758</entry>
         <entry>w</entry>
+        <entry>144</entry>
       </history-cmd>
       <history-expr />
       <history-input />
