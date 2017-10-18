@@ -10,14 +10,6 @@
       <PhpCSConfiguration max_messages_per_file="100" timeout="10000" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/bin/php" id="1ab56f4a-71a0-4909-b866-14142273784d" name="Local" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://rocky@74.205.86.155:22/usr/bin/php" id="727ae5fb-f701-4be6-8677-87d32aed62d6" name="Staging PHP" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="74.205.86.155" PORT="22" USERNAME="rocky" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/rocky/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Staging PHP">
