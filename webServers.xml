@@ -1,17 +1,7 @@
 <application>
   <component name="WebServers">
-    <option name="servers">
-      <webServer id="a665a44e-8c8d-436f-9d90-a4b4f83d1af0" name="reston-radiology-vagrant" url="http://dev.restonradiology.com">
-        <fileTransfer mountedRoot="$USER_HOME$/Projects/reston-radiology/public" accessType="MOUNT" />
-      </webServer>
-      <webServer id="01117a51-d679-4d2e-9173-ab20603c6ff6" name="localhost" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="6b0d29b1-6c82-4c5f-b7d7-20bbd7c363f9" name="vagrant" url="http://videoblocks.local">
-        <fileTransfer host="33.33.33.33" port="22" rootFolder="/home/vagrant" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
   </component>
 </application>

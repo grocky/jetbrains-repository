@@ -1,30 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
-      <mapping pattern="migrate" type="Bash" />
-      <mapping pattern="pre-flow-hotfix-finish" type="Bash" />
-      <mapping pattern="update_hosts" type="Bash" />
-      <mapping pattern="push" type="Bash" />
-      <mapping pattern="rollback" type="Bash" />
-      <mapping pattern="pre-push" type="Bash" />
-      <mapping pattern="asset-processor" type="Bash" />
-      <mapping pattern="post-checkout" type="Bash" />
-      <mapping ext="mp4" type="Native" />
-      <mapping pattern="flashcrystal" type="PHP" />
-      <mapping pattern="videoBlocksAngularAssetConfig.json" type="PLAIN_TEXT" />
-      <mapping pattern="post-foo" type="PLAIN_TEXT" />
-      <mapping pattern="Hello" type="PLAIN_TEXT" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
+    <setting name="fileTypeChangedCounter" value="10" />
   </component>
 </application>

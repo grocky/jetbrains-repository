@@ -1,6 +1,3 @@
 <application>
-  <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings TextEnabled="true" />
-  </component>
-  <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="true" autoLinks="true" wikiLinks="false" tables="true" definitions="true" fencedCodeBlocks="true" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="true" />
+  <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="false" autoLinks="false" wikiLinks="false" tables="false" definitions="false" fencedCodeBlocks="false" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="false" />
 </application>

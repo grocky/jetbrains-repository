@@ -1,6 +1,12 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Web Deployment: Remote Host" />
+    <toolWindow group="PHP Debugger" />
+    <toolWindow group="Database Navigator" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Vcs Messages" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="LiveEdit" />
   </component>
 </application>
