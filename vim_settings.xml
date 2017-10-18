@@ -1829,9 +1829,12 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" timestamp="1507981219296">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" timestamp="1508343709725">
         <mark key="'" line="10" column="46" />
-        <mark key="^" line="16" column="62" />
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="7" />
+        <mark key="^" line="51" column="7" />
+        <mark key="." line="51" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/MemberProfileViewModel.php" timestamp="1431216522178">
         <mark key="[" line="55" column="28" />
@@ -4077,6 +4080,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1508343243753" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
