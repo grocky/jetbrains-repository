@@ -5,13 +5,25 @@
       <mark key="M" line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceListenerCollection.php" timestamp="1508265679994" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1506893046463">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="28" column="55" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" timestamp="1507752188991">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcEventLoggingData.php" timestamp="1508263650348" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/PublicApi/Routes/VideoPublicApiRouteCollection.php" timestamp="1507383885372">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PayerClient.php" timestamp="1506885249803">
         <mark key="'" line="23" column="36" />
         <mark key="[" line="4" column="0" />
@@ -25,126 +37,12 @@
         <mark key="^" line="50" column="11" />
         <mark key="." line="50" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" timestamp="1507863196983">
-        <mark key="'" line="122" column="29" />
-        <mark key="[" line="82" column="52" />
-        <mark key="]" line="83" column="39" />
-        <mark key="^" line="83" column="39" />
-        <mark key="." line="83" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" timestamp="1507750996661">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="9" />
-        <mark key="." line="41" column="9" />
-        <mark key="^" line="41" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/TipaltiClientFactory.php" timestamp="1506892784623">
-        <mark key="'" line="23" column="57" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="23" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1506977028493">
-        <mark key="'" line="27" column="35" />
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="41" />
-        <mark key="^" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiApiResponse.php" timestamp="1506882935973">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="10" column="165" />
-        <mark key="]" line="10" column="167" />
-        <mark key="." line="10" column="167" />
-        <mark key="^" line="10" column="167" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/config/common.yml" timestamp="1508265831433">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="226" column="15" />
         <mark key="]" line="226" column="18" />
         <mark key="." line="226" column="18" />
         <mark key="^" line="226" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketplacePurchaseBase.php" timestamp="1507859317468">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/PublicApi/Routes/GraphicPublicApiRouteCollection.php" timestamp="1507383871341">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171002203457_alter_contributor_payouts_with_nullable_did_successfully_process.php" timestamp="1507212318592">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/PublicApi/Routes/VideoPublicApiRouteCollection.php" timestamp="1507383885372">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" timestamp="1507981219296">
-        <mark key="'" line="10" column="46" />
-        <mark key="^" line="16" column="62" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestContributorPayouts.php" timestamp="1506909990447">
-        <mark key="'" line="141" column="134" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="41" />
-        <mark key="^" line="32" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/Helpers/Limelight/LimelightApiRequest.php" timestamp="1506963031949">
-        <mark key="'" line="84" column="166" />
-        <mark key="[" line="84" column="167" />
-        <mark key="]" line="84" column="173" />
-        <mark key="." line="84" column="173" />
-        <mark key="^" line="84" column="173" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" timestamp="1506885481843">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="51" />
-        <mark key="^" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Toasters/ViewModels/CrossSellToasterWidgetBodyViewModel.php" timestamp="1507833865188">
-        <mark key="[" line="48" column="18" />
-        <mark key="]" line="48" column="39" />
-        <mark key="^" line="48" column="39" />
-        <mark key="." line="48" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171007125821_public_api_add_get_stock_item_endpoint.php" timestamp="1507381447530">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1506893046463">
-        <mark key="'" line="19" column="30" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="28" column="55" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171007125837_public_api_add_get_stock_item_endpoint_for_seed_user.php" timestamp="1507382060700">
         <mark key="[" line="24" column="39" />
@@ -171,23 +69,59 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutCalculationService.php" timestamp="1507862757813" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/search/services/SearchServiceTest.php" timestamp="1507981219296">
+        <mark key="'" line="10" column="46" />
+        <mark key="^" line="16" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketplacePurchaseBase.php" timestamp="1507859317468">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestContributorPayouts.php" timestamp="1506909990447">
+        <mark key="'" line="141" column="134" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="41" />
+        <mark key="." line="32" column="41" />
+        <mark key="^" line="32" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Api/Routes/PublicApiRouteCollection.php" timestamp="1507384011508">
         <mark key="[" line="43" column="11" />
         <mark key="]" line="43" column="35" />
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" timestamp="1507863196983">
+        <mark key="'" line="122" column="29" />
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="83" column="39" />
+        <mark key="^" line="83" column="39" />
+        <mark key="." line="83" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConfiguration.php" timestamp="1507383763372">
         <mark key="[" line="209" column="0" />
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/PublicApi/Routes/GraphicPublicApiRouteCollection.php" timestamp="1507383871341">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Helpers/PublicApiFunctionNames.php" timestamp="1507382117493">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="39" />
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" timestamp="1507750996661">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="9" />
+        <mark key="." line="41" column="9" />
+        <mark key="^" line="41" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" timestamp="1507861273686">
         <mark key="[" line="6" column="0" />
@@ -199,6 +133,23 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508341841487">
+        <mark key="'" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/Helpers/Limelight/LimelightApiRequest.php" timestamp="1506963031949">
+        <mark key="'" line="84" column="166" />
+        <mark key="[" line="84" column="167" />
+        <mark key="]" line="84" column="173" />
+        <mark key="." line="84" column="173" />
+        <mark key="^" line="84" column="173" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" timestamp="1506885481843">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="51" />
+        <mark key="^" line="26" column="51" />
+        <mark key="." line="26" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/PublicApi/Routes/AudioPublicApiRouteCollection.php" timestamp="1507383850321">
         <mark key="'" line="13" column="20" />
@@ -213,7 +164,13 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/MarketplaceFactory.php" timestamp="1507859534991" />
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/TipaltiClientFactory.php" timestamp="1506892784623">
+        <mark key="'" line="23" column="57" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="23" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" timestamp="1507819414408">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="26" column="0" />
@@ -221,9 +178,51 @@
         <mark key="^" line="67" column="6" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1508341722312" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1506977028493">
+        <mark key="'" line="27" column="35" />
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Toasters/ViewModels/CrossSellToasterWidgetBodyViewModel.php" timestamp="1507833865188">
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="39" />
+        <mark key="^" line="48" column="39" />
+        <mark key="." line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiApiResponse.php" timestamp="1506882935973">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="10" column="165" />
+        <mark key="]" line="10" column="167" />
+        <mark key="." line="10" column="167" />
+        <mark key="^" line="10" column="167" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171002203457_alter_contributor_payouts_with_nullable_did_successfully_process.php" timestamp="1507212318592">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171007125821_public_api_add_get_stock_item_endpoint.php" timestamp="1507381447530">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="36" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
       <jump line="217" column="30" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
       <jump line="392" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
       <jump line="394" column="40" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
@@ -323,6 +322,7 @@
       <jump line="50" column="58" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
       <jump line="124" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,18 +378,10 @@
       <last-replace>protected</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>float</entry>
-        <entry>DateTime</entry>
-        <entry>int</entry>
-        <entry>tipalti</entry>
-        <entry>set</entry>
-        <entry>errorMessages</entry>
-        <entry>SietConf</entry>
-        <entry>SiteConf</entry>
         <entry>getSiteConf</entry>
         <entry>private</entry>
         <entry>Video</entry>
@@ -412,12 +404,6 @@
         <entry>event</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>434</entry>
-        <entry>%s/\/stock-image//</entry>
-        <entry>207</entry>
-        <entry>sp</entry>
-        <entry>vsp</entry>
         <entry>%s/double/float/</entry>
         <entry>s/Message/Code/g</entry>
         <entry>s/errorCode/b/g</entry>
