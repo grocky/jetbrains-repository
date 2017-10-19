@@ -1283,11 +1283,10 @@
         <mark key="^" line="110" column="59" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Enterprise/OrganizationInvoicesEntityService.php" timestamp="1508418068264">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Enterprise/OrganizationInvoicesEntityService.php" timestamp="1508419285839">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Stock/StockItemLargePreviewDownloadsEntityService.php" timestamp="1432258804025">
         <mark key="[" line="7" column="0" />
@@ -4249,8 +4248,8 @@
       <jump line="29" column="46" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjpjcmVhdGVJbnN0YW5jZU9mQXNzb2NpYXRlZEVudGl0eUZyb21SYXdEQlJlc3VsdCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJvdGVjdGVkIA==</text>
@@ -4261,35 +4260,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVBbmRFeGVjdXRlU2VhcmNoKFNlYXJjaE1vZGVsUmVxdWVzdFBhcmFtZXRlcnMgJHJlcXVlc3RQYXJhbWV0ZXJzID0gbnVsbCkgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjpjcmVhdGVJbnN0YW5jZU9mQXNzb2NpYXRlZEVudGl0eUZyb21SYXdEQlJlc3VsdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlQW5kRXhlY3V0ZVNlYXJjaChTZWFyY2hNb2RlbFJlcXVlc3RQYXJhbWV0ZXJzICRyZXF1ZXN0UGFyYW1ldGVycyA9IG51bGwpIHsKCiAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LCA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGZhZGYKICAgICAgYWRmCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGZhZGYKICAgICAgYWRmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
