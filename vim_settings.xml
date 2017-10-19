@@ -3914,12 +3914,12 @@
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" timestamp="1508158563887">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="50" column="60" />
-        <mark key="]" line="50" column="58" />
-        <mark key="." line="50" column="58" />
-        <mark key="^" line="50" column="58" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" timestamp="1508429203879">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="126" column="20" />
+        <mark key="]" line="126" column="27" />
+        <mark key="." line="126" column="27" />
+        <mark key="^" line="126" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/Views/AudioPlayerWidgetView.php" timestamp="1432254705112">
         <mark key="'" line="3" column="0" />
@@ -4146,7 +4146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteInProductMessageNamesInterface.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfiguration.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfigurationInterface.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
@@ -4246,16 +4245,17 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="29" column="46" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
+      <jump line="33" column="12" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpjcmVhdGVJbnN0YW5jZU9mQXNzb2NpYXRlZEVudGl0eUZyb21SYXdEQlJlc3VsdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>join</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+        <text>join</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>similarSearch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVBbmRFeGVjdXRlU2VhcmNoKFNlYXJjaE1vZGVsUmVxdWVzdFBhcmFtZXRlcnMgJHJlcXVlc3RQYXJhbWV0ZXJzID0gbnVsbCkgewo=</text>
@@ -4295,13 +4295,13 @@
       </register>
     </registers>
     <search>
-      <last-search>Note</last-search>
+      <last-search>similarSearch</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>similarSearch</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4321,10 +4321,10 @@
         <entry>testOrganizationNotConfiguredCorrectly</entry>
         <entry>var_dump</entry>
         <entry>search</entry>
-        <entry>similarSearch</entry>
         <entry>getName</entry>
         <entry>similar-search</entry>
         <entry>event</entry>
+        <entry>similarSearch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/double/float/</entry>
