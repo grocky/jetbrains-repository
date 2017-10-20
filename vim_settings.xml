@@ -2159,11 +2159,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" timestamp="1508520337113">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" timestamp="1508522580120">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="99" column="52" />
+        <mark key="]" line="99" column="52" />
+        <mark key="." line="99" column="52" />
         <mark key="^" line="28" column="133" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/StockDetails/ViewModels/VideoStockDetailsKeywordViewModel.php" timestamp="1432258467521">
@@ -4144,10 +4144,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGRhdGEgPSA=</text>
+        <text>, $handleEvent</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGRhdGEgPSA=</text>
+        <text>, $handleEvent</text>
       </register>
       <register name="/" type="4">
         <text>Listener</text>
@@ -4156,34 +4156,34 @@
         <text>SiteFunctions::generateGUID();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlVmlld0V2ZW50OjpEQVRFX1RJTUU7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgVmlkZW9TZWFyY2hMaXN0ZW5lckNvbGxlY3Rpb24gJGxpc3RlbmVyICovCiAgICAgICAgJGxpc3RlbmVyID0gJHRoaXMtPnNlYXJjaExpc3RlbmVyQ29sbGVjdGlvbjsKICAgICAgICAkaGFuZGxlRXZlbnQgPSBmdW5jdGlvbiAoJGV2ZW50KSB1c2UgKCRsaXN0ZW5lcikgewogICAgICAgICAgICByZXR1cm4gJGxpc3RlbmVyLT5oYW5kbGVUYWJDbGlja2VkRXZlbnQoJGV2ZW50KTsKICAgICAgICB9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcRXZlbnRNb2RlbHNcUGFnZUV2ZW50c1xQYWdlVmlld0V2ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBQYWdlVmlld0V2ZW50OjpEQVRFX1RJTUU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcRXZlbnRNb2RlbHNcUGFnZUV2ZW50c1xQYWdlVmlld0V2ZW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcTGlzdGVuZXJDb2xsZWN0aW9uc1xTZWFyY2hMaXN0ZW5lckNvbGxlY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEZsdWVudFxMb2dnZXJcTG9nZ2VySW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcTGlzdGVuZXJDb2xsZWN0aW9uc1xTZWFyY2hMaXN0ZW5lckNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">dXNlIEZsdWVudFxMb2dnZXJcTG9nZ2VySW50ZXJmYWNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnNlYXJjaExpc3RlbmVyQ29sbGVjdGlvbi0+c2V0Rmx1ZW50TG9nZ2VyKCk7Cg==</text>
+        <text encoding="base64">dXNlIEZsdWVudFxMb2dnZXJcTG9nZ2VySW50ZXJmYWNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnNlYXJjaExpc3RlbmVyQ29sbGVjdGlvbi0+c2V0Rmx1ZW50TG9nZ2VyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
