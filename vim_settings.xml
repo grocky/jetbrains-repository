@@ -1283,11 +1283,6 @@
         <mark key="^" line="110" column="59" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Enterprise/OrganizationInvoicesEntityService.php" timestamp="1508419285839">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Stock/StockItemLargePreviewDownloadsEntityService.php" timestamp="1432258804025">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -2736,8 +2731,11 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508342499885">
-        <mark key="'" line="29" column="46" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508512657177">
+        <mark key="'" line="32" column="46" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/BaseServiceFactory.php" timestamp="1431206288992">
         <mark key="[" line="11" column="50" />
@@ -4248,11 +4246,11 @@
       <jump line="33" column="12" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>join</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>join</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>similarSearch</text>
@@ -4261,34 +4259,34 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVBbmRFeGVjdXRlU2VhcmNoKFNlYXJjaE1vZGVsUmVxdWVzdFBhcmFtZXRlcnMgJHJlcXVlc3RQYXJhbWV0ZXJzID0gbnVsbCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpjcmVhdGVJbnN0YW5jZU9mQXNzb2NpYXRlZEVudGl0eUZyb21SYXdEQlJlc3VsdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjp0cmlnZ2VyRXZlbnQoJGV2ZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlQW5kRXhlY3V0ZVNlYXJjaChTZWFyY2hNb2RlbFJlcXVlc3RQYXJhbWV0ZXJzICRyZXF1ZXN0UGFyYW1ldGVycyA9IG51bGwpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6dHJpZ2dlckV2ZW50KCRldmVudCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjp0cmlnZ2VyRXZlbnQoJGV2ZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpjcmVhdGVJbnN0YW5jZU9mQXNzb2NpYXRlZEVudGl0eUZyb21SYXdEQlJlc3VsdCgpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGZhZGYKICAgICAgYWRmCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlQW5kRXhlY3V0ZVNlYXJjaChTZWFyY2hNb2RlbFJlcXVlc3RQYXJhbWV0ZXJzICRyZXF1ZXN0UGFyYW1ldGVycyA9IG51bGwpIHsKCiAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
