@@ -1,6 +1,9 @@
 <application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
-    <option name="phpCodeSnifferPath" value="/usr/local/bin/phpcs" />
+    <phpcs_settings>
+      <PhpCSConfiguration tool_path="/usr/local/bin/phpcs" />
+    </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
