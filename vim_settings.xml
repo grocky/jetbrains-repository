@@ -2159,12 +2159,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" timestamp="1508527311070">
-        <mark key="'" line="115" column="56" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" timestamp="1508528835334">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
-        <mark key="^" line="100" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/StockDetails/ViewModels/VideoStockDetailsKeywordViewModel.php" timestamp="1432258467521">
         <mark key="[" line="2" column="10" />
@@ -2981,7 +2980,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventServiceMediator.php" timestamp="1508524530966" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Admin/Services/CustomerIOHealthCheckService.php" timestamp="1432715777006">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="48" />
@@ -3976,6 +3974,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1508528223958" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -3989,7 +3988,6 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Events/ListenerCollections/VideoSearchListenerCollection.php" timestamp="1508514194313" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponse.php" timestamp="1432390863446">
         <mark key="'" line="4" column="22" />
         <mark key="[" line="35" column="0" />
@@ -4043,7 +4041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/PaginationWidgetViewModel.php" />
       <jump line="233" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/PaginationWidgetViewModel.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/PaginationPageElement.php" />
       <jump line="232" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/PaginationWidgetViewModel.php" />
@@ -4143,58 +4140,59 @@
       <jump line="115" column="56" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="296" column="4" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWVzc2FnZSA9IFtdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IkFjdHVhbCBtZXNzYWdlOiB7JHRoaXMtPm1lc3NhZ2V9Ig==</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>test_06</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2RhdGEnLCAkdGhpcy0+bWVzc2FnZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>, $return = true</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0aW9uID0gID8/IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWVzc2FnZSA9IFtdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICQK</text>
+        <text encoding="base64">ICAgICAgICAkYWN0aW9uID0gID8/IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VhcmNoTGlzdGVuZXJDb2xsZWN0aW9uLT5zdWJzY3JpYmVUb0V2ZW50cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcTGlzdGVuZXJDb2xsZWN0aW9uc1xFdmVudExvZ2dpbmdMaXN0ZW5lckNvbGxlY3Rpb247Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRzZWdtZW50Q29sbGVjdGlvbiA9IG5ldyBTZWdtZW50TGlzdGVuZXJDb2xsZWN0aW9uKCk7Ci8vICAgICAgICAkc2VnbWVudENvbGxlY3Rpb24tPnN1YnNjcmliZVRvRXZlbnRzKCk7Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXFZpZGVvQmxvY2tzXEV2ZW50c1xMaXN0ZW5lckNvbGxlY3Rpb25zXFZpZGVvU2VhcmNoTGlzdGVuZXJDb2xsZWN0aW9uOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zZWFyY2hMaXN0ZW5lckNvbGxlY3Rpb24tPnN1YnNjcmliZVRvRXZlbnRzKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VhcmNoTGlzdGVuZXJDb2xsZWN0aW9uLT5zdWJzY3JpYmVUb0V2ZW50cygpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcTGlzdGVuZXJDb2xsZWN0aW9uc1xFdmVudExvZ2dpbmdMaXN0ZW5lckNvbGxlY3Rpb247Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRzZWdtZW50Q29sbGVjdGlvbiA9IG5ldyBTZWdtZW50TGlzdGVuZXJDb2xsZWN0aW9uKCk7Ci8vICAgICAgICAkc2VnbWVudENvbGxlY3Rpb24tPnN1YnNjcmliZVRvRXZlbnRzKCk7Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXFZpZGVvQmxvY2tzXEV2ZW50c1xMaXN0ZW5lckNvbGxlY3Rpb25zXFZpZGVvU2VhcmNoTGlzdGVuZXJDb2xsZWN0aW9uOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zZWFyY2hMaXN0ZW5lckNvbGxlY3Rpb24tPnN1YnNjcmliZVRvRXZlbnRzKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VhcmNoTGlzdGVuZXJDb2xsZWN0aW9uLT5zdWJzY3JpYmVUb0V2ZW50cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>event</last-search>
+      <last-search>test_06</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>test_06</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -4202,19 +4200,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getSiteConf</entry>
-        <entry>private</entry>
-        <entry>Video</entry>
-        <entry>test_ContributorsNotEligibleForTaxTreatyBenefits_USContributorsNotImpacted</entry>
-        <entry>account</entry>
-        <entry>success</entry>
-        <entry>cache</entry>
-        <entry>getCacheKey</entry>
-        <entry>testmar</entry>
-        <entry>nginx</entry>
-        <entry>MakeRoute</entry>
-        <entry>makeRouteWithDomain</entry>
-        <entry>similar</entry>
         <entry>testOrganizationNotConfiguredCorrectly</entry>
         <entry>var_dump</entry>
         <entry>search</entry>
@@ -4231,13 +4216,12 @@
         <entry>subscribeToEvents</entry>
         <entry>trigger</entry>
         <entry>test_07</entry>
-        <entry>test_06</entry>
         <entry>eventLog</entry>
         <entry>Event</entry>
         <entry>event</entry>
+        <entry>test_06</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/double/float/</entry>
         <entry>s/Message/Code/g</entry>
         <entry>s/errorCode/b/g</entry>
         <entry>s/b/i/g</entry>
