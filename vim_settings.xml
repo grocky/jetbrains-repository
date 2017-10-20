@@ -1658,7 +1658,8 @@
         <mark key="^" line="54" column="36" />
         <mark key="." line="54" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiRequest.php" timestamp="1432390486617">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiRequest.php" timestamp="1508512718673">
+        <mark key="'" line="16" column="20" />
         <mark key="[" line="2" column="53" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
@@ -2359,6 +2360,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" timestamp="1508512713932">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Api/ApiStockItemDownloadAttributes.php" timestamp="1431047913676">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="16" column="51" />
@@ -2731,11 +2737,12 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508512657177">
-        <mark key="'" line="32" column="46" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508513124323">
+        <mark key="'" line="33" column="46" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/BaseServiceFactory.php" timestamp="1431206288992">
         <mark key="[" line="11" column="50" />
@@ -2917,6 +2924,9 @@
         <mark key="]" line="125" column="0" />
         <mark key="^" line="125" column="1" />
         <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Search/RestApiControllers/GraphicSearchRestApiController_v1.php" timestamp="1508512906921">
+        <mark key="'" line="107" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetFileViewModel.php" timestamp="1432687469913">
         <mark key="[" line="6" column="15" />
@@ -3247,6 +3257,13 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcEventLoggingData.php" timestamp="1508513052708">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="54" column="38" />
+        <mark key="." line="54" column="38" />
+        <mark key="^" line="54" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Popup/JoinPopupWidget.php" timestamp="1431119926742">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3316,12 +3333,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" timestamp="1432164660778">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="30" column="39" />
-        <mark key="." line="30" column="39" />
-        <mark key="^" line="30" column="39" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" timestamp="1508512990405">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="62" column="26" />
+        <mark key="." line="62" column="26" />
+        <mark key="^" line="62" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/ViewModels/BaseViewModel.php" timestamp="1432226699109">
         <mark key="'" line="10" column="6" />
@@ -4117,6 +4134,12 @@
         <mark key="^" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcLoggableEventInterface.php" timestamp="1508512965715">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Pixels/ReferralCandyPopupWidget.php" timestamp="1431246404312">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="10" column="38" />
@@ -4144,12 +4167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfiguration.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfigurationInterface.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
-      <jump line="4" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
-      <jump line="73" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNamesInterface.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocator.php" />
       <jump line="34" column="49" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocator.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocatorInterface.php" />
@@ -4244,58 +4261,64 @@
       <jump line="62" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="29" column="46" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="33" column="12" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
+      <jump line="16" column="20" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiRequest.php" />
+      <jump line="107" column="19" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Search/RestApiControllers/GraphicSearchRestApiController_v1.php" />
+      <jump line="96" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
+      <jump line="27" column="13" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcEventLoggingData.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>similarSearch</text>
+        <text>uuid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVBbmRFeGVjdXRlU2VhcmNoKFNlYXJjaE1vZGVsUmVxdWVzdFBhcmFtZXRlcnMgJHJlcXVlc3RQYXJhbWV0ZXJzID0gbnVsbCkgewo=</text>
+      <register name="0" type="4">
+        <text>SiteFunctions::generateGUID();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VXVpZCgpIG1ldGhvZC4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjp0cmlnZ2VyRXZlbnQoJGV2ZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6dHJpZ2dlckV2ZW50KCRldmVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjp0cmlnZ2VyRXZlbnQoJGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpjcmVhdGVJbnN0YW5jZU9mQXNzb2NpYXRlZEVudGl0eUZyb21SYXdEQlJlc3VsdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjp0cmlnZ2VyRXZlbnQoJGV2ZW50KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6dHJpZ2dlckV2ZW50KCRldmVudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlQW5kRXhlY3V0ZVNlYXJjaChTZWFyY2hNb2RlbFJlcXVlc3RQYXJhbWV0ZXJzICRyZXF1ZXN0UGFyYW1ldGVycyA9IG51bGwpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjp0cmlnZ2VyRXZlbnQoJGV2ZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>similarSearch</last-search>
+      <last-search>uuid</last-search>
       <last-offset />
-      <last-pattern>similarSearch</last-pattern>
+      <last-pattern>uuid</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -4323,6 +4346,7 @@
         <entry>similar-search</entry>
         <entry>event</entry>
         <entry>similarSearch</entry>
+        <entry>uuid</entry>
       </history-search>
       <history-cmd>
         <entry>%s/double/float/</entry>
@@ -4344,6 +4368,7 @@
         <entry>76</entry>
         <entry>755</entry>
         <entry>758</entry>
+        <entry>A</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
