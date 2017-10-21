@@ -2040,6 +2040,9 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" timestamp="1508613029346">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/mailchimp/Mailchimp/Exceptions.php" timestamp="1431273455360">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -4077,6 +4080,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1508612786083" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -4137,11 +4141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/EntityServiceFactoryInterface.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteInProductMessageNamesInterface.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfiguration.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteNoFreeTrialConfigurationInterface.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="4" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNamesInterface.php" />
@@ -4237,10 +4236,15 @@
       <jump line="193" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Controllers/VideoSearchController.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
+      <jump line="28" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
+      <jump line="7" column="25" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
+      <jump line="49" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJImRyYXdfaGFyZF9kaXZpZGVyIjogZmFsc2UK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJvdGVjdGVkIA==</text>
@@ -4251,35 +4255,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVBbmRFeGVjdXRlU2VhcmNoKFNlYXJjaE1vZGVsUmVxdWVzdFBhcmFtZXRlcnMgJHJlcXVlc3RQYXJhbWV0ZXJzID0gbnVsbCkgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJImRyYXdfaGFyZF9kaXZpZGVyIjogZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlQW5kRXhlY3V0ZVNlYXJjaChTZWFyY2hNb2RlbFJlcXVlc3RQYXJhbWV0ZXJzICRyZXF1ZXN0UGFyYW1ldGVycyA9IG51bGwpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">CQkJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZV9naXRzdGF0dXMuZ2l0c3RhdHVzIiwKCQkJCQkJInByaW9yaXR5IjogNDAsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICAgICAgICJmb3JtYXQiOiAizprOkc6oIgoJCQkJfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGZhZGYKICAgICAgYWRmCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlQW5kRXhlY3V0ZVNlYXJjaChTZWFyY2hNb2RlbFJlcXVlc3RQYXJhbWV0ZXJzICRyZXF1ZXN0UGFyYW1ldGVycyA9IG51bGwpIHsKCiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LCA=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
