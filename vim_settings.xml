@@ -1063,11 +1063,12 @@
         <mark key="^" line="39" column="98" />
         <mark key="." line="39" column="98" />
       </file>
-      <file name="$USER_HOME$/dotfiles/config/powerline/themes/tmux/default.json" timestamp="1508636774289">
+      <file name="$USER_HOME$/dotfiles/config/powerline/themes/tmux/default.json" timestamp="1508689167177">
         <mark key="'" line="6" column="7" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Api/Controllers/VideoContributors/_VideoContributorsApiController_addOrUpdateContributorProfile.php" timestamp="1432174337894">
         <mark key="[" line="62" column="31" />
@@ -2046,8 +2047,12 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" timestamp="1508613029346">
-        <mark key="'" line="49" column="0" />
+      <file name="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" timestamp="1508689300356">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/mailchimp/Mailchimp/Exceptions.php" timestamp="1431273455360">
         <mark key="[" line="2" column="0" />
@@ -4147,7 +4152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNamesInterface.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocator.php" />
       <jump line="34" column="49" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocator.php" />
@@ -4247,49 +4251,50 @@
       <jump line="7" column="25" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
       <jump line="49" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
       <jump line="6" column="7" filename="$USER_HOME$/dotfiles/config/powerline/themes/tmux/default.json" />
+      <jump line="19" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24uYmF0LmJhdHRlcnkiCgkJCX0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVBbmRFeGVjdXRlU2VhcmNoKFNlYXJjaE1vZGVsUmVxdWVzdFBhcmFtZXRlcnMgJHJlcXVlc3RQYXJhbWV0ZXJzID0gbnVsbCkgewo=</text>
+        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKCQkJCSJuYW1lIjogImRhdGUiLAoJCQkJImFyZ3MiOiB7CgkJCQkJImZvcm1hdCI6ICIlYSAlYiAlZCIsCgkJCQkJImlzdGltZSI6IGZhbHNlCgkJCQl9CgkJCX0sCgkJCXsKCQkJCSJmdW5jdGlvbiI6ICJwb3dlcmxpbmUuc2VnbWVudHMuY29tbW9uLnRpbWUuZGF0ZSIsCgkJCQkibmFtZSI6ICJ0aW1lIiwKCQkJCSJhcmdzIjogewoJCQkJCSJmb3JtYXQiOiAiJUk6JU0gJXAiLAoJCQkJCSJpc3RpbWUiOiB0cnVlCgkJCQl9CgkJCX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24uYmF0LmJhdHRlcnkiCgkJCX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgIm5hbWUiOiAiZGF0ZSIsCiAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICJmb3JtYXQiOiAiJWEgJWIgJWQiLAogICAgICAgICAgICAgICJpc3RpbWUiOiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgIm5hbWUiOiAidGltZSIsCiAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICJmb3JtYXQiOiAiJWEgJWIgJWQiLAogICAgICAgICAgICAgICJpc3RpbWUiOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQkJCSJvbmx5X2lmX3NzaCI6IHRydWUK</text>
+        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24uYmF0LmJhdHRlcnkiCgkJCX0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24ubmV0Lmhvc3RuYW1lIgoJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJImRyYXdfaGFyZF9kaXZpZGVyIjogZmFsc2UK</text>
+        <text encoding="base64">Ly8JCQkJCSJvbmx5X2lmX3NzaCI6IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZV9naXRzdGF0dXMuZ2l0c3RhdHVzIiwKCQkJCQkJInByaW9yaXR5IjogNDAsCg==</text>
+        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24ubmV0Lmhvc3RuYW1lIgoJCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJImRyYXdfaGFyZF9kaXZpZGVyIjogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZV9naXRzdGF0dXMuZ2l0c3RhdHVzIiwKCQkJCQkJInByaW9yaXR5IjogNDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICAgICAgICJmb3JtYXQiOiAizprOkc6oIgoJCQkJfQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
