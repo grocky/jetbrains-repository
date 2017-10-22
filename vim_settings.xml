@@ -1418,11 +1418,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/config/common.yml" timestamp="1508528071897">
-        <mark key="'" line="296" column="4" />
-        <mark key="[" line="226" column="15" />
-        <mark key="]" line="226" column="19" />
-        <mark key="." line="226" column="19" />
-        <mark key="^" line="226" column="19" />
+        <mark key="'" line="303" column="4" />
+        <mark key="[" line="233" column="15" />
+        <mark key="]" line="233" column="19" />
+        <mark key="." line="233" column="19" />
+        <mark key="^" line="233" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronRevenueEstimatesJob.php" timestamp="1431223333885">
         <mark key="[" line="20" column="48" />
@@ -2105,7 +2105,7 @@
         <mark key="." line="51" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/MarketplaceEvents/MarketplaceEventService.php" timestamp="1508514293134">
-        <mark key="'" line="47" column="115" />
+        <mark key="'" line="41" column="115" />
         <mark key="[" line="38" column="56" />
         <mark key="]" line="38" column="62" />
         <mark key="^" line="38" column="62" />
@@ -2161,9 +2161,6 @@
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" timestamp="1508528835334">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/StockDetails/ViewModels/VideoStockDetailsKeywordViewModel.php" timestamp="1432258467521">
         <mark key="[" line="2" column="10" />
@@ -2286,13 +2283,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" timestamp="1508525823712">
-        <mark key="'" line="96" column="40" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="42" column="84" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Api/ApiStockItemDownloadAttributes.php" timestamp="1431047913676">
         <mark key="[" line="15" column="52" />
@@ -2429,10 +2419,10 @@
         <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Framework/VideoSiteEventServiceConfiguration.php" timestamp="1508525875516">
-        <mark key="'" line="47" column="51" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="'" line="54" column="51" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/Helpers/Limelight/LimelightMethods.php" timestamp="1431048118051">
         <mark key="[" line="2" column="52" />
@@ -2463,6 +2453,12 @@
         <mark key="]" line="6" column="47" />
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/Errors/UserAttributeService_Read_Error.php" timestamp="1508710394409">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/Popup/JoinPopupWidgetViewModel.php" timestamp="1431243895773">
         <mark key="[" line="33" column="46" />
@@ -2649,11 +2645,8 @@
         <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508514306360">
-        <mark key="'" line="67" column="0" />
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="15" column="41" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/BaseServiceFactory.php" timestamp="1431206288992">
         <mark key="[" line="11" column="50" />
@@ -2810,13 +2803,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" timestamp="1508525718375">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="28" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/Models/FreeTrialModel.php" timestamp="1431221359408">
         <mark key="[" line="32" column="48" />
@@ -3062,11 +3048,11 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/EventLoggingListenerCollection.php" timestamp="1508524684289">
-        <mark key="'" line="19" column="46" />
+        <mark key="'" line="4" column="46" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-        <mark key="^" line="19" column="46" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/loggly/Objects/Event.php" timestamp="1431050844408">
         <mark key="[" line="3" column="0" />
@@ -3237,12 +3223,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" timestamp="1508512990405">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="26" />
-        <mark key="^" line="62" column="26" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/Errors/UserAttributeService_Create_Error.php" timestamp="1508710401325">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/ViewModels/BaseViewModel.php" timestamp="1432226699109">
         <mark key="'" line="10" column="6" />
@@ -4008,12 +3993,6 @@
         <mark key="^" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcLoggableEventInterface.php" timestamp="1508512965715">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Pixels/ReferralCandyPopupWidget.php" timestamp="1431246404312">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="10" column="38" />
@@ -4143,11 +4122,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWVzc2FnZSA9IFtdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IkFjdHVhbCBtZXNzYWdlOiB7JHRoaXMtPm1lc3NhZ2V9Ig==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>test_06</text>
@@ -4196,7 +4175,7 @@
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
