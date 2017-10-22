@@ -1063,6 +1063,12 @@
         <mark key="^" line="39" column="98" />
         <mark key="." line="39" column="98" />
       </file>
+      <file name="$USER_HOME$/dotfiles/config/powerline/themes/tmux/default.json" timestamp="1508613965019">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="22" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Api/Controllers/VideoContributors/_VideoContributorsApiController_addOrUpdateContributorProfile.php" timestamp="1432174337894">
         <mark key="[" line="62" column="31" />
         <mark key="]" line="62" column="30" />
