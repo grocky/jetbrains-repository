@@ -3613,6 +3613,13 @@
         <mark key="^" line="29" column="58" />
         <mark key="." line="29" column="67" />
       </file>
+      <file name="$USER_HOME$/dotfiles/install_bins.sh" timestamp="1508704096877">
+        <mark key="'" line="74" column="56" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="57" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PreFlowHotfixFinishPhinxTest.php" timestamp="1432599204295">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="13" column="0" />
@@ -4152,8 +4159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNamesInterface.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocator.php" />
       <jump line="34" column="49" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocator.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteRedisConnectionLocatorInterface.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteServiceLocator.php" />
@@ -4252,62 +4257,64 @@
       <jump line="49" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
       <jump line="6" column="7" filename="$USER_HOME$/dotfiles/config/powerline/themes/tmux/default.json" />
       <jump line="19" column="0" filename="$USER_HOME$/dotfiles/config/powerline/themes/shell/default_leftonly.json" />
+      <jump line="51" column="12" filename="$USER_HOME$/dotfiles/install_bins.sh" />
+      <jump line="55" column="56" filename="$USER_HOME$/dotfiles/install_bins.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBpZiBbICEgLWQgIiR7SE9NRX0vYmluIiBdOyB0aGVuCiAgICAgICAgbWtkaXIgJHtIT01FfS9iaW4KICAgIGZpCiAgICAKICAgIHB1c2hkICR7SE9NRX0vYmluID4gL2Rldi9udWxsCgogICAgZm9yIGJpbiBpbiAkKGZpbmQgJHtCSU5fRElSfSAtbWF4ZGVwdGggMSB8IGdyZXAgLXYgJ15cLlx8YmlucyQnKTsgZG8KICAgICAgICAkY29tbWFuZCAiJHtiaW59IgogICAgZG9uZQogICAgcG9wZCA+IC9kZXYvbnVsbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>asdfd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKCQkJCSJuYW1lIjogImRhdGUiLAoJCQkJImFyZ3MiOiB7CgkJCQkJImZvcm1hdCI6ICIlYSAlYiAlZCIsCgkJCQkJImlzdGltZSI6IGZhbHNlCgkJCQl9CgkJCX0sCgkJCXsKCQkJCSJmdW5jdGlvbiI6ICJwb3dlcmxpbmUuc2VnbWVudHMuY29tbW9uLnRpbWUuZGF0ZSIsCgkJCQkibmFtZSI6ICJ0aW1lIiwKCQkJCSJhcmdzIjogewoJCQkJCSJmb3JtYXQiOiAiJUk6JU0gJXAiLAoJCQkJCSJpc3RpbWUiOiB0cnVlCgkJCQl9CgkJCX0sCg==</text>
+        <text encoding="base64">ICAgIHB1c2hkICR7SE9NRX0vYmluID4gL2Rldi9udWxsCgogICAgZm9yIGJpbiBpbiAkKGZpbmQgJHtCSU5fRElSfSAtbWF4ZGVwdGggMSB8IGdyZXAgLXYgJ15cLlx8YmlucyQnKTsgZG8KICAgICAgICAkY29tbWFuZCAiJHtiaW59IgogICAgZG9uZQogICAgcG9wZCA+IC9kZXYvbnVsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgIm5hbWUiOiAiZGF0ZSIsCiAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICJmb3JtYXQiOiAiJWEgJWIgJWQiLAogICAgICAgICAgICAgICJpc3RpbWUiOiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">CiAgICBpZiBbICEgLWQgIiR7SE9NRX0vYmluIiBdOyB0aGVuCiAgICAgICAgbWtkaXIgJHtIT01FfS9iaW4KICAgIGZpCiAgICAKICAgIHB1c2hkICR7SE9NRX0vYmluID4gL2Rldi9udWxsCgogICAgZm9yIGJpbiBpbiAkKGZpbmQgJHtCSU5fRElSfSAtbWF4ZGVwdGggMSB8IGdyZXAgLXYgJ15cLlx8YmlucyQnKTsgZG8KICAgICAgICAkY29tbWFuZCAiJHtiaW59IgogICAgZG9uZQogICAgcG9wZCA+IC9kZXYvbnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgIm5hbWUiOiAidGltZSIsCiAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICJmb3JtYXQiOiAiJWEgJWIgJWQiLAogICAgICAgICAgICAgICJpc3RpbWUiOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24uYmF0LmJhdHRlcnkiCgkJCX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgIm5hbWUiOiAiZGF0ZSIsCiAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICJmb3JtYXQiOiAiJWEgJWIgJWQiLAogICAgICAgICAgICAgICJpc3RpbWUiOiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQkJCSJvbmx5X2lmX3NzaCI6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24udGltZS5kYXRlIiwKICAgICAgICAgICAgIm5hbWUiOiAidGltZSIsCiAgICAgICAgICAgICJhcmdzIjogewogICAgICAgICAgICAgICJmb3JtYXQiOiAiJWEgJWIgJWQiLAogICAgICAgICAgICAgICJpc3RpbWUiOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24ubmV0Lmhvc3RuYW1lIgoJCQl9Cg==</text>
+        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24uYmF0LmJhdHRlcnkiCgkJCX0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJImRyYXdfaGFyZF9kaXZpZGVyIjogZmFsc2UK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZV9naXRzdGF0dXMuZ2l0c3RhdHVzIiwKCQkJCQkJInByaW9yaXR5IjogNDAsCg==</text>
+        <text encoding="base64">Ly8JCQkJCSJvbmx5X2lmX3NzaCI6IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJewoJCQkJImZ1bmN0aW9uIjogInBvd2VybGluZS5zZWdtZW50cy5jb21tb24ubmV0Lmhvc3RuYW1lIgoJCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Note</last-search>
+      <last-search>asdfd</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>asdfd</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4331,6 +4338,8 @@
         <entry>getName</entry>
         <entry>similar-search</entry>
         <entry>event</entry>
+        <entry>install</entry>
+        <entry>asdfd</entry>
       </history-search>
       <history-cmd>
         <entry>%s/double/float/</entry>
