@@ -695,10 +695,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutsEntityService.php" timestamp="1508726898587">
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="36" column="45" />
-        <mark key="." line="36" column="45" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutsEntityService.php" timestamp="1508727660404">
+        <mark key="[" line="36" column="95" />
+        <mark key="]" line="36" column="95" />
+        <mark key="." line="36" column="95" />
         <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserPasswordResetViewModel.php" timestamp="1431222613359">
@@ -1882,7 +1882,7 @@
         <mark key="^" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/StockContributors/ContributorPayoutFactory.php" timestamp="1508720538171">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/StockContributors/ContributorPayoutFactory.php" timestamp="1508727559659">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="33" column="73" />
       </file>
@@ -2769,7 +2769,7 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" timestamp="1508718886830">
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" timestamp="1508728474631">
         <mark key="[" line="253" column="120" />
         <mark key="]" line="253" column="120" />
         <mark key="." line="253" column="120" />
@@ -3330,7 +3330,7 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1508726830795">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1508728547570">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="26" column="43" />
         <mark key="]" line="26" column="41" />
@@ -3582,6 +3582,7 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcDatabaseSqlPdo.php" timestamp="1508728277893" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioOptimizelyStaticPageViewModel.php" timestamp="1431025535283">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="45" />
@@ -3911,12 +3912,12 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" timestamp="1508727182960">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" timestamp="1508728235473">
         <mark key="'" line="70" column="3" />
-        <mark key="[" line="79" column="59" />
-        <mark key="]" line="79" column="84" />
-        <mark key="." line="79" column="84" />
-        <mark key="^" line="79" column="84" />
+        <mark key="[" line="49" column="41" />
+        <mark key="]" line="49" column="45" />
+        <mark key="." line="49" column="45" />
+        <mark key="^" line="49" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Billing/Controllers/BillingController.php" timestamp="1431087504606">
         <mark key="[" line="375" column="114" />
@@ -4155,40 +4156,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sizeof</text>
+        <text>'NULL'</text>
       </register>
       <register name="-" type="4">
-        <text>sizeof</text>
+        <text>'NULL'</text>
       </register>
       <register name="/" type="4">
         <text>payoutCycle</text>
       </register>
-      <register name="0" type="4">
-        <text>getContributorPortalId()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2RpZF9zdWNjZXNzZnVsbHlfcHJvY2VzcycgPT4gJ05VTEwnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VycmVudFBheW91dEN5Y2xlID0gJGN1cnJlbnRQYXlvdXRDeWNsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RpZF9zdWNjZXNzZnVsbHlfcHJvY2VzcycgPT4gbnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCRwZW5kaW5nUGF5b3V0cywgaXMoYXJyYXlXaXRoU2l6ZShjb3VudCgkdW5wcm9jZXNzZWRDdXJyZW50UGF5b3V0cykpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VycmVudFBheW91dEN5Y2xlID0gJGN1cnJlbnRQYXlvdXRDeWNsZTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
