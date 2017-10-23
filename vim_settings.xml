@@ -1974,6 +1974,9 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/UserSubscriptionService.php" timestamp="1508715246843">
+        <mark key="'" line="486" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1506893046463">
         <mark key="'" line="19" column="30" />
         <mark key="[" line="15" column="0" />
@@ -2454,10 +2457,10 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/Errors/UserAttributeService_Read_Error.php" timestamp="1508710394409">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/Errors/UserAttributeService_Read_Error.php" timestamp="1508715293257">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
         <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/Popup/JoinPopupWidgetViewModel.php" timestamp="1431243895773">
@@ -2631,6 +2634,9 @@
         <mark key="]" line="110" column="158" />
         <mark key="^" line="110" column="158" />
         <mark key="." line="110" column="158" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/UserAttributeService.php" timestamp="1508715331826">
+        <mark key="'" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/LogglyListenerCollection.php" timestamp="1431229510414">
         <mark key="[" line="118" column="63" />
@@ -3223,10 +3229,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/Errors/UserAttributeService_Create_Error.php" timestamp="1508710401325">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/Errors/UserAttributeService_Create_Error.php" timestamp="1508715302012">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
         <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/ViewModels/BaseViewModel.php" timestamp="1432226699109">
@@ -4020,8 +4026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/PaginationWidgetViewModel.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/PaginationPageElement.php" />
       <jump line="232" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/PaginationWidgetViewModel.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/SelectWidgetViewModel.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/SelectWidgetViewModel.php" />
@@ -4120,13 +4124,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="296" column="4" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
+      <jump line="486" column="22" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/UserSubscriptionService.php" />
+      <jump line="44" column="22" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/UserAttributeService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>test_06</text>
