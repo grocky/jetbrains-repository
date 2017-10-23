@@ -908,6 +908,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutCalculationService.php" timestamp="1508736992422">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Api/Routes/PublicApiRouteCollection.php" timestamp="1507384011508">
         <mark key="[" line="43" column="11" />
         <mark key="]" line="43" column="35" />
@@ -2315,12 +2320,12 @@
         <mark key="^" line="16" column="51" />
         <mark key="." line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" timestamp="1507863196983">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" timestamp="1508737017500">
         <mark key="'" line="122" column="29" />
-        <mark key="[" line="82" column="52" />
-        <mark key="]" line="83" column="39" />
+        <mark key="[" line="734" column="0" />
+        <mark key="]" line="734" column="0" />
         <mark key="^" line="83" column="39" />
-        <mark key="." line="83" column="39" />
+        <mark key="." line="734" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Pages/Views/VideoOptimizelyStaticPageView.php" timestamp="1432256881057">
         <mark key="[" line="1" column="88" />
@@ -4168,56 +4173,56 @@
       <jump line="17" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getAmountSubmitted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udHJpYnV0b3IxUGF5b3V0KTsKICAgICAgICB2YXJfZHVtcCgkY29udHJpYnV0b3IyUGF5b3V0KTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text>getAmountSubmitted</text>
       </register>
       <register name="/" type="4">
-        <text>getDidsucc</text>
+        <text>var_dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGFtb3VudFN1Ym1pdHRlZCA9ICRyZXNwb25zZS0+Z2V0QW1vdW50U3VibWl0dGVkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKlRpcGFsdGlFeHRlbmRlZFBheW1lbnRPcmRlclJlc3BvbnNlIAogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udHJpYnV0b3IxUGF5b3V0KTsKICAgICAgICB2YXJfZHVtcCgkY29udHJpYnV0b3IyUGF5b3V0KTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgdmFyX2R1bXAoWwogICAgICAgICAgICAndG90YWxUYXhXaXRob2xkaW5nJyA9PiAkdG90YWxUYXhXaXRoaG9sZGluZ3MsCiAgICAgICAgICAgICd0b3RhbFNhbGVzJyA9PiAkdG90YWxTYWxlcywKICAgICAgICAgICAgJ3RvdGFsTmV0UGF5bWVudCcgPT4gJHRvdGFsTmV0UGF5bWVudCwKICAgICAgICAgICAgJ3RvdGFsR3Jvc3NQYXltZW50JyA9PiAkdG90YWxHcm9zc1BheW1lbnQsCiAgICAgICAgICAgICd0b3RhbENDUHJvY2Vzc0ZlZScgPT4gJHRvdGFsQ0NQcm9jZXNzRmVlLAogICAgICAgICAgICAndG90YWxEaXNjb3VudHMnID0+ICR0b3RhbERpc2NvdW50cwogICAgICAgIF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKlRpcGFsdGlFeHRlbmRlZFBheW1lbnRPcmRlclJlc3BvbnNlIAogICAgICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGl0ZXJhdG9yX2NvdW50KCRyZXNwb25zZXMpLCBpcyAoY291bnQoJHJlZmVyZW5jZUlkcykpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGl0ZXJhdG9yX2NvdW50KCRyZXNwb25zZXMpLCBpcyAoY291bnQoJHJlZmVyZW5jZUlkcykpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkaWQgLiBQSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGl0ZXJhdG9yX2NvdW50KCRyZXNwb25zZXMpLCBpcyAoY291bnQoJHJlZmVyZW5jZUlkcykpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUaXBhbHRpQXBpUmVzcG9uc2UgJHJlc3BvbnNlICovCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGl0ZXJhdG9yX2NvdW50KCRyZXNwb25zZXMpLCBpcyAoY291bnQoJHJlZmVyZW5jZUlkcykpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkaWQgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getDidsucc</last-search>
+      <last-search>var_dump</last-search>
       <last-offset />
-      <last-pattern>getDidsucc</last-pattern>
+      <last-pattern>var_dump</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -4226,7 +4231,6 @@
     <history>
       <history-search>
         <entry>testOrganizationNotConfiguredCorrectly</entry>
-        <entry>var_dump</entry>
         <entry>search</entry>
         <entry>getName</entry>
         <entry>similar-search</entry>
@@ -4247,6 +4251,8 @@
         <entry>test_06</entry>
         <entry>payoutCycle</entry>
         <entry>getDidsucc</entry>
+        <entry>ver_dump</entry>
+        <entry>var_dump</entry>
       </history-search>
       <history-cmd>
         <entry>s/Message/Code/g</entry>
