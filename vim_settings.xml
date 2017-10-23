@@ -356,11 +356,12 @@
         <mark key="^" line="69" column="54" />
         <mark key="." line="69" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PaymentStatus.php" timestamp="1508757689977">
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="79" column="29" />
-        <mark key="." line="79" column="29" />
-        <mark key="^" line="79" column="29" />
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PaymentStatus.php" timestamp="1508765068188">
+        <mark key="'" line="80" column="37" />
+        <mark key="[" line="50" column="22" />
+        <mark key="]" line="50" column="32" />
+        <mark key="." line="79" column="30" />
+        <mark key="^" line="79" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/Views/VideoShoppingCartWidgetView.php" timestamp="1432259690894">
         <mark key="[" line="7" column="0" />
@@ -1225,6 +1226,12 @@
         <mark key="]" line="121" column="46" />
         <mark key="^" line="121" column="46" />
         <mark key="." line="121" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171023131929_alter_contributor_payout_status_log_update_status_enum.php" timestamp="1508765158520">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="15" column="191" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/DownloadsSearchableStockItemGroupWidgetViewModel.php" timestamp="1432157886746">
         <mark key="[" line="11" column="63" />
@@ -3599,12 +3606,12 @@
         <mark key="^" line="78" column="62" />
         <mark key="." line="78" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1508758008453">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="58" column="121" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1508765604277">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="83" column="58" />
+        <mark key="]" line="83" column="77" />
+        <mark key="^" line="83" column="77" />
+        <mark key="." line="83" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171002203457_alter_contributor_payouts_with_nullable_did_successfully_process.php" timestamp="1507212318592">
         <mark key="[" line="23" column="39" />
@@ -4089,7 +4096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Member/ViewModels/VideoMemberProfileViewModel.php" />
       <jump line="136" column="0" filename="$USER_HOME$/Projects/StockBlocks/scripts/videoblocks/AddWaveBreakMediaCSVsToPortal.php" />
       <jump line="137" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PrePushPhinxTest.php" />
       <jump line="97" column="63" filename="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PrePushPhinxTest.php" />
@@ -4189,49 +4195,50 @@
       <jump line="281" column="0" filename="$USER_HOME$/Projects/StockBlocks/vendor/guzzlehttp/guzzle/src/Client.php" />
       <jump line="124" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/IpnListeners/TipaltiIpnListener.php" />
       <jump line="61" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
+      <jump line="80" column="37" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PaymentStatus.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRyaWJ1dG9yUGF5b3V0ID0gJHRoaXMtPmdldENvbnRyaWJ1dG9yUGF5b3V0RnJvbVRyYW5zYWN0aW9uUmVmZXJlbmNlSWQoJHN1Y2Nlc3NEYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text>getSubmittedCurrencyToPayeeCurrencyFxRate</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>getSubmittedCurrencyToPayeeCurrencyFxRate</text>
       </register>
       <register name="/" type="4">
         <text>promise_for</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpERUZFUlJFRCA9PiB0cnVlLAo=</text>
+      <register name="0" type="4">
+        <text>'Submitted'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRyaWJ1dG9yUGF5b3V0ID0gJHRoaXMtPmdldENvbnRyaWJ1dG9yUGF5b3V0RnJvbVRyYW5zYWN0aW9uUmVmZXJlbmNlSWQoJHN1Y2Nlc3NEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0UGF5b3V0U3RhdHVzKFBheW1lbnRTdGF0dXM6Om9mKFBheW1lbnRTdGF0dXM6OkNPTVBMRVRFKSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldEN1cnJlbmN5U3VibWl0dGVkKCRkYXRhW1BheW1lbnRDb21wbGV0ZWQ6OkNVUlJFTkNZX1NVQk1JVFRFRF0pOwogICAgICAgICAgICAkcGF5b3V0U3RhdHVzTG9nLT5zZXRQYXllZUZlZXMoJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZRUVfRkVFU10pOwogICAgICAgICAgICAkcGF5b3V0U3RhdHVzTG9nLT5zZXRQYXltZW50QW1vdW50KCRkYXRhW1BheW1lbnRDb21wbGV0ZWQ6OlBBWU1FTlRfQU1PVU5UXSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldFBheW1lbnRDdXJyZW5jeSgkZGF0YVtQYXltZW50Q29tcGxldGVkOjpQQVlNRU5UX0NVUlJFTkNZXSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldFBheW1lbnRNZXRob2QoJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZTUVOVF9NRVRIT0RdKTsKICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0UGF5ZWVGeEZlZXMoJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZRUVfRlhfRkVFU10pOwogICAgICAgICAgICAkcGF5b3V0U3RhdHVzTG9nLT5zZXRQYXllZUZ4RmVlQ3VycmVuY3koJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZRUVfRlhfRkVFX0NVUlJFTkNZXSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldFBheWVyRnhGZWVzKCRkYXRhW1BheW1lbnRDb21wbGV0ZWQ6OlBBWUVSX0ZYX0ZFRVNdKTsKICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0UGF5ZXJGeEN1cnJlbmN5RmVlcygkZGF0YVtQYXltZW50Q29tcGxldGVkOjpQQVlFUl9GWF9GRUVfQ1VSUkVOQ1ldKTsKICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0VGlwYWx0aVJlZmVyZW5jZUtleSgkZGF0YVtQYXltZW50Q29tcGxldGVkOjpUSVBBTFRJX1JFRl9LRVldKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIGFycmF5ICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpvZigkdmFsdWUpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IERFRkVSUkVEID0gJ2RlZmVycmVkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRyaWJ1dG9yUGF5b3V0ID0gJHRoaXMtPmdldENvbnRyaWJ1dG9yUGF5b3V0RnJvbVRyYW5zYWN0aW9uUmVmZXJlbmNlSWQoJHN1Y2Nlc3NEYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIGFycmF5ICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4294,6 +4301,7 @@
         <entry>A</entry>
         <entry>43</entry>
         <entry>m-2</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
