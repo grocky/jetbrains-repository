@@ -695,11 +695,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutsEntityService.php" timestamp="1508719203185">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutsEntityService.php" timestamp="1508726898587">
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserPasswordResetViewModel.php" timestamp="1431222613359">
         <mark key="'" line="26" column="97" />
@@ -2494,7 +2494,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/AbstractBaseTest.php" timestamp="1432730877560">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/AbstractBaseTest.php" timestamp="1508726319078">
         <mark key="'" line="47" column="8" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="3" />
@@ -3330,8 +3330,8 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1506977028493">
-        <mark key="'" line="27" column="35" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1508726830795">
+        <mark key="'" line="8" column="6" />
         <mark key="[" line="26" column="43" />
         <mark key="]" line="26" column="41" />
         <mark key="^" line="26" column="41" />
@@ -3689,6 +3689,9 @@
         <mark key="^" line="37" column="62" />
         <mark key="." line="51" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutCycles.php" timestamp="1508726809543">
+        <mark key="'" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/MemberInvoiceViewModel.php" timestamp="1431216398302">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="19" column="14" />
@@ -3908,11 +3911,12 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" timestamp="1508720941127">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="37" column="67" />
-        <mark key="." line="37" column="67" />
-        <mark key="^" line="37" column="67" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" timestamp="1508727182960">
+        <mark key="'" line="70" column="3" />
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="79" column="84" />
+        <mark key="." line="79" column="84" />
+        <mark key="^" line="79" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Billing/Controllers/BillingController.php" timestamp="1431087504606">
         <mark key="[" line="375" column="114" />
@@ -4048,9 +4052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/SelectWidgetViewModel.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/SelectWidgetViewModel.php" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/SelectWidgetViewModel.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/SelectOptionWidgetViewModel.php" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/SelectOptionWidgetViewModel.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Member/ViewModels/VideoMemberProfileViewModel.php" />
@@ -4148,62 +4149,65 @@
       <jump line="486" column="22" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/UserSubscriptionService.php" />
       <jump line="44" column="22" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/UserAttributes/UserAttributeService.php" />
       <jump line="8" column="3" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" />
+      <jump line="54" column="3" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Contributors/ContributorPayoutsEntityServiceTest.php" />
+      <jump line="6" column="17" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutCycles.php" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q2FyYm9uOjpub3coKS0+c3ViTW9udGgoKQ==</text>
+        <text>sizeof</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q2FyYm9uOjpub3coKS0+c3ViTW9udGgoKQ==</text>
+        <text>sizeof</text>
       </register>
       <register name="/" type="4">
-        <text>test_06</text>
+        <text>payoutCycle</text>
       </register>
       <register name="0" type="4">
-        <text>$oneMonthAgo</text>
+        <text>getContributorPortalId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VycmVudFBheW91dEN5Y2xlID0gJGN1cnJlbnRQYXlvdXRDeWNsZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Om9uY2VQZXJUZXN0Q2xhc3NTZXR1cCgpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgc3RhdGljIGZ1bmN0aW9uIHNldHVwUXVlcnlDYWNoaW5nKCkgewogICAgICAgIHBhcmVudDo6c2V0dXBRdWVyeUNhY2hpbmcoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0KCRpZCwgJGN1c3RvbVdoZXJlQ2xhdXNlID0gbnVsbCk6ID9Db250cmlidXRvclBheW91dHMgewogICAgICAgIC8qKiBAdmFyIENvbnRyaWJ1dG9yUGF5b3V0cyAqLwogICAgICAgIHJldHVybiBwYXJlbnQ6OmdldCgkaWQsICRjdXN0b21XaGVyZUNsYXVzZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test_06</last-search>
+      <last-search>payoutCycle</last-search>
       <last-offset />
-      <last-pattern>test_06</last-pattern>
+      <last-pattern>payoutCycle</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4227,6 +4231,7 @@
         <entry>Event</entry>
         <entry>event</entry>
         <entry>test_06</entry>
+        <entry>payoutCycle</entry>
       </history-search>
       <history-cmd>
         <entry>s/Message/Code/g</entry>
@@ -4248,6 +4253,7 @@
         <entry>755</entry>
         <entry>758</entry>
         <entry>A</entry>
+        <entry>43</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
