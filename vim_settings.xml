@@ -708,11 +708,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutsEntityService.php" timestamp="1508730567620">
-        <mark key="[" line="36" column="95" />
-        <mark key="]" line="36" column="95" />
-        <mark key="." line="36" column="95" />
-        <mark key="^" line="36" column="43" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutsEntityService.php" timestamp="1508771770285">
+        <mark key="[" line="22" column="74" />
+        <mark key="]" line="22" column="74" />
+        <mark key="." line="22" column="74" />
+        <mark key="^" line="22" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserPasswordResetViewModel.php" timestamp="1431222613359">
         <mark key="'" line="26" column="97" />
@@ -3615,12 +3615,12 @@
         <mark key="^" line="78" column="62" />
         <mark key="." line="78" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1508770115924">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="80" column="64" />
-        <mark key="]" line="80" column="64" />
-        <mark key="^" line="101" column="63" />
-        <mark key="." line="80" column="64" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1508771927859">
+        <mark key="'" line="126" column="50" />
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171002203457_alter_contributor_payouts_with_nullable_did_successfully_process.php" timestamp="1507212318592">
         <mark key="[" line="23" column="39" />
@@ -4100,7 +4100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PrePushPhinxTest.php" />
       <jump line="86" column="23" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" />
       <jump line="91" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" />
       <jump line="12" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ongage/OngagePlanNames.php" />
@@ -4200,49 +4199,50 @@
       <jump line="15" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" />
       <jump line="17" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" />
       <jump line="19" column="18" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" />
+      <jump line="119" column="50" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>getRefCode</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getRefCode</text>
       </register>
       <register name="/" type="4">
         <text>currency</text>
       </register>
       <register name="0" type="4">
-        <text>'Submitted'</text>
+        <text>ContributorPayouts</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdHJhbnNhY3Rpb25SZWZlcmVuY2VJZCA9ICRjb250cmlidXRvclBheW91dC0+Z2V0VHJhbnNhY3Rpb25SZWZlcmVuY2VJZCgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRyYW5zYWN0aW9uUmVmZXJlbmNlSWQgPSAkY29udHJpYnV0b3JQYXlvdXQtPmdldFRyYW5zYWN0aW9uUmVmZXJlbmNlSWQoKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcGF5bWVudFN0YXR1cyA9IFBheW1lbnRTdGF0dXM6Om9mKCRyZXNwb25zZS0+Z2V0U3RhdHVzKCkpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGRhdGFbQ29tbW9uRmllbGRzOjpJUE5fVFlQRV0gPT09IElQTlR5cGU6OkNPTVBMRVRFRCkgewoKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0UGF5b3V0U3RhdHVzKFBheW1lbnRTdGF0dXM6Om9mKFBheW1lbnRTdGF0dXM6OkNPTVBMRVRFKSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldEN1cnJlbmN5U3VibWl0dGVkKCRkYXRhW1BheW1lbnRDb21wbGV0ZWQ6OkNVUlJFTkNZX1NVQk1JVFRFRF0pOwogICAgICAgICAgICAkcGF5b3V0U3RhdHVzTG9nLT5zZXRQYXllZUZlZXMoJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZRUVfRkVFU10pOwogICAgICAgICAgICAkcGF5b3V0U3RhdHVzTG9nLT5zZXRQYXltZW50QW1vdW50KCRkYXRhW1BheW1lbnRDb21wbGV0ZWQ6OlBBWU1FTlRfQU1PVU5UXSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldFBheW1lbnRDdXJyZW5jeSgkZGF0YVtQYXltZW50Q29tcGxldGVkOjpQQVlNRU5UX0NVUlJFTkNZXSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldFBheW1lbnRNZXRob2QoJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZTUVOVF9NRVRIT0RdKTsKICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0UGF5ZWVGeEZlZXMoJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZRUVfRlhfRkVFU10pOwogICAgICAgICAgICAkcGF5b3V0U3RhdHVzTG9nLT5zZXRQYXllZUZ4RmVlQ3VycmVuY3koJGRhdGFbUGF5bWVudENvbXBsZXRlZDo6UEFZRUVfRlhfRkVFX0NVUlJFTkNZXSk7CiAgICAgICAgICAgICRwYXlvdXRTdGF0dXNMb2ctPnNldFBheWVyRnhGZWVzKCRkYXRhW1BheW1lbnRDb21wbGV0ZWQ6OlBBWUVSX0ZYX0ZFRVNdKTsKICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0UGF5ZXJGeEN1cnJlbmN5RmVlcygkZGF0YVtQYXltZW50Q29tcGxldGVkOjpQQVlFUl9GWF9GRUVfQ1VSUkVOQ1ldKTsKICAgICAgICAgICAgJHBheW91dFN0YXR1c0xvZy0+c2V0VGlwYWx0aVJlZmVyZW5jZUtleSgkZGF0YVtQYXltZW50Q29tcGxldGVkOjpUSVBBTFRJX1JFRl9LRVldKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdHJhbnNhY3Rpb25SZWZlcmVuY2VJZCA9ICRjb250cmlidXRvclBheW91dC0+Z2V0VHJhbnNhY3Rpb25SZWZlcmVuY2VJZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgJHRyYW5zYWN0aW9uUmVmZXJlbmNlSWQgPSAkY29udHJpYnV0b3JQYXlvdXQtPmdldFRyYW5zYWN0aW9uUmVmZXJlbmNlSWQoKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGRhdGFbQ29tbW9uRmllbGRzOjpJUE5fVFlQRV0gPT09IElQTlR5cGU6OkNPTVBMRVRFRCkgewoKCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
