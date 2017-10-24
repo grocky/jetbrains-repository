@@ -406,12 +406,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PayeeClient.php" timestamp="1508754824858">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="144" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="75" column="89" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/audioblocks/factories/TempMemberFactory.php" timestamp="1431206326311">
         <mark key="[" line="41" column="49" />
         <mark key="]" line="42" column="48" />
@@ -1118,6 +1112,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/SearchListenerCollection.php" timestamp="1508862581124" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/CronJobs/CronJobRuns.php" timestamp="1431048216481">
         <mark key="[" line="32" column="51" />
         <mark key="]" line="33" column="50" />
@@ -2226,11 +2221,7 @@
         <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/IpnListeners/TipaltiIpnListener.php" timestamp="1508752226109">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="114" column="59" />
-        <mark key="]" line="114" column="59" />
-        <mark key="^" line="114" column="59" />
-        <mark key="." line="114" column="59" />
+        <mark key="'" line="132" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/loggly/Objects/ApiEndpoint.php" timestamp="1431050864921">
         <mark key="[" line="4" column="33" />
@@ -4056,6 +4047,7 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Events/ListenerCollections/VideoSearchListenerCollection.php" timestamp="1508862608216" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponse.php" timestamp="1432390863446">
         <mark key="'" line="4" column="22" />
         <mark key="[" line="35" column="0" />
