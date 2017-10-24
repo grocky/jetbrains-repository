@@ -3262,6 +3262,12 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1508866601877">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/CronJobs/LimelightApiPostbacksEntityService.php" timestamp="1431046963026">
         <mark key="[" line="6" column="65" />
         <mark key="]" line="7" column="64" />
