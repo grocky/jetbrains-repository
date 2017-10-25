@@ -2288,10 +2288,12 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" timestamp="1508768163403">
         <mark key="'" line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" timestamp="1507752188991">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" timestamp="1508897271443">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="277" column="50" />
+        <mark key="]" line="277" column="49" />
+        <mark key="." line="277" column="49" />
+        <mark key="^" line="277" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/Views/AudioStockItemGroupWidgetView.php" timestamp="1432254716404">
         <mark key="[" line="6" column="40" />
@@ -4121,15 +4123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/Projects/StockBlocks/Database/VideoBlocks/seedData/20150520131424_add_member_with_downloads.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Controllers/SearchController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/esps/TestVideoOngageESP.php" />
-      <jump line="489" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
-      <jump line="3" column="27" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
-      <jump line="60" column="2" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
-      <jump line="59" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/StockBlocks/scripts/composer/GitHooks.php" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" />
       <jump line="116" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
       <jump line="68" column="71" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Resque/Jobs/CronUpdateContributorSalesStatsAttributesJob.php" />
@@ -4221,58 +4214,67 @@
       <jump line="8" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="86" column="31" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="97" column="54" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
+      <jump line="28" column="50" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="130" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="158" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="183" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="216" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="236" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="268" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="305" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
+      <jump line="35" column="8" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>StockItemEventInterface</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>asdfda</text>
+        <text>covers</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGNvbnRyaWJ1dG9yUGF5b3V0U3RhdHVzTG9nLT5nZXRQYXlvdXRTdGF0dXMoKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCRtb2NrUGF5bWVudEV2ZW50MS0+Y2FsbGVkLCBpcygyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCRyZXN1bHRzMVsnZXZlbnRVVUlEJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcRXZlbnRNb2RlbHNcU2VhcmNoRXZlbnRzXFNlYXJjaEV2ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gVE9ETzpwbGF0Zm9ybXMgdmVyaWZ5IHdpdGggQ0lBTyBpZiB3ZSBzaG91bGQgZmlsdGVyIHRoZXNlCiAgICAgICAgLy8gTG9naWMgY29waWVkIGZyb20gVmlkZW9TZWFyY2hMaXN0ZW5lckNvbGxlY3Rpb24KICAgICAgICBpZiAoISRzZWFyY2hHdWlkKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXE12Y1xIZWxwZXJzXE12Y0h0dHBSZXF1ZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOnBsYXRmb3JtcyB2ZXJpZnkgd2l0aCBDSUFPIGlmIHdlIHNob3VsZCBmaWx0ZXIgdGhlc2UKICAgICAgICAvLyBPbmx5IHRyaWdnZXIgZXZlbnRzIHRoYXQgZG8gaGF2ZSBhIHNlYXJjaCBndWlkCiAgICAgICAgaWYgKCRzZWFyY2hHdWlkKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGNvdmVycyBTdG9ja0Jsb2Nrc1xDb21tb25cU2VydmljZXNcRXZlbnRzXEV2ZW50U2VydmljZU1lZGlhdG9yOjp0cmlnZ2VyCiAgICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6dHJpZ2dlckV2ZW50KCRldmVudCk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGNvdmVycyBTdG9ja0Jsb2Nrc1xDb21tb25cU2VydmljZXNcRXZlbnRzXEV2ZW50U2VydmljZU1lZGlhdG9yOjp0cmlnZ2VyCiAgICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGNvdmVycyBTdG9ja0Jsb2Nrc1xDb21tb25cU2VydmljZXNcRXZlbnRzXEV2ZW50U2VydmljZU1lZGlhdG9yOjp0cmlnZ2VyCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2goJHRoaXMtPnZhbHVlKSB7CiAgICAgICAgICAgIGNhc2Ugc2VsZjo6UEFJRDoKICAgICAgICAgICAgY2FzZSBzZWxmOjpDTEVBUkVEOgogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBjb3ZlcnMgU3RvY2tCbG9ja3NcQ29tbW9uXFNlcnZpY2VzXEV2ZW50c1xFdmVudFNlcnZpY2VNZWRpYXRvcjo6dHJpZ2dlcgogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdfda</last-search>
+      <last-search>covers</last-search>
       <last-offset />
-      <last-pattern>asdfda</last-pattern>
+      <last-pattern>covers</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -4308,6 +4310,7 @@
         <entry>PaymentStatus</entry>
         <entry>SearchEvent</entry>
         <entry>asdfda</entry>
+        <entry>covers</entry>
       </history-search>
       <history-cmd>
         <entry>s/Message/Code/g</entry>
