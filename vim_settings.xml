@@ -380,10 +380,11 @@
         <mark key="^" line="51" column="1" />
         <mark key="." line="51" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" timestamp="1508730119742">
-        <mark key="[" line="253" column="120" />
-        <mark key="]" line="253" column="120" />
-        <mark key="." line="253" column="120" />
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" timestamp="1508957135641">
+        <mark key="'" line="479" column="14" />
+        <mark key="[" line="636" column="14" />
+        <mark key="]" line="636" column="14" />
+        <mark key="." line="636" column="14" />
         <mark key="^" line="253" column="119" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
@@ -1136,6 +1137,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Helpers/MvcPhpUtils.php" timestamp="1508957265596">
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="24" column="67" />
+        <mark key="^" line="24" column="67" />
+        <mark key="." line="24" column="67" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1259,11 +1266,11 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Models/PublicSearchApiRequest.php" timestamp="1508955143464">
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="38" column="58" />
-        <mark key="^" line="38" column="58" />
-        <mark key="." line="38" column="58" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Models/PublicSearchApiRequest.php" timestamp="1508957316075">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="32" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="123" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/ViewModels/SitePlanWidgetViewModel.php" timestamp="1432154609336">
         <mark key="'" line="11" column="0" />
@@ -1296,6 +1303,12 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutCycles.php" timestamp="1508726809543">
         <mark key="'" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" timestamp="1508958187817">
+        <mark key="[" line="71" column="62" />
+        <mark key="]" line="71" column="133" />
+        <mark key="^" line="71" column="133" />
+        <mark key="." line="71" column="133" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Signup/Controllers/GraphicPartnerSignupPageController.php" timestamp="1432157147960">
         <mark key="'" line="10" column="48" />
         <mark key="[" line="10" column="50" />
@@ -1316,6 +1329,9 @@
         <mark key="]" line="6" column="29" />
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" timestamp="1508957099016">
+        <mark key="'" line="210" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/Models/UserPasswordResetModel.php" timestamp="1431222548576">
         <mark key="'" line="151" column="25" />
@@ -1584,19 +1600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
-      <jump line="68" column="71" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Resque/Jobs/CronUpdateContributorSalesStatsAttributesJob.php" />
-      <jump line="109" column="10" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Resque/Jobs/CronUpdateContributorSalesStatsAttributesJob.php" />
-      <jump line="111" column="10" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Resque/Jobs/CronUpdateContributorSalesStatsAttributesJob.php" />
-      <jump line="13" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Resque/Jobs/CronUpdateContributorSalesStatsAttributesJob.php" />
-      <jump line="95" column="5" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Api/Controllers/VideoContributorsApiController.php" />
-      <jump line="71" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Api/Controllers/VideoContributorsApiController.php" />
-      <jump line="193" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Controllers/VideoSearchController.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
-      <jump line="29" column="46" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
-      <jump line="33" column="12" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" />
-      <jump line="16" column="20" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiRequest.php" />
       <jump line="107" column="19" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Search/RestApiControllers/GraphicSearchRestApiController_v1.php" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
@@ -1684,62 +1687,75 @@
       <jump line="305" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
       <jump line="35" column="8" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
       <jump line="34" column="1" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
+      <jump line="12" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="211" column="16" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="236" column="15" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="430" column="14" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="434" column="57" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="456" column="15" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="138" column="15" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="210" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" />
+      <jump line="623" column="15" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" />
+      <jump line="461" column="14" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" />
+      <jump line="462" column="14" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" />
+      <jump line="479" column="14" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntityService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'credit card', 'online shopping', 'ecommerce'</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>'credit card', 'online shopping', 'ecommerce'</text>
       </register>
       <register name="/" type="4">
-        <text>covers</text>
+        <text>adfd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCRtb2NrUGF5bWVudEV2ZW50MS0+Y2FsbGVkLCBpcygyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAndHJhbnNhY3Rpb24nID0+IFsnY3JlZGl0IGNhcmQnLCAnb25saW5lIHNob3BwaW5nJywgJ2Vjb21tZXJjZSddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYWknID0+IFsnSVQnLCAnZnV0dXJpc3RpYycsICdpbnRlcmZhY2UnLCAnZWxlY3RyaWMgY2FyJywgJ2luZm9ybWF0aW9uIHRlY2hub2xvZ3knXSwKICAgICAgICAnYS5pLicgPT4gWydJVCcsICdmdXR1cmlzdGljJywgJ2ludGVyZmFjZScsICdlbGVjdHJpYyBjYXInLCAnaW5mb3JtYXRpb24gdGVjaG5vbG9neSddLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAndGhyZWF0JyA9PiBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCRyZXN1bHRzMVsnZXZlbnRVVUlEJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXE12Y1xIZWxwZXJzXE12Y0h0dHBSZXF1ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQGNvdmVycyBTdG9ja0Jsb2Nrc1xDb21tb25cU2VydmljZXNcRXZlbnRzXEV2ZW50U2VydmljZU1lZGlhdG9yOjp0cmlnZ2VyCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQGNvdmVycyBTdG9ja0Jsb2Nrc1xDb21tb25cU2VydmljZXNcRXZlbnRzXEV2ZW50U2VydmljZU1lZGlhdG9yOjp0cmlnZ2VyCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Ym9vbGVhblNlYXJjaCA9ICRib29sZWFuU2VhcmNoUGFyYW1ldGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQGNvdmVycyBTdG9ja0Jsb2Nrc1xDb21tb25cU2VydmljZXNcRXZlbnRzXEV2ZW50U2VydmljZU1lZGlhdG9yOjp0cmlnZ2VyCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Ym9vbGVhblNlYXJjaCA9ICRyZXF1ZXN0UGFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>covers</last-search>
+      <last-search>adfd</last-search>
       <last-offset />
-      <last-pattern>covers</last-pattern>
+      <last-pattern>adfd</last-pattern>
       <last-replace />
-      <last-substitute>*</last-substitute>
+      <last-substitute>adfd</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1763,6 +1779,8 @@
         <entry>SearchEvent</entry>
         <entry>asdfda</entry>
         <entry>covers</entry>
+        <entry>bool</entry>
+        <entry>adfd</entry>
       </history-search>
       <history-cmd>
         <entry>s/b/i/g</entry>
