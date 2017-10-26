@@ -2729,7 +2729,7 @@
         <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508342499885">
-        <mark key="'" line="29" column="46" />
+        <mark key="'" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/BaseServiceFactory.php" timestamp="1431206288992">
         <mark key="[" line="11" column="50" />
@@ -4145,7 +4145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="4" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNames.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePermissionNamesInterface.php" />
@@ -4245,6 +4244,7 @@
       <jump line="34" column="6" filename="$USER_HOME$/Projects/wasabi/server/components/external-api-integrations/ContentImportService.js" />
       <jump line="149" column="46" filename="$USER_HOME$/Projects/wasabi/server/components/external-api-integrations/ContentImportService.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/wasabi/server/components/external-api-integrations/ContentImportService.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/hubot/scripts/vb-merge-queue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4326,7 +4326,6 @@
         <entry>event</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/double/float/</entry>
         <entry>s/Message/Code/g</entry>
         <entry>s/errorCode/b/g</entry>
         <entry>s/b/i/g</entry>
