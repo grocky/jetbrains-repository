@@ -43,12 +43,12 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" timestamp="1509043390448">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="42" column="58" />
-        <mark key="." line="42" column="58" />
-        <mark key="^" line="42" column="58" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" timestamp="1509044214963">
+        <mark key="'" line="36" column="105" />
+        <mark key="[" line="36" column="105" />
+        <mark key="]" line="36" column="105" />
+        <mark key="." line="36" column="105" />
+        <mark key="^" line="35" column="88" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Signup/SubscriptionService.php" timestamp="1431285525066">
         <mark key="'" line="537" column="65" />
@@ -396,11 +396,12 @@
         <mark key="^" line="52" column="77" />
         <mark key="." line="52" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" timestamp="1509043053903">
-        <mark key="'" line="20" column="14" />
-        <mark key="[" line="100" column="69" />
-        <mark key="]" line="100" column="69" />
-        <mark key="." line="100" column="69" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" timestamp="1509044193602">
+        <mark key="'" line="104" column="50" />
+        <mark key="[" line="98" column="98" />
+        <mark key="]" line="98" column="97" />
+        <mark key="." line="98" column="97" />
+        <mark key="^" line="98" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" timestamp="1508768037926">
         <mark key="'" line="59" column="21" />
@@ -1415,8 +1416,8 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" timestamp="1509028090514">
-        <mark key="'" line="105" column="32" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" timestamp="1509044166672">
+        <mark key="'" line="7" column="6" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -1510,9 +1511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="4" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
-      <jump line="111" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
       <jump line="84" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="28" column="41" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="42" column="62" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
@@ -1610,13 +1608,16 @@
       <jump line="98" column="97" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="5" column="6" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
       <jump line="20" column="14" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
+      <jump line="104" column="50" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
+      <jump line="7" column="6" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
+      <jump line="36" column="105" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>['payload']</text>
+        <text encoding="base64">LT5qc29uU2VyaWFsaXplKCk=</text>
       </register>
       <register name="-" type="4">
-        <text>['payload']</text>
+        <text encoding="base64">LT5qc29uU2VyaWFsaXplKCk=</text>
       </register>
       <register name="/" type="4">
         <text>EventService</text>
@@ -1625,34 +1626,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWx0ZXIgPSAkc3ViUmVxdWVzdC0+Z2V0RmllbGQoJ2ZpbHRlcicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcGF5bG9hZCA9ICRldmVudC0+Z2V0UGF5bG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcRXZlbnRTZXJ2aWNlTWVkaWF0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGF5bG9hZCA9ICRldmVudC0+Z2V0UGF5bG9hZCgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcRXZlbnRTZXJ2aWNlTWVkaWF0b3I7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC9JKgo=</text>
+        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXENvbW1vblxTZXJ2aWNlc1xFdmVudHNcRXZlbnRTZXJ2aWNlTWVkaWF0b3I7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SGFzVGFsZW50UmVsZWFzZWQoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SXNFZGl0b3JpYWwoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsK</text>
+        <text encoding="base64">ICAgIC9JKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZGVvUHVibGljU2VhcmNoQXBpUmVxdWVzdDo6SVNfRURJVE9SSUFMID0+IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SGFzVGFsZW50UmVsZWFzZWQoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SXNFZGl0b3JpYWwoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgJGtleXdvcmRzID0gOwogICAgICAgICRtb2RlID0gJHNvdXJjZS0+Z2V0U2VhcmNoTW9kZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZGVvUHVibGljU2VhcmNoQXBpUmVxdWVzdDo6SVNfRURJVE9SSUFMID0+IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0Jvb2xlYW5TZWFyY2goKTogYm9vbCB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5ib29sZWFuU2VhcmNoOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgJGtleXdvcmRzID0gOwogICAgICAgICRtb2RlID0gJHNvdXJjZS0+Z2V0U2VhcmNoTW9kZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
