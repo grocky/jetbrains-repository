@@ -396,12 +396,12 @@
         <mark key="^" line="52" column="77" />
         <mark key="." line="52" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" timestamp="1508896138155">
-        <mark key="'" line="91" column="31" />
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" timestamp="1509024966390">
+        <mark key="'" line="36" column="35" />
+        <mark key="[" line="99" column="25" />
+        <mark key="]" line="99" column="51" />
+        <mark key="^" line="99" column="51" />
+        <mark key="." line="99" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/Lib/ThirdParty/Payouts/Tipalti/PayeeClientTest.php" timestamp="1508768037926">
         <mark key="'" line="59" column="21" />
@@ -1222,7 +1222,7 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutCycles.php" timestamp="1508726809543">
         <mark key="'" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" timestamp="1508991816629">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" timestamp="1509024306379">
         <mark key="'" line="47" column="33" />
         <mark key="[" line="86" column="71" />
         <mark key="]" line="86" column="83" />
@@ -1504,8 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcEventLoggingData.php" />
-      <jump line="66" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/MarketplaceEvents/MarketplaceEventService.php" />
       <jump line="33" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/MarketplaceEvents/MarketplaceEventService.php" />
       <jump line="41" column="115" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/MarketplaceEvents/MarketplaceEventService.php" />
@@ -1604,58 +1602,60 @@
       <jump line="74" column="67" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" />
       <jump line="41" column="4" filename="$USER_HOME$/Projects/StockBlocks/MicroServices/Search/TermSearch/Models/Request/SubRequest/Fields/QuerySearchRequestField.php" />
       <jump line="47" column="33" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" />
+      <jump line="37" column="29" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
+      <jump line="36" column="35" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>join</text>
+        <text>EventServiceMediator::getInstance()</text>
       </register>
       <register name="-" type="4">
-        <text>join</text>
+        <text>EventServiceMediator::getInstance()</text>
       </register>
       <register name="/" type="4">
-        <text>asdfa</text>
+        <text>EventService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWx0ZXIgPSAkc3ViUmVxdWVzdC0+Z2V0RmllbGQoJ2ZpbHRlcicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SGFzVGFsZW50UmVsZWFzZWQoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SXNFZGl0b3JpYWwoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsK</text>
+        <text encoding="base64">ICAgIC9JKgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZGVvUHVibGljU2VhcmNoQXBpUmVxdWVzdDo6SVNfRURJVE9SSUFMID0+IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SGFzVGFsZW50UmVsZWFzZWQoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoJGZpbHRlci0+Z2V0SXNFZGl0b3JpYWwoKSwgaXMoaWRlbnRpY2FsVG8odHJ1ZSkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgJGtleXdvcmRzID0gOwogICAgICAgICRtb2RlID0gJHNvdXJjZS0+Z2V0U2VhcmNoTW9kZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZGVvUHVibGljU2VhcmNoQXBpUmVxdWVzdDo6SVNfRURJVE9SSUFMID0+IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0Jvb2xlYW5TZWFyY2goKTogYm9vbCB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5ib29sZWFuU2VhcmNoOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgJGtleXdvcmRzID0gOwogICAgICAgICRtb2RlID0gJHNvdXJjZS0+Z2V0U2VhcmNoTW9kZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QXBpUmVxdWVzdEludGVyZmFjZTo6ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0Jvb2xlYW5TZWFyY2goKTogYm9vbCB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5ib29sZWFuU2VhcmNoOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QXBpUmVxdWVzdEludGVyZmFjZTo6ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogcGl0Y2ggCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN0b2NrQmxvY2tzXE12Y1xSb3V0ZXNcTXZjUm91dGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogcGl0Y2ggCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asdfa</last-search>
+      <last-search>EventService</last-search>
       <last-offset />
-      <last-pattern>asdfa</last-pattern>
+      <last-pattern>EventService</last-pattern>
       <last-replace />
       <last-substitute>adfd</last-substitute>
       <last-dir>1</last-dir>
@@ -1687,6 +1687,7 @@
         <entry>adfd</entry>
         <entry>+</entry>
         <entry>asdfa</entry>
+        <entry>EventService</entry>
       </history-search>
       <history-cmd>
         <entry>s/b/i/g</entry>
