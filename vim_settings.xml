@@ -1216,8 +1216,8 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutCycles.php" timestamp="1508726809543">
         <mark key="'" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" timestamp="1508961866822">
-        <mark key="'" line="85" column="67" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" timestamp="1508963862145">
+        <mark key="'" line="47" column="33" />
         <mark key="[" line="80" column="76" />
         <mark key="]" line="82" column="46" />
         <mark key="." line="82" column="46" />
@@ -1495,7 +1495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/Event.php" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/EventLogging/MvcEventLoggingData.php" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/MarketplaceEvents/MarketplaceEventService.php" />
@@ -1595,6 +1594,7 @@
       <jump line="309" column="27" filename="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Arr.php" />
       <jump line="74" column="67" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" />
       <jump line="41" column="4" filename="$USER_HOME$/Projects/StockBlocks/MicroServices/Search/TermSearch/Models/Request/SubRequest/Fields/QuerySearchRequestField.php" />
+      <jump line="47" column="33" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1604,7 +1604,7 @@
         <text>Video</text>
       </register>
       <register name="/" type="4">
-        <text>adfd</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWx0ZXIgPSAkc3ViUmVxdWVzdC0+Z2V0RmllbGQoJ2ZpbHRlcicpOwo=</text>
@@ -1644,9 +1644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>adfd</last-search>
+      <last-search>+</last-search>
       <last-offset />
-      <last-pattern>adfd</last-pattern>
+      <last-pattern>+</last-pattern>
       <last-replace />
       <last-substitute>adfd</last-substitute>
       <last-dir>1</last-dir>
@@ -1676,6 +1676,7 @@
         <entry>covers</entry>
         <entry>bool</entry>
         <entry>adfd</entry>
+        <entry>+</entry>
       </history-search>
       <history-cmd>
         <entry>s/b/i/g</entry>
