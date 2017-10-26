@@ -1222,12 +1222,12 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutCycles.php" timestamp="1508726809543">
         <mark key="'" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" timestamp="1508984891885">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" timestamp="1508989613041">
         <mark key="'" line="47" column="33" />
-        <mark key="[" line="80" column="76" />
-        <mark key="]" line="82" column="46" />
-        <mark key="." line="82" column="46" />
-        <mark key="^" line="82" column="46" />
+        <mark key="[" line="86" column="71" />
+        <mark key="]" line="86" column="83" />
+        <mark key="." line="86" column="83" />
+        <mark key="^" line="86" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Signup/Controllers/GraphicPartnerSignupPageController.php" timestamp="1432157147960">
         <mark key="'" line="10" column="48" />
@@ -1350,7 +1350,7 @@
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" timestamp="1508953279463">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Services/SearchService.php" timestamp="1508989402100">
         <mark key="'" line="33" column="12" />
         <mark key="[" line="126" column="20" />
         <mark key="]" line="126" column="27" />
@@ -1385,7 +1385,7 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/PHP Console" timestamp="1508985874794">
+      <file name="/PHP Console" timestamp="1508989605169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Events/SearchEvents/VideoSearchTabClickedEvent.php" timestamp="1508895908527">
@@ -1607,13 +1607,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Video</text>
+        <text>join</text>
       </register>
       <register name="-" type="4">
-        <text>Video</text>
+        <text>join</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text>asdfa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWx0ZXIgPSAkc3ViUmVxdWVzdC0+Z2V0RmllbGQoJ2ZpbHRlcicpOwo=</text>
@@ -1653,9 +1653,9 @@
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search>asdfa</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
+      <last-pattern>asdfa</last-pattern>
       <last-replace />
       <last-substitute>adfd</last-substitute>
       <last-dir>1</last-dir>
@@ -1686,6 +1686,7 @@
         <entry>bool</entry>
         <entry>adfd</entry>
         <entry>+</entry>
+        <entry>asdfa</entry>
       </history-search>
       <history-cmd>
         <entry>s/b/i/g</entry>
