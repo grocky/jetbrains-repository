@@ -86,7 +86,7 @@
         <mark key="^" line="33" column="17" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" timestamp="1508737017500">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" timestamp="1509137033417">
         <mark key="'" line="122" column="29" />
         <mark key="[" line="734" column="0" />
         <mark key="]" line="734" column="0" />
@@ -117,11 +117,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171027170827_tipalti_seed_data.php" timestamp="1509136596653">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="37" column="47" />
-        <mark key="^" line="37" column="47" />
-        <mark key="." line="37" column="47" />
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171027170827_tipalti_seed_data.php" timestamp="1509136787859">
+        <mark key="[" line="44" column="3" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Members/MemberBrowserProfiles.php" timestamp="1431246931377">
         <mark key="'" line="156" column="0" />
@@ -636,11 +636,10 @@
         <mark key="^" line="464" column="75" />
         <mark key="." line="464" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" timestamp="1509123434606">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" timestamp="1509137337554">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberManageSubMembersModel.php" timestamp="1431216195333">
         <mark key="'" line="463" column="0" />
@@ -744,7 +743,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" timestamp="1507819414408">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestVideoContributorPayouts.php" timestamp="1509137065976">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -900,7 +899,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/MockHelperForVideoTestSearchListenerCollection.php" timestamp="1509110283414" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/mailchimp/Mailchimp/Campaigns.php" timestamp="1431273443578">
         <mark key="'" line="72" column="19" />
         <mark key="[" line="2" column="0" />
@@ -1458,7 +1456,6 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Services/Logger/MvcFluentLogger.php" timestamp="1509042773976" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/ESP/Views/GlobalUnsubscribeView.php" timestamp="1431088507079">
         <mark key="'" line="8" column="81" />
         <mark key="[" line="0" column="71" />
@@ -1718,11 +1715,11 @@
       <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Permissions/OrganizationSitePermissionsService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">LT5tb2NrU3RvY2tEYXRhKCk=</text>
       </register>
       <register name="/" type="4">
         <text>fluent</text>
@@ -1731,37 +1728,37 @@
         <text>xccdbua</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsID0gCgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmVhY2hUZXN0Q2FzZVNldHVwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8U1FMCklOU0VSVCBJTlRPIHN0b2NrX2NvbnRyaWJ1dG9ycwogICAgKGNvbnRyaWJ1dG9yX3BvcnRhbF9pZCkgClZBTFVFUwogICAgKCclcycpOyAgICAgIApTUUw7</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgJGNvbnRyaWJ1dG9ySWRzID0gWwoneGNjZGJ1YScgPT4gJ25mQVkySUE3eUhWbycsCicycjhqcHExJyA9PiAndzlWZmJndXFYUVF0JywKJ3ZGcnQ3TWgnID0+ICdjalc5N0VsdXo5Q0MnLAonUUlSQlg3aScgPT4gJ016R3oyN2M5cmRhMycKXTsK</text>
+        <text encoding="base64">ICAgICAgICAkc3FsID0gCgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwogICAgICAgICRjb250cmlidXRvcklkcyA9IFsKICAgICAgICAgICAgJ3hjY2RidWEnID0+ICduZkFZMklBN3lIVm8nLAogICAgICAgICAgICAnMnI4anBxMScgPT4gJ3c5VmZiZ3VxWFFRdCcsCiAgICAgICAgICAgICd2RnJ0N01oJyA9PiAnY2pXOTdFbHV6OUNDJywKICAgICAgICAgICAgJ1FJUkJYN2knID0+ICdNekd6MjdjOXJkYTMnCiAgICAgICAgXTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PDw8U1FMCklOU0VSVCBJTlRPIHN0b2NrX2NvbnRyaWJ1dG9ycwogICAgKGNvbnRyaWJ1dG9yX3BvcnRhbF9pZCkgClZBTFVFUwogICAgKCclcycpOyAgICAgIApTUUw7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgJGNvbnRyaWJ1dG9ySWRzID0gWwoneGNjZGJ1YScgPT4gJ25mQVkySUE3eUhWbycsCicycjhqcHExJyA9PiAndzlWZmJndXFYUVF0JywKJ3ZGcnQ3TWgnID0+ICdjalc5N0VsdXo5Q0MnLAonUUlSQlg3aScgPT4gJ016R3oyN2M5cmRhMycKXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwogICAgICAgICRjb250cmlidXRvcklkcyA9IFsKICAgICAgICAgICAgJ3hjY2RidWEnID0+ICduZkFZMklBN3lIVm8nLAogICAgICAgICAgICAnMnI4anBxMScgPT4gJ3c5VmZiZ3VxWFFRdCcsCiAgICAgICAgICAgICd2RnJ0N01oJyA9PiAnY2pXOTdFbHV6OUNDJywKICAgICAgICAgICAgJ1FJUkJYN2knID0+ICdNekd6MjdjOXJkYTMnCiAgICAgICAgXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ3hjY2RidWEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ3hjY2RidWEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
       </register>
       <register name=":" type="4">
-        <text>40</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1769,7 +1766,7 @@
       <last-offset />
       <last-pattern>fluent</last-pattern>
       <last-replace />
-      <last-substitute>adfd</last-substitute>
+      <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1828,8 +1825,8 @@
         <entry>43</entry>
         <entry>m-2</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>40</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
