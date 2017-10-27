@@ -117,11 +117,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171027170827_tipalti_seed_data.php" timestamp="1509125484795">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171027170827_tipalti_seed_data.php" timestamp="1509136596653">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Members/MemberBrowserProfiles.php" timestamp="1431246931377">
         <mark key="'" line="156" column="0" />
@@ -160,6 +160,9 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Permissions/OrganizationSitePermissionsService.php" timestamp="1509136113093">
+        <mark key="'" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberPaymentDetailsEntityService.php" timestamp="1431282848406">
         <mark key="'" line="7" column="0" />
@@ -1613,7 +1616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="32" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" />
       <jump line="15" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" />
       <jump line="17" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" />
       <jump line="19" column="18" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Content/PaymentCompleted.php" />
@@ -1713,13 +1715,14 @@
       <jump line="188" column="50" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
       <jump line="26" column="5" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Permissions/OrganizationSitePermissionsService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>86ZKHb2w</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>86ZKHb2w</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>fluent</text>
@@ -1728,34 +1731,34 @@
         <text>xccdbua</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgJGNvbnRyaWJ1dG9ySWRzID0gWwoneGNjZGJ1YScgPT4gJ25mQVkySUE3eUhWbycsCicycjhqcHExJyA9PiAndzlWZmJndXFYUVF0JywKJ3ZGcnQ3TWgnID0+ICdjalc5N0VsdXo5Q0MnLAonUUlSQlg3aScgPT4gJ016R3oyN2M5cmRhMycKXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwogICAgICAgICRjb250cmlidXRvcklkcyA9IFsKICAgICAgICAgICAgJ3hjY2RidWEnID0+ICduZkFZMklBN3lIVm8nLAogICAgICAgICAgICAnMnI4anBxMScgPT4gJ3c5VmZiZ3VxWFFRdCcsCiAgICAgICAgICAgICd2RnJ0N01oJyA9PiAnY2pXOTdFbHV6OUNDJywKICAgICAgICAgICAgJ1FJUkJYN2knID0+ICdNekd6MjdjOXJkYTMnCiAgICAgICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICAkc3FsID0gCgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PDw8U1FMCklOU0VSVCBJTlRPIHN0b2NrX2NvbnRyaWJ1dG9ycwogICAgKGNvbnRyaWJ1dG9yX3BvcnRhbF9pZCkgClZBTFVFUwogICAgKCclcycpOyAgICAgIApTUUw7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgJGNvbnRyaWJ1dG9ySWRzID0gWwoneGNjZGJ1YScgPT4gJ25mQVkySUE3eUhWbycsCicycjhqcHExJyA9PiAndzlWZmJndXFYUVF0JywKJ3ZGcnQ3TWgnID0+ICdjalc5N0VsdXo5Q0MnLAonUUlSQlg3aScgPT4gJ016R3oyN2M5cmRhMycKXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ3hjY2RidWEnCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwogICAgICAgICRjb250cmlidXRvcklkcyA9IFsKICAgICAgICAgICAgJ3hjY2RidWEnID0+ICduZkFZMklBN3lIVm8nLAogICAgICAgICAgICAnMnI4anBxMScgPT4gJ3c5VmZiZ3VxWFFRdCcsCiAgICAgICAgICAgICd2RnJ0N01oJyA9PiAnY2pXOTdFbHV6OUNDJywKICAgICAgICAgICAgJ1FJUkJYN2knID0+ICdNekd6MjdjOXJkYTMnCiAgICAgICAgXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ3hjY2RidWEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyA9PiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ3hjY2RidWEnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">U1FMCiAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ3hjY2RidWEnCg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
