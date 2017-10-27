@@ -21,7 +21,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" timestamp="1509108731328">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" timestamp="1509113403959">
         <mark key="'" line="6" column="45" />
         <mark key="[" line="36" column="105" />
         <mark key="]" line="36" column="105" />
@@ -44,12 +44,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Framework/VideoSiteEventServiceConfiguration.php" timestamp="1508525875516">
-        <mark key="'" line="54" column="51" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetViewModel.php" timestamp="1432719205649">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -67,12 +61,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508893123801">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/switch-sites.sh" timestamp="1432675046496">
         <mark key="[" line="64" column="0" />
@@ -128,11 +116,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventServiceMediator.php" timestamp="1509111874683">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventServiceMediator.php" timestamp="1509113474204">
         <mark key="'" line="71" column="53" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1508751798425">
         <mark key="'" line="281" column="0" />
@@ -427,56 +415,56 @@
       <jump line="28" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>the</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>the</text>
       </register>
       <register name="/" type="4">
-        <text>on</text>
+        <text>triggfer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXZlbnRTZXJ2aWNlTWVkaWF0b3ItPmNsZWFySGFuZGxlcnMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXZlbnRTZXJ2aWNlTWVkaWF0b3ItPmNsZWFySGFuZGxlcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGV2ZW50LT5nZXRFdmVudE5hbWUoKSA9PT0gJ1ZpZGVvU2VhcmNoVGFiQ2xpY2tlZEV2ZW50JykgewogICAgICAgICAgICBmb3JlYWNoICgkaGFuZGxlcnMgYXMgJGhhbmRsZXIpIHsKICAgICAgICAgICAgICAgIGVjaG8gIioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqICAgICAiOwogICAgICAgICAgICAgICAgdmFyX2R1bXAoJGhhbmRsZXIpOwogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhZGRMaXN0ZW5lckNvbGxlY3Rpb24oTGlzdGVuZXJDb2xsZWN0aW9uICRjb2xsZWN0aW9uKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsYXNzZXMgPSBhcnJheV9tYXAoZnVuY3Rpb24oJGMpIHsgcmV0dXJuIHByaW50X3IoJGMsIHRydWUpOyB9LCAkaGFuZGxlcnMpOwogICAgICAgICAgICBwcmludF9yKCRjbGFzc2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXZlbnRTZXJ2aWNlTWVkaWF0b3ItPmNsZWFySGFuZGxlcnMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkaGFuZGxlcnMpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhZGRMaXN0ZW5lckNvbGxlY3Rpb24oTGlzdGVuZXJDb2xsZWN0aW9uICRjb2xsZWN0aW9uKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRldmVudC0+Z2V0RXZlbnROYW1lKCkgPT09ICdWaWRlb1NlYXJjaFRhYkNsaWNrZWRFdmVudCcgLyogJiYgY291bnQoJGhhbmRsZXJzKSA+IDEgKi8pIHsKICAgICAgICAgICAgcHJpbnRfcigkaGFuZGxlcnMpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNsYXNzZXMgPSBhcnJheV9tYXAoZnVuY3Rpb24oJGMpIHsgcmV0dXJuIHByaW50X3IoJGMsIHRydWUpOyB9LCAkaGFuZGxlcnMpOwogICAgICAgICAgICBwcmludF9yKCRjbGFzc2VzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkaGFuZGxlcnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkanNvbiA9IGpzb25fZW5jb2RlKCRsaXN0ZW5lclJlc3BvbnNlcyk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRldmVudC0+Z2V0RXZlbnROYW1lKCkgPT09ICdWaWRlb1NlYXJjaFRhYkNsaWNrZWRFdmVudCcgLyogJiYgY291bnQoJGhhbmRsZXJzKSA+IDEgKi8pIHsKICAgICAgICAgICAgcHJpbnRfcigkaGFuZGxlcnMpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkanNvbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>on</last-search>
+      <last-search>triggfer</last-search>
       <last-offset />
-      <last-pattern>on</last-pattern>
+      <last-pattern>triggfer</last-pattern>
       <last-replace />
       <last-substitute>adfd</last-substitute>
       <last-dir>1</last-dir>
@@ -513,6 +501,7 @@
         <entry>print_</entry>
         <entry>assertThat</entry>
         <entry>on</entry>
+        <entry>triggfer</entry>
       </history-search>
       <history-cmd>
         <entry>s/b/i/g</entry>
