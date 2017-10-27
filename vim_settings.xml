@@ -34,9 +34,6 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1509108385527">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/docs/hooks/pre-flow-hotfix-finish-phinx.php" timestamp="1431954680191">
         <mark key="'" line="36" column="48" />
         <mark key="[" line="1" column="0" />
@@ -650,7 +647,7 @@
         <mark key="." line="217" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/composer.json" timestamp="1509125694693">
-        <mark key="'" line="26" column="5" />
+        <mark key="'" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ongage/OngageESP.php" timestamp="1431050593696">
         <mark key="'" line="349" column="0" />
@@ -1404,9 +1401,6 @@
         <mark key="^" line="105" column="70" />
         <mark key="." line="105" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/MatcherAssert.php" timestamp="1509108808664">
-        <mark key="'" line="33" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/MemberAgreementViewModel.php" timestamp="1431216290114">
         <mark key="'" line="53" column="27" />
         <mark key="[" line="52" column="28" />
@@ -1482,9 +1476,6 @@
         <mark key="]" line="39" column="11" />
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="11" />
-      </file>
-      <file name="/PHP Console" timestamp="1508989656371">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConfiguration.php" timestamp="1507383763372">
         <mark key="[" line="209" column="0" />
@@ -1767,7 +1758,7 @@
         <text encoding="base64">U1FMCiAgICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>40</text>
       </register>
     </registers>
     <search>
@@ -1835,6 +1826,7 @@
         <entry>m-2</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>40</entry>
       </history-cmd>
       <history-expr />
       <history-input />
