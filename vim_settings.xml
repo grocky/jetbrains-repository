@@ -630,12 +630,12 @@
         <mark key="^" line="464" column="75" />
         <mark key="." line="464" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" timestamp="1509139592252">
-        <mark key="'" line="39" column="28" />
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="34" column="47" />
-        <mark key="." line="34" column="47" />
-        <mark key="^" line="34" column="47" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" timestamp="1509226560676">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="55" column="95" />
+        <mark key="]" line="56" column="60" />
+        <mark key="^" line="56" column="60" />
+        <mark key="." line="56" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberManageSubMembersModel.php" timestamp="1431216195333">
         <mark key="'" line="463" column="0" />
@@ -1138,10 +1138,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1509139704734">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1509226517824">
         <mark key="'" line="41" column="5" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="109" />
+        <mark key="[" line="48" column="52" />
+        <mark key="]" line="48" column="68" />
         <mark key="." line="132" column="0" />
         <mark key="^" line="135" column="140" />
       </file>
@@ -1718,7 +1718,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3V0ID0gbmV3IENyb25Db250cmlidXRvclBheW1lbnRTdGF0dXNTeW5jSm9iKDEsIE12Y1Jlc3F1ZU1hbmFnZXI6OkRFRkFVTFRfUVVFVUUsIFtdKTsK</text>
       </register>
       <register name="-" type="4">
         <text>payouts</text>
@@ -1727,37 +1727,37 @@
         <text>status</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">WydpbnRlcm5hbF9wYXlvdXRfcHJvY2Vzc19kYXRlJyA9PiBkYXRlKCJZLW0tZCIpLCAncGF5b3V0X3Byb2Nlc3NfZGF0ZScgPT4gZGF0ZSgiWS1tLWQiKSwgJ3NhbGVzX2VuZF9kYXRlJyA9PiBkYXRlKCJZLW0tZCIpXQ==</text>
+        <text>createPayeeClient</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3V0ID0gbmV3IENyb25Db250cmlidXRvclBheW1lbnRTdGF0dXNTeW5jSm9iKDEsIE12Y1Jlc3F1ZU1hbmFnZXI6OkRFRkFVTFRfUVVFVUUsIFtdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAKICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAkdGlwYWx0aUNsaWVudEZhY3RvcnktPndoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAKICAgICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICR1c2VyVHJhY2tlcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheW91dF9jeWNsZXMnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheW91dF9jeWNsZXMnLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICR1c2VyVHJhY2tlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheW91dF9jeWNsZV9zdGF0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BheW91dF9jeWNsZXMnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BheW91dF9jeWNsZXMnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
