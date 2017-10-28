@@ -620,12 +620,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventServiceMediator.php" timestamp="1509113474204">
-        <mark key="'" line="71" column="53" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1508751798425">
         <mark key="'" line="281" column="0" />
       </file>
