@@ -418,8 +418,8 @@
         <mark key="^" line="47" column="27" />
         <mark key="." line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" timestamp="1509382557981">
-        <mark key="'" line="29" column="27" />
+      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" timestamp="1509392547821">
+        <mark key="'" line="20" column="11" />
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="22" />
         <mark key="." line="14" column="22" />
@@ -483,6 +483,13 @@
         <mark key="]" line="34" column="71" />
         <mark key="." line="34" column="71" />
         <mark key="^" line="34" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/docker/services/resque.yml" timestamp="1509393107574">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171030053542_add_cron_sync_contributor_payment_statuses.php" timestamp="1509341894910">
         <mark key="[" line="15" column="110" />
@@ -655,6 +662,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/docker/services/db.yml" timestamp="1509392273504">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -874,6 +885,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" timestamp="1509393098880">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="72" column="10" />
+        <mark key="]" line="72" column="10" />
+        <mark key="^" line="72" column="10" />
+        <mark key="." line="72" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/DTOs/StockItemDetailsDTO.php" timestamp="1431047592172">
         <mark key="'" line="38" column="0" />
@@ -1643,10 +1661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
-      <jump line="34" column="1" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
-      <jump line="12" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
-      <jump line="211" column="16" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
       <jump line="236" column="15" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
       <jump line="430" column="14" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
       <jump line="434" column="57" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/SiteFunctions.php" />
@@ -1743,49 +1757,53 @@
       <jump line="29" column="27" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
       <jump line="167" column="128" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Routes/CronRouteCollection.php" />
       <jump line="20" column="1" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
+      <jump line="20" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/StockBlocks/docker/services/resque.yml" />
+      <jump line="72" column="9" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="8" column="12" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBDRE5fU0hPVUxEX1VTRV9DRE46ICNsZWF2aW5nIGJsYW5rIHdpbGwgbGV0IHRoaXMgaW5oZXJpdCBkZWZhdWx0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>Unable to find</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBTQl9TSVRFCg==</text>
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGRiXzEKICAgICAgLSByZWRpc18xCiAgICAgIC0gc2VhcmNoc2VydmljZV8xCiAgICAgIC0gcmlza3Byb2ZpbGVzZXJ2aWNlXzEKICAgICAgLSBhY2NvdW50c2VydmljZV8xCiAgICAgIC0gcGRmc2VydmljZV8xCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBDRE5fU0hPVUxEX1VTRV9DRE46ICNsZWF2aW5nIGJsYW5rIHdpbGwgbGV0IHRoaXMgaW5oZXJpdCBkZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGRiXzEKICAgICAgLSByZWRpc18xCiAgICAgIC0gc2VhcmNoc2VydmljZV8xCiAgICAgIC0gcmlza3Byb2ZpbGVzZXJ2aWNlXzEKICAgICAgLSBhY2NvdW50c2VydmljZV8xCiAgICAgIC0gcGRmc2VydmljZV8xCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBDRE5fU0hPVUxEX1VTRV9DRE4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBDRE5fU0hPVUxEX1VTRV9DRE46ICNsZWF2aW5nIGJsYW5rIHdpbGwgbGV0IHRoaXMgaW5oZXJpdCBkZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLSBDRE5fU0hPVUxEX1VTRV9DRE46ICNsZWF2aW5nIGJsYW5rIHdpbGwgbGV0IHRoaXMgaW5oZXJpdCBkZWZhdWx0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4dGVuZHM6CiAgICAgIGZpbGU6IC4vZG9ja2VyL3NlcnZpY2VzL3dlYi55bWwKICAgICAgc2VydmljZTogd2ViCg==</text>
+        <text encoding="base64">ICAgICAgLSBDRE5fU0hPVUxEX1VTRV9DRE4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAK</text>
+        <text encoding="base64">ICAgICAgLSBDRE5fU0hPVUxEX1VTRV9DRE46ICNsZWF2aW5nIGJsYW5rIHdpbGwgbGV0IHRoaXMgaW5oZXJpdCBkZWZhdWx0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYjoKICAgIGV4dGVuZHM6CiAgICAgIGZpbGU6IC4vZG9ja2VyL3NlcnZpY2VzL2RiLnltbAogICAgICBzZXJ2aWNlOiBkYgogIHJlZGlzOgogICAgZXh0ZW5kczoKICAgICAgZmlsZTogLi9kb2NrZXIvc2VydmljZXMvcmVkaXMueW1sCiAgICAgIHNlcnZpY2U6IHJlZGlzCiAgc2VhcmNoc2VydmljZToKICAgIGV4dGVuZHM6CiAgICAgIGZpbGU6IC4vZG9ja2VyL3NlcnZpY2VzL3NlYXJjaHNlcnZpY2UueW1sCiAgICAgIHNlcnZpY2U6IHNlYXJjaHNlcnZpY2UKICAgIGxpbmtzOgogICAgICAtIGVsYXN0aWNzZWFyY2gKICAgIGVudmlyb25tZW50OgogICAgICBFTEFTVElDX0hPU1Q6IGVsYXN0aWNzZWFyY2gKICBhY2NvdW50c2VydmljZToKICAgIGV4dGVuZHM6CiAgICAgIGZpbGU6IC4vZG9ja2VyL3NlcnZpY2VzL2FjY291bnRzZXJ2aWNlLnltbAogICAgICBzZXJ2aWNlOiBhY2NvdW50c2VydmljZQogICAgbGlua3M6CiAgICAgIC0gZGIKICByaXNrcHJvZmlsZXNlcnZpY2U6CiAgICBleHRlbmRzOgogICAgICBmaWxlOiAuL2RvY2tlci9zZXJ2aWNlcy9yaXNrcHJvZmlsZXNlcnZpY2UueW1sCiAgICAgIHNlcnZpY2U6IHJpc2twcm9maWxlc2VydmljZQogICAgbGlua3M6CiAgICAgIC0gbW9uZ29kYgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gTk9ERV9FTlY9ZG9ja2VyCiAgbW9uZ29kYjoKICAgIGV4dGVuZHM6CiAgICAgIGZpbGU6IC4vZG9ja2VyL3NlcnZpY2VzL21vbmdvZGIueW1sCiAgICAgIHNlcnZpY2U6IG1vbmdvZGIKICBlbGFzdGljc2VhcmNoOgogICAgZXh0ZW5kczoKICAgICAgZmlsZTogLi9kb2NrZXIvc2VydmljZXMvZWxhc3RpY3NlYXJjaC55bWwKICAgICAgc2VydmljZTogZWxhc3RpY3NlYXJjaAogICAgbGlua3M6CiAgICAgIC0gZGIKICBwZGZzZXJ2aWNlOgogICAgZXh0ZW5kczoKICAgICAgZmlsZTogLi9kb2NrZXIvc2VydmljZXMvcGRmc2VydmljZS55bWwKICAgICAgc2VydmljZTogcGRmc2VydmljZQogIGZsdWVudGQ6CiAgICBleHRlbmRzOgogICAgICBmaWxlOiAuL2RvY2tlci9zZXJ2aWNlcy9mbHVlbnRkLnltbAogICAgICBzZXJ2aWNlOiBmbHVlbnRkCiAgZHJvbmU6CiAgICBpbWFnZTogdmlkZW9ibG9ja3MvY2lkcm9uZQogICAgdm9sdW1lczoKICAgICAgLSAuL2F1dG90ZXN0LzovYXV0b3Rlc3QKICAgICAgLSAuL2F1dG90ZXN0L3JlcG9ydDovcmVwb3J0cy8KICAgICAgLSAuL2F1dG90ZXN0L291dHB1dC9waHBfbG9nczovcGhwX2xvZ3MvCiAgICAgIC0gL2Rldi9zaG06L2Rldi9zaG0KICAgIGVudmlyb25tZW50OgogICAgICAtIFZOQ19QVz1jaUZUVyEKICAgICAgLSBWTkNfUkVTT0xVVElPTj0xNDQweDkwMAogICAgcG9ydHM6CiAgICAgIC0gIjU5MDE6NTkwMSIKICAgICAgLSAiNjkwMTo2OTAxIgogICAgbGlua3M6CiAgICAgIC0gd2ViOmFiLmxvY2FsCiAgICAgIC0gd2ViOnZiLmxvY2FsCiAgICAgIC0gd2ViOmdzLmxvY2FsCiAgICAgIC0gd2ViOnNiLmxvY2FsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgaG9zdG5hbWUgaGFzIGEgNjQgY2hhcmFjdGVyIGxpbWl0LCBzbyB1c2luZyBzaG9ydCBuYW1lcyBpbnN0ZWFkIG9mIGxvbmcgbmFtZXMgZm9yIGRvY2tlciBpbnRlcm5hbCBob3N0bmFtZXMKICAgIGhvc3RuYW1lOiAidmIubG9jYWwgYWIubG9jYWwgc2IubG9jYWwgZ3MubG9jYWwiCg==</text>
+        <text encoding="base64">ICAgIGV4dGVuZHM6CiAgICAgIGZpbGU6IC4vZG9ja2VyL3NlcnZpY2VzL3dlYi55bWwKICAgICAgc2VydmljZTogd2ViCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBmbHVlbnRkCg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
