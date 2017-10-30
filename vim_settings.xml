@@ -106,6 +106,13 @@
         <mark key="^" line="62" column="1" />
         <mark key="." line="62" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Routes/CronRouteCollection.php" timestamp="1509341361695">
+        <mark key="'" line="101" column="10" />
+        <mark key="[" line="210" column="25" />
+        <mark key="]" line="210" column="55" />
+        <mark key="^" line="210" column="55" />
+        <mark key="." line="210" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteBreadCrumbWidgetView.php" timestamp="1432154624711">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="41" />
@@ -497,6 +504,7 @@
         <mark key="^" line="42" column="86" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/CronJobs/Routes/VideoCronRouteCollection.php" timestamp="1509341194347" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberBrowserProfilesEntityService.php" timestamp="1431230846098">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="55" />
@@ -874,12 +882,12 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Controllers/CronController.php" timestamp="1432299907474">
-        <mark key="'" line="125" column="93" />
-        <mark key="[" line="219" column="130" />
-        <mark key="]" line="219" column="136" />
-        <mark key="^" line="219" column="136" />
-        <mark key="." line="219" column="136" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Controllers/CronController.php" timestamp="1509341389322">
+        <mark key="'" line="149" column="61" />
+        <mark key="[" line="371" column="41" />
+        <mark key="]" line="376" column="17" />
+        <mark key="^" line="376" column="17" />
+        <mark key="." line="376" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/command-runners/GitTest.php" timestamp="1432712230864">
         <mark key="[" line="7" column="0" />
@@ -1058,6 +1066,7 @@
         <mark key="^" line="127" column="27" />
         <mark key="." line="127" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/CronJobs/Controllers/VideoCronController.php" timestamp="1509340985952" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Models/MemberSubscriptionChangeTimeline.php" timestamp="1431056924974">
         <mark key="'" line="112" column="1" />
         <mark key="[" line="21" column="148" />
@@ -1147,12 +1156,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1509336993695">
-        <mark key="'" line="41" column="5" />
-        <mark key="[" line="68" column="85" />
-        <mark key="]" line="68" column="85" />
-        <mark key="." line="68" column="85" />
-        <mark key="^" line="68" column="88" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" timestamp="1509341645326">
+        <mark key="'" line="71" column="81" />
+        <mark key="[" line="91" column="114" />
+        <mark key="]" line="91" column="114" />
+        <mark key="." line="91" column="114" />
+        <mark key="^" line="91" column="114" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/videoblocks/factories/ShoppingCartFactory.php" timestamp="1509339259654" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/MemberEditBinViewModel.php" timestamp="1431215971781">
@@ -1298,9 +1307,6 @@
         <mark key="^" line="37" column="62" />
         <mark key="." line="51" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/StockContributors/ContributorPayoutFactory.php" timestamp="1509139023354">
-        <mark key="'" line="24" column="57" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutCycles.php" timestamp="1508726809543">
         <mark key="'" line="6" column="17" />
       </file>
@@ -1404,9 +1410,6 @@
         <mark key="]" line="105" column="70" />
         <mark key="^" line="105" column="70" />
         <mark key="." line="105" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/MatcherAssert.php" timestamp="1509108808664">
-        <mark key="'" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/MemberAgreementViewModel.php" timestamp="1431216290114">
         <mark key="'" line="53" column="27" />
@@ -1616,9 +1619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="4" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
-      <jump line="81" column="4" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
-      <jump line="8" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="86" column="31" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="97" column="54" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
       <jump line="28" column="50" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
@@ -1716,19 +1716,22 @@
       <jump line="21" column="6" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/PaymentStatus.php" />
       <jump line="387" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/api/Test_ContributorsApiController_processContributorPayoutFailure.php" />
       <jump line="96" column="32" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
+      <jump line="69" column="81" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
+      <jump line="149" column="61" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Controllers/CronController.php" />
+      <jump line="101" column="10" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Routes/CronRouteCollection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2VuZFRvSXBuRGV2cygkc3ViamVjdCwgJG1lc3NhZ2UpIHsKICAgICAgICAkdG8gPSAnbmVlbEB2aWRlb2Jsb2Nrcy5jb20nOwogICAgICAgICRjYyA9IFsncm9ja3lAdmlkZW9ibG9ja3MuY29tJ107CiAgICAgICAgRXhjZXB0aW9uTG9nZ2VyU2VydmljZTo6Z2V0SW5zdGFuY2UoKS0+ZGV2QWxlcnQoJHN1YmplY3QsICRtZXNzYWdlLCAkdG8sIHRydWUsICRjYyk7CiAgICB9CgoK</text>
+      <register name="&quot;" type="4">
+        <text>checkForAbuse</text>
       </register>
       <register name="-" type="4">
-        <text>, self::$finality[$safeValue]</text>
+        <text>checkForAbuse</text>
       </register>
       <register name="/" type="4">
-        <text>randomElement</text>
+        <text>adafad</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogKEludGVybmFsKSBVc2VkIHdoZW4gYSBmYWlsZWQgcGF5bWVudCBpcyBzZW50IHZpYSBBUEkKICAgICAqIEBzZWUgXFN0b2NrQmxvY2tzXENvbW1vblxNb2R1bGVzXEFwaVxDb250cm9sbGVyc1xDb250cmlidXRvcnNBcGlDb250cm9sbGVyOjpwcm9jZXNzQ29udHJpYnV0b3JQYXlvdXRGYWlsdXJlCiAgICAgKi8KICAgIGNvbnN0IEVSUk9SID0gJ2Vycm9yJzsK</text>
+      <register name="0" type="4">
+        <text>SYNC_CONTRIBUTOR_PAYMENT_STATUS</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2VuZFRvSXBuRGV2cygkc3ViamVjdCwgJG1lc3NhZ2UpIHsKICAgICAgICAkdG8gPSAnbmVlbEB2aWRlb2Jsb2Nrcy5jb20nOwogICAgICAgICRjYyA9IFsncm9ja3lAdmlkZW9ibG9ja3MuY29tJ107CiAgICAgICAgRXhjZXB0aW9uTG9nZ2VyU2VydmljZTo6Z2V0SW5zdGFuY2UoKS0+ZGV2QWxlcnQoJHN1YmplY3QsICRtZXNzYWdlLCAkdG8sIHRydWUsICRjYyk7CiAgICB9CgoK</text>
@@ -1765,9 +1768,9 @@
       </register>
     </registers>
     <search>
-      <last-search>randomElement</last-search>
+      <last-search>adafad</last-search>
       <last-offset />
-      <last-pattern>randomElement</last-pattern>
+      <last-pattern>adafad</last-pattern>
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
@@ -1811,6 +1814,9 @@
         <entry>satus</entry>
         <entry>status</entry>
         <entry>randomElement</entry>
+        <entry>Sync</entry>
+        <entry>contributor</entry>
+        <entry>adafad</entry>
       </history-search>
       <history-cmd>
         <entry>s/b/i/g</entry>
