@@ -886,7 +886,9 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" timestamp="1509473884347" />
+      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" timestamp="1509476055634">
+        <mark key="'" line="74" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/DTOs/StockItemDetailsDTO.php" timestamp="1431047592172">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="5" column="4" />
@@ -1658,12 +1660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="27" filename="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Arr.php" />
-      <jump line="74" column="67" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" />
-      <jump line="41" column="4" filename="$USER_HOME$/Projects/StockBlocks/MicroServices/Search/TermSearch/Models/Request/SubRequest/Fields/QuerySearchRequestField.php" />
-      <jump line="47" column="33" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Controllers/PublicSearchApiController.php" />
-      <jump line="36" column="35" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
-      <jump line="37" column="51" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
       <jump line="92" column="34" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
       <jump line="97" column="34" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
       <jump line="100" column="34" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
@@ -1758,6 +1754,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="35" column="46" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="50" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="19" column="12" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="40" column="20" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="42" column="8" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="71" column="2" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="73" column="30" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="74" column="15" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1767,7 +1769,7 @@
         <text>mongodb</text>
       </register>
       <register name="/" type="4">
-        <text>resque</text>
+        <text>elasticsearch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gd2ViCg==</text>
@@ -1807,9 +1809,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resque</last-search>
+      <last-search>elasticsearch</last-search>
       <last-offset />
-      <last-pattern>resque</last-pattern>
+      <last-pattern>elasticsearch</last-pattern>
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
@@ -1841,6 +1843,7 @@
         <entry>links</entry>
         <entry>riskprofi</entry>
         <entry>resque</entry>
+        <entry>elasticsearch</entry>
       </history-search>
       <history-cmd>
         <entry>s/d/s/g</entry>
