@@ -1394,12 +1394,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" timestamp="1509542612710">
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" timestamp="1509543548559">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="224" column="117" />
-        <mark key="]" line="224" column="127" />
-        <mark key="^" line="224" column="127" />
-        <mark key="." line="224" column="127" />
+        <mark key="[" line="224" column="45" />
+        <mark key="]" line="224" column="68" />
+        <mark key="^" line="224" column="68" />
+        <mark key="." line="224" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberService/_MemberServicePartialAllowDownloadInformation.php" timestamp="1431045325363">
         <mark key="'" line="199" column="0" />
@@ -1770,10 +1770,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>videoblocks</text>
+        <text>SiteConstants::GetSiteSupportEmail()</text>
       </register>
       <register name="-" type="4">
-        <text>videoblocks</text>
+        <text>SiteConstants::GetSiteSupportEmail()</text>
       </register>
       <register name="/" type="4">
         <text>finance</text>
@@ -1812,7 +1812,7 @@
         <text encoding="base64">ICAgICMgVXNlIGEgY3VzdG9tIGRyaXZlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>57</text>
       </register>
     </registers>
     <search>
@@ -1869,6 +1869,7 @@
         <entry>42</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>57</entry>
       </history-cmd>
       <history-expr />
       <history-input />
