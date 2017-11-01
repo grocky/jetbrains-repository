@@ -624,6 +624,9 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/hubot/test/scripts/test-vbMergeQueue.js" timestamp="1509576858105">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutCalculationService.php" timestamp="1509368937573">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -678,7 +681,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509344444244">
+      <file name="/Dummy.txt" timestamp="1509577016908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1623,7 +1626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
       <jump line="183" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
       <jump line="216" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
       <jump line="236" column="15" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/EventServiceMediatorTest.php" />
@@ -1723,6 +1725,7 @@
       <jump line="92" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
       <jump line="18" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Routes/VideoIPNRouteCollection.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Framework/VideoSiteConfiguration.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/hubot/test/scripts/test-vbMergeQueue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1732,7 +1735,7 @@
         <text>Starting</text>
       </register>
       <register name="/" type="4">
-        <text>VideoIPN</text>
+        <text>say</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ251bVBlbmRpbmdQYXlvdXRzJyA9PiBjb3VudCgkcGVuZGluZ1BheW91dHMpLAo=</text>
@@ -1768,17 +1771,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>42</text>
       </register>
     </registers>
     <search>
-      <last-search>VideoIPN</last-search>
+      <last-search>say</last-search>
       <last-offset />
-      <last-pattern>VideoIPN</last-pattern>
+      <last-pattern>say</last-pattern>
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1802,9 +1805,9 @@
         <entry>contributor</entry>
         <entry>adafad</entry>
         <entry>VideoIPN</entry>
+        <entry>say</entry>
       </history-search>
       <history-cmd>
-        <entry>s/i/d/g</entry>
         <entry>s/d/s/g</entry>
         <entry>q</entry>
         <entry>%s/public function \(set.*\)$/private function \1/</entry>
@@ -1825,6 +1828,8 @@
         <entry>40</entry>
         <entry>44</entry>
         <entry>w</entry>
+        <entry>32</entry>
+        <entry>42</entry>
       </history-cmd>
       <history-expr />
       <history-input />
