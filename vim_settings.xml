@@ -815,8 +815,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" timestamp="1509476055634">
-        <mark key="'" line="74" column="15" />
+      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" timestamp="1509751637807">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/DTOs/StockItemDetailsDTO.php" timestamp="1431047592172">
         <mark key="'" line="38" column="0" />
@@ -1544,7 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="45" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
       <jump line="7" column="66" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
       <jump line="37" column="52" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="6" column="45" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
@@ -1619,8 +1621,6 @@
       <jump line="35" column="46" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="50" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="19" column="12" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="40" column="20" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="42" column="8" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="71" column="2" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="73" column="30" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="74" column="15" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
@@ -1644,58 +1644,61 @@
       <jump line="390" column="0" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="279" column="63" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="22" column="48" filename="$USER_HOME$/Projects/StockBlocks/package.json" />
+      <jump line="144" column="13" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="40" column="20" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="42" column="8" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>The site parameter is required!&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIK</text>
       </register>
       <register name="-" type="4">
         <text>The site parameter is required!&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>resque</text>
+        <text>elasticsearch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA+JjIgZWNobyAiVGhlIHNpdGUgcGFyYW1ldGVyIGlzIHJlcXVpcmVkISIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmlmIFsgLXogJHtzaXRlfSBdOyB0aGVuCiAgdXNhZ2U7CmZpCg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIFsgLXogJHtzaXRlfSBdOyB0aGVuCiAgdXNhZ2U7CmZpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtIGRlZmF1bHQKICAtIHByaW9yaXR5CiAgLSBkZWxheQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAtIGRlZmF1bHQKICAtIHByaW9yaXR5CiAgLSBkZWxheQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Vk0gVHlwZXM6CiAgICAtYiwgLS1ib290MmRvY2tlcgogICAgLW0sIC0tZG9ja2VyLW1hY2hpbmUKICAgIC1kLCAtLWRvY2tlci1mb3ItbWFjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29uZmlndXJlcyB5b3VyIC9ldGMvaG9zdHMgZmlsZSBmb3IgZWFzeSBhY2Nlc3MgdG8gZG9ja2VyIHdlYnNlcnZlciBhbGwgU3RvY2tCbG9ja3Mgc2l0ZXMuCg==</text>
+        <text encoding="base64">Vk0gVHlwZXM6CiAgICAtYiwgLS1ib290MmRvY2tlcgogICAgLW0sIC0tZG9ja2VyLW1hY2hpbmUKICAgIC1kLCAtLWRvY2tlci1mb3ItbWFjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGRpc3BsYXlfaGVscCgpIHsKICBlY2hvICIiOwp9Cg==</text>
+        <text encoding="base64">Q29uZmlndXJlcyB5b3VyIC9ldGMvaG9zdHMgZmlsZSBmb3IgZWFzeSBhY2Nlc3MgdG8gZG9ja2VyIHdlYnNlcnZlciBhbGwgU3RvY2tCbG9ja3Mgc2l0ZXMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGRpc3BsYXlfaGVscCgpIHsKICBlY2hvICIiOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resque</last-search>
+      <last-search>elasticsearch</last-search>
       <last-offset />
-      <last-pattern>resque</last-pattern>
+      <last-pattern>elasticsearch</last-pattern>
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
@@ -1712,7 +1715,6 @@
         <entry>Unable to find</entry>
         <entry>links</entry>
         <entry>riskprofi</entry>
-        <entry>elasticsearch</entry>
         <entry>Read</entry>
         <entry>finance</entry>
         <entry>SendEmail</entry>
@@ -1724,6 +1726,7 @@
         <entry>getCheckBoxField</entry>
         <entry>Resque</entry>
         <entry>resque</entry>
+        <entry>elasticsearch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@see/@link/</entry>
