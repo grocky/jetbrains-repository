@@ -96,11 +96,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup-resque.sh" timestamp="1509749408036">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup-resque.sh" timestamp="1509750379216">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171027170827_tipalti_seed_data.php" timestamp="1509136787859">
         <mark key="[" line="44" column="3" />
@@ -881,6 +881,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="23" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/update_hosts" timestamp="1509749510560" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1508728866502">
         <mark key="'" line="158" column="0" />
         <mark key="[" line="26" column="43" />
@@ -1646,19 +1647,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>help</text>
+        <text>The site parameter is required!&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>help</text>
+        <text>The site parameter is required!&quot;</text>
       </register>
       <register name="/" type="4">
         <text>resque</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gd2ViCg==</text>
+        <text encoding="base64">ICA+JjIgZWNobyAiVGhlIHNpdGUgcGFyYW1ldGVyIGlzIHJlcXVpcmVkISIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmlmIFsgLXogJHtzaXRlfSBdOyB0aGVuCiAgdXNhZ2U7CmZpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1667,26 +1668,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRlZmF1bHQKICAtIHByaW9yaXR5CiAgLSBkZWxheQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>You may also
-supply 1 or 2 if desired.</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Vk0gVHlwZXM6CiAgICAtYiwgLS1ib290MmRvY2tlcgogICAgLW0sIC0tZG9ja2VyLW1hY2hpbmUKICAgIC1kLCAtLWRvY2tlci1mb3ItbWFjCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Q29uZmlndXJlcyB5b3VyIC9ldGMvaG9zdHMgZmlsZSBmb3IgZWFzeSBhY2Nlc3MgdG8gZG9ja2VyIHdlYnNlcnZlciBhbGwgU3RvY2tCbG9ja3Mgc2l0ZXMuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">U0JfU0lURT0ke3NpdGV9IGRvY2tlci1jb21vcHNlIHVwIC1kCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGRpc3BsYXlfaGVscCgpIHsKICBlY2hvICIiOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBkYgogICAgICAtIHJlZGlzCiAgICAgIC0gc2VhcmNoc2VydmljZQogICAgICAtIGFjY291bnRzZXJ2aWNlCiAgICAgIC0gcmlza3Byb2ZpbGVzZXJ2aWNlCiAgICAgIC0gcGRmc2VydmljZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1745,6 +1745,7 @@ supply 1 or 2 if desired.</text>
         <entry>42</entry>
         <entry>wq</entry>
         <entry>57</entry>
+        <entry>20</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
