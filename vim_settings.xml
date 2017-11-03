@@ -141,12 +141,6 @@
         <mark key="^" line="336" column="41" />
         <mark key="." line="336" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Framework/VideoSiteEventServiceConfiguration.php" timestamp="1508525875516">
-        <mark key="'" line="54" column="51" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/sphinx.sh" timestamp="1432674934810">
         <mark key="'" line="12" column="44" />
         <mark key="[" line="13" column="28" />
@@ -268,8 +262,8 @@
         <mark key="^" line="110" column="158" />
         <mark key="." line="110" column="158" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Form/FormCheckBoxInputWidget.php" timestamp="1432392800437">
-        <mark key="'" line="23" column="40" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Form/FormCheckBoxInputWidget.php" timestamp="1509732872359">
+        <mark key="'" line="54" column="52" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="51" column="82" />
@@ -303,12 +297,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="6" column="61" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/StockItemEvents/StockItemEventService.php" timestamp="1508893123801">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/switch-sites.sh" timestamp="1432675046496">
         <mark key="[" line="64" column="0" />
@@ -764,6 +752,9 @@
         <mark key="^" line="336" column="15" />
         <mark key="." line="336" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionCoreInfoUpdatesArray.php" timestamp="1509732403801">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/ActivateSubMemberViewModel.php" timestamp="1431216245964">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="47" column="93" />
@@ -1133,12 +1124,6 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Framework/VideoSiteConfiguration.php" timestamp="1509344432551">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteMemberProfileWidgetView.php" timestamp="1432154663590">
         <mark key="'" line="60" column="76" />
@@ -1641,7 +1626,6 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1509368904263" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1677,8 +1661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
-      <jump line="20" column="14" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
       <jump line="36" column="105" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
       <jump line="58" column="66" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
@@ -1777,6 +1759,8 @@
       <jump line="40" column="67" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="39" column="29" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Helpers/MvcHttpRequest.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/AdminMembersController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionCoreInfoUpdatesArray.php" />
+      <jump line="54" column="52" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Form/FormCheckBoxInputWidget.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1786,7 +1770,7 @@
         <text>yml</text>
       </register>
       <register name="/" type="4">
-        <text>updateOr</text>
+        <text>getCheckBoxField</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gd2ViCg==</text>
@@ -1826,9 +1810,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateOr</last-search>
+      <last-search>getCheckBoxField</last-search>
       <last-offset />
-      <last-pattern>updateOr</last-pattern>
+      <last-pattern>getCheckBoxField</last-pattern>
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
@@ -1860,6 +1844,8 @@
         <entry>getParam</entry>
         <entry>getPara</entry>
         <entry>updateOr</entry>
+        <entry>setOrgan</entry>
+        <entry>getCheckBoxField</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@see/@link/</entry>
