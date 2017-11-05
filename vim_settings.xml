@@ -393,6 +393,7 @@
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberPermissionsModel.php" timestamp="1509922633712" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronProcessMediaManoXMLs.php" timestamp="1431223319582">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="102" column="15" />
@@ -606,10 +607,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/docker/services/db.yml" timestamp="1509392273504">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -884,7 +881,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/update_hosts" timestamp="1509749510560" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayouts.php" timestamp="1508728866502">
         <mark key="'" line="158" column="0" />
         <mark key="[" line="26" column="43" />
@@ -1335,10 +1331,6 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/docker/services/web.yml" timestamp="1509373754208">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1506893046463">
         <mark key="'" line="19" column="30" />
         <mark key="[" line="15" column="0" />
@@ -1702,11 +1694,10 @@
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
         <entry>randomElement</entry>
         <entry>Sync</entry>
         <entry>contributor</entry>
@@ -1729,7 +1720,6 @@
         <entry>elasticsearch</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@see/@link/</entry>
         <entry>%s/private/protected</entry>
         <entry>210</entry>
         <entry>49</entry>
