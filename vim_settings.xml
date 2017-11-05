@@ -40,6 +40,9 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Templates/Widgets/Site/ViewModels/VideoUnifiedNavBarWidgetViewModel.php" timestamp="1509925015072">
+        <mark key="[" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" timestamp="1509113403959">
         <mark key="'" line="6" column="45" />
         <mark key="[" line="36" column="105" />
@@ -393,7 +396,11 @@
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberPermissionsModel.php" timestamp="1509922633712" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberPermissionsModel.php" timestamp="1509923845660">
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="37" />
+        <mark key="." line="87" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronProcessMediaManoXMLs.php" timestamp="1431223319582">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="102" column="15" />
@@ -401,6 +408,7 @@
         <mark key="^" line="102" column="15" />
         <mark key="." line="102" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntity.php" timestamp="1509924570254" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/Helpers/Limelight/LimelightApiRequest.php" timestamp="1506963031949">
         <mark key="'" line="84" column="166" />
         <mark key="[" line="84" column="167" />
@@ -643,8 +651,8 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509731015472">
-        <mark key="[" line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1509924046153">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
       </file>
@@ -791,6 +799,11 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/Views/UnifiedNavBarWidgetView.php" timestamp="1509923929459">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="17" column="10" />
@@ -859,6 +872,19 @@
         <mark key="]" line="0" column="53" />
         <mark key="^" line="110" column="59" />
         <mark key="." line="0" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Templates/Widgets/Site/ViewModels/GraphicUnifiedNavBarWidgetViewModel.php" timestamp="1509925287771">
+        <mark key="'" line="59" column="69" />
+        <mark key="[" line="105" column="43" />
+        <mark key="]" line="105" column="100" />
+        <mark key="." line="105" column="100" />
+        <mark key="^" line="105" column="100" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/ViewModels/UnifiedNavBarWidgetViewModel.php" timestamp="1509925163375">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="182" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/mailchimp/Mailchimp/Campaigns.php" timestamp="1431273443578">
         <mark key="'" line="72" column="19" />
@@ -1296,6 +1322,9 @@
         <mark key="^" line="151" column="25" />
         <mark key="." line="151" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/Views/UnifiedXsellBarWidgetView.php" timestamp="1509924287278">
+        <mark key="'" line="61" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponseDefaultMessages.php" timestamp="1432390555462">
         <mark key="'" line="6" column="51" />
         <mark key="[" line="21" column="1" />
@@ -1425,6 +1454,9 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="/PHP Console" timestamp="1509924881740">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceCustomerIOListenerCollection.php" timestamp="1431629782003">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="54" />
@@ -1539,9 +1571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="66" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
-      <jump line="37" column="52" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
-      <jump line="6" column="45" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestSearchListenerCollection.php" />
       <jump line="7" column="6" filename="$USER_HOME$/Projects/StockBlocks/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/MatcherAssert.php" />
       <jump line="29" column="7" filename="$USER_HOME$/Projects/StockBlocks/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/MatcherAssert.php" />
       <jump line="31" column="7" filename="$USER_HOME$/Projects/StockBlocks/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/MatcherAssert.php" />
@@ -1639,62 +1668,65 @@
       <jump line="144" column="13" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="40" column="20" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="42" column="8" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
+      <jump line="61" column="34" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/Views/UnifiedXsellBarWidgetView.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Templates/Widgets/Site/ViewModels/GraphicUnifiedNavBarWidgetViewModel.php" />
+      <jump line="59" column="69" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Templates/Widgets/Site/ViewModels/GraphicUnifiedNavBarWidgetViewModel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0Q3VycmVudE9mZmVyKCkgewoKICAgICAgICByZXR1cm4gJHRoaXMtPmdldFNpdGVDdXJyZW50T2ZmZXIoKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>The site parameter is required!&quot;</text>
+        <text>[$offerButtonId, $offer, $offerButtonLabel]</text>
       </register>
       <register name="/" type="4">
-        <text>elasticsearch</text>
+        <text>getSiteCur</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA+JjIgZWNobyAiVGhlIHNpdGUgcGFyYW1ldGVyIGlzIHJlcXVpcmVkISIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0Q3VycmVudE9mZmVyKCkgewoKICAgICAgICByZXR1cm4gJHRoaXMtPmdldFNpdGVDdXJyZW50T2ZmZXIoKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmlmIFsgLXogJHtzaXRlfSBdOyB0aGVuCiAgdXNhZ2U7CmZpCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJG9mZmVyQnV0dG9uSWQgPSAnJzsKICAgICAgICAkb2ZmZXIgPSBudWxsOwogICAgICAgICRvZmZlckJ1dHRvbkxhYmVsID0gJyc7CgogICAgICAgICRzaG93UHJvbW90aW9uYWxPZmZlciA9IFNpdGVQZXJtaXNzaW9uc1NlcnZpY2U6OmdldEluc3RhbmNlKCktPmdldFBlcm1pc3Npb24oJHRoaXMtPnVzZXJTdWJzY3JpcHRpb24sIFNpdGVQZXJtaXNzaW9uTmFtZXM6OlNIT1dfUFJPTU9USU9OQUxfT0ZGRVJTKTsKCiAgICAgICAgaWYgKCEkc2hvd1Byb21vdGlvbmFsT2ZmZXIpIHsKICAgICAgICAgICAgcmV0dXJuIFskb2ZmZXJCdXR0b25JZCwgJG9mZmVyLCAkb2ZmZXJCdXR0b25MYWJlbF07CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISRzaG93UHJvbW90aW9uYWxPZmZlcikgewogICAgICAgICAgICByZXR1cm4gOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIGRlZmF1bHQKICAtIHByaW9yaXR5CiAgLSBkZWxheQo=</text>
+        <text encoding="base64">YWJzdHJhY3QgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzcGFuPlRoaXMgaXMgYSB0ZXN0PC9zcGFuPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Vk0gVHlwZXM6CiAgICAtYiwgLS1ib290MmRvY2tlcgogICAgLW0sIC0tZG9ja2VyLW1hY2hpbmUKICAgIC1kLCAtLWRvY2tlci1mb3ItbWFjCg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q29uZmlndXJlcyB5b3VyIC9ldGMvaG9zdHMgZmlsZSBmb3IgZWFzeSBhY2Nlc3MgdG8gZG9ja2VyIHdlYnNlcnZlciBhbGwgU3RvY2tCbG9ja3Mgc2l0ZXMuCg==</text>
+        <text encoding="base64">CmlmIFsgLXogJHtzaXRlfSBdOyB0aGVuCiAgdXNhZ2U7CmZpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGRpc3BsYXlfaGVscCgpIHsKICBlY2hvICIiOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>elasticsearch</last-search>
+      <last-search>getSiteCur</last-search>
       <last-offset />
-      <last-pattern>elasticsearch</last-pattern>
+      <last-pattern>getSiteCur</last-pattern>
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1718,6 +1750,13 @@
         <entry>Resque</entry>
         <entry>resque</entry>
         <entry>elasticsearch</entry>
+        <entry>Add Team Members</entry>
+        <entry>current-site</entry>
+        <entry>upgrade-now</entry>
+        <entry>site-</entry>
+        <entry>site-menu</entry>
+        <entry>getSite</entry>
+        <entry>getSiteCur</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private/protected</entry>
@@ -1732,13 +1771,13 @@
         <entry>A</entry>
         <entry>43</entry>
         <entry>m-2</entry>
-        <entry>vsp</entry>
         <entry>40</entry>
         <entry>44</entry>
         <entry>42</entry>
         <entry>wq</entry>
         <entry>57</entry>
         <entry>20</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
