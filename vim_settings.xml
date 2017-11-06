@@ -659,7 +659,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509934719930">
+      <file name="/Dummy.txt" timestamp="1509935966106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
@@ -1740,7 +1740,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>32</text>
       </register>
     </registers>
     <search>
@@ -1805,8 +1805,8 @@
         <entry>20</entry>
         <entry>vsp</entry>
         <entry>27</entry>
-        <entry>32</entry>
         <entry>w</entry>
+        <entry>32</entry>
       </history-cmd>
       <history-expr />
       <history-input />
