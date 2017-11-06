@@ -1492,12 +1492,19 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1509979306417" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="^" line="430" column="26" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/environment-bootstrap/README.md" timestamp="1509979468758">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="37" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponse.php" timestamp="1432390863446">
         <mark key="'" line="4" column="22" />
@@ -1625,10 +1632,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>IDE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>IDE</text>
       </register>
       <register name="/" type="4">
         <text>getCheckBoxField</text>
@@ -1637,34 +1644,34 @@
         <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gd2ViCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBDcnVjaWJsZSAoY29kZSByZXZpZXdzIC0gcGluZyBBYXJvbiBpZiB5b3UgbmVlZCBhbiBhY2NvdW50IGNyZWF0ZWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0JfU0lURT0ke3NpdGV9IGRvY2tlci1jb21vcHNlIHVwIC1kCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBkYgogICAgICAtIHJlZGlzCiAgICAgIC0gc2VhcmNoc2VydmljZQogICAgICAtIGFjY291bnRzZXJ2aWNlCiAgICAgIC0gcmlza3Byb2ZpbGVzZXJ2aWNlCiAgICAgIC0gcGRmc2VydmljZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMjIENoYW5naW5nIHNpdGVzIGluIFZhZ3JhbnQKSWYgeW91IHdhbnQgdG8gcXVpY2tseSBjaGFuZ2Ugc2l0ZXMgeW91IGNhbiB1c2UgYH4vUHJvamVjdHMvU3RvY2tCbG9ja3Mvc2NyaXB0cy92YWdyYW50L3N3aXRjaC1zaXRlcy5zaGAuCmBgYAp1c2FnZSBzd2l0Y2gtc2l0ZXMuc2ggWy12XSBbLWFdCiAgICAtdiA6IHZpZGVvYmxvY2tzCiAgICAtYSA6IGF1ZGlvYmxvY2tzCmBgYAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">U0JfU0lURT0ke3NpdGV9IGRvY2tlci1jb21vcHNlIHVwIC1kCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLSBkYgogICAgICAtIHJlZGlzCiAgICAgIC0gc2VhcmNoc2VydmljZQogICAgICAtIGFjY291bnRzZXJ2aWNlCiAgICAgIC0gcmlza3Byb2ZpbGVzZXJ2aWNlCiAgICAgIC0gcGRmc2VydmljZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVXNlIGEgY3VzdG9tIGRyaXZlciB3aGljaCB0YWtlcyBzcGVjaWFsIG9wdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgLQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcl9vcHRzOgogICAgICBmb286ICIxIgogICAgICBiYXI6ICIyIgo=</text>
+        <text encoding="base64">ICAgICAgLQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVXNlIGEgY3VzdG9tIGRyaXZlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1677,16 +1684,10 @@
       <last-replace />
       <last-substitute>fluent</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
-        <entry>triggfer</entry>
-        <entry>sendUn</entry>
-        <entry>fluent</entry>
-        <entry>cycle</entry>
-        <entry>satus</entry>
         <entry>status</entry>
         <entry>randomElement</entry>
         <entry>Sync</entry>
