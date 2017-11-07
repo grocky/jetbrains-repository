@@ -236,7 +236,7 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510063514282">
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510064866467">
         <mark key="[" line="128" column="25" />
         <mark key="]" line="128" column="24" />
         <mark key="^" line="128" column="24" />
@@ -378,11 +378,12 @@
         <mark key="^" line="47" column="27" />
         <mark key="." line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510063714520">
-        <mark key="[" line="94" column="14" />
-        <mark key="]" line="94" column="18" />
-        <mark key="^" line="94" column="18" />
-        <mark key="." line="94" column="18" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510064739381">
+        <mark key="'" line="246" column="548" />
+        <mark key="[" line="94" column="38" />
+        <mark key="]" line="94" column="38" />
+        <mark key="^" line="94" column="38" />
+        <mark key="." line="94" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" timestamp="1509392547821">
         <mark key="'" line="20" column="11" />
@@ -1628,23 +1629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="38" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
-      <jump line="104" column="35" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
-      <jump line="2" column="20" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
-      <jump line="3" column="20" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
-      <jump line="70" column="53" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventServiceMediator.php" />
-      <jump line="98" column="48" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/services/TestVideoSearchListenerCollection.php" />
-      <jump line="24" column="36" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/EventLoggingListenerCollection.php" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/TestAbstractSearchListenerCollection.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
-      <jump line="14" column="14" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
-      <jump line="35" column="108" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
-      <jump line="41" column="5" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronContributorPayoutJob.php" />
-      <jump line="188" column="50" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
       <jump line="26" column="5" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Permissions/OrganizationSitePermissionsService.php" />
@@ -1728,6 +1712,23 @@
       <jump line="390" column="22" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartsEntityService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Services/Stock/GraphicStockItemsEntityService.php" />
       <jump line="29" column="23" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Services/Stock/GraphicStockItemsEntityService.php" />
+      <jump line="416" column="40" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="438" column="45" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="437" column="12" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="424" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="402" column="7" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="401" column="7" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="400" column="7" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="395" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="393" column="45" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="379" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="263" column="61" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="257" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="256" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="255" column="13" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="249" column="5" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="247" column="43" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="246" column="548" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1737,7 +1738,7 @@
         <text>'scpsi'</text>
       </register>
       <register name="/" type="4">
-        <text>getStockitemsMemberHas</text>
+        <text>scpsi</text>
       </register>
       <register name="0" type="4">
         <text>$scpsi</text>
@@ -1777,9 +1778,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getStockitemsMemberHas</last-search>
+      <last-search>scpsi</last-search>
       <last-offset />
-      <last-pattern>getStockitemsMemberHas</last-pattern>
+      <last-pattern>scpsi</last-pattern>
       <last-replace />
       <last-substitute>getStockitemsMemberHas</last-substitute>
       <last-dir>1</last-dir>
@@ -1807,6 +1808,7 @@
         <entry>getShoppingCartContents</entry>
         <entry>ocp</entry>
         <entry>getStockitemsMemberHas</entry>
+        <entry>scpsi</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
