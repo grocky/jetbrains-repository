@@ -26,6 +26,9 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="52" />
       </file>
+      <file name="/a.dummy" timestamp="1510071862745">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/docs/hooks/pre-flow-hotfix-finish-phinx.php" timestamp="1431954680191">
         <mark key="'" line="36" column="48" />
         <mark key="[" line="1" column="0" />
@@ -98,6 +101,12 @@
         <mark key="]" line="2" column="41" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Home/Controllers/VideoHomeController.php" timestamp="1510072824487">
+        <mark key="[" line="60" column="135" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup-resque.sh" timestamp="1509750379216">
         <mark key="[" line="24" column="61" />
@@ -1009,12 +1018,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/config/common.yml" timestamp="1509504609807">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/config/common.yml" timestamp="1510072726046">
+        <mark key="'" line="104" column="11" />
         <mark key="[" line="233" column="15" />
-        <mark key="]" line="233" column="19" />
-        <mark key="." line="233" column="19" />
-        <mark key="^" line="233" column="19" />
+        <mark key="]" line="233" column="18" />
+        <mark key="." line="233" column="18" />
+        <mark key="^" line="233" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/PlanTypeDescriptions.php" timestamp="1431247368556">
         <mark key="'" line="51" column="0" />
@@ -1486,7 +1495,12 @@
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/ErrorEvents/ErrorEvent.php" timestamp="1510071272990" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/ErrorEvents/ErrorEvent.php" timestamp="1510073401967">
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="36" />
+        <mark key="." line="37" column="36" />
+        <mark key="^" line="28" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceCustomerIOListenerCollection.php" timestamp="1431629782003">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="54" />
@@ -1601,8 +1615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
-      <jump line="26" column="5" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Permissions/OrganizationSitePermissionsService.php" />
       <jump line="24" column="57" filename="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/StockContributors/ContributorPayoutFactory.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
@@ -1653,7 +1665,6 @@
       <jump line="74" column="15" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEnum.php" />
       <jump line="4" column="27" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEnum.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="93" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="194" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
@@ -1701,58 +1712,61 @@
       <jump line="249" column="5" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
       <jump line="247" column="43" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
       <jump line="246" column="548" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
+      <jump line="87" column="7" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
+      <jump line="104" column="11" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'scpsi'</text>
+        <text encoding="base64">LAogICAgICAgICAgICByYW5nZSgxLCBjb3VudCgkdGhpcy0+ZXJyb3ItPmdldA==</text>
       </register>
       <register name="-" type="4">
-        <text>'scpsi'</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>scpsi</text>
+        <text>file</text>
       </register>
       <register name="0" type="4">
-        <text>$scpsi</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2ZpbGUnID0+ICRlcnJvclRyYWNlWydmaWxlJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2xpbmUnID0+ICRlcnJvclRyYWNlWydsaW5lJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAkZXJyb3JUcmFjZVsnY2xhc3MnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnZnVuY3Rpb24nID0+ICRlcnJvclRyYWNlWydmdW5jdGlvbiddID8/ICdVbmtub3duJywKICAgICAgICAgICAgXQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSAkIHtpbnR9ICRwYWdlICRwYWdlCiAgICAgKiBAaW50ZXJuYWwgcGFyYW0gJCB7aW50fSAkcmVzdWx0c1BlclBhZ2UgJHJlc3VsdHNQZXJQYWdlCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICByYW5nZSgxLCBjb3VudCgkdGhpcy0+ZXJyb3ItPmdldA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSAkIHtpbnR9ICRwYWdlICRwYWdlCiAgICAgKiBAaW50ZXJuYWwgcGFyYW0gJCB7aW50fSAkcmVzdWx0c1BlclBhZ2UgJHJlc3VsdHNQZXJQYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAgICAgJ2ZpbGUnID0+ICRmb29bJ2ZpbGUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAgICAgJ2xpbmUnID0+ICRmb29bJ2xpbmUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAkZm9vWydjbGFzcyddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnZnVuY3Rpb24nID0+ICRmb29bJ2Z1bmN0aW9uJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgXTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGNvbGxlY3QoJHRoaXMtPmVycm9yLT5nZXRUcmFjZSgpKQogICAgICAgICAgICAtPm1hcCgpCiAgICAgICAgICAgIC0+dG9BcnJheSgp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZ2FuaXphdGlvblVzZXJTdWJzY3JpcHRpb25zID0gJHRoaXMtPnVzZXJTdWJzY3JpcHRpb25TZXJ2aWNlLT5nZXRBbGxCeU9yZ2FuaXphdGlvbklkKCR0aGlzLT51c2VyU3Vic2NyaXB0aW9uLT5nZXRPcmdhbml6YXRpb25JZCgpKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZnVuY3Rpb24oJGZvbykgewogICAgICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICAgICAnZmlsZScgPT4gJGZvb1snZmlsZSddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnbGluZScgPT4gJGZvb1snbGluZSddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+ICRmb29bJ2NsYXNzJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgICAgICdmdW5jdGlvbicgPT4gJGZvb1snZnVuY3Rpb24nXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICBdOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2ZpbGUnID0+ICRlcnJvclRyYWNlWydmaWxlJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2xpbmUnID0+ICRlcnJvclRyYWNlWydsaW5lJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAkZXJyb3JUcmFjZVsnY2xhc3MnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnZnVuY3Rpb24nID0+ICRlcnJvclRyYWNlWydmdW5jdGlvbiddID8/ICdVbmtub3duJywKICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtPnRvQXJyYXkoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VkU3RvY2tJdGVtcyA9IFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtc0VudGl0eVNlcnZpY2U6OmdldEluc3RhbmNlKCktPmdldEJ5VXNlclN1YnNjcmlwdGlvbigkdGhpcy0+dXNlclN1YnNjcmlwdGlvbiwgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAnZmlsZScgPT4gJGVycm9yVHJhY2VbJ2ZpbGUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnbGluZScgPT4gJGVycm9yVHJhY2VbJ2xpbmUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnY2xhc3MnID0+ICRlcnJvclRyYWNlWydjbGFzcyddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICdmdW5jdGlvbicgPT4gJGVycm9yVHJhY2VbJ2Z1bmN0aW9uJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICBdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xlYW5Vc2VyU3Vic2NyaXB0aW9uSWQgPSAkdGhpcy0+ZGItPkNsZWFuKCR1c2VyU3Vic2NyaXB0aW9uLT5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
       </register>
       <register name=":" type="4">
-        <text>45</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scpsi</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>scpsi</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace />
       <last-substitute>getStockitemsMemberHas</last-substitute>
       <last-dir>1</last-dir>
@@ -1781,6 +1795,8 @@
         <entry>ocp</entry>
         <entry>getStockitemsMemberHas</entry>
         <entry>scpsi</entry>
+        <entry>log</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -1802,8 +1818,8 @@
         <entry>vsp</entry>
         <entry>27</entry>
         <entry>32</entry>
-        <entry>w</entry>
         <entry>45</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
