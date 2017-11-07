@@ -149,12 +149,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1510082282048">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1510086532151">
         <mark key="'" line="21" column="82" />
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="62" />
-        <mark key="^" line="5" column="62" />
-        <mark key="." line="5" column="62" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1510077554008">
         <mark key="[" line="0" column="0" />
@@ -418,10 +418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>varchar</text>
