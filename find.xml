@@ -22,7 +22,15 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
+      <mask>.</mask>
+      <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
+      <mask>*.videoblockhps</mask>
+      <mask>*s</mask>
+      <mask>*.phps</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
