@@ -93,9 +93,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Helpers/MvcHttpRequest.php" timestamp="1509731259180">
-        <mark key="'" line="39" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/switch-sites.sh" timestamp="1432675046496">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -121,9 +118,6 @@
         <mark key="]" line="135" column="72" />
         <mark key="^" line="135" column="72" />
         <mark key="." line="135" column="72" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutStatusLog.php" timestamp="1509342387904">
-        <mark key="'" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/general_event.sql" timestamp="1510078865059" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberPermissionsModel.php" timestamp="1509923845660">
@@ -171,9 +165,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionCoreInfoUpdatesArray.php" timestamp="1509732403801">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Framework/AudioSiteEventServiceConfiguration.php" timestamp="1508525208144">
         <mark key="[" line="11" column="0" />
@@ -230,15 +221,12 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/EventLogLoaderSupervisor.scala" timestamp="1510078465282" />
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Services/Stock/GraphicStockItemsEntityService.php" timestamp="1509936883966">
-        <mark key="'" line="29" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/event/gs_site_error_trace.sql" timestamp="1510073699362" />
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1510073317331">
-        <mark key="'" line="0" column="70" />
-        <mark key="[" line="0" column="437" />
-        <mark key="]" line="0" column="437" />
-        <mark key="." line="0" column="437" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1510083563052">
+        <mark key="'" line="3" column="47" />
+        <mark key="[" line="13" column="79" />
+        <mark key="]" line="13" column="92" />
+        <mark key="." line="13" column="79" />
         <mark key="^" line="0" column="454" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Stock/VideoStockItemsEntityService.php" timestamp="1509937465989">
@@ -265,8 +253,11 @@
         <mark key="." line="105" column="86" />
         <mark key="^" line="105" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/StockContributors/ContributorPayoutFactory.php" timestamp="1509139023354">
-        <mark key="'" line="24" column="57" />
+      <file name="$USER_HOME$/Projects/event-log-loader/S3EventData" timestamp="1510083841751">
+        <mark key="[" line="16" column="65" />
+        <mark key="]" line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+        <mark key="." line="16" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberPurchasesController.php" timestamp="1509938292379">
         <mark key="[" line="127" column="29" />
@@ -274,19 +265,10 @@
         <mark key="." line="127" column="34" />
         <mark key="^" line="127" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/Views/UnifiedXsellBarWidgetView.php" timestamp="1509924287278">
-        <mark key="'" line="61" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/members/TestMemberSignups.php" timestamp="1432718247353">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/ShoppingCart/Controllers/ShoppingCartContentsApiController.php" timestamp="1509934772492">
-        <mark key="'" line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/MatcherAssert.php" timestamp="1509108808664">
-        <mark key="'" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
@@ -322,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronContributorPayoutJob.php" />
       <jump line="188" column="50" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
       <jump line="26" column="5" filename="$USER_HOME$/Projects/StockBlocks/composer.json" />
@@ -422,19 +403,20 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="21" column="82" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
+      <jump line="3" column="47" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>1489182609832</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>1489182609832</text>
       </register>
       <register name="/" type="4">
         <text>varchar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHMibG9hZFRvR2VuZXJhbEV2ZW50VGFibGUgY2FsbGVkICRzM0V2ZW50TW9kZWwiKQo=</text>
+      <register name="0" type="4">
+        <text>1510073203975</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZXZlbnQue3sgc2l0ZU5hbWUgfX1fc2l0ZV9lcnJvcl90cmFjZSAoCiAgICAiZXJyb3JfdXVpZCIgVkFSQ0hBUigxMDI0KSBlbmNvZGUgcmF3LAogICAgInNlcSIgU01BTExJTlQgZW5jb2RlIGx6bywKICAgICJmaWxlIiBWQVJDSEFSKDEwMjQpIGVuY29kZSBsem8sCiAgICAibGluZSIgU01BTExJTlQgZW5jb2RlIGx6bywKICAgICJmdW5jdGlvbiIgVkFSQ0hBUigxMDI0KSBlbmNvZGUgbHpvLAogICAgImNsYXNzIiBWQVJDSEFSKDEwMjQpIGVuY29kZSBsem8KKQpkaXN0a2V5KCJlcnJvcl91dWlkIikKc29ydGtleSgiZXJyb3JfdXVpZCIpOwo=</text>
@@ -529,6 +511,7 @@
         <entry>130</entry>
         <entry>150</entry>
         <entry>156</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
