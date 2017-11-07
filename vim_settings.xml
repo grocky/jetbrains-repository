@@ -31,7 +31,7 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510079009763">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510092528382">
         <mark key="[" line="175" column="67" />
         <mark key="]" line="175" column="75" />
         <mark key="^" line="175" column="75" />
@@ -156,7 +156,7 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510077554008">
+      <file name="/Dummy.txt" timestamp="1510092300271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
@@ -285,6 +285,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1509934204790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1510092791757">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConfiguration.php" timestamp="1507383763372">
         <mark key="[" line="209" column="0" />
