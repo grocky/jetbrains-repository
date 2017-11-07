@@ -236,6 +236,12 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510063514282">
+        <mark key="[" line="128" column="25" />
+        <mark key="]" line="128" column="24" />
+        <mark key="^" line="128" column="24" />
+        <mark key="." line="128" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteAuthentication.php" timestamp="1432156676037">
         <mark key="'" line="175" column="15" />
         <mark key="[" line="175" column="15" />
@@ -372,11 +378,11 @@
         <mark key="^" line="47" column="27" />
         <mark key="." line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1509937989686">
-        <mark key="[" line="135" column="46" />
-        <mark key="]" line="135" column="72" />
-        <mark key="^" line="135" column="72" />
-        <mark key="." line="135" column="72" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510063714520">
+        <mark key="[" line="94" column="14" />
+        <mark key="]" line="94" column="18" />
+        <mark key="^" line="94" column="18" />
+        <mark key="." line="94" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" timestamp="1509392547821">
         <mark key="'" line="20" column="11" />
@@ -428,7 +434,6 @@
         <mark key="^" line="102" column="15" />
         <mark key="." line="102" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/MvcEntity.php" timestamp="1509924570254" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/Helpers/Limelight/LimelightApiRequest.php" timestamp="1506963031949">
         <mark key="'" line="84" column="166" />
         <mark key="[" line="84" column="167" />
@@ -1592,6 +1597,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1510062901693" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1725,46 +1731,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U2hvcHBpbmdDYXJ0UHVyY2hhc2VTdG9ja0l0ZW1zRW50aXR5U2VydmljZTo6Z2V0SW5zdGFuY2UoKS0+Z2V0VG90YWxDb3VudEJ5VXNlclN1YnNjcmlwdGlvbigkdGhpcy0+dXNlclN1YnNjcmlwdGlvbik7</text>
+        <text>'scpsi'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2hvcHBpbmdDYXJ0UHVyY2hhc2VTdG9ja0l0ZW1zRW50aXR5U2VydmljZTo6Z2V0SW5zdGFuY2UoKS0+Z2V0VG90YWxDb3VudEJ5VXNlclN1YnNjcmlwdGlvbigkdGhpcy0+dXNlclN1YnNjcmlwdGlvbik7</text>
+        <text>'scpsi'</text>
       </register>
       <register name="/" type="4">
         <text>getStockitemsMemberHas</text>
       </register>
       <register name="0" type="4">
-        <text>ShoppingCartPurchaseStockItemsEntityService</text>
+        <text>$scpsi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSAkIHtpbnR9ICRwYWdlICRwYWdlCiAgICAgKiBAaW50ZXJuYWwgcGFyYW0gJCB7aW50fSAkcmVzdWx0c1BlclBhZ2UgJHJlc3VsdHNQZXJQYWdlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZ2FuaXphdGlvblVzZXJTdWJzY3JpcHRpb25zID0gJHRoaXMtPnVzZXJTdWJzY3JpcHRpb25TZXJ2aWNlLT5nZXRBbGxCeU9yZ2FuaXphdGlvbklkKCR0aGlzLT51c2VyU3Vic2NyaXB0aW9uLT5nZXRPcmdhbml6YXRpb25JZCgpKTsK</text>
+        <text encoding="base64">ICAgICAqIEBpbnRlcm5hbCBwYXJhbSAkIHtpbnR9ICRwYWdlICRwYWdlCiAgICAgKiBAaW50ZXJuYWwgcGFyYW0gJCB7aW50fSAkcmVzdWx0c1BlclBhZ2UgJHJlc3VsdHNQZXJQYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZ2FuaXphdGlvblVzZXJTdWJzY3JpcHRpb25zID0gJHRoaXMtPnVzZXJTdWJzY3JpcHRpb25TZXJ2aWNlLT5nZXRBbGxCeU9yZ2FuaXphdGlvbklkKCR0aGlzLT51c2VyU3Vic2NyaXB0aW9uLT5nZXRPcmdhbml6YXRpb25JZCgpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VkU3RvY2tJdGVtcyA9IFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtc0VudGl0eVNlcnZpY2U6OmdldEluc3RhbmNlKCktPmdldEJ5VXNlclN1YnNjcmlwdGlvbigkdGhpcy0+dXNlclN1YnNjcmlwdGlvbiwgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xlYW5Vc2VyU3Vic2NyaXB0aW9uSWQgPSAkdGhpcy0+ZGItPkNsZWFuKCR1c2VyU3Vic2NyaXB0aW9uLT5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VkU3RvY2tJdGVtcyA9IFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtc0VudGl0eVNlcnZpY2U6OmdldEluc3RhbmNlKCktPmdldEJ5VXNlclN1YnNjcmlwdGlvbigkdGhpcy0+dXNlclN1YnNjcmlwdGlvbiwgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR1c2VyU3Vic2NyaXB0aW9uLT5nZXRJZCgpOwogICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xlYW5Vc2VyU3Vic2NyaXB0aW9uSWQgPSAkdGhpcy0+ZGItPkNsZWFuKCR1c2VyU3Vic2NyaXB0aW9uLT5nZXRJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1775,22 +1781,12 @@
       <last-offset />
       <last-pattern>getStockitemsMemberHas</last-pattern>
       <last-replace />
-      <last-substitute>fluent</last-substitute>
+      <last-substitute>getStockitemsMemberHas</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>randomElement</entry>
-        <entry>Sync</entry>
-        <entry>contributor</entry>
-        <entry>adafad</entry>
-        <entry>VideoIPN</entry>
-        <entry>Unable to find</entry>
-        <entry>links</entry>
-        <entry>riskprofi</entry>
-        <entry>Read</entry>
-        <entry>finance</entry>
         <entry>SendEmail</entry>
         <entry>getParamValues</entry>
         <entry>getParam</entry>
@@ -1813,8 +1809,6 @@
         <entry>getStockitemsMemberHas</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/private/protected</entry>
-        <entry>210</entry>
         <entry>49</entry>
         <entry>99</entry>
         <entry>76]</entry>
