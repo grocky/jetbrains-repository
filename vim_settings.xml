@@ -1774,7 +1774,7 @@
         <text encoding="base64">ICAgICAgICAkY2xlYW5Vc2VyU3Vic2NyaXB0aW9uSWQgPSAkdGhpcy0+ZGItPkNsZWFuKCR1c2VyU3Vic2NyaXB0aW9uLT5nZXRJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>45</text>
       </register>
     </registers>
     <search>
@@ -1831,6 +1831,7 @@
         <entry>27</entry>
         <entry>32</entry>
         <entry>w</entry>
+        <entry>45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
