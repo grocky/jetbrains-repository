@@ -103,10 +103,10 @@
         <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Home/Controllers/VideoHomeController.php" timestamp="1510072824487">
-        <mark key="[" line="60" column="135" />
-        <mark key="]" line="61" column="7" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="61" column="7" />
+        <mark key="[" line="16" column="135" />
+        <mark key="]" line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="56" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup-resque.sh" timestamp="1509750379216">
         <mark key="[" line="24" column="61" />
@@ -234,11 +234,11 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510064866467">
-        <mark key="[" line="128" column="25" />
-        <mark key="]" line="128" column="24" />
-        <mark key="^" line="128" column="24" />
-        <mark key="." line="128" column="24" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510103471260">
+        <mark key="[" line="185" column="5" />
+        <mark key="]" line="170" column="37" />
+        <mark key="^" line="170" column="37" />
+        <mark key="." line="170" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteAuthentication.php" timestamp="1432156676037">
         <mark key="'" line="175" column="15" />
@@ -377,7 +377,7 @@
         <mark key="." line="47" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510064739381">
-        <mark key="'" line="213" column="548" />
+        <mark key="'" line="246" column="548" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" timestamp="1509392547821">
         <mark key="'" line="20" column="11" />
@@ -831,6 +831,12 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/MarketplacePurchaseHelper.php" timestamp="1510102871550">
+        <mark key="[" line="66" column="29" />
+        <mark key="]" line="67" column="7" />
+        <mark key="^" line="67" column="7" />
+        <mark key="." line="67" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/ViewModels/BaseViewModel.php" timestamp="1432226699109">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="14" column="11" />
@@ -1007,9 +1013,9 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartsEntityService.php" timestamp="1509934923345">
-        <mark key="[" line="416" column="0" />
-        <mark key="]" line="416" column="0" />
-        <mark key="." line="416" column="0" />
+        <mark key="[" line="414" column="0" />
+        <mark key="]" line="414" column="0" />
+        <mark key="." line="414" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/EventLoggingListenerCollectionTest.php" timestamp="1508520536916">
         <mark key="'" line="27" column="62" />
@@ -1020,10 +1026,10 @@
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/config/common.yml" timestamp="1510072726046">
         <mark key="'" line="104" column="11" />
-        <mark key="[" line="233" column="15" />
-        <mark key="]" line="233" column="18" />
-        <mark key="." line="233" column="18" />
-        <mark key="^" line="233" column="18" />
+        <mark key="[" line="227" column="15" />
+        <mark key="]" line="227" column="18" />
+        <mark key="." line="227" column="18" />
+        <mark key="^" line="227" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/PlanTypeDescriptions.php" timestamp="1431247368556">
         <mark key="'" line="51" column="0" />
@@ -1119,6 +1125,9 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
+      <file name="/fragment.php" timestamp="1510102000097">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/MemberNew/Controllers/EngagementPostsController.php" timestamp="1431121141354">
         <mark key="'" line="35" column="79" />
         <mark key="[" line="7" column="61" />
@@ -1127,10 +1136,10 @@
         <mark key="." line="8" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Stock/VideoStockItemsEntityService.php" timestamp="1509937465989">
-        <mark key="[" line="724" column="3" />
-        <mark key="]" line="724" column="2" />
-        <mark key="." line="724" column="2" />
-        <mark key="^" line="724" column="2" />
+        <mark key="[" line="767" column="3" />
+        <mark key="]" line="767" column="2" />
+        <mark key="." line="767" column="2" />
+        <mark key="^" line="767" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/ViewModels/PromotionalOfferButtonDTO.php" timestamp="1509927668463">
         <mark key="'" line="6" column="6" />
@@ -1345,10 +1354,10 @@
         <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberPurchasesController.php" timestamp="1509938292379">
-        <mark key="[" line="116" column="29" />
-        <mark key="]" line="116" column="34" />
-        <mark key="." line="116" column="34" />
-        <mark key="^" line="116" column="34" />
+        <mark key="[" line="127" column="29" />
+        <mark key="]" line="127" column="34" />
+        <mark key="." line="127" column="34" />
+        <mark key="^" line="127" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/Models/UserPasswordResetModel.php" timestamp="1431222548576">
         <mark key="'" line="151" column="25" />
@@ -1494,12 +1503,6 @@
       </file>
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/ErrorEvents/ErrorEvent.php" timestamp="1510073401967">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="36" />
-        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceCustomerIOListenerCollection.php" timestamp="1431629782003">
         <mark key="'" line="0" column="0" />
@@ -1718,49 +1721,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICByYW5nZSgxLCBjb3VudCgkdGhpcy0+ZXJyb3ItPmdldA==</text>
+        <text>first</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2ZpbGUnID0+ICRlcnJvclRyYWNlWydmaWxlJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2xpbmUnID0+ICRlcnJvclRyYWNlWydsaW5lJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAkZXJyb3JUcmFjZVsnY2xhc3MnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnZnVuY3Rpb24nID0+ICRlcnJvclRyYWNlWydmdW5jdGlvbiddID8/ICdVbmtub3duJywKICAgICAgICAgICAgXQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkZmlyc3RQYWdlSXRlbUlkcyA9IGNvbGxlY3QoJHN0b2NrSXRlbVB1cmNoYXNlc1swXSktPm1hcChmdW5jdGlvbihTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXMgJHNjcHNpKSB7IHJldHVybiAkc2Nwc2ktPmdldElkKCk7IH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICByYW5nZSgxLCBjb3VudCgkdGhpcy0+ZXJyb3ItPmdldA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgZm9yZWFjaCAoJHN0b2NrSXRlbVB1cmNoYXNlcyBhcyAkc3RvY2tJdGVtUHVyY2hhc2UpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCgkc3RvY2tJdGVtUHVyY2hhc2UsIGlzKGFuSW5zdGFuY2VPZihTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXM6OmNsYXNzKSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAgICAgJ2ZpbGUnID0+ICRmb29bJ2ZpbGUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAgICAgJ2xpbmUnID0+ICRmb29bJ2xpbmUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAkZm9vWydjbGFzcyddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnZnVuY3Rpb24nID0+ICRmb29bJ2Z1bmN0aW9uJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgXTsK</text>
+        <text encoding="base64">CiAgICAgICAgZm9yZWFjaCAoJHN0b2NrSXRlbVB1cmNoYXNlcyBhcyAkc3RvY2tJdGVtUHVyY2hhc2UpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCgkc3RvY2tJdGVtUHVyY2hhc2UsIGlzKGFuSW5zdGFuY2VPZihTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXM6OmNsYXNzKSkpOwogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGNvbGxlY3QoJHRoaXMtPmVycm9yLT5nZXRUcmFjZSgpKQogICAgICAgICAgICAtPm1hcCgpCiAgICAgICAgICAgIC0+dG9BcnJheSgp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjokbWFya2V0cGxhY2VQdXJjaGFzZUhlbHBlci0+bW9ja1B1cmNoYXNlKDMsIDE5OS4wMCwgJHVzZXJTdWJzY3JpcHRpb24pOwogICAgICAgIHNlbGY6OiRtYXJrZXRwbGFjZVB1cmNoYXNlSGVscGVyLT5tb2NrUHVyY2hhc2UoMiwgMTk5LjAwLCAkdXNlclN1YnNjcmlwdGlvbik7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZnVuY3Rpb24oJGZvbykgewogICAgICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICAgICAnZmlsZScgPT4gJGZvb1snZmlsZSddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnbGluZScgPT4gJGZvb1snbGluZSddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+ICRmb29bJ2NsYXNzJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgICAgICdmdW5jdGlvbicgPT4gJGZvb1snZnVuY3Rpb24nXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICBdOwogICAgICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRQdXJjaGFzZWRTdG9ja0l0ZW1zID0gMDsKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2ZpbGUnID0+ICRlcnJvclRyYWNlWydmaWxlJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2xpbmUnID0+ICRlcnJvclRyYWNlWydsaW5lJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAkZXJyb3JUcmFjZVsnY2xhc3MnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnZnVuY3Rpb24nID0+ICRlcnJvclRyYWNlWydmdW5jdGlvbiddID8/ICdVbmtub3duJywKICAgICAgICAgICAgXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgJHNob3BwaW5nQ2FydFB1cmNoYXNlcyA9IFNob3BwaW5nQ2FydFB1cmNoYXNlc0VudGl0eVNlcnZpY2U6OmdldEluc3RhbmNlKCktPmdldEFsbCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtPnRvQXJyYXkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAnZmlsZScgPT4gJGVycm9yVHJhY2VbJ2ZpbGUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnbGluZScgPT4gJGVycm9yVHJhY2VbJ2xpbmUnXSA/PyAnVW5rbm93bicsCiAgICAgICAgICAgICAgICAnY2xhc3MnID0+ICRlcnJvclRyYWNlWydjbGFzcyddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICdmdW5jdGlvbicgPT4gJGVycm9yVHJhY2VbJ2Z1bmN0aW9uJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdmljZUhkUHJpY2UgPSAzNDkuMDA7CiAgICAgICAgJHZpY2UgPSBPcmdhbml6YXRpb25GYWN0b3J5Ojptb2NrV2l0aEN1c3RvbVByaWNpbmcoCiAgICAgICAgICAgIFsndGl0bGUnID0+IHNlbGY6OiRkYXRhRmFrZXItPmNvbXBhbnldLAogICAgICAgICAgICBbVmlkZW9TdG9ja0l0ZW1QdXJjaGFzZVR5cGU6OkhEID0+ICR2aWNlSGRQcmljZSwgVmlkZW9TdG9ja0l0ZW1QdXJjaGFzZVR5cGU6OkZvdXJLID0+IDU5OS4wMF0KICAgICAgICApOwoKICAgICAgICAkZXhwZWN0ZWRQdXJjaGFzZWRTdG9ja0l0ZW1zICs9IHNlbGY6OiRtYXJrZXRwbGFjZVB1cmNoYXNlSGVscGVyLT5tb2NrT3JnYW5pemF0aW9uUHVyY2hhc2UoMiwgJHZpY2VIZFByaWNlLCAkdmljZSk7CgogICAgICAgICRtdHZIZFByaWNlID0gNjAwLjAwOwogICAgICAgICRtdHYgPSBPcmdhbml6YXRpb25GYWN0b3J5Ojptb2NrV2l0aEN1c3RvbVByaWNpbmcoCiAgICAgICAgICAgIFsndGl0bGUnID0+IHNlbGY6OiRkYXRhRmFrZXItPmNvbXBhbnldLAogICAgICAgICAgICBbVmlkZW9TdG9ja0l0ZW1QdXJjaGFzZVR5cGU6OkhEID0+ICRtdHZIZFByaWNlLCBWaWRlb1N0b2NrSXRlbVB1cmNoYXNlVHlwZTo6Rm91cksgPT4gOTAwLjAwXQogICAgICAgICk7CgogICAgICAgICRleHBlY3RlZFB1cmNoYXNlZFN0b2NrSXRlbXMgKz0gc2VsZjo6JG1hcmtldHBsYWNlUHVyY2hhc2VIZWxwZXItPm1vY2tPcmdhbml6YXRpb25QdXJjaGFzZSgyLCAkbXR2SGRQcmljZSwgJG10dik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmCg==</text>
+        <text encoding="base64">CiAgICAgICAgJGRpc2NvdmVySGRQcmljZSA9IDE5OS4wMDsKICAgICAgICAkZGlzY292ZXJ5ID0gT3JnYW5pemF0aW9uRmFjdG9yeTo6bW9ja1dpdGhDdXN0b21QcmljaW5nKAogICAgICAgICAgICBbJ3RpdGxlJyA9PiBzZWxmOjokZGF0YUZha2VyLT5jb21wYW55XSwKICAgICAgICAgICAgW1ZpZGVvU3RvY2tJdGVtUHVyY2hhc2VUeXBlOjpIRCA9PiAkZGlzY292ZXJIZFByaWNlLCBWaWRlb1N0b2NrSXRlbVB1cmNoYXNlVHlwZTo6Rm91cksgPT4gMjk5LjAwXQogICAgICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>m+</text>
       </register>
     </registers>
     <search>
@@ -1768,7 +1771,7 @@
       <last-offset />
       <last-pattern>file</last-pattern>
       <last-replace />
-      <last-substitute>getStockitemsMemberHas</last-substitute>
+      <last-substitute>file</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1820,6 +1823,7 @@
         <entry>32</entry>
         <entry>45</entry>
         <entry>w</entry>
+        <entry>m+</entry>
       </history-cmd>
       <history-expr />
       <history-input />
