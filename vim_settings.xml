@@ -234,11 +234,11 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510105022460">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="^" line="180" column="39" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510106617510">
+        <mark key="[" line="222" column="8" />
+        <mark key="]" line="222" column="7" />
+        <mark key="." line="222" column="7" />
+        <mark key="^" line="222" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteAuthentication.php" timestamp="1432156676037">
         <mark key="'" line="175" column="15" />
@@ -1418,6 +1418,9 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" timestamp="1510106510752">
+        <mark key="'" line="339" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/ShoppingCart/Controllers/ShoppingCartContentsApiController.php" timestamp="1509934772492">
         <mark key="'" line="29" column="20" />
       </file>
@@ -1618,7 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Permissions/OrganizationSitePermissionsService.php" />
       <jump line="24" column="57" filename="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/StockContributors/ContributorPayoutFactory.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
       <jump line="113" column="28" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
@@ -1718,58 +1720,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="87" column="7" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="104" column="11" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
+      <jump line="339" column="20" filename="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCeVVzZXJTdWJzY3JpcHRpb25EYXRhUHJvdmlkZXIoKTogYXJyYXkgewoKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgWydwYWdlJyA9PiAxLCAnbnVtUmVzdWx0c1BlclBhZ2UnID0+IDIsICdleHBlY3RlZE51bWJlck9mUmVzdWx0cycgPT4gMl0sCiAgICAgICAgICAgIFsncGFnZScgPT4gMSwgJ251bVJlc3VsdHNQZXJQYWdlJyA9PiA1LCAnZXhwZWN0ZWROdW1iZXJPZlJlc3VsdHMnID0+IDVdLAogICAgICAgICAgICBbJ3BhZ2UnID0+IDEsICdudW1SZXN1bHRzUGVyUGFnZScgPT4gJHRvdGFsSXRlbXNQdXJjaGFzZWQgKyA1MCwgJ2V4cGVjdGVkTnVtYmVyT2ZSZXN1bHRzJyA9PiAkdG90YWxJdGVtc1B1cmNoYXNlZF0sCiAgICAgICAgICAgIFsncGFnZScgPT4gMSwgJ251bVJlc3VsdHNQZXJQYWdlJyA9PiAyLCAnZXhwZWN0ZWROdW1iZXJPZlJlc3VsdHMnID0+IDIsIHRydWVdCiAgICAgICAgXTsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>ShoppingCartPurchaseStockItems</text>
       </register>
       <register name="-" type="4">
-        <text>$totalItemsPurchased</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>map</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9IDE7CiAgICAgICAgJG51bVJlc3VsdHNQZXJQYWdlID0gJHRvdGFsSXRlbXNQdXJjaGFzZWQgKyA1MDsKICAgICAgICAkc3RvY2tJdGVtUHVyY2hhc2VzW10gPSAkdGhpcy0+c3V0LT5nZXRCeVVzZXJTdWJzY3JpcHRpb24oJHVzZXJTdWJzY3JpcHRpb24sICRwYWdlLCAkbnVtUmVzdWx0c1BlclBhZ2UpOwoKICAgICAgICBhc3NlcnRUaGF0KCRzdG9ja0l0ZW1QdXJjaGFzZXNbMl0sIGlzKGFycmF5V2l0aFNpemUoJHRvdGFsSXRlbXNQdXJjaGFzZWQpKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>ShoppingCartPurchaseStockItems</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCeVVzZXJTdWJzY3JpcHRpb25EYXRhUHJvdmlkZXIoKTogYXJyYXkgewoKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgWydwYWdlJyA9PiAxLCAnbnVtUmVzdWx0c1BlclBhZ2UnID0+IDIsICdleHBlY3RlZE51bWJlck9mUmVzdWx0cycgPT4gMl0sCiAgICAgICAgICAgIFsncGFnZScgPT4gMSwgJ251bVJlc3VsdHNQZXJQYWdlJyA9PiA1LCAnZXhwZWN0ZWROdW1iZXJPZlJlc3VsdHMnID0+IDVdLAogICAgICAgICAgICBbJ3BhZ2UnID0+IDEsICdudW1SZXN1bHRzUGVyUGFnZScgPT4gJHRvdGFsSXRlbXNQdXJjaGFzZWQgKyA1MCwgJ2V4cGVjdGVkTnVtYmVyT2ZSZXN1bHRzJyA9PiAkdG90YWxJdGVtc1B1cmNoYXNlZF0sCiAgICAgICAgICAgIFsncGFnZScgPT4gMSwgJ251bVJlc3VsdHNQZXJQYWdlJyA9PiAyLCAnZXhwZWN0ZWROdW1iZXJPZlJlc3VsdHMnID0+IDIsIHRydWVdCiAgICAgICAgXTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdCgkc3RvY2tJdGVtUHVyY2hhc2UsIGlzKGFuSW5zdGFuY2VPZihTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXM6OmNsYXNzKSkpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHNlbGVjdE5leHRQYWdlKSB7CiAgICAgICAgICAgICRwYWdlID0gMjsKICAgICAgICAgICAgJHN0b2NrSXRlbVB1cmNoYXNlc1tdID0gJHRoaXMtPnN1dC0+Z2V0QnlVc2VyU3Vic2NyaXB0aW9uKCR1c2VyU3Vic2NyaXB0aW9uLCAkcGFnZSwgJG51bVJlc3VsdHNQZXJQYWdlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkc3RvY2tJdGVtUHVyY2hhc2VzWzBdIGFzICRzdG9ja0l0ZW1QdXJjaGFzZSkgewogICAgICAgICAgICBhc3NlcnRUaGF0KCRzdG9ja0l0ZW1QdXJjaGFzZSwgaXMoYW5JbnN0YW5jZU9mKFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtczo6Y2xhc3MpKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdCgkZmlyc3RQYWdlSXRlbUlkcywgaXMobm90KGVxdWFsVG8oJHNlY29uZFBhZ2VJdGVtSWRzKSkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZpcnN0UGFnZUl0ZW1JZHMgPSBjb2xsZWN0KCRzdG9ja0l0ZW1QdXJjaGFzZXNbMF0pLT5tYXAoZnVuY3Rpb24oU2hvcHBpbmdDYXJ0UHVyY2hhc2VTdG9ja0l0ZW1zICRzY3BzaSkgeyByZXR1cm4gJHNjcHNpLT5nZXRJZCgpOyB9KTsKICAgICAgICAgICAgJHNlY29uZFBhZ2VJdGVtSWRzID0gY29sbGVjdCgkc3RvY2tJdGVtUHVyY2hhc2VzWzFdKS0+bWFwKGZ1bmN0aW9uKFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtcyAkc2Nwc2kpIHsgcmV0dXJuICRzY3BzaS0+Z2V0SWQoKTsgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFnZSA9IDI7CiAgICAgICAgJG51bVJlc3VsdHNQZXJQYWdlID0gMjsKICAgICAgICAkc3RvY2tJdGVtUHVyY2hhc2VzW10gPSAkdGhpcy0+c3V0LT5nZXRCeVVzZXJTdWJzY3JpcHRpb24oJHVzZXJTdWJzY3JpcHRpb24sICRwYWdlLCAkbnVtUmVzdWx0c1BlclBhZ2UpOwoKICAgICAgICBhc3NlcnRUaGF0KCRzdG9ja0l0ZW1QdXJjaGFzZXNbMV0sIGlzKGFycmF5V2l0aFNpemUoJG51bVJlc3VsdHNQZXJQYWdlKSkpOwoKICAgICAgICAkZmlyc3RQYWdlSXRlbUlkcyA9IGNvbGxlY3QoJHN0b2NrSXRlbVB1cmNoYXNlc1swXSktPm1hcChmdW5jdGlvbihTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXMgJHNjcHNpKSB7IHJldHVybiAkc2Nwc2ktPmdldElkKCk7IH0pOwogICAgICAgICRzZWNvbmRQYWdlSXRlbUlkcyA9IGNvbGxlY3QoJHN0b2NrSXRlbVB1cmNoYXNlc1sxXSktPm1hcChmdW5jdGlvbihTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXMgJHNjcHNpKSB7IHJldHVybiAkc2Nwc2ktPmdldElkKCk7IH0pOwogICAgICAgIGFzc2VydFRoYXQoJGZpcnN0UGFnZUl0ZW1JZHMsIGlzKG5vdChlcXVhbFRvKCRzZWNvbmRQYWdlSXRlbUlkcykpKSk7CgogICAgICAgICRwYWdlID0gMTsKICAgICAgICAkbnVtUmVzdWx0c1BlclBhZ2UgPSAkdG90YWxJdGVtc1B1cmNoYXNlZCArIDUwOwogICAgICAgICRzdG9ja0l0ZW1QdXJjaGFzZXNbXSA9ICR0aGlzLT5zdXQtPmdldEJ5VXNlclN1YnNjcmlwdGlvbigkdXNlclN1YnNjcmlwdGlvbiwgJHBhZ2UsICRudW1SZXN1bHRzUGVyUGFnZSk7CgogICAgICAgIGFzc2VydFRoYXQoJHN0b2NrSXRlbVB1cmNoYXNlc1syXSwgaXMoYXJyYXlXaXRoU2l6ZSgkdG90YWxJdGVtc1B1cmNoYXNlZCkpKTsKCiAgICAgICAgJHBhZ2UgPSAyOwogICAgICAgICRudW1SZXN1bHRzUGVyUGFnZSA9ICR0b3RhbEl0ZW1zUHVyY2hhc2VkICsgNTA7CiAgICAgICAgJHN0b2NrSXRlbVB1cmNoYXNlc1tdID0gJHRoaXMtPnN1dC0+Z2V0QnlVc2VyU3Vic2NyaXB0aW9uKCR1c2VyU3Vic2NyaXB0aW9uLCAkcGFnZSwgJG51bVJlc3VsdHNQZXJQYWdlKTsKCiAgICAgICAgYXNzZXJ0VGhhdCgkc3RvY2tJdGVtUHVyY2hhc2VzWzNdLCBpcyhhcnJheVdpdGhTaXplKDApKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9IDE7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCeVVzZXJTdWJzY3JpcHRpb25EYXRhUHJvdmlkZXIoKTogYXJyYXkgewoKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgWydwYWdlJyA9PiAxLCAnbnVtUmVzdWx0c1BlclBhZ2UnID0+IDIsICdleHBlY3RlZE51bWJlck9mUmVzdWx0cycgPT4gMl0sCiAgICAgICAgICAgIFsncGFnZScgPT4gMSwgJ251bVJlc3VsdHNQZXJQYWdlJyA9PiA1LCAnZXhwZWN0ZWROdW1iZXJPZlJlc3VsdHMnID0+IDVdLAogICAgICAgICAgICBbJ3BhZ2UnID0+IDEsICdudW1SZXN1bHRzUGVyUGFnZScgPT4gJHRvdGFsSXRlbXNQdXJjaGFzZWQgKyA1MCwgJ2V4cGVjdGVkTnVtYmVyT2ZSZXN1bHRzJyA9PiAkdG90YWxJdGVtc1B1cmNoYXNlZF0sCiAgICAgICAgICAgIFsncGFnZScgPT4gMSwgJ251bVJlc3VsdHNQZXJQYWdlJyA9PiAyLCAnZXhwZWN0ZWROdW1iZXJPZlJlc3VsdHMnID0+IDIsIHRydWVdCiAgICAgICAgXTsKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkcGFnZQogICAgICogQHBhcmFtIGludCAkbnVtUmVzdWx0c1BlclBhZ2UKICAgICAqIEBwYXJhbSBpbnQgJGV4cGVjdGVkTnVtUmVzdWx0cwogICAgICogQHBhcmFtIGJvb2wgJHNlbGVjdE5leHRQYWdlCiAgICAgKiBAZGF0YVByb3ZpZGVyIGdldEJ5VXNlclN1YnNjcmlwdGlvbkRhdGFQcm92aWRlcgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHNlbGVjdE5leHRQYWdlKSB7CiAgICAgICAgICAgICRwYWdlID0gMjsKICAgICAgICAgICAgJHN0b2NrSXRlbVB1cmNoYXNlc1tdID0gJHRoaXMtPnN1dC0+Z2V0QnlVc2VyU3Vic2NyaXB0aW9uKCR1c2VyU3Vic2NyaXB0aW9uLCAkcGFnZSwgJG51bVJlc3VsdHNQZXJQYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBVc2VyU3Vic2NyaXB0aW9uICR1c2VyU3Vic2NyaXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdCgkZmlyc3RQYWdlSXRlbUlkcywgaXMobm90KGVxdWFsVG8oJHNlY29uZFBhZ2VJdGVtSWRzKSkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace />
       <last-substitute>file</last-substitute>
       <last-dir>1</last-dir>
@@ -1800,6 +1803,7 @@
         <entry>scpsi</entry>
         <entry>log</entry>
         <entry>file</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
