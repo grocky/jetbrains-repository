@@ -5,10 +5,22 @@
       <mark key="M" line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error.sql" timestamp="1510084410828">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConstants.php" timestamp="1432685771410">
         <mark key="[" line="243" column="0" />
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1509937989686">
+        <mark key="[" line="135" column="46" />
+        <mark key="]" line="135" column="72" />
+        <mark key="^" line="135" column="72" />
+        <mark key="." line="135" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Controllers/VideoIPNController.php" timestamp="1509340821677">
         <mark key="[" line="40" column="0" />
@@ -20,10 +32,20 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Controllers/RestApiController.php" timestamp="1432647216244">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ESPSubscriberStatus.php" timestamp="1432687949283">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/Views/UnifiedNavBarWidgetView.php" timestamp="1509923929459">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/logback.xml" timestamp="1510077902428">
         <mark key="[" line="7" column="47" />
@@ -31,23 +53,45 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510093535737">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510148670940">
         <mark key="'" line="128" column="16" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_files.php" timestamp="1432915003224">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_psr4.php" timestamp="1432915017281">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Routes/VideoIPNRouteCollection.php" timestamp="1509344400380">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/event/ab_site_error_trace.sql" timestamp="1510073695377">
+        <mark key="'" line="4" column="16" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup-resque.sh" timestamp="1509750379216">
         <mark key="[" line="24" column="61" />
         <mark key="]" line="24" column="60" />
         <mark key="^" line="24" column="60" />
         <mark key="." line="24" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberPermissionsModel.php" timestamp="1509923845660">
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="37" />
+        <mark key="." line="87" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteFeatureFlagServiceInterface.php" timestamp="1432687587496">
         <mark key="[" line="8" column="0" />
@@ -66,139 +110,17 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetViewModel.php" timestamp="1432719205649">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Models/PublicSearchApiRequest.php" timestamp="1508958992856">
+        <mark key="[" line="105" column="60" />
+        <mark key="]" line="105" column="86" />
+        <mark key="." line="105" column="86" />
+        <mark key="^" line="105" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/AbstractGitHookPhinxTest.php" timestamp="1432775048696">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171030055440_add_cron_sync_contributor_payment_statuses.php" timestamp="1509370155706">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" timestamp="1510076041663">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Framework/GraphicSiteEventServiceConfiguration.php" timestamp="1508525197436">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/switch-sites.sh" timestamp="1432675046496">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Models/VideoSearchModel.php" timestamp="1432684760670">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171024184646_alter_contributor_payout_status_log_update_status_enum.php" timestamp="1509124677174">
-        <mark key="[" line="15" column="160" />
-        <mark key="]" line="15" column="161" />
-        <mark key="." line="15" column="161" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1509937989686">
-        <mark key="[" line="135" column="46" />
-        <mark key="]" line="135" column="72" />
-        <mark key="^" line="135" column="72" />
-        <mark key="." line="135" column="72" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/general_event.sql" timestamp="1510078865059" />
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberPermissionsModel.php" timestamp="1509923845660">
-        <mark key="[" line="87" column="32" />
-        <mark key="]" line="87" column="37" />
-        <mark key="." line="87" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171030053542_add_cron_sync_contributor_payment_statuses.php" timestamp="1509341894910">
-        <mark key="[" line="15" column="110" />
-        <mark key="]" line="15" column="119" />
-        <mark key="^" line="15" column="119" />
-        <mark key="." line="15" column="119" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup_resque.sh" timestamp="1509741101349">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="60" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="10" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionUpdateDTOBuilder.php" timestamp="1509733773760">
-        <mark key="[" line="40" column="61" />
-        <mark key="]" line="40" column="60" />
-        <mark key="^" line="40" column="60" />
-        <mark key="." line="40" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/event/vb_site_error_trace.sql" timestamp="1510073703604" />
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutCalculationService.php" timestamp="1508736992422">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1510086532151">
-        <mark key="'" line="21" column="82" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510093307955">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/CustomerIOListenerCollectionTest.php" timestamp="1432718831949">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Framework/AudioSiteEventServiceConfiguration.php" timestamp="1508525208144">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEventServiceconfigurationInterface.php" timestamp="1432708235615">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Controllers/RestApiController.php" timestamp="1432647216244">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/Views/UnifiedNavBarWidgetView.php" timestamp="1509923929459">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/application.conf" timestamp="1510076004860" />
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_files.php" timestamp="1432915003224">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/event/ab_site_error_trace.sql" timestamp="1510073695377">
-        <mark key="'" line="4" column="16" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/Projects/event-log-loader/S3EventData" timestamp="1510083841751">
+        <mark key="[" line="16" column="65" />
+        <mark key="]" line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+        <mark key="." line="16" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/command-runners/GitTest.php" timestamp="1432712230864">
         <mark key="[" line="7" column="0" />
@@ -216,60 +138,32 @@
         <mark key="^" line="280" column="101" />
         <mark key="." line="280" column="101" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171030053542_add_cron_sync_contributor_payment_statuses.php" timestamp="1509341894910">
+        <mark key="[" line="15" column="110" />
+        <mark key="]" line="15" column="119" />
+        <mark key="^" line="15" column="119" />
+        <mark key="." line="15" column="119" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup_resque.sh" timestamp="1509741101349">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="60" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/SearchFilters/Controllers/SearchFiltersController.php" timestamp="1508514508205">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_100.sql" timestamp="1510085167821">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="42" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetViewModel.php" timestamp="1432719205649">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/EventLogLoaderSupervisor.scala" timestamp="1510078465282" />
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/event/gs_site_error_trace.sql" timestamp="1510073699362" />
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1510083563052">
-        <mark key="'" line="3" column="47" />
-        <mark key="[" line="13" column="79" />
-        <mark key="]" line="13" column="92" />
-        <mark key="." line="13" column="79" />
-        <mark key="^" line="0" column="454" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Stock/VideoStockItemsEntityService.php" timestamp="1509937465989">
-        <mark key="[" line="767" column="3" />
-        <mark key="]" line="767" column="2" />
-        <mark key="." line="767" column="2" />
-        <mark key="^" line="767" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error.sql" timestamp="1510084410828">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData" timestamp="1510078724894" />
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Routes/VideoIPNRouteCollection.php" timestamp="1509344400380">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/PublicApi/Models/PublicSearchApiRequest.php" timestamp="1508958992856">
-        <mark key="[" line="105" column="60" />
-        <mark key="]" line="105" column="86" />
-        <mark key="." line="105" column="86" />
-        <mark key="^" line="105" column="86" />
-      </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/S3EventData" timestamp="1510083841751">
-        <mark key="[" line="16" column="65" />
-        <mark key="]" line="16" column="64" />
-        <mark key="^" line="16" column="64" />
-        <mark key="." line="16" column="64" />
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/AbstractGitHookPhinxTest.php" timestamp="1432775048696">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberPurchasesController.php" timestamp="1509938292379">
         <mark key="[" line="127" column="29" />
@@ -277,15 +171,52 @@
         <mark key="." line="127" column="34" />
         <mark key="^" line="127" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171030055440_add_cron_sync_contributor_payment_statuses.php" timestamp="1509370155706">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_100.sql" timestamp="1510085167821">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionUpdateDTOBuilder.php" timestamp="1509733773760">
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="40" column="60" />
+        <mark key="^" line="40" column="60" />
+        <mark key="." line="40" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/members/TestMemberSignups.php" timestamp="1432718247353">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" timestamp="1510076041663">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Contributors/ContributorPayoutCalculationService.php" timestamp="1508736992422">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1510086532151">
+        <mark key="'" line="21" column="82" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
@@ -303,10 +234,20 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Framework/GraphicSiteEventServiceConfiguration.php" timestamp="1508525197436">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/customerio/CustomerIO.php" timestamp="1433084308302">
         <mark key="[" line="82" column="45" />
         <mark key="]" line="82" column="45" />
         <mark key="." line="82" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510093307955">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/modules/Search/Converters/TestVideoPublicSearchApiRequestConverter.php" timestamp="1508959589355">
         <mark key="[" line="71" column="44" />
@@ -314,11 +255,64 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/switch-sites.sh" timestamp="1432675046496">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/CustomerIOListenerCollectionTest.php" timestamp="1432718831949">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1510083563052">
+        <mark key="'" line="3" column="47" />
+        <mark key="[" line="13" column="79" />
+        <mark key="]" line="13" column="92" />
+        <mark key="." line="13" column="79" />
+        <mark key="^" line="0" column="454" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Models/VideoSearchModel.php" timestamp="1432684760670">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Stock/VideoStockItemsEntityService.php" timestamp="1509937465989">
+        <mark key="[" line="767" column="3" />
+        <mark key="]" line="767" column="2" />
+        <mark key="." line="767" column="2" />
+        <mark key="^" line="767" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Framework/AudioSiteEventServiceConfiguration.php" timestamp="1508525208144">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1510071453061" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEventServiceconfigurationInterface.php" timestamp="1432708235615">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171024184646_alter_contributor_payout_status_log_update_status_enum.php" timestamp="1509124677174">
+        <mark key="[" line="15" column="160" />
+        <mark key="]" line="15" column="161" />
+        <mark key="." line="15" column="161" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Views/SiteView.php" timestamp="1509121105427">
         <mark key="[" line="65" column="8" />
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -477,14 +471,10 @@
       <last-replace>VARCHAR</last-replace>
       <last-substitute>varchar</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>adfd</entry>
-        <entry>+</entry>
-        <entry>asdfa</entry>
-        <entry>EventService</entry>
         <entry>test_06</entry>
         <entry>ListenerCollection</entry>
         <entry>print_</entry>
@@ -507,12 +497,6 @@
         <entry>apply</entry>
       </history-search>
       <history-cmd>
-        <entry>s/i/d/g</entry>
-        <entry>s/d/s/g</entry>
-        <entry>q</entry>
-        <entry>%s/public function \(set.*\)$/private function \1/</entry>
-        <entry>%s/@see/@link/</entry>
-        <entry>%s/private/protected</entry>
         <entry>210</entry>
         <entry>49</entry>
         <entry>99</entry>
