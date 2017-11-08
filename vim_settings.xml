@@ -111,12 +111,6 @@
         <mark key="^" line="24" column="60" />
         <mark key="." line="24" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Member/Controllers/VideoMemberPurchasesController.php" timestamp="1510109419689">
-        <mark key="[" line="161" column="12" />
-        <mark key="]" line="161" column="17" />
-        <mark key="." line="161" column="17" />
-        <mark key="^" line="161" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/seedData/20171027170827_tipalti_seed_data.php" timestamp="1509136787859">
         <mark key="[" line="44" column="3" />
         <mark key="]" line="33" column="12" />
@@ -234,13 +228,7 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510108225017">
-        <mark key="'" line="244" column="7" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="243" column="23" />
-      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/TestShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510108225017" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteAuthentication.php" timestamp="1432156676037">
         <mark key="'" line="175" column="15" />
         <mark key="[" line="175" column="15" />
@@ -378,10 +366,7 @@
         <mark key="." line="47" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" timestamp="1510108595239">
-        <mark key="'" line="229" column="548" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+        <mark key="'" line="213" column="548" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" timestamp="1509392547821">
         <mark key="'" line="20" column="11" />
@@ -837,10 +822,9 @@
         <mark key="." line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/MarketplacePurchaseHelper.php" timestamp="1510102871550">
-        <mark key="[" line="66" column="29" />
-        <mark key="]" line="67" column="7" />
-        <mark key="^" line="67" column="7" />
-        <mark key="." line="67" column="7" />
+        <mark key="]" line="50" column="7" />
+        <mark key="^" line="50" column="7" />
+        <mark key="." line="50" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/ViewModels/BaseViewModel.php" timestamp="1432226699109">
         <mark key="'" line="10" column="6" />
@@ -855,12 +839,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" timestamp="1509751637807">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/DTOs/StockItemDetailsDTO.php" timestamp="1431047592172">
         <mark key="'" line="38" column="0" />
@@ -1024,9 +1002,9 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/ShoppingCarts/ShoppingCartsEntityService.php" timestamp="1509934923345">
-        <mark key="[" line="414" column="0" />
-        <mark key="]" line="414" column="0" />
-        <mark key="." line="414" column="0" />
+        <mark key="[" line="416" column="0" />
+        <mark key="]" line="416" column="0" />
+        <mark key="." line="416" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/EventLoggingListenerCollectionTest.php" timestamp="1508520536916">
         <mark key="'" line="27" column="62" />
@@ -1147,10 +1125,10 @@
         <mark key="." line="8" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Stock/VideoStockItemsEntityService.php" timestamp="1509937465989">
-        <mark key="[" line="767" column="3" />
-        <mark key="]" line="767" column="2" />
-        <mark key="." line="767" column="2" />
-        <mark key="^" line="767" column="2" />
+        <mark key="[" line="724" column="3" />
+        <mark key="]" line="724" column="2" />
+        <mark key="." line="724" column="2" />
+        <mark key="^" line="724" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Site/ViewModels/PromotionalOfferButtonDTO.php" timestamp="1509927668463">
         <mark key="'" line="6" column="6" />
@@ -1364,12 +1342,6 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberPurchasesController.php" timestamp="1510109936110">
-        <mark key="[" line="151" column="17" />
-        <mark key="]" line="151" column="17" />
-        <mark key="." line="151" column="17" />
-        <mark key="^" line="152" column="153" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/Models/UserPasswordResetModel.php" timestamp="1431222548576">
         <mark key="'" line="151" column="25" />
         <mark key="[" line="151" column="25" />
@@ -1430,8 +1402,8 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" timestamp="1510108692447">
-        <mark key="'" line="260" column="13" />
+      <file name="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" timestamp="1510110573220">
+        <mark key="'" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/ShoppingCart/Controllers/ShoppingCartContentsApiController.php" timestamp="1509934772492">
         <mark key="'" line="29" column="20" />
@@ -1518,6 +1490,12 @@
       </file>
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/ErrorEvents/ErrorEvent.php" timestamp="1510110546148">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceCustomerIOListenerCollection.php" timestamp="1431629782003">
         <mark key="'" line="0" column="0" />
@@ -1633,7 +1611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="25" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiApiResponse.php" />
       <jump line="141" column="17" filename="$USER_HOME$/Projects/StockBlocks/vendor/fzaninotto/faker/src/Faker/Generator.php" />
       <jump line="142" column="17" filename="$USER_HOME$/Projects/StockBlocks/vendor/fzaninotto/faker/src/Faker/Generator.php" />
       <jump line="67" column="42" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
@@ -1733,58 +1710,59 @@
       <jump line="265" column="25" filename="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" />
       <jump line="267" column="36" filename="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" />
       <jump line="260" column="13" filename="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" />
+      <jump line="20" column="17" filename="$USER_HOME$/Projects/StockBlocks/vendor/illuminate/support/Collection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoCiAgICAgICAgICAgIGZ1bmN0aW9uKCRlbGVtZW50LCAkc2VxdWVuY2VOdW1iZXIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICBdOwogICAgICAgICAgICB9LAogICAgICAgICAgICAkdGhpcy0+ZXJyb3ItPmdldFRyYWNlKCksCiAgICAgICAgICAgIHJhbmdlKDEsIGNvdW50KCR0aGlzLT5lcnJvci0+Z2V0VHJhY2UoKSkpCiAgICAgICAgKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>sequenceNumber</text>
       </register>
       <register name="/" type="4">
-        <text>join</text>
+        <text>jsonSer</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">UGxhbkVudGl0eVNlcnZpY2U6OmlzRW50ZXJwcmlzZVBsYW4oJHRoaXMtPnVzZXJTdWJzY3JpcHRpb24tPmdldFBsYW5JZCgpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRwdXJjaGFzZWRTdG9ja0l0ZW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoCiAgICAgICAgICAgIGZ1bmN0aW9uKCRlbGVtZW50LCAkc2VxdWVuY2VOdW1iZXIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICBdOwogICAgICAgICAgICB9LAogICAgICAgICAgICAkdGhpcy0+ZXJyb3ItPmdldFRyYWNlKCksCiAgICAgICAgICAgIHJhbmdlKDEsIGNvdW50KCR0aGlzLT5lcnJvci0+Z2V0VHJhY2UoKSkpCiAgICAgICAgKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICRvcmdhbml6YXRpb25Vc2VyU3Vic2NyaXB0aW9ucyA9ICR0aGlzLT51c2VyU3Vic2NyaXB0aW9uU2VydmljZS0+Z2V0QWxsQnlPcmdhbml6YXRpb25JZCgkdGhpcy0+dXNlclN1YnNjcmlwdGlvbi0+Z2V0T3JnYW5pemF0aW9uSWQoKSk7CiAgICAgICAgICAgICAgICAkcHVyY2hhc2VkU3RvY2tJdGVtcyA9IFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtc0VudGl0eVNlcnZpY2U6OmdldEluc3RhbmNlKCkKICAgICAgICAgICAgICAgICAgICAtPmdldEJ5TWFueVVzZXJTdWJzY3JpcHRpb25zKCRvcmdhbml6YXRpb25Vc2VyU3Vic2NyaXB0aW9ucywgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFxUaHJvd2FibGUgJHQpIHsKICAgICAgICAgICAgICAgICRwdXJjaGFzZWRTdG9ja0l0ZW1zID0gW107CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc2VxJyA9PiAkc2VxdWVuY2VOdW1iZXIsCiAgICAgICAgICAgICAgICAgICAgJ2ZpbGUnID0+ICRlbGVtZW50WydmaWxlJ10gPz8gJ1Vua25vd24nLAogICAgICAgICAgICAgICAgICAgICdsaW5lJyA9PiAkZWxlbWVudFsnbGluZSddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+ICRlbGVtZW50WydjbGFzcyddID8/ICdVbmtub3duJywKICAgICAgICAgICAgICAgICAgICAnZnVuY3Rpb24nID0+ICRlbGVtZW50WydmdW5jdGlvbiddID8/ICdVbmtub3duJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHB1cmNoYXNlZFN0b2NrSXRlbXMgPSBTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXNFbnRpdHlTZXJ2aWNlOjpnZXRJbnN0YW5jZSgpCiAgICAgICAgICAgICAgICAtPmdldEJ5VXNlclN1YnNjcmlwdGlvbigkdGhpcy0+dXNlclN1YnNjcmlwdGlvbiwgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtPm1hcChmdW5jdGlvbigkZWxlbWVudCwgJGluZGV4KSB7fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRwdXJjaGFzZWRTdG9ja0l0ZW1zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICRvcmdhbml6YXRpb25Vc2VyU3Vic2NyaXB0aW9ucyA9ICR0aGlzLT51c2VyU3Vic2NyaXB0aW9uU2VydmljZS0+Z2V0QWxsQnlPcmdhbml6YXRpb25JZCgkdGhpcy0+dXNlclN1YnNjcmlwdGlvbi0+Z2V0T3JnYW5pemF0aW9uSWQoKSk7CiAgICAgICAgICAgICAgICAkcHVyY2hhc2VkU3RvY2tJdGVtcyA9IFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtc0VudGl0eVNlcnZpY2U6OmdldEluc3RhbmNlKCktPmdldEJ5TWFueVVzZXJTdWJzY3JpcHRpb25zKCRvcmdhbml6YXRpb25Vc2VyU3Vic2NyaXB0aW9ucywgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFxUaHJvd2FibGUgJHQpIHsKICAgICAgICAgICAgICAgICRwdXJjaGFzZWRTdG9ja0l0ZW1zID0gW107CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHB1cmNoYXNlZFN0b2NrSXRlbXMgPSBTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXNFbnRpdHlTZXJ2aWNlOjpnZXRJbnN0YW5jZSgpLT5nZXRCeVVzZXJTdWJzY3JpcHRpb24oJHRoaXMtPnVzZXJTdWJzY3JpcHRpb24sICRwYWdlLCAkcmVzdWx0c1BlclBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICRvcmdhbml6YXRpb25Vc2VyU3Vic2NyaXB0aW9ucyA9ICR0aGlzLT51c2VyU3Vic2NyaXB0aW9uU2VydmljZS0+Z2V0QWxsQnlPcmdhbml6YXRpb25JZCgkdGhpcy0+dXNlclN1YnNjcmlwdGlvbi0+Z2V0T3JnYW5pemF0aW9uSWQoKSk7CiAgICAgICAgICAgICAgICAkcHVyY2hhc2VkU3RvY2tJdGVtcyA9IFNob3BwaW5nQ2FydFB1cmNoYXNlU3RvY2tJdGVtc0VudGl0eVNlcnZpY2U6OmdldEluc3RhbmNlKCkKICAgICAgICAgICAgICAgICAgICAtPmdldEJ5TWFueVVzZXJTdWJzY3JpcHRpb25zKCRvcmdhbml6YXRpb25Vc2VyU3Vic2NyaXB0aW9ucywgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFxUaHJvd2FibGUgJHQpIHsKICAgICAgICAgICAgICAgICRwdXJjaGFzZWRTdG9ja0l0ZW1zID0gW107CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG9yZ2FuaXphdGlvbklkICYmIFBsYW5FbnRpdHlTZXJ2aWNlOjppc0VudGVycHJpc2VQbGFuKCR0aGlzLT51c2VyU3Vic2NyaXB0aW9uLT5nZXRQbGFuSWQoKSkpIHsKICAgICAgICB9IGVsc2UgewogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRzdG9ja0l0ZW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHB1cmNoYXNlZFN0b2NrSXRlbXMgPSBTaG9wcGluZ0NhcnRQdXJjaGFzZVN0b2NrSXRlbXNFbnRpdHlTZXJ2aWNlOjpnZXRJbnN0YW5jZSgpCiAgICAgICAgICAgICAgICAtPmdldEJ5VXNlclN1YnNjcmlwdGlvbigkdGhpcy0+dXNlclN1YnNjcmlwdGlvbiwgJHBhZ2UsICRyZXN1bHRzUGVyUGFnZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICRvcmdhbml6YXRpb25Vc2VyU3Vic2NyaXB0aW9ucyA9ICR0aGlzLT51c2VyU3Vic2NyaXB0aW9uU2VydmljZS0+Z2V0QWxsQnlPcmdhbml6YXRpb25JZCgkb3JnYW5pemF0aW9uSWQpOwogICAgICAgICAgICAgICAgJHN0b2NrSXRlbXMgPSAkc3RvY2tJdGVtRW50aXR5U2VydmljZS0+Z2V0U3RvY2tJdGVtc01hbnlNZW1iZXJzSGF2ZVB1cmNoYXNlZCgkb3JnYW5pemF0aW9uVXNlclN1YnNjcmlwdGlvbnMsICRxdWVyeU1vZGlmaWVyLCAkcHVyY2hhc2VUeXBlRmlsdGVyKTsKICAgICAgICAgICAgfSBjYXRjaCAoVXNlckF0dHJpYnV0ZVNlcnZpY2VfUmVhZF9FcnJvciAkdCkgewogICAgICAgICAgICAgICAgTXZjTG9nU2VydmljZTo6d2FybignVW5hYmxlIHRvIHJldHJpZXZlIHVzZXIgc3Vic2NyaXB0aW9ucyBieSBvcmdhbml6YXRpb24nLCBbJ29yZ2FuaXphdGlvbklkJyA9PiAkb3JnYW5pemF0aW9uSWRdKTsKICAgICAgICAgICAgICAgICRzdG9ja0l0ZW1zID0gW107CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>37</text>
       </register>
     </registers>
     <search>
-      <last-search>join</last-search>
+      <last-search>jsonSer</last-search>
       <last-offset />
-      <last-pattern>join</last-pattern>
+      <last-pattern>jsonSer</last-pattern>
       <last-replace />
       <last-substitute>file</last-substitute>
       <last-dir>1</last-dir>
@@ -1819,6 +1797,7 @@
         <entry>impload</entry>
         <entry>implode</entry>
         <entry>join</entry>
+        <entry>jsonSer</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -1847,6 +1826,7 @@
         <entry>65</entry>
         <entry>86</entry>
         <entry>w</entry>
+        <entry>37</entry>
       </history-cmd>
       <history-expr />
       <history-input />
