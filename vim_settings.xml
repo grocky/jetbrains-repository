@@ -55,10 +55,6 @@
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510148670940">
         <mark key="'" line="128" column="16" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="150" column="38" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_files.php" timestamp="1432915003224">
         <mark key="[" line="8" column="0" />
@@ -201,6 +197,9 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1510178114670">
+        <mark key="'" line="338" column="95" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -244,7 +243,7 @@
         <mark key="]" line="82" column="45" />
         <mark key="." line="82" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510093307955">
+      <file name="/Dummy.txt" timestamp="1510177576526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
@@ -255,6 +254,7 @@
         <mark key="^" line="71" column="55" />
         <mark key="." line="71" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/utils/S3MessageParser.scala" timestamp="1510178428903" />
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/switch-sites.sh" timestamp="1432675046496">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -265,12 +265,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1510083563052">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1510178780448">
         <mark key="'" line="3" column="47" />
-        <mark key="[" line="13" column="79" />
-        <mark key="]" line="13" column="92" />
-        <mark key="." line="13" column="79" />
-        <mark key="^" line="0" column="454" />
+        <mark key="[" line="16" column="254" />
+        <mark key="]" line="16" column="254" />
+        <mark key="." line="16" column="254" />
+        <mark key="^" line="16" column="265" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Models/VideoSearchModel.php" timestamp="1432684760670">
         <mark key="[" line="83" column="0" />
@@ -288,7 +288,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1510071453061" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -309,6 +308,7 @@
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/sqs/SQSMessageParserSpec.scala" timestamp="1510177588339" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -316,10 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Permissions/OrganizationSitePermissionsService.php" />
-      <jump line="24" column="57" filename="$USER_HOME$/Projects/StockBlocks/tests/framework/common/factories/StockContributors/ContributorPayoutFactory.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
-      <jump line="113" column="28" filename="$USER_HOME$/Projects/StockBlocks/tests/common/marketplace/TestContributorPayouts.php" />
       <jump line="36" column="28" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
       <jump line="156" column="5" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
       <jump line="35" column="14" filename="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/Payouts/Tipalti/DTOs/TipaltiExtendedPaymentOrderResponse.php" />
@@ -416,16 +412,20 @@
       <jump line="108" column="104" filename="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" />
       <jump line="126" column="12" filename="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" />
       <jump line="128" column="16" filename="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" />
+      <jump line="85" column="47" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="281" column="300" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="338" column="95" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNRTC5hcHBseShxdWVyeSkuYmF0Y2guYXBwbHkK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;mid&quot;:null,&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;mid&quot;:null,&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>apply</text>
+        <text>user</text>
       </register>
       <register name="0" type="4">
         <text>1510073203975</text>
@@ -465,13 +465,13 @@
       </register>
     </registers>
     <search>
-      <last-search>apply</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>apply</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>varchar</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -495,6 +495,7 @@
         <entry>varchar</entry>
         <entry>apply\</entry>
         <entry>apply</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>210</entry>
