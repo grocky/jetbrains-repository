@@ -245,12 +245,12 @@
       <file name="/sbtShell" timestamp="1510092791757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1510203325324">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="75" />
-        <mark key="." line="18" column="75" />
-        <mark key="^" line="18" column="75" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1510249197722">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConfiguration.php" timestamp="1507383763372">
         <mark key="[" line="209" column="0" />
@@ -354,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Framework/VideoSiteConfiguration.php" />
       <jump line="43" column="69" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
       <jump line="37" column="4" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
       <jump line="36" column="20" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
@@ -454,13 +453,14 @@
       <jump line="21" column="39" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" />
       <jump line="22" column="15" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
+      <jump line="18" column="4" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>element</text>
       </register>
       <register name="/" type="4">
         <text>beMember</text>
@@ -469,31 +469,31 @@
         <text encoding="base64">Q1JFQVRFIE9SIFJFUExBQ0UgRlVOQ1RJT04ganNvbl9leHRyYWN0X3BhdGhfdGV4dChqIFZBUkNIQVIsIHQxIHRleHQsIG91dCBmb28gVkFSQ0hBUikKICAgIEFTICQkIFNFTEVDVCBqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGNhc3QoaiBhcyBqc29uKSwgVkFSSUFESUMgQ0FTVChBUlJBWVt0MV0gYXMgdGV4dFtdKSkgJCQKICAgIExBTkdVQUdFIFNRTDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCAgPSBzZXEubWFwKHMgPT4gcyIoJHMpIikubWtTdHJpbmcoIixcbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERCLmF1dG9Db21taXQoXy5leGVjdXRlKHNlcXVlbmNlVGFibGUpKQo=</text>
+        <text encoding="base64">ICAgIFNFTEVDVCBqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGNhc3QoaiBhcyBqc29uKSwgVkFSSUFESUMgQ0FTVChBUlJBWVt0MV0gYXMgdGV4dFtdKSkgJCQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXF1ZW5jZVRhYmxlOiBTdHJpbmcgPSBGaWxlUmVhZGVyVXRpbC5nZXRUZXN0UmVzb3VyY2UoIi9zcWwvc2VxXzBfdG9fMTAwMC5zcWwiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXhlZF9lbGVtZW50cyBBUyAoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB2YWwgc2VxID0gKDEgdG8gMTAwMCkudG9MaXN0CiAgICB2YWwgc2VxdWVuY2VSb3dzID0gc2VxLm1hcChzID0+IHMiKCRzKSIpLm1rU3RyaW5nKCIsXG4iKQogICAgdmFsIHNlcXVlbmNlSW5zZXJ0ID0gcyJJTlNFUlQgSU5UTyBzZXFfb190b18xMDAwIChpKSBWQUxVRVMgJHNlcXVlbmNlUm93cyIKICAgIERCLmF1dG9Db21taXQoXy5leGVjdXRlKHNlcXVlbmNlSW5zZXJ0KSkK</text>
+        <text encoding="base64">ICAgICAgICBGUk9NIGpzb25fdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCAgPSBzZXEubWFwKHMgPT4gcyIoJHMpIikubWtTdHJpbmcoIixcbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcS5tYXAoKQo=</text>
+        <text encoding="base64">ICAgIERCLmF1dG9Db21taXQoXy5leGVjdXRlKHNlcXVlbmNlVGFibGUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcS4K</text>
+        <text encoding="base64">ICAgIHZhbCBzZXF1ZW5jZVRhYmxlOiBTdHJpbmcgPSBGaWxlUmVhZGVyVXRpbC5nZXRUZXN0UmVzb3VyY2UoIi9zcWwvc2VxXzBfdG9fMTAwMC5zcWwiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcS5tYXAK</text>
+        <text encoding="base64">CiAgICB2YWwgc2VxID0gKDEgdG8gMTAwMCkudG9MaXN0CiAgICB2YWwgc2VxdWVuY2VSb3dzID0gc2VxLm1hcChzID0+IHMiKCRzKSIpLm1rU3RyaW5nKCIsXG4iKQogICAgdmFsIHNlcXVlbmNlSW5zZXJ0ID0gcyJJTlNFUlQgSU5UTyBzZXFfb190b18xMDAwIChpKSBWQUxVRVMgJHNlcXVlbmNlUm93cyIKICAgIERCLmF1dG9Db21taXQoXy5leGVjdXRlKHNlcXVlbmNlSW5zZXJ0KSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
