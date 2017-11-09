@@ -118,6 +118,9 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/autotest/src/tests/audioblocks/TestABAutoLoginFromVB.java" timestamp="1510239825772">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/command-runners/GitTest.php" timestamp="1432712230864">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -172,6 +175,9 @@
         <mark key="]" line="127" column="34" />
         <mark key="." line="127" column="34" />
         <mark key="^" line="127" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" timestamp="1510239907229">
+        <mark key="'" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171030055440_add_cron_sync_contributor_payment_statuses.php" timestamp="1509370155706">
         <mark key="[" line="12" column="12" />
@@ -349,12 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="32" filename="$USER_HOME$/Projects/StockBlocks/tests/common/resque/jobs/TestCronContributorPaymentStatusSyncJob.php" />
-      <jump line="69" column="81" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
-      <jump line="149" column="61" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Controllers/CronController.php" />
-      <jump line="101" column="10" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Routes/CronRouteCollection.php" />
-      <jump line="8" column="6" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Contributors/ContributorPayoutStatusLog.php" />
-      <jump line="92" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
       <jump line="18" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/IPN/Routes/VideoIPNRouteCollection.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Framework/VideoSiteConfiguration.php" />
       <jump line="43" column="69" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
@@ -449,6 +449,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" />
       <jump line="16" column="4" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/tests/audioblocks/TestABAutoLoginFromVB.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" />
+      <jump line="14" column="15" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" />
+      <jump line="18" column="15" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" />
+      <jump line="21" column="39" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" />
+      <jump line="22" column="15" filename="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -458,7 +464,7 @@
         <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>before</text>
+        <text>beMember</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIE9SIFJFUExBQ0UgRlVOQ1RJT04ganNvbl9leHRyYWN0X3BhdGhfdGV4dChqIFZBUkNIQVIsIHQxIHRleHQsIG91dCBmb28gVkFSQ0hBUikKICAgIEFTICQkIFNFTEVDVCBqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGNhc3QoaiBhcyBqc29uKSwgVkFSSUFESUMgQ0FTVChBUlJBWVt0MV0gYXMgdGV4dFtdKSkgJCQKICAgIExBTkdVQUdFIFNRTDsK</text>
@@ -498,9 +504,9 @@
       </register>
     </registers>
     <search>
-      <last-search>before</last-search>
+      <last-search>beMember</last-search>
       <last-offset />
-      <last-pattern>before</last-pattern>
+      <last-pattern>beMember</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -530,6 +536,7 @@
         <entry>apply</entry>
         <entry>user</entry>
         <entry>before</entry>
+        <entry>beMember</entry>
       </history-search>
       <history-cmd>
         <entry>210</entry>
