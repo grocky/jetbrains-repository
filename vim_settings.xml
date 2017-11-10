@@ -47,14 +47,18 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/logback.xml" timestamp="1510077902428">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/application.conf" timestamp="1510282134537" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/logback.xml" timestamp="1510282174320">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510148670940">
-        <mark key="'" line="128" column="16" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510282349339">
+        <mark key="'" line="127" column="16" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_files.php" timestamp="1432915003224">
         <mark key="[" line="8" column="0" />
@@ -460,7 +464,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>beMember</text>
@@ -475,31 +479,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gCg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKHMiZXZlbnROYW1lczogJGV2ZW50TmFtZXMiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gICAK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJsb2FkVGVtcG9yYXJ5RXZlbnRUYWJsZSBjYWxsZWQgJHMzRXZlbnRNb2RlbCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gICBnZW5lcmF0ZSBpbmRleCBmb3IgZWFjaCBlbGVtZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">LS0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCBqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGNhc3QoaiBhcyBqc29uKSwgVkFSSUFESUMgQ0FTVChBUlJBWVt0MV0gYXMgdGV4dFtdKSkgJCQK</text>
+        <text encoding="base64">LS0gICBnZW5lcmF0ZSBpbmRleCBmb3IgZWFjaCBlbGVtZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXhlZF9lbGVtZW50cyBBUyAoCg==</text>
+        <text encoding="base64">LS0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGUk9NIGpzb25fdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>132</text>
       </register>
     </registers>
     <search>
@@ -558,6 +562,8 @@
         <entry>160</entry>
         <entry>184</entry>
         <entry>w</entry>
+        <entry>114</entry>
+        <entry>132</entry>
       </history-cmd>
       <history-expr />
       <history-input />
