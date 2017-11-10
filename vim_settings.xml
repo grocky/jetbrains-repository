@@ -245,12 +245,12 @@
       <file name="/sbtShell" timestamp="1510092791757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1510277284766">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1510278564537">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="30" column="36" />
-        <mark key="^" line="30" column="36" />
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="121" />
+        <mark key="." line="26" column="121" />
+        <mark key="^" line="26" column="121" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConfiguration.php" timestamp="1507383763372">
         <mark key="[" line="209" column="0" />
@@ -456,8 +456,8 @@
       <jump line="159" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -475,28 +475,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCBqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGNhc3QoaiBhcyBqc29uKSwgVkFSSUFESUMgQ0FTVChBUlJBWVt0MV0gYXMgdGV4dFtdKSkgJCQK</text>
+        <text encoding="base64">LS0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXhlZF9lbGVtZW50cyBBUyAoCg==</text>
+        <text encoding="base64">LS0gICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGUk9NIGpzb25fdGVzdAo=</text>
+        <text encoding="base64">LS0gICBnZW5lcmF0ZSBpbmRleCBmb3IgZWFjaCBlbGVtZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCAgPSBzZXEubWFwKHMgPT4gcyIoJHMpIikubWtTdHJpbmcoIixcbiIpCg==</text>
+        <text encoding="base64">LS0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERCLmF1dG9Db21taXQoXy5leGVjdXRlKHNlcXVlbmNlVGFibGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXF1ZW5jZVRhYmxlOiBTdHJpbmcgPSBGaWxlUmVhZGVyVXRpbC5nZXRUZXN0UmVzb3VyY2UoIi9zcWwvc2VxXzBfdG9fMTAwMC5zcWwiKQo=</text>
+        <text encoding="base64">ICAgIFNFTEVDVCBqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGNhc3QoaiBhcyBqc29uKSwgVkFSSUFESUMgQ0FTVChBUlJBWVt0MV0gYXMgdGV4dFtdKSkgJCQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICB2YWwgc2VxID0gKDEgdG8gMTAwMCkudG9MaXN0CiAgICB2YWwgc2VxdWVuY2VSb3dzID0gc2VxLm1hcChzID0+IHMiKCRzKSIpLm1rU3RyaW5nKCIsXG4iKQogICAgdmFsIHNlcXVlbmNlSW5zZXJ0ID0gcyJJTlNFUlQgSU5UTyBzZXFfb190b18xMDAwIChpKSBWQUxVRVMgJHNlcXVlbmNlUm93cyIKICAgIERCLmF1dG9Db21taXQoXy5leGVjdXRlKHNlcXVlbmNlSW5zZXJ0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXhlZF9lbGVtZW50cyBBUyAoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBGUk9NIGpzb25fdGVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
