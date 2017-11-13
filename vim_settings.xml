@@ -5,11 +5,11 @@
       <mark key="M" line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error.sql" timestamp="1510084410828">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="50" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error.sql" timestamp="1510600792551">
+        <mark key="[" line="12" column="94" />
+        <mark key="]" line="12" column="97" />
+        <mark key="." line="12" column="97" />
+        <mark key="^" line="12" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConstants.php" timestamp="1432685771410">
         <mark key="[" line="243" column="0" />
@@ -47,7 +47,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/application.conf" timestamp="1510282134537" />
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/logback.xml" timestamp="1510282174320">
         <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="50" />
@@ -219,12 +218,12 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1510250714391">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1510601373108">
         <mark key="'" line="159" column="0" />
-        <mark key="[" line="183" column="75" />
-        <mark key="]" line="183" column="114" />
-        <mark key="." line="183" column="114" />
-        <mark key="^" line="183" column="114" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+        <mark key="^" line="370" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
@@ -461,10 +460,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZXF1ZW5jZVJvd3MgPSAoMSB0byAyMCkudG9MaXN0CiAgICAgIC5tYXAocyA9PiBzIigkcykiKQogICAgICAubWtTdHJpbmcoIixcbiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>dwqRoes</text>
       </register>
       <register name="/" type="4">
         <text>beMember</text>
@@ -473,37 +472,37 @@
         <text>json_extract_array_element_text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZXF1ZW5jZVJvd3MgPSAoMSB0byAyMCkudG9MaXN0CiAgICAgIC5tYXAocyA9PiBzIigkcykiKQogICAgICAubWtTdHJpbmcoIixcbiIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKHMiZXZlbnROYW1lczogJGV2ZW50TmFtZXMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJsb2FkVGVtcG9yYXJ5RXZlbnRUYWJsZSBjYWxsZWQgJHMzRXZlbnRNb2RlbCIpCg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKHMiZXZlbnROYW1lczogJGV2ZW50TmFtZXMiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocyJsb2FkVGVtcG9yYXJ5RXZlbnRUYWJsZSBjYWxsZWQgJHMzRXZlbnRNb2RlbCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS0gICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0gICBnZW5lcmF0ZSBpbmRleCBmb3IgZWFjaCBlbGVtZW50Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">LS0gCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">LS0gCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LS0gICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LS0gICBnZW5lcmF0ZSBpbmRleCBmb3IgZWFjaCBlbGVtZW50Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LS0gCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>132</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -539,11 +538,6 @@
         <entry>beMember</entry>
       </history-search>
       <history-cmd>
-        <entry>210</entry>
-        <entry>49</entry>
-        <entry>99</entry>
-        <entry>76]</entry>
-        <entry>47</entry>
         <entry>76</entry>
         <entry>755</entry>
         <entry>758</entry>
@@ -561,9 +555,12 @@
         <entry>260</entry>
         <entry>160</entry>
         <entry>184</entry>
-        <entry>w</entry>
         <entry>114</entry>
         <entry>132</entry>
+        <entry>173</entry>
+        <entry>187</entry>
+        <entry>372</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
