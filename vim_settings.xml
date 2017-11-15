@@ -5,7 +5,7 @@
       <mark key="M" line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error.sql" timestamp="1510600792551">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error.sql" timestamp="1510709544791">
         <mark key="[" line="12" column="94" />
         <mark key="]" line="12" column="97" />
         <mark key="." line="12" column="97" />
@@ -217,8 +217,8 @@
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" timestamp="1510076041663">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" timestamp="1510709488908">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
@@ -427,7 +427,6 @@
       <jump line="42" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="1" column="40" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="22" column="46" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="4" column="30" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
@@ -463,6 +462,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
       <jump line="18" column="4" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" />
       <jump line="159" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
