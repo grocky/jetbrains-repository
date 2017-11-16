@@ -345,7 +345,8 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/lambda-functions/crossDomainTracking/index.js" timestamp="1510852061890">
+      <file name="$USER_HOME$/Projects/lambda-functions/crossDomainTracking/index.js" timestamp="1510853472805">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="60" column="17" />
         <mark key="^" line="44" column="46" />
@@ -379,8 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="20" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
-      <jump line="29" column="27" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
       <jump line="167" column="128" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/CronJobs/Routes/CronRouteCollection.php" />
       <jump line="20" column="1" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronContributorPaymentStatusSyncJob.php" />
       <jump line="20" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose-resque.yml" />
@@ -479,6 +478,8 @@
       <jump line="159" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/lambda-functions/crossDomainTracking/queryDynamoDB.js" />
+      <jump line="46" column="45" filename="$USER_HOME$/Projects/lambda-functions/crossDomainTracking/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/lambda-functions/crossDomainTracking/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +489,7 @@
         <text>&quot;cross_domain_tracking&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>beMember</text>
+        <text>callback</text>
       </register>
       <register name="0" type="4">
         <text>cross_domain_tracking</text>
@@ -528,13 +529,13 @@
       </register>
     </registers>
     <search>
-      <last-search>beMember</last-search>
+      <last-search>callback</last-search>
       <last-offset />
-      <last-pattern>beMember</last-pattern>
+      <last-pattern>callback</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -558,6 +559,7 @@
         <entry>user</entry>
         <entry>before</entry>
         <entry>beMember</entry>
+        <entry>callback</entry>
       </history-search>
       <history-cmd>
         <entry>A</entry>
