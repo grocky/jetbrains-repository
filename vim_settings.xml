@@ -83,6 +83,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dotfiles/dotfiles/bashrc" timestamp="1511048065121">
+        <mark key="'" line="75" column="1" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="84" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/event/ab_site_error_trace.sql" timestamp="1510073695377">
         <mark key="'" line="4" column="16" />
         <mark key="[" line="5" column="9" />
@@ -215,6 +222,12 @@
         <mark key="." line="45" column="2" />
         <mark key="^" line="45" column="2" />
       </file>
+      <file name="$USER_HOME$/dotfiles/dotfiles/bash_functions" timestamp="1511048112668">
+        <mark key="'" line="77" column="11" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/event-log-loader/version.sbt" timestamp="1510688661058">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="23" />
@@ -280,7 +293,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511047062784">
+      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511048003551">
         <mark key="[" line="106" column="56" />
         <mark key="]" line="106" column="53" />
         <mark key="." line="106" column="53" />
@@ -385,6 +398,11 @@
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
+      <file name="$USER_HOME$/dotfiles/dotfiles/bash_aliases" timestamp="1511048100751">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -392,9 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="4" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="13" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="16" column="34" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="108" column="4" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="85" column="80" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="81" column="6" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
@@ -492,10 +507,13 @@
       <jump line="6" column="45" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
       <jump line="67" column="0" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
       <jump line="1" column="0" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
+      <jump line="79" column="0" filename="$USER_HOME$/dotfiles/dotfiles/bashrc" />
+      <jump line="75" column="1" filename="$USER_HOME$/dotfiles/dotfiles/bashrc" />
+      <jump line="77" column="11" filename="$USER_HOME$/dotfiles/dotfiles/bash_functions" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y_position</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>y_position</text>
@@ -503,38 +521,38 @@
       <register name="/" type="4">
         <text>dafdaf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHhfcG9zaXRpb24gPSAzMjAK</text>
+      <register name="0" type="4">
+        <text>find_password slack_user_api_token</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHlfcG9zaXRpb24gPSA0NQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGZpbmRfcGFzc3dvcmQoKSB7CiAgcGFzc3dvcmRfbmFtZT0kMQogIGdyZXAgLWkgJHtwYXNzd29yZF9uYW1lfSB+Ly5lbnZ8Y3V0IC1kPSAtZjIKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3lcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF95fSIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgWyAtZiAiJHtIT01FfS8iIF07IHRoZW4KCmZpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3hcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF94fSIK</text>
+        <text encoding="base64">ICAgIHlfcG9zaXRpb24gPSA0NQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHBvc3RfYm9keSA8PCAiLS0je2JvdW5kYXJ5fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHBvc3RfYm9keSA8PCAiLS0je2JvdW5kYXJ5fSIK</text>
+        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3lcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF95fSIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3dcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF93aWR0aH0iCg==</text>
+        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3hcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF94fSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
