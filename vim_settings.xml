@@ -280,11 +280,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511039888829">
-        <mark key="[" line="49" column="48" />
-        <mark key="]" line="49" column="52" />
-        <mark key="." line="49" column="52" />
-        <mark key="^" line="49" column="52" />
+      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511042998647">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Framework/GraphicSiteEventServiceConfiguration.php" timestamp="1508525197436">
         <mark key="[" line="13" column="0" />
@@ -494,47 +494,47 @@
       <jump line="1" column="0" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgcHV0cyBob21lX2RpcgogIHB1dHMgZ2l0X3Nob3RzX2Rpcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>home_dir</text>
       </register>
       <register name="/" type="4">
         <text>dafdaf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgRmlsZS5yZWFkKGZpbGUpCg==</text>
+        <text encoding="base64">ICBwdXRzIGhvbWVfZGlyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHV0cyBob21lX2RpcgogIHB1dHMgZ2l0X3Nob3RzX2Rpcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZQo=</text>
+        <text encoding="base64">ICBwdXRzICIje0VOVi50b19zfSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdXRzICIje3Rva2VufSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIlxyXG4iCg==</text>
+        <text encoding="base64">IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1bmxlc3MgdG9rZW4/Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQT1NUICB0b2tlbj0neG94cC00Mzk5MjM0Mjk5LTQzNzc1NjM1MjgtMTAyMDgyNDkxNjgtNzQ1ODJiJyBpbWFnZUAke25ld2VzdF9naXRzaG90fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB1cmkgPSBVUkkucGFyc2UoJ2h0dHBzOi8vc2xhY2suY29tL2FwaS91c2Vycy5zZXRQaG90bycpCgogIHBvc3RfYm9keSA9IFtdCiAgcG9zdF9ib2R5IDw8ICItLSN7Ym91bmRhcnl9IgogIHBvc3RfYm9keSA8PCAiQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPVwidG9rZW5cIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7dG9rZW59IgogIHBvc3RfYm9keSA8PCAiLS0je2JvdW5kYXJ5fSIKICBwb3N0X2JvZHkgPDwgIkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT1cImltYWdlXCI7IGZpbGVuYW1lPVwiI3tGaWxlLmJhc2VuYW1lKGZpbGUpfVwiIgogIHBvc3RfYm9keSA8PCAiQ29udGVudC1UeXBlOiBpbWFnZS9qcGVnIgogIHBvc3RfYm9keSA8PCAnJwogIHBvc3RfYm9keSA8PCBGaWxlLnJlYWQoZmlsZSkKICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0tLSIKCiAgaHR0cCA9IE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KQogIGh0dHAudXNlX3NzbCA9IHRydWUKICByZXF1ZXN0ID0gTmV0OjpIVFRQOjpQb3N0Lm5ldyh1cmkucmVxdWVzdF91cmkpCiAgcmVxdWVzdC5ib2R5ID0gcG9zdF9ib2R5LmpvaW4oIlxyXG4iKQogIHJlcXVlc3RbJ0NvbnRlbnQtVHlwZSddID0gIm11bHRpcGFydC9mb3JtLWRhdGEsIGJvdW5kYXJ5PSN7Ym91bmRhcnl9IgoKICByZXNwb25zZSA9IGh0dHAucmVxdWVzdChyZXF1ZXN0KQoKICBwdXRzIHJlc3BvbnNlLmJvZHkKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnaXRzaG90c19kaXI9In4vR29vZ2xlRHJpdmUvR29vZ2xlXCBQaG90b3MvZ2l0c2hvdHMiOyBuZXdlc3RfZ2l0c2hvdD0iJHtnaXRzaG90c19kaXJ9LyQobHMgLTFydCAke2dpdHNob3RzX2Rpcn0gfCB0YWlsIC1uMSkiOyBlY2hvICR7Z2l0c2hvdHNfZGlyfTsgZWNobyAke25ld2VzdF9naXRzaG90OyBodHRwcyAtZiBQT1NUIHNsYWNrLmNvbS9hcGkvdXNlcnMuc2V0UGhvdG8gdG9rZW49J3hveHAtNDM5OTIzNDI5OS00Mzc3NTYzNTI4LTEwMjA4MjQ5MTY4LTc0NTgyYicgaW1hZ2VAJHtuZXdlc3RfZ2l0c2hvdH0K</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -592,6 +592,8 @@
         <entry>173</entry>
         <entry>187</entry>
         <entry>372</entry>
+        <entry>76</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
