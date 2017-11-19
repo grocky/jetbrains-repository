@@ -293,11 +293,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511092386575">
-        <mark key="[" line="108" column="32" />
-        <mark key="]" line="108" column="46" />
-        <mark key="." line="108" column="46" />
-        <mark key="^" line="108" column="46" />
+      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511098798984">
+        <mark key="'" line="134" column="25" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="57" column="31" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Framework/GraphicSiteEventServiceConfiguration.php" timestamp="1508525197436">
         <mark key="[" line="13" column="0" />
@@ -410,9 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="4" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="85" column="80" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="81" column="6" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="35" column="46" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="50" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
@@ -510,19 +508,22 @@
       <jump line="79" column="0" filename="$USER_HOME$/dotfiles/dotfiles/bashrc" />
       <jump line="75" column="1" filename="$USER_HOME$/dotfiles/dotfiles/bashrc" />
       <jump line="77" column="11" filename="$USER_HOME$/dotfiles/dotfiles/bash_functions" />
+      <jump line="131" column="0" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
+      <jump line="9" column="0" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
+      <jump line="126" column="25" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text/plain</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>text/plain</text>
+        <text>image_part</text>
       </register>
       <register name="/" type="4">
         <text>dafdaf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT1cInRva2VuXCIiCiAgcG9zdF9ib2R5IDw8ICdDb250ZW50LVR5cGU6IHRleHQvcGxhaW4nCiAgcG9zdF9ib2R5IDw8ICcnCiAgcG9zdF9ib2R5IDw8ICIje3Rva2VufSIK</text>
+      <register name="0" type="4">
+        <text>MultipartBodyPart.new('image', File.new(file, 'r'), 'image/jpeg')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -534,25 +535,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbWFnZV9wYXJ0ID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGZpbmRfcGFzc3dvcmQoKSB7CiAgcGFzc3dvcmRfbmFtZT0kMQogIGdyZXAgLWkgJHtwYXNzd29yZF9uYW1lfSB+Ly5lbnZ8Y3V0IC1kPSAtZjIKfQo=</text>
+        <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyb3BfeV9wYXJ0ID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgWyAtZiAiJHtIT01FfS8iIF07IHRoZW4KCmZpCg==</text>
+        <text encoding="base64">ICAgIGNyb3BfeF9wYXJ0ID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlfcG9zaXRpb24gPSA0NQo=</text>
+        <text encoding="base64">ICAgIGNyb3Bfd2lkdGhfcGFydCA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0tLSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3lcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF95fSIK</text>
+        <text encoding="base64">ICBwb3N0X2JvZHkuY29uY2F0KGltYWdlX3BhcnQuYnVpbGQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -612,6 +613,7 @@
         <entry>372</entry>
         <entry>76</entry>
         <entry>w'</entry>
+        <entry>55</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
