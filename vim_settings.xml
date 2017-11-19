@@ -293,11 +293,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511048003551">
-        <mark key="[" line="106" column="56" />
-        <mark key="]" line="106" column="53" />
-        <mark key="." line="106" column="53" />
-        <mark key="^" line="106" column="53" />
+      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511092386575">
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="108" column="46" />
+        <mark key="." line="108" column="46" />
+        <mark key="^" line="108" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Framework/GraphicSiteEventServiceConfiguration.php" timestamp="1508525197436">
         <mark key="[" line="13" column="0" />
@@ -512,17 +512,17 @@
       <jump line="77" column="11" filename="$USER_HOME$/dotfiles/dotfiles/bash_functions" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>text/plain</text>
       </register>
       <register name="-" type="4">
-        <text>y_position</text>
+        <text>text/plain</text>
       </register>
       <register name="/" type="4">
         <text>dafdaf</text>
       </register>
-      <register name="0" type="4">
-        <text>find_password slack_user_api_token</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT1cInRva2VuXCIiCiAgcG9zdF9ib2R5IDw8ICdDb250ZW50LVR5cGU6IHRleHQvcGxhaW4nCiAgcG9zdF9ib2R5IDw8ICcnCiAgcG9zdF9ib2R5IDw8ICIje3Rva2VufSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -531,28 +531,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGZpbmRfcGFzc3dvcmQoKSB7CiAgcGFzc3dvcmRfbmFtZT0kMQogIGdyZXAgLWkgJHtwYXNzd29yZF9uYW1lfSB+Ly5lbnZ8Y3V0IC1kPSAtZjIKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgWyAtZiAiJHtIT01FfS8iIF07IHRoZW4KCmZpCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGZpbmRfcGFzc3dvcmQoKSB7CiAgcGFzc3dvcmRfbmFtZT0kMQogIGdyZXAgLWkgJHtwYXNzd29yZF9uYW1lfSB+Ly5lbnZ8Y3V0IC1kPSAtZjIKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHlfcG9zaXRpb24gPSA0NQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aWYgWyAtZiAiJHtIT01FfS8iIF07IHRoZW4KCmZpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3lcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF95fSIK</text>
+        <text encoding="base64">ICAgIHlfcG9zaXRpb24gPSA0NQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3hcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF94fSIK</text>
+        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0iCiAgcG9zdF9ib2R5IDw8ICJDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9XCJjcm9wX3lcIiIKICBwb3N0X2JvZHkgPDwgJ0NvbnRlbnQtVHlwZTogdGV4dC9wbGFpbicKICBwb3N0X2JvZHkgPDwgJycKICBwb3N0X2JvZHkgPDwgIiN7Y3JvcF95fSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
