@@ -223,11 +223,11 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/version.sbt" timestamp="1510688661058">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="$USER_HOME$/Projects/event-log-loader/version.sbt" timestamp="1511984967078">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/members/TestMemberSignups.php" timestamp="1432718247353">
         <mark key="[" line="314" column="0" />
@@ -564,7 +564,7 @@
         <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>368</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -621,8 +621,8 @@
         <entry>76</entry>
         <entry>w'</entry>
         <entry>55</entry>
-        <entry>w</entry>
         <entry>368</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
