@@ -64,10 +64,10 @@
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1511922586496">
         <mark key="'" line="127" column="16" />
-        <mark key="[" line="163" column="33" />
-        <mark key="]" line="163" column="33" />
-        <mark key="." line="163" column="33" />
-        <mark key="^" line="163" column="34" />
+        <mark key="[" line="164" column="33" />
+        <mark key="]" line="164" column="33" />
+        <mark key="." line="164" column="33" />
+        <mark key="^" line="164" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_files.php" timestamp="1432915003224">
         <mark key="[" line="8" column="0" />
@@ -234,19 +234,15 @@
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" timestamp="1510709488908">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error_trace.sql" timestamp="1511975593427">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-        <mark key="^" line="3" column="38" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1511920717261">
-        <mark key="'" line="154" column="55" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="195" column="5" />
-        <mark key="." line="195" column="5" />
-        <mark key="^" line="195" column="5" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1511976131504">
+        <mark key="'" line="192" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/EventLogLoaderSupervisor.scala" timestamp="1511922498397" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
@@ -259,9 +255,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511972103832">
-        <mark key="]" line="12" column="143" />
-        <mark key="." line="12" column="8" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511977469504">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
@@ -269,7 +268,7 @@
       <file name="/sbtShell" timestamp="1510092791757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1510278564537">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1511975757871">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="121" />
@@ -363,12 +362,19 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_1000.sql" timestamp="1511974331417">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_1000.sql" timestamp="1511975338685">
         <mark key="'" line="4" column="23" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="19" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/etl_functions.sql" timestamp="1511976912979">
+        <mark key="'" line="23" column="36" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/lambda-functions/crossDomainTracking/index.js" timestamp="1510854313923">
         <mark key="'" line="105" column="0" />
@@ -377,7 +383,6 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="68" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1510246030584" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -410,9 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="2" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="73" column="30" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
-      <jump line="74" column="15" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEnum.php" />
       <jump line="4" column="27" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEnum.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
@@ -510,62 +512,65 @@
       <jump line="154" column="55" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
       <jump line="4" column="23" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_1000.sql" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
+      <jump line="17" column="36" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/etl_functions.sql" />
+      <jump line="192" column="14" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>etl_text</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>etl_text</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text>etl_int</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZXZlbnQuc2VxXzBfdG9fMTAwMCAoCiAgaSBTTUFMTElOVAopOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJsaW5lIiBWQVJDSEFSKDY0KSBlbmNvZGUgVEVYVDI1NSwK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>List(
         &quot;b58f6cc1-41ec-45b0-b246-324a76986793&quot;,
         &quot;c4ecdd71-103a-4008-bedd-72e5141828b4&quot;,
         &quot;152ca903-bdab-4e93-80b5-3febfbf3c6d4&quot;
       )</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlVmlld1ZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlVmlld1ZhbHVlcwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbWFnZV9wYXJ0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
+        <text encoding="base64">ICBpbWFnZV9wYXJ0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyb3BfeV9wYXJ0ID0gCg==</text>
+        <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search>etl_int</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
+      <last-pattern>etl_int</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -594,6 +599,7 @@
         <entry>callback</entry>
         <entry>dafdaf</entry>
         <entry>15</entry>
+        <entry>etl_int</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
