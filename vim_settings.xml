@@ -62,11 +62,12 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1510282349339">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1511922586496">
         <mark key="'" line="127" column="16" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="163" column="33" />
+        <mark key="]" line="163" column="33" />
+        <mark key="." line="163" column="33" />
+        <mark key="^" line="163" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_files.php" timestamp="1432915003224">
         <mark key="[" line="8" column="0" />
@@ -246,13 +247,14 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1510601373108">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="371" column="0" />
-        <mark key="." line="371" column="0" />
-        <mark key="^" line="370" column="19" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1511920717261">
+        <mark key="'" line="154" column="55" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="195" column="5" />
+        <mark key="." line="195" column="5" />
+        <mark key="^" line="195" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/EventLogLoaderSupervisor.scala" timestamp="1511922498397" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -263,12 +265,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1510247270552">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511923282888">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+        <mark key="." line="21" column="47" />
       </file>
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
@@ -340,12 +342,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1510178780448">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1511920511597">
         <mark key="'" line="3" column="47" />
-        <mark key="[" line="16" column="254" />
-        <mark key="]" line="16" column="254" />
-        <mark key="." line="16" column="254" />
-        <mark key="^" line="16" column="265" />
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Models/VideoSearchModel.php" timestamp="1432684760670">
         <mark key="[" line="83" column="0" />
@@ -410,8 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
-      <jump line="35" column="46" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="50" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="19" column="12" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="71" column="2" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
@@ -510,62 +510,68 @@
       <jump line="131" column="0" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
       <jump line="9" column="0" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
       <jump line="126" column="25" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
+      <jump line="376" column="62" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="154" column="55" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>json_extract_path_text(payload, 'errorTrace')</text>
       </register>
       <register name="-" type="4">
-        <text>image_part</text>
+        <text>json_extract_path_text(payload, 'errorTrace')</text>
       </register>
       <register name="/" type="4">
-        <text>dafdaf</text>
+        <text>15</text>
       </register>
-      <register name="0" type="4">
-        <text>MultipartBodyPart.new('image', File.new(file, 'r'), 'image/jpeg')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHBhZ2VWaWV3VmFsdWVzOiBMaXN0W1N0cmluZ10gPSBEQi5yZWFkT25seShpbXBsaWNpdCBzZXNzaW9uID0+IFNRTC5hcHBseSgKICAgICAgICBzInNlbGVjdCB1dWlkIGZyb20gZXZlbnQudmJfcGFnZV92aWV3IikubWFwKF8uc3RyaW5nKDEpKS5saXN0LmFwcGx5KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>List(
+        &quot;b58f6cc1-41ec-45b0-b246-324a76986793&quot;,
+        &quot;c4ecdd71-103a-4008-bedd-72e5141828b4&quot;,
+        &quot;152ca903-bdab-4e93-80b5-3febfbf3c6d4&quot;
+      )</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbWFnZV9wYXJ0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlVmlld1ZhbHVlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyb3BfeV9wYXJ0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyb3BfeF9wYXJ0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyb3Bfd2lkdGhfcGFydCA9IAo=</text>
+        <text encoding="base64">ICBpbWFnZV9wYXJ0ID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkgPDwgIi0tI3tib3VuZGFyeX0tLSIK</text>
+        <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3N0X2JvZHkuY29uY2F0KGltYWdlX3BhcnQuYnVpbGQpCg==</text>
+        <text encoding="base64">ICAgIGNyb3BfeV9wYXJ0ID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dafdaf</last-search>
+      <last-search>15</last-search>
       <last-offset />
-      <last-pattern>dafdaf</last-pattern>
+      <last-pattern>15</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -589,6 +595,7 @@
         <entry>beMember</entry>
         <entry>callback</entry>
         <entry>dafdaf</entry>
+        <entry>15</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
