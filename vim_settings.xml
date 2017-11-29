@@ -564,7 +564,7 @@
         <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>368</text>
       </register>
     </registers>
     <search>
@@ -622,6 +622,7 @@
         <entry>w'</entry>
         <entry>55</entry>
         <entry>w</entry>
+        <entry>368</entry>
       </history-cmd>
       <history-expr />
       <history-input />
