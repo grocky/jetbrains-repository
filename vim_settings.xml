@@ -294,11 +294,10 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511098798984">
-        <mark key="'" line="134" column="25" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="57" column="31" />
-        <mark key="." line="140" column="0" />
+        <mark key="'" line="138" column="25" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Framework/GraphicSiteEventServiceConfiguration.php" timestamp="1508525197436">
         <mark key="[" line="13" column="0" />
@@ -592,9 +591,6 @@
         <entry>dafdaf</entry>
       </history-search>
       <history-cmd>
-        <entry>A</entry>
-        <entry>43</entry>
-        <entry>m-2</entry>
         <entry>vsp</entry>
         <entry>40</entry>
         <entry>%s/varchar/VARCHAR/g</entry>
