@@ -138,9 +138,6 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/autotest/src/tests/audioblocks/TestABAutoLoginFromVB.java" timestamp="1510239825772">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/command-runners/GitTest.php" timestamp="1432712230864">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -195,9 +192,6 @@
         <mark key="]" line="127" column="34" />
         <mark key="." line="127" column="34" />
         <mark key="^" line="127" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/autotest/src/framework/util/TestApiClient.java" timestamp="1510239907229">
-        <mark key="'" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/BaseSchema/migrations/20171030055440_add_cron_sync_contributor_payment_statuses.php" timestamp="1509370155706">
         <mark key="[" line="12" column="12" />
@@ -369,6 +363,13 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_1000.sql" timestamp="1511974331417">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/lambda-functions/crossDomainTracking/index.js" timestamp="1510854313923">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="105" column="0" />
@@ -409,7 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="71" column="2" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="73" column="30" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="74" column="15" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
@@ -509,19 +509,20 @@
       <jump line="376" column="62" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="154" column="55" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
+      <jump line="4" column="23" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_1000.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gZXZlbnQue3sgc2l0ZU5hbWUgfX1fc2l0ZV9lcnJvcl90cmFjZQogICAgKGVycm9yX3V1aWQsIHNlcSwgZmlsZSwgbGluZSwgZnVuY3Rpb24sIGNsYXNzKQogICAgc2VsZWN0IHV1aWQsCiAgICAgZXRsX2ludChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGpzb25fZXh0cmFjdF9hcnJheV9lbGVtZW50X3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChwYXlsb2FkLCAnZXJyb3JUcmFjZScpLCBzZXEuaSksICdzZXEnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZmlsZScpLCAxMDI0KSwKICAgICBldGxfaW50KGpzb25fZXh0cmFjdF9wYXRoX3RleHQoanNvbl9leHRyYWN0X2FycmF5X2VsZW1lbnRfdGV4dChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KHBheWxvYWQsICdlcnJvclRyYWNlJyksIHNlcS5pKSwgJ2xpbmUnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZnVuY3Rpb24nKSwgMTAyNCksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnY2xhc3MnKSwgMTAyNCkKICAgICBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19LCBldmVudC5zZXFfMF90b18xMDAwIEFTIHNlcQogICAgIFdIRVJFIG5hbWUgPSAne3sgZXZlbnROYW1lIH19JwogICAgICAgIEFORCBzZXEuaSA8IGpzb25fYXJyYXlfbGVuZ3RoKGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSkKICAgICAgICBBTkQgdXVpZCBOT1QgSU4gKFNFTEVDVCBESVNUSU5DVCh1dWlkKSBGUk9NIGV2ZW50Lnt7IHNpdGVOYW1lIH19X3NpdGVfZXJyb3IgV0hFUkUgZGF0ZSA+PSAoU0VMRUNUIE1JTihkYXRlKSBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gZXZlbnQue3sgc2l0ZU5hbWUgfX1fc2l0ZV9lcnJvcl90cmFjZQogICAgKGVycm9yX3V1aWQsIHNlcSwgZmlsZSwgbGluZSwgZnVuY3Rpb24sIGNsYXNzKQogICAgc2VsZWN0IHV1aWQsCiAgICAgZXRsX2ludChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGpzb25fZXh0cmFjdF9hcnJheV9lbGVtZW50X3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChwYXlsb2FkLCAnZXJyb3JUcmFjZScpLCBzZXEuaSksICdzZXEnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZmlsZScpLCAxMDI0KSwKICAgICBldGxfaW50KGpzb25fZXh0cmFjdF9wYXRoX3RleHQoanNvbl9leHRyYWN0X2FycmF5X2VsZW1lbnRfdGV4dChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KHBheWxvYWQsICdlcnJvclRyYWNlJyksIHNlcS5pKSwgJ2xpbmUnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZnVuY3Rpb24nKSwgMTAyNCksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnY2xhc3MnKSwgMTAyNCkKICAgICBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19LCBldmVudC5zZXFfMF90b18xMDAwIEFTIHNlcQogICAgIFdIRVJFIG5hbWUgPSAne3sgZXZlbnROYW1lIH19JwogICAgICAgIEFORCBzZXEuaSA8IGpzb25fYXJyYXlfbGVuZ3RoKGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSkKICAgICAgICBBTkQgdXVpZCBOT1QgSU4gKFNFTEVDVCBESVNUSU5DVCh1dWlkKSBGUk9NIGV2ZW50Lnt7IHNpdGVOYW1lIH19X3NpdGVfZXJyb3IgV0hFUkUgZGF0ZSA+PSAoU0VMRUNUIE1JTihkYXRlKSBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19KSk7Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZXZlbnQuc2VxXzBfdG9fMTAwMCAoCiAgaSBTTUFMTElOVAopOwo=</text>
       </register>
       <register name="1" type="4">
         <text>List(
