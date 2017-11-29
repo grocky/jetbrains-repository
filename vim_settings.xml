@@ -265,12 +265,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511923282888">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511924322479">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="47" />
-        <mark key="^" line="21" column="47" />
-        <mark key="." line="21" column="47" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
@@ -515,10 +515,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>json_extract_path_text(payload, 'errorTrace')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>json_extract_path_text(payload, 'errorTrace')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
