@@ -265,12 +265,9 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511924322479">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="22" column="11" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511972103832">
+        <mark key="]" line="12" column="143" />
+        <mark key="." line="12" column="8" />
       </file>
       <file name="/PHP Console" timestamp="1509934204790">
         <mark key="[" line="0" column="0" />
@@ -412,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="11" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="19" column="12" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="71" column="2" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
       <jump line="73" column="30" filename="$USER_HOME$/Projects/StockBlocks/docker-compose.yml" />
@@ -512,10 +508,11 @@
       <jump line="126" column="25" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
       <jump line="376" column="62" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="154" column="55" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SU5TRVJUIElOVE8gZXZlbnQue3sgc2l0ZU5hbWUgfX1fc2l0ZV9lcnJvcl90cmFjZQogICAgKGVycm9yX3V1aWQsIHNlcSwgZmlsZSwgbGluZSwgZnVuY3Rpb24sIGNsYXNzKQogICAgc2VsZWN0IHV1aWQsCiAgICAgZXRsX2ludChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGpzb25fZXh0cmFjdF9hcnJheV9lbGVtZW50X3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChwYXlsb2FkLCAnZXJyb3JUcmFjZScpLCBzZXEuaSksICdzZXEnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZmlsZScpLCAxMDI0KSwKICAgICBldGxfaW50KGpzb25fZXh0cmFjdF9wYXRoX3RleHQoanNvbl9leHRyYWN0X2FycmF5X2VsZW1lbnRfdGV4dChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KHBheWxvYWQsICdlcnJvclRyYWNlJyksIHNlcS5pKSwgJ2xpbmUnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZnVuY3Rpb24nKSwgMTAyNCksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnY2xhc3MnKSwgMTAyNCkKICAgICBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19LCBldmVudC5zZXFfMF90b18xMDAwIEFTIHNlcQogICAgIFdIRVJFIG5hbWUgPSAne3sgZXZlbnROYW1lIH19JwogICAgICAgIEFORCBzZXEuaSA8IGpzb25fYXJyYXlfbGVuZ3RoKGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSkKICAgICAgICBBTkQgdXVpZCBOT1QgSU4gKFNFTEVDVCBESVNUSU5DVCh1dWlkKSBGUk9NIGV2ZW50Lnt7IHNpdGVOYW1lIH19X3NpdGVfZXJyb3IgV0hFUkUgZGF0ZSA+PSAoU0VMRUNUIE1JTihkYXRlKSBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19KSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -524,7 +521,7 @@
         <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHBhZ2VWaWV3VmFsdWVzOiBMaXN0W1N0cmluZ10gPSBEQi5yZWFkT25seShpbXBsaWNpdCBzZXNzaW9uID0+IFNRTC5hcHBseSgKICAgICAgICBzInNlbGVjdCB1dWlkIGZyb20gZXZlbnQudmJfcGFnZV92aWV3IikubWFwKF8uc3RyaW5nKDEpKS5saXN0LmFwcGx5KQo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gZXZlbnQue3sgc2l0ZU5hbWUgfX1fc2l0ZV9lcnJvcl90cmFjZQogICAgKGVycm9yX3V1aWQsIHNlcSwgZmlsZSwgbGluZSwgZnVuY3Rpb24sIGNsYXNzKQogICAgc2VsZWN0IHV1aWQsCiAgICAgZXRsX2ludChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KGpzb25fZXh0cmFjdF9hcnJheV9lbGVtZW50X3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChwYXlsb2FkLCAnZXJyb3JUcmFjZScpLCBzZXEuaSksICdzZXEnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZmlsZScpLCAxMDI0KSwKICAgICBldGxfaW50KGpzb25fZXh0cmFjdF9wYXRoX3RleHQoanNvbl9leHRyYWN0X2FycmF5X2VsZW1lbnRfdGV4dChqc29uX2V4dHJhY3RfcGF0aF90ZXh0KHBheWxvYWQsICdlcnJvclRyYWNlJyksIHNlcS5pKSwgJ2xpbmUnKSksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnZnVuY3Rpb24nKSwgMTAyNCksCiAgICAgZXRsX3RleHQoanNvbl9leHRyYWN0X3BhdGhfdGV4dChqc29uX2V4dHJhY3RfYXJyYXlfZWxlbWVudF90ZXh0KGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSwgc2VxLmkpLCAnY2xhc3MnKSwgMTAyNCkKICAgICBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19LCBldmVudC5zZXFfMF90b18xMDAwIEFTIHNlcQogICAgIFdIRVJFIG5hbWUgPSAne3sgZXZlbnROYW1lIH19JwogICAgICAgIEFORCBzZXEuaSA8IGpzb25fYXJyYXlfbGVuZ3RoKGpzb25fZXh0cmFjdF9wYXRoX3RleHQocGF5bG9hZCwgJ2Vycm9yVHJhY2UnKSkKICAgICAgICBBTkQgdXVpZCBOT1QgSU4gKFNFTEVDVCBESVNUSU5DVCh1dWlkKSBGUk9NIGV2ZW50Lnt7IHNpdGVOYW1lIH19X3NpdGVfZXJyb3IgV0hFUkUgZGF0ZSA+PSAoU0VMRUNUIE1JTihkYXRlKSBGUk9NIHt7IHRlbXBFdmVudFRhYmxlIH19KSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>List(
