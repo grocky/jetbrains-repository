@@ -5,9 +5,6 @@
       <mark key="M" line="26" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" />
     </globalmarks>
     <filemarks>
-      <file name="/fragment.js" timestamp="1510851448668">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/site_error.sql" timestamp="1510709544791">
         <mark key="[" line="12" column="94" />
         <mark key="]" line="12" column="97" />
@@ -241,6 +238,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" timestamp="1512530589548">
+        <mark key="'" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1511976131504">
         <mark key="'" line="192" column="14" />
       </file>
@@ -260,12 +260,6 @@
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
-      </file>
-      <file name="/PHP Console" timestamp="1509934204790">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1510092791757">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1511975757871">
         <mark key="'" line="20" column="4" />
@@ -415,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="27" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEnum.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="93" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
@@ -515,6 +508,7 @@
       <jump line="17" column="36" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/etl_functions.sql" />
       <jump line="192" column="14" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="144" column="23" filename="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
