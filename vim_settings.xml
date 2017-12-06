@@ -244,7 +244,6 @@
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1511976131504">
         <mark key="'" line="192" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/EventLogLoaderSupervisor.scala" timestamp="1511922498397" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -301,7 +300,7 @@
         <mark key="]" line="82" column="45" />
         <mark key="." line="82" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510177576526">
+      <file name="/Dummy.txt" timestamp="1512529489572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
@@ -383,6 +382,7 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="68" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1512529441978" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/SiteEvents/BotRequestEvent.php" timestamp="1507749936996">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -574,13 +574,10 @@
       <last-replace>VARCHAR</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>triggfer</entry>
-        <entry>sendUn</entry>
-        <entry>fluent</entry>
         <entry>cycle</entry>
         <entry>satus</entry>
         <entry>status</entry>
@@ -603,7 +600,6 @@
         <entry>ex.getMe</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
         <entry>40</entry>
         <entry>%s/varchar/VARCHAR/g</entry>
         <entry>%s/varchar/VARCHAR</entry>
