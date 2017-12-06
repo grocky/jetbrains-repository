@@ -72,6 +72,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/service-search/app/models/videoBlocks/VideoSearchOptions.scala" timestamp="1512533068296" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_psr4.php" timestamp="1432915017281">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -158,6 +159,7 @@
         <mark key="^" line="15" column="119" />
         <mark key="." line="15" column="119" />
       </file>
+      <file name="$USER_HOME$/Projects/service-search/app/models/videoBlocks/VideoSearchModel.scala" timestamp="1512533689498" />
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup_resque.sh" timestamp="1509741101349">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="60" />
