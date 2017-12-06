@@ -59,6 +59,7 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/service-search/app/models/videoBlocks/VideoSearchRequest.scala" timestamp="1512532110359" />
       <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1511987044766">
         <mark key="'" line="144" column="23" />
         <mark key="[" line="164" column="33" />
@@ -294,7 +295,7 @@
         <mark key="]" line="82" column="45" />
         <mark key="." line="82" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512529489572">
+      <file name="/Dummy.txt" timestamp="1512531742477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
