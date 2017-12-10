@@ -59,7 +59,7 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1512914779006">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1512916533906">
         <mark key="'" line="144" column="23" />
         <mark key="[" line="164" column="33" />
         <mark key="]" line="164" column="33" />
@@ -241,8 +241,12 @@
       <file name="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" timestamp="1512530589548">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1511976131504">
-        <mark key="'" line="192" column="14" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1512916463648">
+        <mark key="'" line="413" column="0" />
+        <mark key="[" line="203" column="86" />
+        <mark key="]" line="203" column="100" />
+        <mark key="^" line="203" column="100" />
+        <mark key="." line="203" column="100" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
@@ -254,12 +258,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1512914874529">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1512916158256">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-        <mark key="^" line="17" column="11" />
+        <mark key="[" line="22" column="84" />
+        <mark key="]" line="22" column="84" />
+        <mark key="." line="22" column="84" />
+        <mark key="^" line="22" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1511975757871">
         <mark key="'" line="20" column="4" />
@@ -407,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/config/common.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="93" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="194" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
@@ -507,66 +510,67 @@
       <jump line="192" column="14" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="144" column="23" filename="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" />
+      <jump line="410" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>etl_text</text>
+        <text>_.string(1)</text>
       </register>
       <register name="-" type="4">
-        <text>etl_text</text>
+        <text>_.string(1)</text>
       </register>
       <register name="/" type="4">
-        <text>ex.getMe</text>
+        <text>error_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZXZlbnQuc2VxXzBfdG9fMTAwMCAoCiAgaSBTTUFMTElOVAopOwo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGVycm9yVHJhY2VWYWx1ZXM6IFNldFtTdHJpbmddID0gREIucmVhZE9ubHkoaW1wbGljaXQgc2Vzc2lvbiA9PiBTUUwuYXBwbHkoCiAgICAgIHMic2VsZWN0IGVycm9yX3V1aWQgZnJvbSBldmVudC52Yl9zaXRlX2Vycm9yX3RyYWNlIikubWFwKF8uc3RyaW5nKDEpKS5saXN0LmFwcGx5KS50b1NldAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsaW5lIiBWQVJDSEFSKDY0KSBlbmNvZGUgVEVYVDI1NSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJsaW5lIiBWQVJDSEFSKDY0KSBlbmNvZGUgVEVYVDI1NSwK</text>
+      </register>
+      <register name="3" type="4">
         <text>List(
         &quot;b58f6cc1-41ec-45b0-b246-324a76986793&quot;,
         &quot;c4ecdd71-103a-4008-bedd-72e5141828b4&quot;,
         &quot;152ca903-bdab-4e93-80b5-3febfbf3c6d4&quot;
       )</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlVmlld1ZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlVmlld1ZhbHVlcwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbWFnZV9wYXJ0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0b2tlbl9wYXJ0ID0gCg==</text>
+        <text encoding="base64">ICBpbWFnZV9wYXJ0ID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ex.getMe</last-search>
+      <last-search>error_</last-search>
       <last-offset />
-      <last-pattern>ex.getMe</last-pattern>
+      <last-pattern>error_</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -590,6 +594,7 @@
         <entry>15</entry>
         <entry>etl_int</entry>
         <entry>ex.getMe</entry>
+        <entry>error_</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
