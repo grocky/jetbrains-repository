@@ -59,8 +59,7 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/service-search/app/models/videoBlocks/VideoSearchRequest.scala" timestamp="1512532110359" />
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1511987044766">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" timestamp="1512914779006">
         <mark key="'" line="144" column="23" />
         <mark key="[" line="164" column="33" />
         <mark key="]" line="164" column="33" />
@@ -72,7 +71,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/service-search/app/models/videoBlocks/VideoSearchOptions.scala" timestamp="1512533068296" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_psr4.php" timestamp="1432915017281">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -159,7 +157,6 @@
         <mark key="^" line="15" column="119" />
         <mark key="." line="15" column="119" />
       </file>
-      <file name="$USER_HOME$/Projects/service-search/app/models/videoBlocks/VideoSearchModel.scala" timestamp="1512533689498" />
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/docker/setup_resque.sh" timestamp="1509741101349">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="60" />
@@ -257,7 +254,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1511977469504">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1512914874529">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="17" column="5" />
         <mark key="]" line="17" column="11" />
@@ -332,8 +329,6 @@
         <mark key="'" line="3" column="47" />
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="64" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Models/VideoSearchModel.php" timestamp="1432684760670">
         <mark key="[" line="83" column="0" />
