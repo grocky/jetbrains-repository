@@ -258,11 +258,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1512916158256">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="22" column="84" />
-        <mark key="]" line="22" column="84" />
-        <mark key="." line="22" column="84" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1512922407096">
+        <mark key="'" line="12" column="48" />
+        <mark key="[" line="23" column="83" />
+        <mark key="]" line="23" column="83" />
+        <mark key="." line="23" column="83" />
         <mark key="^" line="22" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1511975757871">
@@ -503,7 +503,6 @@
       <jump line="126" column="25" filename="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" />
       <jump line="376" column="62" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="154" column="55" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
       <jump line="4" column="23" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/schema/seq_0_to_1000.sql" />
       <jump line="23" column="8" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
       <jump line="17" column="36" filename="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/etl_functions.sql" />
@@ -511,13 +510,14 @@
       <jump line="144" column="23" filename="$USER_HOME$/Projects/event-log-loader/src/main/scala/com/videoblocks/data/sql/RedShiftConnector.scala" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" />
       <jump line="410" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="12" column="48" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_trace</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;e4ecdd71-103a-4008-bedd-72e5141828b4&quot;</text>
+        <text>_trace</text>
       </register>
       <register name="/" type="4">
         <text>error_</text>
