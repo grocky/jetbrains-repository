@@ -241,8 +241,8 @@
       <file name="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" timestamp="1512530589548">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1512920941442">
-        <mark key="'" line="421" column="0" />
+      <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1512923501455">
+        <mark key="'" line="424" column="64" />
         <mark key="[" line="208" column="99" />
         <mark key="]" line="208" column="98" />
         <mark key="." line="208" column="98" />
@@ -258,12 +258,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1512922407096">
+      <file name="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" timestamp="1512923379651">
         <mark key="'" line="12" column="48" />
-        <mark key="[" line="23" column="83" />
-        <mark key="]" line="23" column="83" />
-        <mark key="." line="23" column="83" />
-        <mark key="^" line="22" column="84" />
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="23" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1511975757871">
         <mark key="'" line="20" column="4" />
@@ -411,8 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
-      <jump line="93" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="194" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="89" column="32" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
@@ -511,6 +509,8 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" />
       <jump line="410" column="0" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="12" column="48" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
+      <jump line="236" column="28" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="424" column="64" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -520,7 +520,7 @@
         <text>_trace</text>
       </register>
       <register name="/" type="4">
-        <text>error_</text>
+        <text>Some(20</text>
       </register>
       <register name="0" type="4">
         <text>&quot;152ca903-bdab-4e93-80b5-3febfbf3c6d4&quot;</text>
@@ -560,9 +560,9 @@
       </register>
     </registers>
     <search>
-      <last-search>error_</last-search>
+      <last-search>Some(20</last-search>
       <last-offset />
-      <last-pattern>error_</last-pattern>
+      <last-pattern>Some(20</last-pattern>
       <last-replace>VARCHAR</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -591,6 +591,8 @@
         <entry>etl_int</entry>
         <entry>ex.getMe</entry>
         <entry>error_</entry>
+        <entry>seq</entry>
+        <entry>Some(20</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
