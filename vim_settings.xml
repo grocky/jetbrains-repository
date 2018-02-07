@@ -241,6 +241,13 @@
       <file name="$USER_HOME$/Projects/service-search/app/models/common/elastic/Query.scala" timestamp="1512530589548">
         <mark key="'" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/service-search/app/models/videoBlocks/constants/EnumVideoStockItems.scala" timestamp="1518041728009">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" timestamp="1512923501455">
         <mark key="'" line="424" column="64" />
         <mark key="[" line="208" column="99" />
@@ -264,6 +271,9 @@
         <mark key="]" line="23" column="46" />
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
+      </file>
+      <file name="/sbtShell" timestamp="1516384847491">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1511975757871">
         <mark key="'" line="20" column="4" />
@@ -298,7 +308,7 @@
         <mark key="]" line="82" column="45" />
         <mark key="." line="82" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512531742477">
+      <file name="/Dummy.txt" timestamp="1518041658102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
@@ -411,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="83" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="89" column="32" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
       <jump line="190" column="32" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
@@ -511,6 +520,7 @@
       <jump line="12" column="48" filename="$USER_HOME$/Projects/event-log-loader/src/main/resources/sql/ErrorEvent/process.sql" />
       <jump line="236" column="28" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="424" column="64" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
+      <jump line="29" column="6" filename="$USER_HOME$/Projects/service-search/app/models/videoBlocks/constants/EnumVideoStockItems.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -570,9 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cycle</entry>
-        <entry>satus</entry>
-        <entry>status</entry>
         <entry>randomElement</entry>
         <entry>Sync</entry>
         <entry>contributor</entry>
