@@ -71,6 +71,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" timestamp="1518124022278">
+        <mark key="'" line="21" column="19" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="31" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_psr4.php" timestamp="1432915017281">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -414,6 +421,9 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/stock_items.sql" timestamp="1518123455382">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/RateLimiting/Policies/LoginAndPasswordResetLockoutPolicy.php" timestamp="1507238224866">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -421,11 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
-      <jump line="89" column="32" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
-      <jump line="190" column="32" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
-      <jump line="40" column="67" filename="$USER_HOME$/Projects/StockBlocks/tests/common/cron/TestCronCreateEnterprisePurchaseSummaryCsvAndInvoices.php" />
-      <jump line="39" column="29" filename="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Helpers/MvcHttpRequest.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/AdminMembersController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionCoreInfoUpdatesArray.php" />
       <jump line="54" column="52" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Form/FormCheckBoxInputWidget.php" />
@@ -521,60 +526,65 @@
       <jump line="236" column="28" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="424" column="64" filename="$USER_HOME$/Projects/event-log-loader/src/test/scala/com/videoblocks/data/EventLogLoaderSupervisorSpec.scala" />
       <jump line="29" column="6" filename="$USER_HOME$/Projects/service-search/app/models/videoBlocks/constants/EnumVideoStockItems.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/stock_items.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" />
+      <jump line="17" column="45" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" />
+      <jump line="142" column="0" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" />
+      <jump line="39" column="19" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_trace</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CkNSRUFURSBUQUJMRSBzdG9yeWJsb2Nrcy5vcmdhbml6YXRpb25zCigKICBpZCAgICAgICAgICAgICAgICAgSU5URUdFUiAgICAgICBOT1QgTlVMTCBESVNUS0VZCiAgICBDT05TVFJBSU5UIG9yZ2FuaXphdGlvbnNfcGtleQogICAgUFJJTUFSWSBLRVksCiAgc2hvcnRfbmFtZSAgICAgICAgIFZBUkNIQVIoMTAwKSAgTk9UIE5VTEwKICAgIENPTlNUUkFJTlQgb3JnYW5pemF0aW9uc19zaG9ydF9uYW1lX2tleQogICAgVU5JUVVFLAogIHRpdGxlICAgICAgICAgICAgICBWQVJDSEFSKDEwMjApIE5PVCBOVUxMLAogIGRlc2NyaXB0aW9uICAgICAgICBWQVJDSEFSKDY1NTM1KSwKICBsb2dvX3VybCAgICAgICAgICAgVkFSQ0hBUigyMDQ4KSwKICBkZWZhdWx0X3BsYW5faWQgICAgSU5URUdFUiAgICAgICBOT1QgTlVMTCwKICBwdWJsaXNoX2xpYnJhcnlfaWQgSU5URUdFUiwKICBpc190ZXN0X2FjY291bnQgICAgU01BTExJTlQsCiAgZGF0ZV9hZGRlZCAgICAgICAgIFRJTUVTVEFNUCAgICAgTk9UIE5VTEwKKQogIERJU1RTVFlMRSBLRVk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_trace</text>
+        <text>VARCHAR ENCODE zstd</text>
       </register>
       <register name="/" type="4">
-        <text>Some(20</text>
+        <text>stock_item</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;152ca903-bdab-4e93-80b5-3febfbf3c6d4&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAsIHNpdGVfZGVmYXVsdF9wbGFuX2lkIElOVCBFTkNPREUgenN0ZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkNSRUFURSBUQUJMRSBzdG9yeWJsb2Nrcy5vcmdhbml6YXRpb25zCigKICBpZCAgICAgICAgICAgICAgICAgSU5URUdFUiAgICAgICBOT1QgTlVMTCBESVNUS0VZCiAgICBDT05TVFJBSU5UIG9yZ2FuaXphdGlvbnNfcGtleQogICAgUFJJTUFSWSBLRVksCiAgc2hvcnRfbmFtZSAgICAgICAgIFZBUkNIQVIoMTAwKSAgTk9UIE5VTEwKICAgIENPTlNUUkFJTlQgb3JnYW5pemF0aW9uc19zaG9ydF9uYW1lX2tleQogICAgVU5JUVVFLAogIHRpdGxlICAgICAgICAgICAgICBWQVJDSEFSKDEwMjApIE5PVCBOVUxMLAogIGRlc2NyaXB0aW9uICAgICAgICBWQVJDSEFSKDY1NTM1KSwKICBsb2dvX3VybCAgICAgICAgICAgVkFSQ0hBUigyMDQ4KSwKICBkZWZhdWx0X3BsYW5faWQgICAgSU5URUdFUiAgICAgICBOT1QgTlVMTCwKICBwdWJsaXNoX2xpYnJhcnlfaWQgSU5URUdFUiwKICBpc190ZXN0X2FjY291bnQgICAgU01BTExJTlQsCiAgZGF0ZV9hZGRlZCAgICAgICAgIFRJTUVTVEFNUCAgICAgTk9UIE5VTEwKKQogIERJU1RTVFlMRSBLRVk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgU29tZSgiMTUyY2E5MDMtYmRhYi00ZTkzLTgwYjUtM2ZlYmZiZjNjNmQ0IikgPT4gdC5nZXQoIm51bV90cmFjZXMiKSBzaG91bGRCZSBTb21lKDIwKQo=</text>
+        <text encoding="base64">ICAsIGRhdGVfdXBkYXRlZCBUSU1FU1RBTVAgRU5DT0RFIHpzdGQgREVGQVVMVCBTWVNEQVRFCiAgLCBzaXRlX29yaWdpbmFsX3N0b2NrX2NvbnRyaWJ1dG9yX2lkIElOVCBOVUxMCiAgLCBvcmlnaW5hbF9zdG9ja19jb250cmlidXRvcl9pZCBJTlQgTlVMTAogICwgZGF0ZV9tb3ZlZF90b191bCBUSU1FU1RBTVAgTlVMTAogICwgZGF0ZV9tb3ZlZF90b19tcCBUSU1FU1RBTVAgTlVMTAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAsIHRpdGxlIFZBUkNIQVIoMjU1KSBFTkNPREUgenN0ZAogICwgZGVzY3JpcHRpb24gVkFSQ0hBUigyMDAwMCkgRU5DT0RFIHpzdGQKICAsIG1ldGFfdGl0bGUgVkFSQ0hBUigyNTUpIEVOQ09ERSB6c3RkCiAgLCBtZXRhX2tleXdvcmRzIFZBUkNIQVIoMjAwMDApIEVOQ09ERSB6c3RkCiAgLCBtZXRhX2Rlc2NyaXB0aW9uIFZBUkNIQVIoMjAwMDApIEVOQ09ERSB6c3RkCiAgLCB0aHVtYm5haWxfdXJsIFZBUkNIQVIoMjAwMDApIEVOQ09ERSB6c3RkCiAgLCBpc19hY3RpdmUgQk9PTAogICwgaXNfbWFya2V0cGxhY2VfaXRlbSBCT09MIEVOQ09ERSB6c3RkCiAgLCBjb250ZW50X3R5cGUgVkFSQ0hBUigzMikgRU5DT0RFIHpzdGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0LmdldCgibnVtX3RyYWNlcyIpIHNob3VsZEJlIDEwCg==</text>
+        <text encoding="base64">ICAsIHNpdGVfb3JnYW5pemF0aW9uX2lkIElOVCBFTkNPREUgZGVsdGEgRElTVEtFWQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0LmdldCgibnVtX3RyYWNlcyIpIHNob3VsZEJlIDEwCg==</text>
+        <text encoding="base64">ICAsIGlkIElOVCBFTkNPREUgZGVsdGEK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bWF0Y2ggewogICAgICAgIGNhc2UgZXZlbnQgOjogTmlsID0+CiAgICAgICAgICBldmVudC5nZXQoImVycm9yX3V1aWQiKSBzaG91bGRCZSBTb21lKCJjNGVjZGQ3MS0xMDNhLTQwMDgtYmVkZC03MmU1MTQxODI4YjQiKQogICAgICAgICAgZXZlbnQuZ2V0KCJudW1fdHJhY2VzIikgc2hvdWxkQmUgU29tZSgxMCkKCiAgICAgICAgY2FzZSB4ID0+IGZhaWwocyJzaG91bGQgYmUgZXhhY3RseSBvbmUgRXJyb3JFdmVudCBpbiB0aGUgdGFibGUsIGJ1dCB0aGVyZSBhcmUgJHt4Lmxlbmd0aH0iKQogICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAsIHNpdGVfaWQgSU5UIEVOQ09ERSB6c3RkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV2ZW50LmdldCgidmlkIikgc2hvdWxkQmUgU29tZSgiYjUwYWE3ZWUxNDM4MjI4NWIyNGMyYTg5ODYzNTRiYzVkMjFjMmZmMTY1M2IxMjRkNGQzNmFmOGRhNmU5YTU2OCIpCiAgICAgICAgICAvL0FkZCBpbiBkYXRlIHRlc3QKICAgICAgICAgIGV2ZW50LmdldCgicmVxX3BhcnRpYWxfa2V5d29yZCIpIHNob3VsZEJlIFNvbWUoImtpZHMgIikKICAgICAgICAgIGV2ZW50LmdldCgicmVxX251bV9yZXN1bHRzX3Blcl9wYWdlIikgc2hvdWxkQmUgU29tZSgxMCkKICAgICAgICAgIGV2ZW50LmdldCgicmVxX251bV9yZXN1bHRzX3RvX3J1bl9jdl9zZWFyY2giKSBzaG91bGRCZSBTb21lKDMpCiAgICAgICAgICBldmVudC5nZXQoInJlc19udW1fa2V5d29yZHMiKSBzaG91bGRCZSBTb21lKDEwKQogICAgICAgICAgZXZlbnQuZ2V0KCJyZXNfbnVtX2N2X3Jlc3VsdHMiKSBzaG91bGRCZSBTb21lKDYpCiAgICAgICAgICBldmVudC5nZXQoInJlc19udW1fdW5pcV9jdl9yZXN1bHRzIikgc2hvdWxkQmUgU29tZSgzKQo=</text>
+        <text encoding="base64">ICAsIGxvZ29fdXJsIFZBUkNIQVIoMjAwMDApIEVOQ09ERSB6c3RkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsIHRpdGxlIFZBUkNIQVIoMjAwMCkgRU5DT0RFIHpzdGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJsaW5lIiBWQVJDSEFSKDY0KSBlbmNvZGUgVEVYVDI1NSwK</text>
+        <text encoding="base64">ICAsIHNob3J0X25hbWUgVkFSQ0hBUigyNTUpIEVOQ09ERSB6c3RkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/stock_item/organization/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Some(20</last-search>
+      <last-search>stock_item</last-search>
       <last-offset />
-      <last-pattern>Some(20</last-pattern>
-      <last-replace>VARCHAR</last-replace>
-      <last-substitute>user</last-substitute>
+      <last-pattern>stock_item</last-pattern>
+      <last-replace>organization</last-replace>
+      <last-substitute>stock_item</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -600,6 +610,8 @@
         <entry>error_</entry>
         <entry>seq</entry>
         <entry>Some(20</entry>
+        <entry>stock_items</entry>
+        <entry>stock_item</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
@@ -622,6 +634,9 @@
         <entry>55</entry>
         <entry>368</entry>
         <entry>w</entry>
+        <entry>%w/stock_items/organizations/g</entry>
+        <entry>%s/stock_items/organizations/g</entry>
+        <entry>%s/stock_item/organization/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
