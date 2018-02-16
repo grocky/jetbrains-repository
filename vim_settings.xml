@@ -142,6 +142,9 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/io.gatling/gatling-core/srcs/gatling-core-2.3.0-sources.jar!/io/gatling/core/action/builder/FeedBuilder.scala" timestamp="1518743273524">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/command-runners/GitTest.php" timestamp="1432712230864">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -209,6 +212,9 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java" timestamp="1518743314225">
+        <mark key="'" line="369" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionUpdateDTOBuilder.php" timestamp="1509733773760">
         <mark key="[" line="40" column="61" />
         <mark key="]" line="40" column="60" />
@@ -221,11 +227,11 @@
         <mark key="." line="45" column="2" />
         <mark key="^" line="45" column="2" />
       </file>
-      <file name="$USER_HOME$/dotfiles/dotfiles/bash_functions" timestamp="1511048112668">
-        <mark key="'" line="77" column="11" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/Projects/mcbain/src/it/scala/stockblocks/publicApi/SearchSimulation.scala" timestamp="1518743785925">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/version.sbt" timestamp="1511984967078">
         <mark key="[" line="4" column="26" />
@@ -262,6 +268,9 @@
         <mark key="." line="208" column="98" />
         <mark key="^" line="208" column="98" />
       </file>
+      <file name="$USER_HOME$/Projects/mcbain/src/it/scala/stockblocks/publicApi/AuthHelper.scala" timestamp="1518743478048">
+        <mark key="'" line="15" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -294,16 +303,15 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mcbain/src/it/resources/gatling.conf" timestamp="1518742950561">
+        <mark key="[" line="54" column="6" />
+        <mark key="]" line="54" column="6" />
+        <mark key="." line="54" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/MarketplaceEvents/MarketplaceEventService.php" timestamp="1508893145786">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/dotfiles/git_template/hooks/post-commit-imagesnap" timestamp="1511098798984">
-        <mark key="'" line="138" column="25" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Framework/GraphicSiteEventServiceConfiguration.php" timestamp="1508525197436">
         <mark key="[" line="13" column="0" />
@@ -315,7 +323,7 @@
         <mark key="]" line="82" column="45" />
         <mark key="." line="82" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518041658102">
+      <file name="/Dummy.txt" timestamp="1518743843215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="2" />
@@ -346,11 +354,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/S3EventData.txt" timestamp="1511920511597">
-        <mark key="'" line="3" column="47" />
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="64" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Models/VideoSearchModel.php" timestamp="1432684760670">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -361,6 +364,12 @@
         <mark key="]" line="767" column="2" />
         <mark key="." line="767" column="2" />
         <mark key="^" line="767" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/mcbain/src/it/scala/stockblocks/publicApi/DownloadSimulation.scala" timestamp="1518743778905">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+        <mark key="^" line="11" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Framework/AudioSiteEventServiceConfiguration.php" timestamp="1508525208144">
         <mark key="[" line="11" column="0" />
@@ -431,12 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/AdminMembersController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/Update/DTOs/UserSubscriptionCoreInfoUpdatesArray.php" />
-      <jump line="54" column="52" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Form/FormCheckBoxInputWidget.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/StockBlocks/package.json" />
-      <jump line="28" column="58" filename="$USER_HOME$/Projects/StockBlocks/package.json" />
-      <jump line="288" column="0" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="390" column="0" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="279" column="63" filename="$USER_HOME$/Projects/StockBlocks/README.md" />
       <jump line="22" column="48" filename="$USER_HOME$/Projects/StockBlocks/package.json" />
@@ -531,16 +534,22 @@
       <jump line="17" column="45" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" />
       <jump line="142" column="0" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" />
       <jump line="39" column="19" filename="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" />
+      <jump line="36" column="15" filename="$USER_HOME$/.ivy2/cache/io.gatling/gatling-core/srcs/gatling-core-2.3.0-sources.jar!/io/gatling/core/action/builder/FeedBuilder.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/.ivy2/cache/io.gatling/gatling-core/srcs/gatling-core-2.3.0-sources.jar!/io/gatling/core/action/builder/FeedBuilder.scala" />
+      <jump line="332" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+      <jump line="352" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+      <jump line="369" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+      <jump line="15" column="37" filename="$USER_HOME$/Projects/mcbain/src/it/scala/stockblocks/publicApi/AuthHelper.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBTRUxFQ1QK</text>
+      <register name="&quot;" type="4">
+        <text>https://api.graphicstock.com</text>
       </register>
       <register name="-" type="4">
-        <text>graphicstock</text>
+        <text>https://api.graphicstock.com</text>
       </register>
       <register name="/" type="4">
-        <text>stock_item</text>
+        <text>currentTime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICwgKDEgfHwgaWQpIDo6IElOVCBBUyBzaXRlX29yZ2FuaXphdGlvbl9pZAo=</text>
@@ -580,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stock_item</last-search>
+      <last-search>currentTime</last-search>
       <last-offset />
-      <last-pattern>stock_item</last-pattern>
+      <last-pattern>currentTime</last-pattern>
       <last-replace>organization</last-replace>
       <last-substitute>stock_item</last-substitute>
       <last-dir>1</last-dir>
@@ -590,8 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>randomElement</entry>
-        <entry>Sync</entry>
         <entry>contributor</entry>
         <entry>adafad</entry>
         <entry>VideoIPN</entry>
@@ -612,11 +619,9 @@
         <entry>Some(20</entry>
         <entry>stock_items</entry>
         <entry>stock_item</entry>
+        <entry>currentTime</entry>
       </history-search>
       <history-cmd>
-        <entry>40</entry>
-        <entry>%s/varchar/VARCHAR/g</entry>
-        <entry>%s/varchar/VARCHAR</entry>
         <entry>130</entry>
         <entry>150</entry>
         <entry>156</entry>
