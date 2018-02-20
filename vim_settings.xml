@@ -73,10 +73,6 @@
       </file>
       <file name="$USER_HOME$/Projects/data/myred/warehouse/run_nightly/tables/organizations.sql" timestamp="1518190253021">
         <mark key="'" line="21" column="19" />
-        <mark key="[" line="88" column="32" />
-        <mark key="]" line="88" column="32" />
-        <mark key="^" line="88" column="32" />
-        <mark key="." line="88" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_psr4.php" timestamp="1432915017281">
         <mark key="[" line="8" column="0" />
@@ -594,11 +590,10 @@
       <last-replace>organization</last-replace>
       <last-substitute>stock_item</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contributor</entry>
         <entry>adafad</entry>
         <entry>VideoIPN</entry>
         <entry>ErrorEvent</entry>
