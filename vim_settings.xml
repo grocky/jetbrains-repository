@@ -283,7 +283,7 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="/sbtShell" timestamp="1516384847491">
+      <file name="/sbtShell" timestamp="1519409156938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/event-log-loader/src/test/resources/sql/json_extract_path_text_wrapper.sql" timestamp="1511975757871">
@@ -432,6 +432,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1519410063333">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
