@@ -49,9 +49,6 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1433035784038">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/ShoppingCarts/ShoppingCartStockItemPurchaseOptionsEntityService.php" timestamp="1431034603082">
         <mark key="[" line="52" column="82" />
         <mark key="]" line="53" column="81" />
@@ -69,6 +66,12 @@
         <mark key="]" line="10" column="15" />
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1525998257322">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ESPSubscriberStatus.php" timestamp="1432687949283">
         <mark key="[" line="11" column="0" />
@@ -976,9 +979,6 @@
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1433083900085">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Member/ViewModels/VideoMemberStockInTheBinViewModel.php" timestamp="1432256335043">
         <mark key="[" line="7" column="78" />
         <mark key="]" line="7" column="77" />
@@ -1847,12 +1847,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/bin/www" timestamp="1525800731369">
+      <file name="$USER_HOME$/Projects/debt-tracker/bin/www" timestamp="1525998352816">
         <mark key="'" line="84" column="6" />
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/Assets.php" timestamp="1432154534639">
         <mark key="'" line="35" column="40" />
@@ -2070,11 +2070,11 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/index.js" timestamp="1525800639837">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/index.js" timestamp="1525997380135">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" timestamp="1432688652365">
         <mark key="'" line="51" column="0" />
@@ -2374,6 +2374,13 @@
         <mark key="]" line="175" column="76" />
         <mark key="^" line="175" column="76" />
         <mark key="." line="175" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/app.js" timestamp="1525998303854">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/AbTests/Abtests.php" timestamp="1431047826893">
         <mark key="[" line="33" column="51" />
@@ -2759,12 +2766,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/user.js" timestamp="1525800401670">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/user.js" timestamp="1525997974273">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="2" column="69" />
+        <mark key="." line="2" column="69" />
+        <mark key="^" line="2" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/mailchimp/Mailchimp/Helper.php" timestamp="1431273470855">
         <mark key="[" line="2" column="0" />
@@ -3500,12 +3507,12 @@
         <mark key="^" line="29" column="58" />
         <mark key="." line="29" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1525798977788">
+      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1525997303493">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PreFlowHotfixFinishPhinxTest.php" timestamp="1432599204295">
         <mark key="'" line="89" column="0" />
@@ -4013,12 +4020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePromotionalOfferNamesInterface.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePromotionalOfferNames.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SitePromotionalOfferNames.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteVisitorService.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteVisitorServiceInterface.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgets.php" />
       <jump line="9" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgets.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgets.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgetsInterface.php" />
@@ -4113,58 +4114,66 @@
       <jump line="75" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
       <jump line="71" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
       <jump line="84" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="9" column="27" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
+      <jump line="13" column="1" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
+      <jump line="17" column="19" filename="$USER_HOME$/Projects/debt-tracker/app.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBBc3NvY2lhdGluZyAke21vZGVsTmFtZX0uLi5gKQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdW5kZXJzY29yZWQ6IHRydWUsCiAgICAgIHVuZGVyc2NvcmVkQWxsOiB0cnVlCg==</text>
+        <text encoding="base64">cm91dGVyLmdldCgnLycsIGFzeW5jIChyZXEsIHJlcykgPT4gewogIHRyeSB7CiAgICBjb25zdCB1c2VycyA9IGF3YWl0IFVzZXIuZmluZEFsbCgpOwogICAgcmV0dXJuIHJlcy5qc29uKHVzZXJzKTsKICB9IGNhdGNoIChlKSB7CiAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLmpzb24oewogICAgICAnbWVzc2FnZSc6IGBFcnJvcjogJHtlLm1lc3NhZ2V9YAogICAgfSk7CiAgfQp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBBc3NvY2lhdGluZyAke21vZGVsTmFtZX0uLi5gKQo=</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChwb3RlbnRpYWxVc2VyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBMb2FkaW5nICR7ZmlsZX0uLi5gLCBtb2RlbCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhtb2RlbHMpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdEQiBTeW5jIGNvbXBsZXRlJyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3ByZXBhcmluZyB0byBzeW5jIERCLi4uJyk7Cg==</text>
+        <text encoding="base64">ICA6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF9fZmlsZW5hbWUsIG1vZGVscykK</text>
+        <text encoding="base64">ICA/IG5ldyBTZXF1ZWxpemUocHJvY2Vzcy5lbnZbY29uZmlnLnVzZV9lbnZfY29uc3RpYWJsZV0sIGNvbmZpZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF9fZmlsZW5hbWUsIG1vZGVscykK</text>
+        <text encoding="base64">ICByZXR1cm4gVXNlci5maW5kQWxsKCkKICAgIC50aGVuKHJlcy5zZW5kKQogICAgLmNhdGNoKGUgPT4gKCkpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHVuZGVyc2NvcmVkOiB0cnVlCg==</text>
+      <register name="9" type="4">
+        <text>{
+      'message': `Error: ${e.message}`
+    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>Debt</last-replace>
       <last-substitute>Debts</last-substitute>
       <last-dir>1</last-dir>
@@ -4198,6 +4207,7 @@
         <entry>asdfa</entry>
         <entry>Debts</entry>
         <entry>console</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>s/2/3/g</entry>
@@ -4224,6 +4234,8 @@
         <entry>vsp user</entry>
         <entry>vsp user.js</entry>
         <entry>%s/Debts/Debt/g</entry>
+        <entry>bin/www</entry>
+        <entry>e bin/www</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
