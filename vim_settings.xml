@@ -2036,6 +2036,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1526145505032">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" timestamp="1432688652365">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="52" column="0" />
@@ -3938,8 +3944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminAdminUserViewModel.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminAdminUserViewModel.php" />
       <jump line="26" column="38" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" />
@@ -4038,10 +4042,12 @@
       <jump line="48" column="30" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
       <jump line="3" column="17" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>userId</text>
@@ -4053,34 +4059,34 @@
         <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gYXdhaXQgVXNlci5maW5kQWxsKCk7CiAgICByZXR1cm4gcmVzLmpzb24odXNlcnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXM6ICd1c2VySWQnLAo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGFyZ2V0S2V5OiAndXNlcl9pZCcsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb25EZWxldGU6ICdjYXNjYWRlJywK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAncmVhY3RzdHJhcCc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLWluZm8gY2xlYXJmaXgiIHN0eWxlPXt7IHBhZGRpbmc6ICcuNXJlbScgfX0+CiAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBidG4tc2Vjb25kYXJ5IGZsb2F0LWxlZnQiPkV4YW1wbGUgQnV0dG9uIGZsb2F0ZWQgbGVmdDwvYnV0dG9uPgogICAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJidG4gYnRuLWRhbmdlciBmbG9hdC1yaWdodCI+RXhhbXBsZSBCdXR0b24gZmxvYXRlZCByaWdodDwvYnV0dG9uPgogICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIj48L2Rpdj4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMuanNvbihuZXdEZWJ0KTsK</text>
+        <text encoding="base64">ICAgICAgLmNvbnRhaW5lciAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gYXdhaXQgVXNlci5maW5kQWxsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
