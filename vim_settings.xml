@@ -67,16 +67,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1525998257322">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="28" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ESPSubscriberStatus.php" timestamp="1432687949283">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526007800171">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Controllers/MemberCancelController.php" timestamp="1431089150085">
         <mark key="[" line="82" column="38" />
@@ -129,11 +125,6 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteFeatureFlagServiceInterface.php" timestamp="1432687587496">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Views/SiteMessageWidgetView.php" timestamp="1431246233263">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="1" column="56" />
@@ -184,11 +175,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetViewModel.php" timestamp="1432719205649">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Form/FormTextInputWidget.php" timestamp="1432153627020">
         <mark key="'" line="10" column="0" />
@@ -1067,11 +1053,6 @@
         <mark key="^" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteEventServiceconfigurationInterface.php" timestamp="1432708235615">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/CronJobs/CronJobRuns.php" timestamp="1431048216481">
         <mark key="[" line="32" column="51" />
         <mark key="]" line="33" column="50" />
@@ -1155,16 +1136,11 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Controllers/RestApiController.php" timestamp="1432647216244">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1525800785657">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="50" />
-        <mark key="^" line="4" column="50" />
-        <mark key="." line="4" column="50" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526007189307">
+        <mark key="[" line="2" column="56" />
+        <mark key="]" line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+        <mark key="." line="2" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Permissions/MemberSitePermissionChangeTypes.php" timestamp="1431283435591">
         <mark key="'" line="4" column="0" />
@@ -1184,11 +1160,6 @@
         <mark key="]" line="52" column="37" />
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_files.php" timestamp="1432915003224">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/EventModels/AdminEvents/AdminEventService.php" timestamp="1431228306838">
         <mark key="[" line="9" column="95" />
@@ -1246,11 +1217,6 @@
         <mark key="]" line="219" column="136" />
         <mark key="^" line="219" column="136" />
         <mark key="." line="219" column="136" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/command-runners/GitTest.php" timestamp="1432712230864">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/ViewModels/SiteMemberProfileWidgetViewModel.php" timestamp="1432154597855">
         <mark key="'" line="110" column="59" />
@@ -2016,11 +1982,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_namespaces.php" timestamp="1432914984032">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Signup/ViewModels/AudioFreeTrialStep2ViewModel.php" timestamp="1432220980905">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="21" />
@@ -2070,11 +2031,11 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/index.js" timestamp="1525997380135">
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/index.js" timestamp="1526006141716">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" timestamp="1432688652365">
         <mark key="'" line="51" column="0" />
@@ -2143,11 +2104,6 @@
         <mark key="]" line="5" column="34" />
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/customerio/CustomerIO.php" timestamp="1433084308302">
-        <mark key="[" line="82" column="45" />
-        <mark key="]" line="82" column="45" />
-        <mark key="." line="82" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Entities/SignupFunnel.php" timestamp="1431049674962">
         <mark key="[" line="4" column="34" />
@@ -2267,11 +2223,6 @@
         <mark key="^" line="8" column="73" />
         <mark key="." line="8" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConstants.php" timestamp="1432685771410">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/mock_services/mock_marketPlaceTransactionService.php" timestamp="1432176784756">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="15" />
@@ -2301,11 +2252,6 @@
         <mark key="]" line="4" column="51" />
         <mark key="^" line="4" column="83" />
         <mark key="." line="4" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/autoload_psr4.php" timestamp="1432915017281">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Foo/ViewModels/AudioOptimizelyStaticPageViewModel.php" timestamp="1431025270856">
         <mark key="[" line="1" column="0" />
@@ -2375,12 +2321,12 @@
         <mark key="^" line="175" column="76" />
         <mark key="." line="175" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/app.js" timestamp="1525998303854">
+      <file name="$USER_HOME$/Projects/debt-tracker/app.js" timestamp="1526006025078">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="18" />
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/AbTests/Abtests.php" timestamp="1431047826893">
         <mark key="[" line="33" column="51" />
@@ -2441,11 +2387,6 @@
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/AbstractGitHookPhinxTest.php" timestamp="1432775048696">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberPaymentDetailsEntityService.php" timestamp="1431282848406">
         <mark key="'" line="7" column="0" />
@@ -2668,21 +2609,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/switch-sites.sh" timestamp="1432675046496">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Api/Helpers/ApiFunctions.php" timestamp="1431060660336">
         <mark key="[" line="26" column="63" />
         <mark key="]" line="27" column="62" />
         <mark key="^" line="27" column="62" />
         <mark key="." line="27" column="62" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Search/Models/VideoSearchModel.php" timestamp="1432684760670">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Home/Views/AudioHome/AudioHomeView.php" timestamp="1432260386397">
         <mark key="'" line="1" column="0" />
@@ -3046,11 +2977,6 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/Services/Events/ListenerCollections/CustomerIOListenerCollectionTest.php" timestamp="1432718831949">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Api/Controllers/ApiController.php" timestamp="1431060225846">
         <mark key="[" line="150" column="70" />
         <mark key="]" line="151" column="70" />
@@ -3246,6 +3172,9 @@
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" timestamp="1526006096061">
+        <mark key="'" line="56" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Model/ASpellCommandLineInterface.php" timestamp="1431220541392">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="19" column="4" />
@@ -3258,11 +3187,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/composer.json" timestamp="1432915065390">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketPlacePurchases_IntegrationTest.php" timestamp="1432176526511">
         <mark key="[" line="591" column="123" />
@@ -3507,12 +3431,12 @@
         <mark key="^" line="29" column="58" />
         <mark key="." line="29" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1525997303493">
+      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1526008197814">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="23" />
-        <mark key="^" line="24" column="23" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PreFlowHotfixFinishPhinxTest.php" timestamp="1432599204295">
         <mark key="'" line="89" column="0" />
@@ -3737,11 +3661,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="5" column="40" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/members/TestMemberSignups.php" timestamp="1432718247353">
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Signup/ViewModels/VideoJoinStep0ViewModel.php" timestamp="1431247813353">
         <mark key="'" line="7" column="0" />
@@ -4020,12 +3939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="9" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgets.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgets.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgetsInterface.php" />
-      <jump line="57" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteWidgets.php" />
-      <jump line="57" column="28" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteConstantsInterface.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminAdminUserViewModel.php" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminAdminUserViewModel.php" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminAdminUserViewModel.php" />
       <jump line="26" column="38" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" />
@@ -4120,6 +4033,12 @@
       <jump line="12" column="2" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
       <jump line="17" column="19" filename="$USER_HOME$/Projects/debt-tracker/app.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/app.js" />
+      <jump line="56" column="6" filename="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="38" column="2" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="48" column="30" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="3" column="17" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4129,51 +4048,49 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>opts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnLycsIGFzeW5jIChyZXEsIHJlcykgPT4gewogIHRyeSB7CiAgICBjb25zdCB1c2VycyA9IGF3YWl0IFVzZXIuZmluZEFsbCgpOwogICAgcmV0dXJuIHJlcy5qc29uKHVzZXJzKTsKICB9IGNhdGNoIChlKSB7CiAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLmpzb24oewogICAgICAnbWVzc2FnZSc6IGBFcnJvcjogJHtlLm1lc3NhZ2V9YAogICAgfSk7CiAgfQp9KTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gYXdhaXQgVXNlci5maW5kQWxsKCk7CiAgICByZXR1cm4gcmVzLmpzb24odXNlcnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChwb3RlbnRpYWxVc2VyKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuanNvbihuZXdEZWJ0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gYXdhaXQgVXNlci5maW5kQWxsKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBvdGVudGlhbERlYnQgPSByZXEuYm9keTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBvdGVudGlhbFVzZXIgPSByZXEuYm9keTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA6IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA/IG5ldyBTZXF1ZWxpemUocHJvY2Vzcy5lbnZbY29uZmlnLnVzZV9lbnZfY29uc3RpYWJsZV0sIGNvbmZpZykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gVXNlci5maW5kQWxsKCkKICAgIC50aGVuKHJlcy5zZW5kKQogICAgLmNhdGNoKGUgPT4gKCkpCg==</text>
+        <text encoding="base64">CmRiLnNlcXVlbGl6ZSA9IHNlcXVlbGl6ZTsKZGIuU2VxdWVsaXplID0gU2VxdWVsaXplOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      'message': `Error: ${e.message}`
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>opts</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>opts</last-pattern>
       <last-replace>Debt</last-replace>
       <last-substitute>Debts</last-substitute>
       <last-dir>1</last-dir>
@@ -4208,6 +4125,7 @@
         <entry>Debts</entry>
         <entry>console</entry>
         <entry>logger</entry>
+        <entry>opts</entry>
       </history-search>
       <history-cmd>
         <entry>s/2/3/g</entry>
