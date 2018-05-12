@@ -67,12 +67,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526007800171">
+      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526138758484">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="47" column="33" />
-        <mark key="." line="47" column="33" />
-        <mark key="^" line="47" column="33" />
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="68" column="54" />
+        <mark key="." line="68" column="54" />
+        <mark key="^" line="68" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Controllers/MemberCancelController.php" timestamp="1431089150085">
         <mark key="[" line="82" column="38" />
@@ -1136,11 +1136,10 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526007189307">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="2" column="60" />
-        <mark key="^" line="2" column="60" />
-        <mark key="." line="2" column="60" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526138742686">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Permissions/MemberSitePermissionChangeTypes.php" timestamp="1431283435591">
         <mark key="'" line="4" column="0" />
@@ -4042,10 +4041,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>userId</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>opts</text>
@@ -4054,34 +4053,34 @@
         <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gYXdhaXQgVXNlci5maW5kQWxsKCk7CiAgICByZXR1cm4gcmVzLmpzb24odXNlcnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXM6ICd1c2VySWQnLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMuanNvbihuZXdEZWJ0KTsK</text>
+        <text encoding="base64">ICAgICAgdGFyZ2V0S2V5OiAndXNlcl9pZCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gYXdhaXQgVXNlci5maW5kQWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgb25EZWxldGU6ICdjYXNjYWRlJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvdGVudGlhbERlYnQgPSByZXEuYm9keTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvdGVudGlhbFVzZXIgPSByZXEuYm9keTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRiLnNlcXVlbGl6ZSA9IHNlcXVlbGl6ZTsKZGIuU2VxdWVsaXplID0gU2VxdWVsaXplOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuanNvbihuZXdEZWJ0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gYXdhaXQgVXNlci5maW5kQWxsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
