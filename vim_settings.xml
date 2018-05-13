@@ -319,11 +319,12 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtView.js" timestamp="1526173856286">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtView.js" timestamp="1526174965796">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberManageSubMembersModel.php" timestamp="1431216195333">
         <mark key="'" line="463" column="0" />
@@ -776,12 +777,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1526173891422">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="45" />
-        <mark key="^" line="38" column="45" />
-        <mark key="." line="38" column="45" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1526174752986">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" timestamp="1432688652365">
         <mark key="'" line="51" column="0" />
@@ -1467,7 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="63" filename="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PrePushPhinxTest.php" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PrePushPhinxTest.php" />
       <jump line="86" column="23" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" />
       <jump line="91" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" />
@@ -1556,7 +1555,6 @@
       <jump line="3958" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="17104" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="16796" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="39" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="1" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
@@ -1567,49 +1565,51 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="38" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="36" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtView.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, { Component }</text>
+        <text>currentValue</text>
       </register>
       <register name="-" type="4">
-        <text>, { Component }</text>
+        <text>currentValue</text>
       </register>
       <register name="/" type="4">
         <text>faAws</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS00Ij57ZGVidC5jdXJyZW50VmFsdWV9PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpc3RHcm91cEl0ZW0ga2V5PXsgdXNlci5pZCB9PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCI+PEZvbnRBd2Vzb21lSWNvbiBpY29uPXtbJ2ZhYicsIHNhbXBsZShicmFuZHMpXX0gLz48L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wiPnsgdXNlci51c2VybmFtZSB9PC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvTGlzdEdyb3VwSXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCI+PC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYga2V5PXtkZWJ0LmlkfT4KICAgICAge0pTT04uc3RyaW5naWZ5KGRlYnQsIG51bGwsIDIpfQogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW1wb3J0IHsgTGlzdEdyb3VwLCBMaXN0R3JvdXBJdGVtIH0gZnJvbSAncmVhY3RzdHJhcCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5mb28gIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTGlzdEdyb3VwLCBMaXN0R3JvdXBJdGVtIH0gZnJvbSAncmVhY3RzdHJhcCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPERlYnRzTGlzdCBkZWJ0PXtkZWJ0fSAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExpc3RHcm91cEl0ZW0ga2V5PXsgdXNlci5pZCB9PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCI+PEZvbnRBd2Vzb21lSWNvbiBpY29uPXtbJ2ZhYicsIHNhbXBsZShicmFuZHMpXX0gLz48L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wiPnsgdXNlci51c2VybmFtZSB9PC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvTGlzdEdyb3VwSXRlbT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
