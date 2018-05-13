@@ -1252,12 +1252,12 @@
         <mark key="^" line="127" column="27" />
         <mark key="." line="127" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526248261773">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526249006266">
         <mark key="'" line="41" column="28" />
-        <mark key="[" line="19" column="65" />
-        <mark key="]" line="19" column="80" />
-        <mark key="." line="19" column="80" />
-        <mark key="^" line="19" column="80" />
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="66" />
+        <mark key="." line="26" column="66" />
+        <mark key="^" line="26" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" timestamp="1432915202543">
         <mark key="'" line="488" column="0" />
@@ -1589,10 +1589,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|| k === 'return'</text>
+        <text>eventString</text>
       </register>
       <register name="-" type="4">
-        <text>|| k === 'return'</text>
+        <text>eventString</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
