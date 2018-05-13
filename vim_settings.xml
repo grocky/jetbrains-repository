@@ -259,10 +259,6 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Controllers/SearchController.php" timestamp="1433164478218">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="79" column="84" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberBrowserProfilesEntityService.php" timestamp="1431230846098">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="55" />
@@ -404,6 +400,13 @@
         <mark key="]" line="126" column="15" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="126" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526182932839">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526138742686">
         <mark key="[" line="16" column="0" />
@@ -777,12 +780,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1526176051421">
-        <mark key="'" line="8" column="24" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="33" column="23" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1526178984391">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" timestamp="1432688652365">
         <mark key="'" line="51" column="0" />
@@ -831,6 +832,11 @@
         <mark key="^" line="42" column="49" />
         <mark key="." line="42" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1526181430887">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ESPSubscriber.php" timestamp="1432687955407">
         <mark key="'" line="237" column="0" />
         <mark key="[" line="9" column="0" />
@@ -842,6 +848,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/react-fontawesome/index.es.js" timestamp="1526182308581">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="574" column="15" />
+        <mark key="]" line="574" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/docs/hooks/pre-flow-hotfix-finish-phinx.php" timestamp="1431954680191">
         <mark key="'" line="36" column="48" />
@@ -1241,6 +1252,13 @@
         <mark key="^" line="127" column="27" />
         <mark key="." line="127" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526182656612">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" timestamp="1432915202543">
         <mark key="'" line="488" column="0" />
         <mark key="[" line="489" column="0" />
@@ -1468,20 +1486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="23" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" />
-      <jump line="91" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" />
-      <jump line="12" column="4" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ongage/OngagePlanNames.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ongage/OngagePlanNames.php" />
-      <jump line="47" column="8" filename="$USER_HOME$/Projects/StockBlocks/tests/framework/AbstractBaseTest.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetViewModel.php" />
-      <jump line="89" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetViewModel.php" />
-      <jump line="88" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetViewModel.php" />
-      <jump line="42" column="8" filename="$USER_HOME$/Projects/StockBlocks/Database/AudioBlocks/audioBlocksPhinxSeedMigrationConfig.yml" />
-      <jump line="13" column="52" filename="$USER_HOME$/Projects/StockBlocks/scripts/phinx/env.sh" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/StockBlocks/docs/hooks/PrePushPhinx.php" />
-      <jump line="32" column="48" filename="$USER_HOME$/Projects/StockBlocks/Database/VideoBlocks/seedData/20150520131424_add_member_with_downloads.php" />
-      <jump line="149" column="0" filename="$USER_HOME$/Projects/StockBlocks/Database/VideoBlocks/seedData/20150520131424_add_member_with_downloads.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Controllers/SearchController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/esps/TestVideoOngageESP.php" />
       <jump line="489" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
       <jump line="3" column="27" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
@@ -1556,7 +1560,6 @@
       <jump line="17104" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="16796" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="39" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="1" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="185" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/fontawesome-free-brands/index.d.ts" />
@@ -1568,22 +1571,37 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtView.js" />
       <jump line="5" column="50" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="8" column="24" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="19" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="33" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="10" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="1" column="16" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="4" column="51" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="39" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="26" column="28" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/react-fontawesome/index.es.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="40" column="57" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJyYW5kcyA9IFsnZ29vZ2xlJywgJ2FtYXpvbicsICdhcHBsZScsICdhd3MnLCAnZ2l0aHViJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoaWRkZW4tbWQtdXAiPkZvbzwvc3Bhbj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRleHQtY2VudGVy</text>
+        <text encoding="base64">IGNvbC1sZy02IG9mZnNldC1sZy0z</text>
       </register>
       <register name="/" type="4">
-        <text>brands</text>
+        <text>ref</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPgogICAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT0iY29sIj57IEpTT04uc3RyaW5naWZ5KGRlYnQpIH08L2Rpdj4qL30KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS02Ij57ZGVidC5kZXNjcmlwdGlvbn08L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCI+e2RlYnQuY3VycmVudFZhbHVlfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIj57ZGVidC5kYXRlTGFzdFBhaWQgfHwgJ0hhdmVuXCd0IHBhaWQgeWV0J308L2Rpdj4KICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>FontAwesomeIcon</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJyYW5kcyA9IFsnZ29vZ2xlJywgJ2FtYXpvbicsICdhcHBsZScsICdhd3MnLCAnZ2l0aHViJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoaWRkZW4tbWQtdXAiPkZvbzwvc3Bhbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1592,34 +1610,34 @@
         <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9ImNvbCI+eyBKU09OLnN0cmluZ2lmeShkZWJ0KSB9PC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZvbnRhd2Vzb21lIGZyb20gJ0Bmb3J0YXdlc29tZS9mb250YXdlc29tZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPSJjb2wiPnsgSlNPTi5zdHJpbmdpZnkoZGVidCkgfTwvZGl2PiovfQo=</text>
+        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGZvbnRhd2Vzb21lIGZyb20gJ0Bmb3J0YXdlc29tZS9mb250YXdlc29tZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtgZGF0ZUxhc3RQYWlkXyR7ZGVidC5pZH1gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtgY3VycmVudFZhbHVlXyR7ZGVidC5pZH1gfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYga2V5PXtkZWJ0LmlkfT4KICAgICAge0pTT04uc3RyaW5naWZ5KGRlYnQsIG51bGwsIDIpfQogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtgZGVzY3JpcHRpb25fJHtkZWJ0LmlkfWB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IHsgTGlzdEdyb3VwLCBMaXN0R3JvdXBJdGVtIH0gZnJvbSAncmVhY3RzdHJhcCc7Cg==</text>
+        <text encoding="base64">ICB0aGlzLnNldFN0YXRlKCkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>brands</last-search>
+      <last-search>ref</last-search>
       <last-offset />
-      <last-pattern>brands</last-pattern>
+      <last-pattern>ref</last-pattern>
       <last-replace>Debt</last-replace>
       <last-substitute>Debts</last-substitute>
       <last-dir>1</last-dir>
@@ -1659,9 +1677,10 @@
         <entry>Git</entry>
         <entry>Google</entry>
         <entry>random</entry>
-        <entry>sample</entry>
         <entry>faAws</entry>
         <entry>brands</entry>
+        <entry>sample</entry>
+        <entry>ref</entry>
       </history-search>
       <history-cmd>
         <entry>s/2/3/g</entry>
