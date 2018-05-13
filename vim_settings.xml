@@ -401,11 +401,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="126" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526182932839">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526247142907">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
         <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526138742686">
@@ -1252,12 +1252,12 @@
         <mark key="^" line="127" column="27" />
         <mark key="." line="127" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526182656612">
-        <mark key="'" line="26" column="28" />
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="36" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526248261773">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="19" column="65" />
+        <mark key="]" line="19" column="80" />
+        <mark key="." line="19" column="80" />
+        <mark key="^" line="19" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" timestamp="1432915202543">
         <mark key="'" line="488" column="0" />
@@ -1588,11 +1588,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoaWRkZW4tbWQtdXAiPkZvbzwvc3Bhbj4K</text>
+      <register name="&quot;" type="4">
+        <text>|| k === 'return'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbC1sZy02IG9mZnNldC1sZy0z</text>
+        <text>|| k === 'return'</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
@@ -1601,34 +1601,34 @@
         <text>FontAwesomeIcon</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoaWRkZW4tbWQtdXAiPkZvbzwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIHVucwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnCg==</text>
+        <text encoding="base64">ICAgIGNhY2hlID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZvbnRhd2Vzb21lIGZyb20gJ0Bmb3J0YXdlc29tZS9mb250YXdlc29tZScK</text>
+        <text encoding="base64">ICAgIGNhY2hlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoaWRkZW4tbWQtdXAiPkZvbzwvc3Bhbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZvbnRhd2Vzb21lIGZyb20gJ0Bmb3J0YXdlc29tZS9mb250YXdlc29tZScK</text>
+        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtgZGF0ZUxhc3RQYWlkXyR7ZGVidC5pZH1gfQo=</text>
+        <text encoding="base64">aW1wb3J0IGZvbnRhd2Vzb21lIGZyb20gJ0Bmb3J0YXdlc29tZS9mb250YXdlc29tZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtgY3VycmVudFZhbHVlXyR7ZGVidC5pZH1gfQo=</text>
+        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtgZGVzY3JpcHRpb25fJHtkZWJ0LmlkfWB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZvbnRhd2Vzb21lIGZyb20gJ0Bmb3J0YXdlc29tZS9mb250YXdlc29tZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aGlzLnNldFN0YXRlKCkKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtgZGF0ZUxhc3RQYWlkXyR7ZGVidC5pZH1gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
