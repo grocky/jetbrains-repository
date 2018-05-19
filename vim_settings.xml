@@ -3170,6 +3170,12 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1526771954207">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="17" column="10" />
@@ -4079,10 +4085,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGl0ZW1Gcm9tQ2xpZW50ID0gcmVxLmJvZHk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICBkZWJ0czoge30sCiAgICBkZWJ0SWRzOiBbXSwKICAgIGVkaXRpbmdEZWJ0SWQ6IG51bGwsCiAgICBkaXJ0eURlYnRzOiBbXQogIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{description, initialValue, currentValue, dateLastPaid, dateStarted }</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>userId</text>
@@ -4091,34 +4097,39 @@
         <text encoding="base64">ICAgIHVzZXJJZCA9IE51bWJlci5wYXJzZUludCh1c2VySWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGl0ZW1Gcm9tQ2xpZW50ID0gcmVxLmJvZHk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICBkZWJ0czoge30sCiAgICBkZWJ0SWRzOiBbXSwKICAgIGVkaXRpbmdEZWJ0SWQ6IG51bGwsCiAgICBkaXJ0eURlYnRzOiBbXQogIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzLmpzb24pOwo=</text>
+        <text encoding="base64">ICBzdGF0ZSA9IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>{
+    debts: {},
+    debtIds: [],
+    editingDebtId: null,
+    dirtyDebts: []
+  };</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBib2R5Lm1hcChkZWJ0ID0+IGRlYnQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGl0ZW1Gcm9tQ2xpZW50ID0gcmVxLmJvZHk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4ocmVzLmpzb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMuanNvbihkZWJ0O3MpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0b3JlZERlYnQudXBkYXRlKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBib2R5Lm1hcChkZWJ0ID0+IGRlYnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChzdG9yZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuanNvbihkZWJ0O3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
