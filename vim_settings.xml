@@ -1133,11 +1133,12 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526253556292">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="39" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="10" column="49" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526749310465">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/phinx.sh" timestamp="1432671613952">
         <mark key="[" line="7" column="24" />
@@ -3419,12 +3420,12 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526253524138">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526749614775">
         <mark key="'" line="55" column="28" />
-        <mark key="[" line="55" column="46" />
-        <mark key="]" line="55" column="46" />
-        <mark key="." line="55" column="46" />
-        <mark key="^" line="55" column="46" />
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/ESP/Controllers/ESPController.php" timestamp="1431088242889">
         <mark key="[" line="91" column="41" />
@@ -3977,7 +3978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="489" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
       <jump line="3" column="27" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
       <jump line="60" column="2" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
@@ -4077,13 +4077,14 @@
       <jump line="40" column="57" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="28" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25LZXlEb3duPXsgaGFuZGxlS2V5RG93biB9Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1N5bmMgZGVidCB3aXRoIGJhY2tlbmQuLi4nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(debt, e)</text>
+        <text>console.log('Sync debt with backend...')</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
@@ -4092,34 +4093,34 @@
         <text encoding="base64">ICAgICAgICAgICAgb25LZXlEb3duPXsgZSA9PiBoYW5kbGVLZXlEb3duKGRlYnQsIGUpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25LZXlEb3duPXsgaGFuZGxlS2V5RG93biB9Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1N5bmMgZGVidCB3aXRoIGJhY2tlbmQuLi4nKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25LZXlEb3duPXsgaGFuZGxlS2V5RG93biB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZvbnRBd2Vzb21lSWNvbiBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRlYnQsIGhhbmRsZUVkaXRUb2dnbGUgfSA9IHByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25LZXlEb3duPXsgaGFuZGxlS2V5RG93biB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25LZXlEb3duPXsgaGFuZGxlS2V5RG93biB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IGRlYnQsIGhhbmRsZUVkaXRUb2dnbGUgfSA9IHByb3BzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRlYnQsIGhhbmRsZUtleURvd24sIGhhbmRsZUlucHV0U3VibWl0IH0gPSBwcm9wczsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KHByb3BzKSA9PiB7Cn07</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRlYnQsIGhhbmRsZUtleURvd24sIGhhbmRsZUlucHV0U3VibWl0IH0gPSBwcm9wczsKICByZXR1cm4gKAogICAgPExpc3RHcm91cEl0ZW0+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtMyBjb2wtbGctNCI+CiAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgb25LZXlEb3duPXsgaGFuZGxlS2V5RG93biB9CiAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgIGNsYXNzTmFtZT0iZm9ybS1jb250cm9sIgogICAgICAgICAgICBuYW1lPSJkZXNjcmlwdGlvbiIKICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXsgZGVidC5kZXNjcmlwdGlvbiB9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wgY29sLWxnLTMiPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIG9uS2V5RG93bj17IGhhbmRsZUtleURvd24gfQogICAgICAgICAgICB0eXBlPSJudW1iZXIiCiAgICAgICAgICAgIGlucHV0TW9kZT0iZGVjaW1hbCIKICAgICAgICAgICAgY2xhc3NOYW1lPSJmb3JtLWNvbnRyb2wiCiAgICAgICAgICAgIG5hbWU9ImN1cnJlbnRWYWx1ZSIKICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXsgZGVidC5jdXJyZW50VmFsdWUgfQogICAgICAgICAgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIGNvbC1sZy0zIj4KICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICBvbktleURvd249eyBoYW5kbGVLZXlEb3duIH0KICAgICAgICAgICAgdHlwZT0iZGF0ZSIKICAgICAgICAgICAgY2xhc3NOYW1lPSJmb3JtLWNvbnRyb2wiCiAgICAgICAgICAgIG5hbWU9ImRhdGVMYXN0UGFpZCIKICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXsgZGVidC5kYXRlTGFzdFBhaWQgfQogICAgICAgICAgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLTIiPgogICAgICAgICAgPEJ1dHRvbiBjb2xvcj17J3N1Y2Nlc3MnfSBvbkNsaWNrPXsgaGFuZGxlSW5wdXRTdWJtaXQgfT4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoaWRkZW4tbWQtZG93biI+VXBkYXRlPC9zcGFuPgogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9MaXN0R3JvdXBJdGVtPgogICk7Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCB7IGRlYnQsIGhhbmRsZUtleURvd24sIGhhbmRsZUlucHV0U3VibWl0IH0gPSBwcm9wczsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">KHByb3BzKSA9PiB7Cn07</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
