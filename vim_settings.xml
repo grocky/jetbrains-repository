@@ -1133,12 +1133,12 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526759415527">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526762495684">
         <mark key="'" line="9" column="12" />
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-        <mark key="^" line="3" column="43" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/phinx.sh" timestamp="1432671613952">
         <mark key="[" line="7" column="24" />
@@ -4080,10 +4080,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBrZXlDb2RlIA==</text>
+        <text>onKeyUp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBrZXlDb2RlIA==</text>
+        <text>onKeyUp</text>
       </register>
       <register name="/" type="4">
         <text>onKeyDown</text>
