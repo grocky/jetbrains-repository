@@ -67,12 +67,11 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526138758484">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="68" column="48" />
-        <mark key="]" line="68" column="54" />
-        <mark key="." line="68" column="54" />
-        <mark key="^" line="68" column="54" />
+      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526767293000">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Controllers/MemberCancelController.php" timestamp="1431089150085">
         <mark key="[" line="82" column="38" />
@@ -1152,9 +1151,9 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526138742686">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526765115676">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="6" column="18" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Permissions/MemberSitePermissionChangeTypes.php" timestamp="1431283435591">
@@ -3420,11 +3419,11 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526760284496">
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="29" />
-        <mark key="^" line="45" column="29" />
-        <mark key="." line="45" column="29" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" timestamp="1526767699163">
+        <mark key="[" line="69" column="51" />
+        <mark key="]" line="69" column="51" />
+        <mark key="^" line="69" column="51" />
+        <mark key="." line="69" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/ESP/Controllers/ESPController.php" timestamp="1431088242889">
         <mark key="[" line="91" column="41" />
@@ -3977,9 +3976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="2" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
-      <jump line="59" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/composer/installed.json" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/StockBlocks/scripts/composer/GitHooks.php" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" />
       <jump line="116" column="48" filename="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/ShoppingCarts/ShoppingCartPurchaseStockItemsEntityService.php" />
@@ -4077,60 +4073,63 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="28" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="9" column="12" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>onKeyUp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGl0ZW1Gcm9tQ2xpZW50ID0gcmVxLmJvZHk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>onKeyUp</text>
+        <text>{description, initialValue, currentValue, dateLastPaid, dateStarted }</text>
       </register>
       <register name="/" type="4">
-        <text>onKeyDown</text>
+        <text>userId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy91c2Vycy8xL2RlYnRzJyk7Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJJZCA9IE51bWJlci5wYXJzZUludCh1c2VySWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGl0ZW1Gcm9tQ2xpZW50ID0gcmVxLmJvZHk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4ocmVzLmpzb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGVidFRvVXBkYXRlID0geyAuLi50aGlzLnN0YXRlLmRlYnRzW2RlYnRJZF0gfTsKICAgICAgZGVidFRvVXBkYXRlW3RhcmdldC5uYW1lXSA9IHRhcmdldC52YWx1ZTsKCiAgICAgIGNvbnN0IHVwZGF0ZWREZWJ0cyA9IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cywgW2RlYnRJZF06IGRlYnRUb1VwZGF0ZSB9OwoKICAgICAgY29uc29sZS5sb2coZS50eXBlLCB0aGlzLnN0YXRlKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBib2R5Lm1hcChkZWJ0ID0+IGRlYnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZWJ0Owo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiApOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuanNvbihkZWJ0O3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0b3JlZERlYnQudXBkYXRlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKQo=</text>
+        <text encoding="base64">ICAgIGlmIChzdG9yZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onKeyDown</last-search>
+      <last-search>userId</last-search>
       <last-offset />
-      <last-pattern>onKeyDown</last-pattern>
-      <last-replace>onKeyUp</last-replace>
-      <last-substitute>onKeyDown</last-substitute>
+      <last-pattern>userId</last-pattern>
+      <last-replace>debtId</last-replace>
+      <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -4173,6 +4172,7 @@
         <entry>sample</entry>
         <entry>ref</entry>
         <entry>onKeyDown</entry>
+        <entry>userId</entry>
       </history-search>
       <history-cmd>
         <entry>s/2/3/g</entry>
@@ -4187,7 +4187,6 @@
         <entry>1452</entry>
         <entry>104</entry>
         <entry>80</entry>
-        <entry>96</entry>
         <entry>37</entry>
         <entry>wq</entry>
         <entry>344</entry>
@@ -4203,6 +4202,10 @@
         <entry>e bin/www</entry>
         <entry>11</entry>
         <entry>%s/onKeyDown/onKeyUp/g</entry>
+        <entry>46</entry>
+        <entry>60</entry>
+        <entry>96</entry>
+        <entry>s/userId/debtId/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
