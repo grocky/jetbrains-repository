@@ -1132,12 +1132,12 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526781405600">
-        <mark key="'" line="1" column="43" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-        <mark key="^" line="0" column="43" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526781686534">
+        <mark key="'" line="1" column="34" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/phinx.sh" timestamp="1432671613952">
         <mark key="[" line="7" column="24" />
@@ -2051,11 +2051,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1526249816030">
-        <mark key="[" line="13" column="68" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="42" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1526781824059">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/ViewModels/AdminEditAdminUserViewModel.php" timestamp="1432688652365">
         <mark key="'" line="51" column="0" />
@@ -2182,12 +2182,12 @@
         <mark key="^" line="42" column="49" />
         <mark key="." line="42" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1526781576551">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1526783139541">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ESPSubscriber.php" timestamp="1432687955407">
         <mark key="'" line="237" column="0" />
@@ -3171,11 +3171,11 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1526781503631">
-        <mark key="[" line="100" column="21" />
-        <mark key="]" line="100" column="21" />
-        <mark key="." line="100" column="21" />
-        <mark key="^" line="100" column="21" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1526782987100">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -3983,7 +3983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/database/config/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/database/models/debts.js" />
       <jump line="800" column="0" filename="$USER_HOME$/Projects/debt-tracker/node_modules/sequelize/lib/data-types.js" />
@@ -4080,16 +4079,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
       <jump line="15" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
       <jump line="1" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
-      <jump line="20" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
-      <jump line="1" column="43" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="16" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>'Haven\'t paid yet'</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>userId</text>
@@ -4098,34 +4098,34 @@
         <text encoding="base64">ICBjdXJyZW50VmFsdWU6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhY2MpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICB7IGRlYnRzOiB7fSwgZGVidElkczogW10gfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWJ0OiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oZGVidHMgPT4gewogICAgICAgIGNvbnN0IGRlYnRzQnlJZCA9IHt9OwogICAgICAgIGNvbnN0IGRlYnRJZHMgPSBbXTsKICAgICAgICBkZWJ0cy5mb3JFYWNoKGQgPT4gewogICAgICAgICAgZGVidHNCeUlkW2QuaWRdID0gZDsKICAgICAgICAgIGRlYnRJZHMucHVzaChkLmlkKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gewogICAgICAgICAgZGVidHM6IGRlYnRzQnlJZCwKICAgICAgICAgIGRlYnRJZHMKICAgICAgICB9OwogICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8RGlzcGxheWluZ0RlYnRJdGVtID48L0Rpc3BsYXlpbmdEZWJ0SXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8RWRpdGluZ0RlYnRJdGVtID48L0VkaXRpbmdEZWJ0SXRlbT4K</text>
+        <text encoding="base64">ICAgICAgLm1hcChkZWJ0ID0+IGRlYnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oZGVidHMgPT4gewogICAgICAgIGNvbnN0IGRlYnRzQnlJZCA9IHt9OwogICAgICAgIGNvbnN0IGRlYnRJZHMgPSBbXTsKICAgICAgICBkZWJ0cy5mb3JFYWNoKGQgPT4gewogICAgICAgICAgZGVidHNCeUlkW2QuaWRdID0gZDsKICAgICAgICAgIGRlYnRJZHMucHVzaChkLmlkKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gewogICAgICAgICAgZGVidHM6IGRlYnRzQnlJZCwKICAgICAgICAgIGRlYnRJZHMKICAgICAgICB9OwogICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPGRpdiA+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICBkZWJ0czoge30sCiAgICBkZWJ0SWRzOiBbXSwKICAgIGVkaXRpbmdEZWJ0SWQ6IG51bGwsCiAgICBkaXJ0eURlYnRzOiBbXQogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbiI+PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
