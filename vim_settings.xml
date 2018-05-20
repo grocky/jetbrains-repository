@@ -3171,12 +3171,12 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1526796605291">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1526797301091">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="69" column="30" />
-        <mark key="]" line="69" column="30" />
-        <mark key="." line="69" column="30" />
-        <mark key="^" line="65" column="7" />
+        <mark key="[" line="104" column="57" />
+        <mark key="]" line="104" column="60" />
+        <mark key="." line="104" column="60" />
+        <mark key="^" line="104" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -4087,10 +4087,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>debt</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>debt</text>
       </register>
       <register name="/" type="4">
         <text>updateDebt</text>
@@ -4129,7 +4129,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>93</text>
       </register>
     </registers>
     <search>
@@ -4217,6 +4217,7 @@
         <entry>s/userId/debtId/g</entry>
         <entry>17</entry>
         <entry>w</entry>
+        <entry>93</entry>
       </history-cmd>
       <history-expr />
       <history-input />
