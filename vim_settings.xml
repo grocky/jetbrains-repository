@@ -67,11 +67,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526767293000">
+      <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526798439654">
         <mark key="'" line="82" column="4" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+        <mark key="^" line="50" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Controllers/MemberCancelController.php" timestamp="1431089150085">
         <mark key="[" line="82" column="38" />
@@ -3171,12 +3172,11 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1526797301091">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1526798595234">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="104" column="57" />
-        <mark key="]" line="104" column="60" />
-        <mark key="." line="104" column="60" />
-        <mark key="^" line="104" column="60" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -4086,11 +4086,11 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>debt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>debt</text>
+        <text>this.setState({ editingDebtId: null, newDebt: null })</text>
       </register>
       <register name="/" type="4">
         <text>updateDebt</text>
@@ -4099,37 +4099,37 @@
         <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goYC91c2Vycy8xL2RlYnRzLyR7ZGVidC5pZH1gLCB7CiAgICAgIG1ldGhvZDogJ1BVVCcsCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGRlYnQpLAogICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfQogICAgfSk7CiAgICBjb25zdCBib2R5ID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwoKICAgIGlmIChyZXNwb25zZS5zdGF0dXMgIT09IDIwMCkgdGhyb3cgRXJyb3IoYm9keS5tZXNzYWdlKTsKCiAgICByZXR1cm4gdGhpcy5zZXRTdGF0ZSh7ZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cywgW2RlYnQuaWRdOiBib2R5fX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cyB9LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cywgW2RlYnRJZF06IGRlYnRUb1VwZGF0ZSB9LAogICAgICBuZXdEZWJ0OiB7IC4uLnRoaXMuc3RhdGUubmV3RGVidCB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNldFN0YXRlKHsgZWRpdGluZ0RlYnRJZDogbnVsbCwgbmV3RGVidDogbnVsbCB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbnNlcnRVcGRhdGUoZGVidCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidElkIAogICAgICA/IAogICAgICA6IDsK</text>
+        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cyB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cywgW2RlYnRJZF06IGRlYnRUb1VwZGF0ZSB9LAogICAgICBuZXdEZWJ0OiB7IC4uLnRoaXMuc3RhdGUubmV3RGVidCB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLnNldFN0YXRlKHsgZWRpdGluZ0RlYnRJZDogbnVsbCB9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZGVidElkIAogICAgICA/IAogICAgICA6IDsK</text>
       </register>
       <register name=":" type="4">
-        <text>93</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4216,8 +4216,8 @@
         <entry>96</entry>
         <entry>s/userId/debtId/g</entry>
         <entry>17</entry>
-        <entry>w</entry>
         <entry>93</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
