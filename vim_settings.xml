@@ -3172,12 +3172,12 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527297123049">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="74" column="45" />
-        <mark key="]" line="74" column="45" />
-        <mark key="." line="74" column="45" />
-        <mark key="^" line="74" column="45" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527323125694">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="72" column="45" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -4087,8 +4087,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IXRoaXMuc3RhdGUuZWRpdGluZ0RlYnRJZCAmJg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IA==</text>
@@ -4100,34 +4100,34 @@
         <text encoding="base64">IXRoaXMuc3RhdGUuZWRpdGluZ0RlYnRJZCAmJg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luc2VydCB1cGRhdGUnLCBkZWJ0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGluZyBpdGVtIGluIG1lbW9yeScsIGRlYnRUb1VwZGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luc2VydCB1cGRhdGUnLCBkZWJ0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNldFN0YXRlKHsgZWRpdGluZ0RlYnRJZDogbnVsbCwgbmV3RGVidDogbnVsbCB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbnNlcnRVcGRhdGUoZGVidCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNldFN0YXRlKHsgZWRpdGluZ0RlYnRJZDogbnVsbCwgbmV3RGVidDogbnVsbCB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cyB9LAo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cywgW2RlYnRJZF06IGRlYnRUb1VwZGF0ZSB9LAogICAgICBuZXdEZWJ0OiB7IC4uLnRoaXMuc3RhdGUubmV3RGVidCB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbnNlcnRVcGRhdGUoZGVidCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cyB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
