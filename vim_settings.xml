@@ -1109,12 +1109,8 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1527363761874">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-        <mark key="^" line="33" column="21" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1527372710125">
+        <mark key="'" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/phinx.sh" timestamp="1432671613952">
         <mark key="[" line="7" column="24" />
@@ -1460,11 +1456,12 @@
         <mark key="^" line="47" column="56" />
         <mark key="." line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/store.js" timestamp="1527363231646">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/store.js" timestamp="1527373114587">
+        <mark key="'" line="11" column="1" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/api/helperclasses/_TestVideoContributorsApiController_addOrUpdateContributorProfile.php" timestamp="1432174295898">
         <mark key="[" line="7" column="90" />
@@ -1999,12 +1996,12 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1527347395404">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1527373737984">
         <mark key="'" line="18" column="9" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="49" />
+        <mark key="^" line="14" column="49" />
+        <mark key="." line="14" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Services/MailChimpESPHealthCheckService.php" timestamp="1432231354998">
         <mark key="[" line="2" column="43" />
@@ -2119,12 +2116,12 @@
         <mark key="^" line="42" column="49" />
         <mark key="." line="42" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1527323409829">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="10" column="48" />
-        <mark key="^" line="10" column="48" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1527372039165">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" timestamp="1527347753045">
         <mark key="'" line="296" column="8" />
@@ -2781,12 +2778,12 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" timestamp="1527363299833">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" timestamp="1527373243298">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/StockDetails/Views/VideoStockDetailsView.php" timestamp="1432258496175">
         <mark key="'" line="0" column="34" />
@@ -3071,12 +3068,12 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527363483710">
-        <mark key="'" line="58" column="29" />
-        <mark key="[" line="96" column="17" />
-        <mark key="]" line="96" column="17" />
-        <mark key="." line="96" column="17" />
-        <mark key="^" line="93" column="37" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527373320473">
+        <mark key="'" line="45" column="19" />
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -3855,27 +3852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="38" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="36" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtView.js" />
-      <jump line="5" column="50" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="8" column="24" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="19" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
-      <jump line="9" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
-      <jump line="33" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="1" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="10" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
-      <jump line="20" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
-      <jump line="39" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="26" column="28" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/react-fontawesome/index.es.js" />
-      <jump line="40" column="57" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="28" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
       <jump line="82" column="4" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
@@ -3892,7 +3868,6 @@
       <jump line="16" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
       <jump line="12" column="23" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="150" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="16" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="7" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/src/index.js" />
@@ -3925,8 +3900,6 @@
       <jump line="88" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="104" column="24" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="89" column="42" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="105" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="94" column="14" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="120" column="33" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="128" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="3" column="31" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
@@ -3939,8 +3912,6 @@
       <jump line="139" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="126" column="26" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="51" column="47" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="65" column="48" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="131" column="36" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
@@ -3955,58 +3926,84 @@
       <jump line="14" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="58" column="29" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="32" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="71" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="1" column="52" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="35" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="117" column="30" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="105" column="30" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="94" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="97" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="55" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="70" column="12" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="106" column="36" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="51" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="54" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="81" column="82" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="114" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="69" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="10" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/store.js" />
+      <jump line="14" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/store.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="44" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>types</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>types</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text>updating</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICBkZWJ0SWQ6IFByb3BUeXBlcy5udW1iZXIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDcmVhdGluZyBuZXcgZGVidCcsIGRlYnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgYWN0aW9uOiAke2FjdGlvbi50eXBlfWAsIGFjdGlvbi5kYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY3VycmVudCBzdGF0ZScsIHN0YXRlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGVidElkcywgaGFzTmV3RGVidCB9ID0gdGhpcy5wcm9wczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ0Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gY3JlYXRlTG9nZ2VyKHt9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgb25Mb2FkIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgZGVidHMgPSB0aGlzLmdldERlYnRzKCkKICAgICAgLnRoZW4ob25Mb2FkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WICE9PSAncHJvZHVjdGlvbicpIHsKICBjb25zb2xlLmxvZygpOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25Mb2FkKGJvZHkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dlciBmcm9tICdyZWR1eC1sb2dnZXInOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>items</last-search>
+      <last-search>updating</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
+      <last-pattern>updating</last-pattern>
       <last-replace>debtId</last-replace>
       <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
@@ -4035,12 +4032,16 @@
         <entry>userId</entry>
         <entry>updateDebt</entry>
         <entry>Component</entry>
-        <entry>createDebt</entry>
         <entry>newDebt</entry>
         <entry>EditingDebtItem</entry>
         <entry>debtId</entry>
         <entry>debts</entry>
         <entry>items</entry>
+        <entry>toggleEdit</entry>
+        <entry>editingDebtId</entry>
+        <entry>createDebt</entry>
+        <entry>hasNewDebt</entry>
+        <entry>updating</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
@@ -4062,6 +4063,7 @@
         <entry>s/userId/debtId/g</entry>
         <entry>17</entry>
         <entry>93</entry>
+        <entry>70</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
