@@ -1139,11 +1139,12 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1527354301036">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1527355848814">
+        <mark key="'" line="77" column="25" />
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="77" column="25" />
+        <mark key="." line="77" column="25" />
+        <mark key="^" line="77" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/phinx.sh" timestamp="1432671613952">
         <mark key="[" line="7" column="24" />
@@ -3195,12 +3196,12 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527354648099">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527356623081">
         <mark key="'" line="27" column="35" />
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="17" />
-        <mark key="^" line="74" column="35" />
-        <mark key="." line="74" column="17" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="64" column="24" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -4009,8 +4010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2430" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
-      <jump line="2436" column="35" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2439" column="41" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2440" column="51" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2443" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
@@ -4046,7 +4045,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="28" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="9" column="12" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
       <jump line="82" column="4" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
@@ -4092,7 +4090,6 @@
       <jump line="11" column="3" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="76" column="23" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="77" column="23" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="78" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
@@ -4109,58 +4106,62 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="93" column="8" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="27" column="35" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="80" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="16" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="77" column="25" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXBkYXRlZEJvZHkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">Y29uc3QgdXBkYXRlZEJvZHkgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>EditingDebtItem</text>
+        <text>debtId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjdXJyZW50VmFsdWU6IFByb3BUeXBlcy5udW1iZXIsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBoYXNOZXdEZWJ0OiBmYWxzZSwKICAgICAgZGVidElkczogWyAuLi50aGlzLnN0YXRlLmRlYnRJZHMsIGJvZHkuaWRdLAogICAgICBkZWJ0czogeyAuLi50aGlzLnN0YXRlLmRlYnRzLCBbYm9keS5pZF06IGJvZHkgfQogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXBkYXRlZEJvZHkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWV0aG9kOiAnUE9TVCcsCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGVkaXRpbmdEZWJ0SWQ6IG51bGwsCiAgICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cywgW2RlYnQuaWRdOiB1cGRhdGVkQm9keX0KICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBib2R5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWV0aG9kOiAnUFVUJywK</text>
+        <text encoding="base64">ICAgICAgZGVidElkczogWyAuLi50aGlzLnN0YXRlLmRlYnRJZHMsIGJvZHkuaWRdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHksIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBib2R5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">ICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld0RlYnQgPSB7ZGVzY3JpcHRpb246ICcnLCBjdXJyZW50VmFsdWU6IDB9Owo=</text>
+        <text encoding="base64">ICAgICAgbWV0aG9kOiAnUE9TVCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdEZWJ0OiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>EditingDebtItem</last-search>
+      <last-search>debtId</last-search>
       <last-offset />
-      <last-pattern>EditingDebtItem</last-pattern>
+      <last-pattern>debtId</last-pattern>
       <last-replace>debtId</last-replace>
       <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
@@ -4192,6 +4193,7 @@
         <entry>createDebt</entry>
         <entry>newDebt</entry>
         <entry>EditingDebtItem</entry>
+        <entry>debtId</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
