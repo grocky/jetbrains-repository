@@ -3172,12 +3172,12 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527296018268">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527297123049">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="111" column="47" />
-        <mark key="]" line="111" column="47" />
-        <mark key="." line="111" column="47" />
-        <mark key="^" line="111" column="47" />
+        <mark key="[" line="74" column="45" />
+        <mark key="]" line="74" column="45" />
+        <mark key="." line="74" column="45" />
+        <mark key="^" line="74" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -4087,17 +4087,17 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luc2VydCB1cGRhdGUnLCBkZWJ0KTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IXRoaXMuc3RhdGUuZWRpdGluZ0RlYnRJZCAmJg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.setState({ editingDebtId: null, newDebt: null })</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>updateDebt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goYC91c2Vycy8xL2RlYnRzLyR7ZGVidC5pZH1gLCB7CiAgICAgIG1ldGhvZDogJ1BVVCcsCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGRlYnQpLAogICAgICBoZWFkZXJzOiB7ICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfQogICAgfSk7CiAgICBjb25zdCBib2R5ID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwoKICAgIGlmIChyZXNwb25zZS5zdGF0dXMgIT09IDIwMCkgdGhyb3cgRXJyb3IoYm9keS5tZXNzYWdlKTsKCiAgICByZXR1cm4gdGhpcy5zZXRTdGF0ZSh7ZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cywgW2RlYnQuaWRdOiBib2R5fX0pCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IXRoaXMuc3RhdGUuZWRpdGluZ0RlYnRJZCAmJg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luc2VydCB1cGRhdGUnLCBkZWJ0KTsK</text>
