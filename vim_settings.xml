@@ -2183,12 +2183,12 @@
         <mark key="^" line="42" column="49" />
         <mark key="." line="42" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1526783139541">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1527323409829">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="10" column="47" />
-        <mark key="^" line="10" column="45" />
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ESPSubscriber.php" timestamp="1432687955407">
         <mark key="'" line="237" column="0" />
@@ -4087,11 +4087,11 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Haven\'t paid yet</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>Haven\'t paid yet</text>
       </register>
       <register name="/" type="4">
         <text>updateDebt</text>
