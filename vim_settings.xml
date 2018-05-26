@@ -3172,12 +3172,12 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527323125694">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527340370863">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="72" column="45" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="124" column="42" />
+        <mark key="]" line="125" column="3" />
+        <mark key="^" line="125" column="3" />
+        <mark key="." line="125" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -3925,6 +3925,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1527338366475" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -4140,29 +4141,10 @@
       <last-replace>debtId</last-replace>
       <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LATEST_MASTER</entry>
-        <entry>diffNewFiles</entry>
-        <entry>nextPageClass</entry>
-        <entry>DTO</entry>
-        <entry>prevPageClass</entry>
-        <entry>prevPageButtons</entry>
-        <entry>diff</entry>
-        <entry>andThrow</entry>
-        <entry>Symbolic</entry>
-        <entry>class</entry>
-        <entry>seed</entry>
-        <entry>details</entry>
-        <entry>configureAndEx</entry>
-        <entry>testGetMembersInfo</entry>
-        <entry>phinx</entry>
-        <entry>fs</entry>
-        <entry>Total</entry>
-        <entry encoding="base64">KiA=</entry>
-        <entry>Note</entry>
         <entry>*</entry>
         <entry>var</entry>
         <entry>DECIMAL</entry>
@@ -4185,20 +4167,6 @@
         <entry>updateDebt</entry>
       </history-search>
       <history-cmd>
-        <entry>s/2/3/g</entry>
-        <entry>s/1/2/g</entry>
-        <entry>s/1/3/g</entry>
-        <entry>%s/LATEST_MASTER/LATEST/</entry>
-        <entry>%s/DTO//</entry>
-        <entry>268</entry>
-        <entry>28</entry>
-        <entry>33</entry>
-        <entry>62</entry>
-        <entry>1452</entry>
-        <entry>104</entry>
-        <entry>80</entry>
-        <entry>37</entry>
-        <entry>wq</entry>
         <entry>344</entry>
         <entry>q</entry>
         <entry>.,/Note/+ s/* //</entry>
