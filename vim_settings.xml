@@ -1268,11 +1268,11 @@
         <mark key="^" line="101" column="227" />
         <mark key="." line="101" column="227" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/index.js" timestamp="1527378568854">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/index.js" timestamp="1527380610037">
         <mark key="'" line="13" column="18" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
         <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Views/MemberAgreementView.php" timestamp="1431216714436">
@@ -1996,12 +1996,12 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1527379633140">
-        <mark key="'" line="31" column="53" />
-        <mark key="[" line="54" column="1" />
-        <mark key="]" line="54" column="1" />
-        <mark key="." line="54" column="1" />
-        <mark key="^" line="54" column="1" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1527381092274">
+        <mark key="'" line="44" column="9" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Services/MailChimpESPHealthCheckService.php" timestamp="1432231354998">
         <mark key="[" line="2" column="43" />
@@ -3859,20 +3859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="47" column="17" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="48" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="49" column="39" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
-      <jump line="15" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
-      <jump line="1" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
-      <jump line="16" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
-      <jump line="12" column="23" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="150" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="7" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/src/index.js" />
-      <jump line="14" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="15" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.jsx" />
       <jump line="5" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
@@ -3959,58 +3945,72 @@
       <jump line="17" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="19" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="18" column="53" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="66" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="47" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="49" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="1" column="36" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="15" column="5" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="48" column="39" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="52" column="8" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="43" column="7" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="44" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29sb3I9J3JlZCcg</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">Y29sb3I9J3JlZCcg</text>
       </register>
       <register name="/" type="4">
-        <text>Supported</text>
+        <text>navba</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IERlYnRzTGlzdCBmcm9tICcuL2RlYnRzL0RlYnRMaXN0Q29udGFpbmVyJzsK</text>
+        <text encoding="base64">ICBOYXZJdGVtLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICA8aGVhZGVyPgogICAgPE5hdmlnYXRvciAvPgogIDwvaGVhZGVyPgogIDxtYWluIGNsYXNzTmFtZT0nY29udGFpbmVyJz4KICAgIDxTd2l0Y2g+CiAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvIiBjb21wb25lbnQ9e0RlYnRzTGlzdH0gLz4KICAgICAgPFJvdXRlIHBhdGg9Ii91c2Vycy86dXNlcklkIiBjb21wb25lbnQ9e1VzZXJ9IC8+CiAgICA8L1N3aXRjaD4KICA8L21haW4+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHVsPgogICAgICAgIDxsaT48TGluayB0bz0nLycgPkRlYnQgTGlzdDwvTGluaz48L2xpPgogICAgICAgIDxsaT48TGluayB0bz0nL3VzZXJzLzEnID5Vc2VyPC9MaW5rPjwvbGk+CiAgICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">ICAgIDxuYXYgY2xhc3NOYW1lPSduYXZiYXIgbmF2YmFyLWV4cGFuZC1sZyc+CiAgICAgIDxMaW5rIGNsYXNzTmFtZT0nbmF2YmFyLWJyYW5kJyB0bz0nLyc+TG9nby4uLjwvTGluaz4KICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9Im5hdmJhci10b2dnbGVyIiB0eXBlPSJidXR0b24iIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgZGF0YS10YXJnZXQ9IiNuYXZiYXJDb250ZW50IgogICAgICAgICAgICAgIGFyaWEtY29udHJvbHM9Im5hdmJhckNvbnRlbnQiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIiBhcmlhLWxhYmVsPSJUb2dnbGUgbmF2aWdhdGlvbiI+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJuYXZiYXItdG9nZ2xlci1pY29uIj48L3NwYW4+CiAgICAgIDwvYnV0dG9uPgogICAgICA8ZGl2IGNsYXNzTmFtZT0nY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlJyBpZD0nbmF2YmFyQ29udGVudCc+CiAgICAgICAgPHVsIGNsYXNzTmFtZT0nbmF2YmFyLW5hdiBtci1hdXRvJz4KICAgICAgICAgIDxsaSBjbGFzc05hbWU9J25hdi1pdGVtJz48TGluayB0bz0nLycgPkRlYnQgTGlzdDwvTGluaz48L2xpPgogICAgICAgICAgPGxpIGNsYXNzTmFtZT0nbmF2LWl0ZW0nPjxMaW5rIHRvPScvdXNlcnMvMScgPlVzZXI8L0xpbms+PC9saT4KICAgICAgICA8L3VsPgogICAgICA8L2Rpdj4KICAgIDwvbmF2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im5hdmJhci10b2dnbGVyLWljb24iPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICBOYXZMaW5rLAogIFVuY29udHJvbGxlZERyb3Bkb3duLAogIERyb3Bkb3duVG9nZ2xlLAogIERyb3Bkb3duTWVudSwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cj4KICAgICAgICAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICBOYXZiYXJUb2dnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBkaXNwbGF5RGF0ZSA9IGRhdGVMYXN0UGFpZAogICAgPyBtb21lbnQobmV3IERhdGUoZGF0ZUxhc3RQYWlkKSkuZnJvbU5vdygpCiAgICA6ICctJzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGlzdEdyb3VwSXRlbSB9IGZyb20gJ3JlYWN0c3RyYXAnOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxMaXN0R3JvdXBJdGVtIG9uQ2xpY2s9e2hhbmRsZUVkaXRUb2dnbGV9PgogICAgICA8ZGl2IGNsYXNzTmFtZT0icm93Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLXNtLTUiPntkZXNjcmlwdGlvbn08L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sIj57Y3VycmVudFZhbHVlfTwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wiPntkaXNwbGF5RGF0ZX08L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L0xpc3RHcm91cEl0ZW0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Supported</last-search>
+      <last-search>navba</last-search>
       <last-offset />
-      <last-pattern>Supported</last-pattern>
+      <last-pattern>navba</last-pattern>
       <last-replace>debtId</last-replace>
       <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
@@ -4050,6 +4050,8 @@
         <entry>hasNewDebt</entry>
         <entry>updating</entry>
         <entry>Supported</entry>
+        <entry>Link</entry>
+        <entry>navba</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
