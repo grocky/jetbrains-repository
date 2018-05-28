@@ -1835,11 +1835,8 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/rxjs-backend-samples/index.js" timestamp="1527469317247">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="15" column="52" />
-        <mark key="." line="15" column="52" />
-        <mark key="^" line="15" column="52" />
+      <file name="$USER_HOME$/Projects/rxjs-backend-samples/index.js" timestamp="1527524673015">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/Assets.php" timestamp="1432154534639">
         <mark key="'" line="35" column="40" />
@@ -4098,17 +4095,17 @@
       <jump line="17" column="6" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
       <jump line="13" column="11" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
       <jump line="10" column="20" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/node_modules/rxjs/operators/index.d.ts" />
       <jump line="11" column="1" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>halfSeconds, $values$</text>
+        <text>values</text>
       </register>
       <register name="-" type="4">
-        <text>halfSeconds, $values$</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text>zip</text>
@@ -4117,34 +4114,34 @@
         <text encoding="base64">Y29uc3QgeyBtYXAgfSA9IHJlcXVpcmUoJ3J4anMvb3BlcmF0b3JzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICAucGlwZShtYXAoaXRlbXMgPT4gaXRlbXNbMV0pKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyAgfSA9IHJlcXVpcmUoJ3J4anMvbycpOwo=</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyAgfSA9IHJlcXVpcmUoJ3J4anMvbycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAucGlwZSgKICAgIFJ4T3BlcmF0b3JzLm1hcChpID0+IGkgKiAyKQogICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAucGlwZSgKICAgIFJ4T3BlcmF0b3JzLm1hcChpID0+IGkgKiAyKQogICk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuc3Vic2NyaWJlKGNvbnNvbGUubG9nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuc3Vic2NyaWJlKAogICAgaSA9PiBjb25zb2xlLmxvZygnbmV4dDonLCBpKSwKICAgIGUgPT4gY29uc29sZS5sb2coJ2Vycm9yOicsIGUubWVzc2FnZSksCiAgICAoKSA9PiBjb25zb2xlLmxvZygnZG9uZSEnKQogICk7Cg==</text>
+        <text encoding="base64">ICAuc3Vic2NyaWJlKGNvbnNvbGUubG9nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAubWFwKHYgPT4gdiAqIDIpOwo=</text>
+        <text encoding="base64">ICAuc3Vic2NyaWJlKAogICAgaSA9PiBjb25zb2xlLmxvZygnbmV4dDonLCBpKSwKICAgIGUgPT4gY29uc29sZS5sb2coJ2Vycm9yOicsIGUubWVzc2FnZSksCiAgICAoKSA9PiBjb25zb2xlLmxvZygnZG9uZSEnKQogICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4157,11 +4154,10 @@
       <last-replace>debtId</last-replace>
       <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>*</entry>
         <entry>var</entry>
         <entry>DECIMAL</entry>
         <entry>DATE</entry>
@@ -4204,6 +4200,7 @@
         <entry>17</entry>
         <entry>93</entry>
         <entry>w</entry>
+        <entry>vsp promise</entry>
       </history-cmd>
       <history-expr />
       <history-input />
