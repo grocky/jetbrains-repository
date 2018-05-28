@@ -1835,6 +1835,12 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/rxjs-backend-samples/index.js" timestamp="1527469317247">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/Assets.php" timestamp="1432154534639">
         <mark key="'" line="35" column="40" />
         <mark key="[" line="4" column="41" />
@@ -2182,6 +2188,9 @@
         <mark key="]" line="42" column="49" />
         <mark key="^" line="42" column="49" />
         <mark key="." line="42" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/rxjs-backend-samples/node_modules/rxjs/operators/index.d.ts" timestamp="1527468413504">
+        <mark key="'" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1527323409829">
         <mark key="'" line="21" column="0" />
@@ -3228,6 +3237,13 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" timestamp="1527466121694">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketPlacePurchases_IntegrationTest.php" timestamp="1432176526511">
         <mark key="[" line="591" column="123" />
         <mark key="]" line="591" column="129" />
@@ -3925,6 +3941,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1527463222483" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -3985,20 +4002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/database/models/debts.js" />
-      <jump line="800" column="0" filename="$USER_HOME$/Projects/debt-tracker/node_modules/sequelize/lib/data-types.js" />
-      <jump line="744" column="0" filename="$USER_HOME$/Projects/debt-tracker/node_modules/sequelize/lib/data-types.js" />
-      <jump line="17" column="27" filename="$USER_HOME$/Projects/debt-tracker/database/migrations/20180508163604-create-debts.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/Projects/debt-tracker/database/models/debts.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/database/models/debts.js" />
-      <jump line="13" column="33" filename="$USER_HOME$/Projects/debt-tracker/database/models/debts.js" />
-      <jump line="22" column="19" filename="$USER_HOME$/Projects/debt-tracker/database/migrations/20180508163604-create-debt.js" />
-      <jump line="36" column="4" filename="$USER_HOME$/Projects/debt-tracker/database/migrations/20180508163604-create-debt.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/database/migrations/20180508163604-create-debt.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
-      <jump line="75" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
-      <jump line="71" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
-      <jump line="84" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
       <jump line="9" column="27" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
       <jump line="13" column="1" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
@@ -4085,58 +4088,72 @@
       <jump line="1" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="4" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="0" column="18" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="6" column="30" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="10" column="20" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/node_modules/rxjs/operators/index.d.ts" />
+      <jump line="11" column="1" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Haven\'t paid yet</text>
+        <text>halfSeconds, $values$</text>
       </register>
       <register name="-" type="4">
-        <text>Haven\'t paid yet</text>
+        <text>halfSeconds, $values$</text>
       </register>
       <register name="/" type="4">
-        <text>updateDebt</text>
+        <text>zip</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IXRoaXMuc3RhdGUuZWRpdGluZ0RlYnRJZCAmJg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgeyBtYXAgfSA9IHJlcXVpcmUoJ3J4anMvb3BlcmF0b3JzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGluZyBpdGVtIGluIG1lbW9yeScsIGRlYnRUb1VwZGF0ZSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyAgfSA9IHJlcXVpcmUoJ3J4anMvbycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luc2VydCB1cGRhdGUnLCBkZWJ0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAucGlwZSgKICAgIFJ4T3BlcmF0b3JzLm1hcChpID0+IGkgKiAyKQogICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNldFN0YXRlKHsgZWRpdGluZ0RlYnRJZDogbnVsbCwgbmV3RGVidDogbnVsbCB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKTsK</text>
+        <text encoding="base64">ICAuc3Vic2NyaWJlKGNvbnNvbGUubG9nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbnNlcnRVcGRhdGUoZGVidCkK</text>
+        <text encoding="base64">ICAuc3Vic2NyaWJlKAogICAgaSA9PiBjb25zb2xlLmxvZygnbmV4dDonLCBpKSwKICAgIGUgPT4gY29uc29sZS5sb2coJ2Vycm9yOicsIGUubWVzc2FnZSksCiAgICAoKSA9PiBjb25zb2xlLmxvZygnZG9uZSEnKQogICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidHM6IHsgLi4udGhpcy5zdGF0ZS5kZWJ0cyB9LAo=</text>
+        <text encoding="base64">ICAubWFwKHYgPT4gdiAqIDIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updateDebt</last-search>
+      <last-search>zip</last-search>
       <last-offset />
-      <last-pattern>updateDebt</last-pattern>
+      <last-pattern>zip</last-pattern>
       <last-replace>debtId</last-replace>
       <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
@@ -4144,25 +4161,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LATEST_MASTER</entry>
-        <entry>diffNewFiles</entry>
-        <entry>nextPageClass</entry>
-        <entry>DTO</entry>
-        <entry>prevPageClass</entry>
-        <entry>prevPageButtons</entry>
-        <entry>diff</entry>
-        <entry>andThrow</entry>
-        <entry>Symbolic</entry>
-        <entry>class</entry>
-        <entry>seed</entry>
-        <entry>details</entry>
-        <entry>configureAndEx</entry>
-        <entry>testGetMembersInfo</entry>
-        <entry>phinx</entry>
-        <entry>fs</entry>
-        <entry>Total</entry>
-        <entry encoding="base64">KiA=</entry>
-        <entry>Note</entry>
         <entry>*</entry>
         <entry>var</entry>
         <entry>DECIMAL</entry>
@@ -4183,22 +4181,9 @@
         <entry>onKeyDown</entry>
         <entry>userId</entry>
         <entry>updateDebt</entry>
+        <entry>zip</entry>
       </history-search>
       <history-cmd>
-        <entry>s/2/3/g</entry>
-        <entry>s/1/2/g</entry>
-        <entry>s/1/3/g</entry>
-        <entry>%s/LATEST_MASTER/LATEST/</entry>
-        <entry>%s/DTO//</entry>
-        <entry>268</entry>
-        <entry>28</entry>
-        <entry>33</entry>
-        <entry>62</entry>
-        <entry>1452</entry>
-        <entry>104</entry>
-        <entry>80</entry>
-        <entry>37</entry>
-        <entry>wq</entry>
         <entry>344</entry>
         <entry>q</entry>
         <entry>.,/Note/+ s/* //</entry>
