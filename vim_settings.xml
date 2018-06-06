@@ -3253,6 +3253,13 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" timestamp="1528248287933">
+        <mark key="'" line="26" column="14" />
+        <mark key="[" line="24" column="67" />
+        <mark key="]" line="24" column="63" />
+        <mark key="^" line="24" column="63" />
+        <mark key="." line="24" column="63" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Templates/Widgets/Site/Views/VideoSiteStructuredDataWidgetView.php" timestamp="1432259061521">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -3999,11 +4006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
-      <jump line="9" column="27" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
-      <jump line="13" column="1" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
-      <jump line="12" column="2" filename="$USER_HOME$/Projects/debt-tracker/database/models/user.js" />
-      <jump line="17" column="19" filename="$USER_HOME$/Projects/debt-tracker/app.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/app.js" />
       <jump line="56" column="6" filename="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
@@ -4099,62 +4101,67 @@
       <jump line="11" column="1" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="19" column="10" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="13" column="5" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="17" column="3" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="22" column="14" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>values</text>
+        <text>.innerHTML</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>.innerHTML</text>
       </register>
       <register name="/" type="4">
-        <text>zip</text>
+        <text>sole</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBtYXAgfSA9IHJlcXVpcmUoJ3J4anMvb3BlcmF0b3JzJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQoJy5udW1iZXInKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAucGlwZShtYXAoaXRlbXMgPT4gaXRlbXNbMV0pKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQoJy5udW1iZXInKS5odG1sKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQoJy5udW1iZXInKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgeyAgfSA9IHJlcXVpcmUoJ3J4anMvbycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRlbXApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB3aW5kb3cgPSBqc2RvbS5qc2RvbShib2R5KS5jcmVhdGVXaW5kb3coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAucGlwZSgKICAgIFJ4T3BlcmF0b3JzLm1hcChpID0+IGkgKiAyKQogICk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2hlcnJpbyA9IHJlcXVpcmUoJ2NoZWVyaW8nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuc3Vic2NyaWJlKGNvbnNvbGUubG9nKTsK</text>
+        <text encoding="base64">ICAgIAogICAgJCgnLm51bWJlcicpLmVhY2goKGksIGVsZW0pID0+IHsKICAgICAgY29uc29sZS5sb2coJChlbGVtKS50ZXh0KCkpOwogICAgICBjb25zb2xlLmxvZygkKGVsZW0pLnRleHQoKSk7CiAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuc3Vic2NyaWJlKAogICAgaSA9PiBjb25zb2xlLmxvZygnbmV4dDonLCBpKSwKICAgIGUgPT4gY29uc29sZS5sb2coJ2Vycm9yOicsIGUubWVzc2FnZSksCiAgICAoKSA9PiBjb25zb2xlLmxvZygnZG9uZSEnKQogICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>zip</last-search>
+      <last-search>sole</last-search>
       <last-offset />
-      <last-pattern>zip</last-pattern>
+      <last-pattern>sole</last-pattern>
       <last-replace>debtId</last-replace>
       <last-substitute>userId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4178,6 +4185,8 @@
         <entry>userId</entry>
         <entry>updateDebt</entry>
         <entry>zip</entry>
+        <entry>cnsole</entry>
+        <entry>sole</entry>
       </history-search>
       <history-cmd>
         <entry>344</entry>
@@ -4199,8 +4208,8 @@
         <entry>s/userId/debtId/g</entry>
         <entry>17</entry>
         <entry>93</entry>
-        <entry>w</entry>
         <entry>vsp promise</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
