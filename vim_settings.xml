@@ -3784,11 +3784,12 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528567163345">
-        <mark key="[" line="40" column="81" />
-        <mark key="]" line="40" column="81" />
-        <mark key="^" line="40" column="81" />
-        <mark key="." line="40" column="81" />
+      <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528573909720">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="60" column="32" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="60" column="31" />
+        <mark key="." line="60" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponse.php" timestamp="1432390863446">
         <mark key="'" line="4" column="22" />
@@ -3837,7 +3838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="1513" column="28" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="1625" column="49" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2428" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
@@ -3937,49 +3937,50 @@
       <jump line="9" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>publicNameHiddenAmount</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>links</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgaGlkZGVuTmFtZVB1YmxpY0Ftb3VudF9wcml2YXRlID0gaGlkZGVuTmFtZVB1YmxpY0Ftb3VudC5maWx0ZXIoZCA9PiBkLmFub255bW91cyk7CmNvbnN0IGhpZGRlbk5hbWVQdWJsaWNBbW91bnRfcHVibGljID0gaGlkZGVuTmFtZVB1YmxpY0Ftb3VudC5maWx0ZXIoZCA9PiAhZC5hbm9ueW1vdXMpOwo=</text>
+        <text encoding="base64">ICAgIG5hbWU6IGQudXNlci5uYW1lLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IGhpZGRlbk5hbWVIaWRkZW5BbW91bnQgPSBkb25hdGlvbnMKICAuZmlsdGVyKGQgPT4gZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lID09PSAnQW5vbnltb3VzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IGhpZGRlbk5hbWVIaWRkZW5BbW91bnQgPSBkb25hdGlvbnMKICAuZmlsdGVyKGQgPT4gZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lID09PSAnQW5vbnltb3VzJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgaGlkZGVuTmFtZVB1YmxpY0Ftb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiAhZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lID09PSAnQW5vbnltb3VzJykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgaGlkZGVuTmFtZVB1YmxpY0Ftb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiAhZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lID09PSAnQW5vbnltb3VzJykKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcHVibGljTmFtZVB1YmxpY0Ftb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiAhZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lICE9PSAnQW5vbnltb3VzJykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcHVibGljTmFtZUhpZGRlbkFtb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiBkLmhpZGVfYW1vdW50ICYmIGQucHVibGljX25hbWUgIT09ICdBbm9ueW1vdXMnKQo=</text>
+        <text encoding="base64">Y29uc3QgcHVibGljTmFtZVB1YmxpY0Ftb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiAhZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lICE9PSAnQW5vbnltb3VzJykKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Fub255bW91cyBkb25hdGlvbnM6JywgYW5vbnltb3VzRG9uYXRpb25zLmxlbmd0aCk7CmNvbnNvbGUubG9nKCdwcml2YXRlIGRvbmF0aW9uczonLCBwcml2YXRlRG9uYXRpb25zLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgcHVibGljTmFtZUhpZGRlbkFtb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiBkLmhpZGVfYW1vdW50ICYmIGQucHVibGljX25hbWUgIT09ICdBbm9ueW1vdXMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
