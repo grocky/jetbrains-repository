@@ -3784,11 +3784,11 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528549971812">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528567163345">
+        <mark key="[" line="40" column="81" />
+        <mark key="]" line="40" column="81" />
+        <mark key="^" line="40" column="81" />
+        <mark key="." line="40" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponse.php" timestamp="1432390863446">
         <mark key="'" line="4" column="22" />
@@ -3939,47 +3939,47 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>publicNameHiddenAmount</text>
       </register>
       <register name="/" type="4">
         <text>links</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQoJy5udW1iZXInKSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgaGlkZGVuTmFtZVB1YmxpY0Ftb3VudF9wcml2YXRlID0gaGlkZGVuTmFtZVB1YmxpY0Ftb3VudC5maWx0ZXIoZCA9PiBkLmFub255bW91cyk7CmNvbnN0IGhpZGRlbk5hbWVQdWJsaWNBbW91bnRfcHVibGljID0gaGlkZGVuTmFtZVB1YmxpY0Ftb3VudC5maWx0ZXIoZCA9PiAhZC5hbm9ueW1vdXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coT2JqZWN0LmtleXMoZG9ub3JKc29uLmRvbmF0aW9uc1swXSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZG9ub3JKc29uLmRvbmF0aW9ucy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">CmNvbnN0IGhpZGRlbk5hbWVIaWRkZW5BbW91bnQgPSBkb25hdGlvbnMKICAuZmlsdGVyKGQgPT4gZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lID09PSAnQW5vbnltb3VzJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZG9ub3JKc29uLmtleXMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhcnRUaW1lID0gRGF0ZS5ub3coKTsK</text>
+        <text encoding="base64">Y29uc3QgaGlkZGVuTmFtZVB1YmxpY0Ftb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiAhZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lID09PSAnQW5vbnltb3VzJykKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWdlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWdlLnYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcHVibGljTmFtZVB1YmxpY0Ftb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiAhZC5oaWRlX2Ftb3VudCAmJiBkLnB1YmxpY19uYW1lICE9PSAnQW5vbnltb3VzJykKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcHVwcGV0ZWVyID0gcmVxdWlyZSgncHVwcGV0ZWVyJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgcHVibGljTmFtZUhpZGRlbkFtb3VudCA9IGRvbmF0aW9ucwogIC5maWx0ZXIoZCA9PiBkLmhpZGVfYW1vdW50ICYmIGQucHVibGljX25hbWUgIT09ICdBbm9ueW1vdXMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Fub255bW91cyBkb25hdGlvbnM6JywgYW5vbnltb3VzRG9uYXRpb25zLmxlbmd0aCk7CmNvbnNvbGUubG9nKCdwcml2YXRlIGRvbmF0aW9uczonLCBwcml2YXRlRG9uYXRpb25zLmxlbmd0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3992,13 +3992,10 @@
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DECIMAL</entry>
-        <entry>DATE</entry>
-        <entry>asdfa</entry>
         <entry>Debts</entry>
         <entry>console</entry>
         <entry>logger</entry>
@@ -4021,8 +4018,6 @@
         <entry>links</entry>
       </history-search>
       <history-cmd>
-        <entry>344</entry>
-        <entry>q</entry>
         <entry>.,/Note/+ s/* //</entry>
         <entry>.,/Note/+ s/*//</entry>
         <entry>%s/var/const/g</entry>
