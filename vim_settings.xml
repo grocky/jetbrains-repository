@@ -1979,6 +1979,9 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1529533708030">
+        <mark key="'" line="39" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Services/MailChimpESPHealthCheckService.php" timestamp="1432231354998">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="50" />
@@ -3840,7 +3843,6 @@
       <jump line="3958" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="17104" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="16796" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
-      <jump line="39" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="185" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/fontawesome-free-brands/index.d.ts" />
@@ -3921,6 +3923,7 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" />
+      <jump line="39" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
