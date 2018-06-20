@@ -930,12 +930,6 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/public/index.html" timestamp="1527346692758">
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Views/Form/FormCheckBoxInputWidgetView.php" timestamp="1432303868026">
         <mark key="'" line="17" column="33" />
         <mark key="[" line="3" column="18" />
@@ -1109,7 +1103,7 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1527372710125">
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526793318627">
         <mark key="'" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/phinx.sh" timestamp="1432671613952">
@@ -1267,13 +1261,6 @@
         <mark key="]" line="101" column="227" />
         <mark key="^" line="101" column="227" />
         <mark key="." line="101" column="227" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/index.js" timestamp="1527380610037">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Views/MemberAgreementView.php" timestamp="1431216714436">
         <mark key="[" line="3" column="67" />
@@ -1455,13 +1442,6 @@
         <mark key="]" line="47" column="56" />
         <mark key="^" line="47" column="56" />
         <mark key="." line="47" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/store.js" timestamp="1527373114587">
-        <mark key="'" line="11" column="1" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/api/helperclasses/_TestVideoContributorsApiController_addOrUpdateContributorProfile.php" timestamp="1432174295898">
         <mark key="[" line="7" column="90" />
@@ -1797,6 +1777,9 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/rxjs-backend-samples/index.js" timestamp="1527524673015">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/Assets.php" timestamp="1432154534639">
         <mark key="'" line="35" column="40" />
         <mark key="[" line="4" column="41" />
@@ -1996,13 +1979,6 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1527381092274">
-        <mark key="'" line="44" column="9" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="43" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Services/MailChimpESPHealthCheckService.php" timestamp="1432231354998">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="50" />
@@ -2116,15 +2092,15 @@
         <mark key="^" line="42" column="49" />
         <mark key="." line="42" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1527372039165">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
+      <file name="$USER_HOME$/Projects/rxjs-backend-samples/node_modules/rxjs/operators/index.d.ts" timestamp="1527468413504">
+        <mark key="'" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" timestamp="1527347753045">
-        <mark key="'" line="296" column="8" />
+      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1527323409829">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/MemberCancelSuccessViewModel.php" timestamp="1431216367119">
         <mark key="[" line="24" column="84" />
@@ -2778,13 +2754,6 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" timestamp="1527373243298">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/StockDetails/Views/VideoStockDetailsView.php" timestamp="1432258496175">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="9" column="0" />
@@ -2904,13 +2873,6 @@
         <mark key="]" line="151" column="70" />
         <mark key="^" line="151" column="70" />
         <mark key="." line="151" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.jsx" timestamp="1527347453897">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/phpmailer/class.smtp.php" timestamp="1431207599285">
         <mark key="'" line="336" column="20" />
@@ -3068,13 +3030,6 @@
         <mark key="^" line="77" column="15" />
         <mark key="." line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" timestamp="1527373320473">
-        <mark key="'" line="45" column="19" />
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
         <mark key="[" line="17" column="10" />
@@ -3111,13 +3066,6 @@
       <file name="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" timestamp="1526006096061">
         <mark key="'" line="56" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/users/User.js" timestamp="1527378723992">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Model/ASpellCommandLineInterface.php" timestamp="1431220541392">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="19" column="4" />
@@ -3131,6 +3079,13 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" timestamp="1527466121694">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/videoblocks/marketplace/TestMarketPlacePurchases_IntegrationTest.php" timestamp="1432176526511">
         <mark key="[" line="591" column="123" />
         <mark key="]" line="591" column="129" />
@@ -3142,6 +3097,12 @@
         <mark key="]" line="14" column="25" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" timestamp="1528548131960">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="2" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="18" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Templates/Widgets/Site/Views/VideoSiteStructuredDataWidgetView.php" timestamp="1432259061521">
         <mark key="[" line="3" column="0" />
@@ -3355,12 +3316,6 @@
         <mark key="]" line="18" column="33" />
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/reducer.js" timestamp="1527358738280">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/loggly/ApiResponses/SearchApiResponse.php" timestamp="1431050882319">
         <mark key="[" line="4" column="0" />
@@ -3798,7 +3753,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1527338366475" />
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1527463222483" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -3811,6 +3766,13 @@
         <mark key="]" line="6" column="37" />
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528575941520">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="92" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponse.php" timestamp="1432390863446">
         <mark key="'" line="4" column="22" />
@@ -3859,170 +3821,165 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.jsx" />
-      <jump line="5" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="113" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="120" column="38" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="124" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="150" column="33" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="199" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="208" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="226" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="235" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="247" column="31" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="254" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="269" column="26" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="283" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="284" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="289" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="296" column="8" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/react/cjs/react.development.js" />
-      <jump line="11" column="3" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="76" column="23" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="78" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="88" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="104" column="24" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="89" column="42" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="120" column="33" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="128" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="3" column="31" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="93" column="8" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="80" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="9" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="16" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="77" column="25" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="139" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="126" column="26" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="65" column="48" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="131" column="36" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="18" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="23" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="26" column="5" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="27" column="47" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="13" column="24" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="73" column="29" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="115" column="28" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="125" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="58" column="29" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="32" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="71" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="1" column="52" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/debtReducer.js" />
-      <jump line="13" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="35" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="117" column="30" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="105" column="30" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="94" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="97" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="55" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="70" column="12" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="106" column="36" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="51" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="54" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="81" column="82" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="114" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="69" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
-      <jump line="10" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/store.js" />
-      <jump line="14" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/store.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="44" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/users/User.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/users/User.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/users/User.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="19" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="18" column="53" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="1513" column="28" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="1625" column="49" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2428" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="1599" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="1626" column="53" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2424" column="35" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2427" column="41" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2430" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2436" column="35" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2439" column="41" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2440" column="51" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="2443" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="3951" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="3954" column="58" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="3957" column="17" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="3958" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="17104" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="16796" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="39" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="185" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/fontawesome-free-brands/index.d.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtView.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="38" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="66" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="47" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="49" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="1" column="36" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="15" column="5" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="48" column="39" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="52" column="8" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="12" column="2" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="43" column="7" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
-      <jump line="44" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="36" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtView.js" />
+      <jump line="5" column="50" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="8" column="24" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="19" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="33" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="10" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="39" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="26" column="28" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtList.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/react-fontawesome/index.es.js" />
+      <jump line="40" column="57" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="28" column="15" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="9" column="12" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/Projects/debt-tracker/routes/users.js" />
+      <jump line="3" column="62" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="46" column="11" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="43" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="29" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="47" column="17" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="32" column="30" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="48" column="21" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="49" column="39" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
+      <jump line="15" column="1" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
+      <jump line="16" column="22" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/debts/DebtListContainer.js" />
+      <jump line="0" column="18" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/rxjs-backend-samples/promises.js" />
+      <jump line="6" column="30" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="10" column="20" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/node_modules/rxjs/operators/index.d.ts" />
+      <jump line="11" column="1" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/rxjs-backend-samples/index.js" />
+      <jump line="19" column="10" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="22" column="14" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="23" column="3" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="15" column="31" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="17" column="16" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="20" column="12" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="2" column="12" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="3" column="14" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="5" column="34" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="16" column="25" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="13" column="16" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="18" column="28" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29sb3I9J3JlZCcg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhidWNrZXQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29sb3I9J3JlZCcg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>navba</text>
+        <text>links</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBOYXZJdGVtLAo=</text>
+        <text encoding="base64">ICBpZiAoYW1vdW50ID49IDI1MCAmJiBhbW91bnQgPCA1MDApIHJldHVybiAyNTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8aGVhZGVyPgogICAgPE5hdmlnYXRvciAvPgogIDwvaGVhZGVyPgogIDxtYWluIGNsYXNzTmFtZT0nY29udGFpbmVyJz4KICAgIDxTd2l0Y2g+CiAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvIiBjb21wb25lbnQ9e0RlYnRzTGlzdH0gLz4KICAgICAgPFJvdXRlIHBhdGg9Ii91c2Vycy86dXNlcklkIiBjb21wb25lbnQ9e1VzZXJ9IC8+CiAgICA8L1N3aXRjaD4KICA8L21haW4+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhidWNrZXQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxuYXYgY2xhc3NOYW1lPSduYXZiYXIgbmF2YmFyLWV4cGFuZC1sZyc+CiAgICAgIDxMaW5rIGNsYXNzTmFtZT0nbmF2YmFyLWJyYW5kJyB0bz0nLyc+TG9nby4uLjwvTGluaz4KICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9Im5hdmJhci10b2dnbGVyIiB0eXBlPSJidXR0b24iIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgZGF0YS10YXJnZXQ9IiNuYXZiYXJDb250ZW50IgogICAgICAgICAgICAgIGFyaWEtY29udHJvbHM9Im5hdmJhckNvbnRlbnQiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIiBhcmlhLWxhYmVsPSJUb2dnbGUgbmF2aWdhdGlvbiI+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJuYXZiYXItdG9nZ2xlci1pY29uIj48L3NwYW4+CiAgICAgIDwvYnV0dG9uPgogICAgICA8ZGl2IGNsYXNzTmFtZT0nY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlJyBpZD0nbmF2YmFyQ29udGVudCc+CiAgICAgICAgPHVsIGNsYXNzTmFtZT0nbmF2YmFyLW5hdiBtci1hdXRvJz4KICAgICAgICAgIDxsaSBjbGFzc05hbWU9J25hdi1pdGVtJz48TGluayB0bz0nLycgPkRlYnQgTGlzdDwvTGluaz48L2xpPgogICAgICAgICAgPGxpIGNsYXNzTmFtZT0nbmF2LWl0ZW0nPjxMaW5rIHRvPScvdXNlcnMvMScgPlVzZXI8L0xpbms+PC9saT4KICAgICAgICA8L3VsPgogICAgICA8L2Rpdj4KICAgIDwvbmF2Pgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBOYXZMaW5rLAogIFVuY29udHJvbGxlZERyb3Bkb3duLAogIERyb3Bkb3duVG9nZ2xlLAogIERyb3Bkb3duTWVudSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cj4KICAgICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">c29ydGVkRG9uYXRpb25zLmZvckVhY2goZCwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Zm9yIChidWNrZXQgaW4gT2JqZWN0LmtleXMoc29ydGVkRG9uYXRpb25zKSkgewogIAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBOYXZiYXJUb2dnCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Li4ucHJldiwgW2J1Y2tldF06IFtdfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>navba</last-search>
+      <last-search>links</last-search>
       <last-offset />
-      <last-pattern>navba</last-pattern>
-      <last-replace>debtId</last-replace>
-      <last-substitute>userId</last-substitute>
+      <last-pattern>links</last-pattern>
+      <last-replace>const</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>*</entry>
-        <entry>var</entry>
-        <entry>DECIMAL</entry>
-        <entry>DATE</entry>
-        <entry>asdfa</entry>
         <entry>Debts</entry>
         <entry>console</entry>
         <entry>logger</entry>
@@ -4038,24 +3995,13 @@
         <entry>onKeyDown</entry>
         <entry>userId</entry>
         <entry>updateDebt</entry>
-        <entry>Component</entry>
-        <entry>newDebt</entry>
-        <entry>EditingDebtItem</entry>
-        <entry>debtId</entry>
-        <entry>debts</entry>
-        <entry>items</entry>
-        <entry>toggleEdit</entry>
-        <entry>editingDebtId</entry>
-        <entry>createDebt</entry>
-        <entry>hasNewDebt</entry>
-        <entry>updating</entry>
-        <entry>Supported</entry>
-        <entry>Link</entry>
-        <entry>navba</entry>
+        <entry>zip</entry>
+        <entry>cnsole</entry>
+        <entry>sole</entry>
+        <entry>var</entry>
+        <entry>links</entry>
       </history-search>
       <history-cmd>
-        <entry>344</entry>
-        <entry>q</entry>
         <entry>.,/Note/+ s/* //</entry>
         <entry>.,/Note/+ s/*//</entry>
         <entry>%s/var/const/g</entry>
@@ -4073,7 +4019,8 @@
         <entry>s/userId/debtId/g</entry>
         <entry>17</entry>
         <entry>93</entry>
-        <entry>70</entry>
+        <entry>vsp promise</entry>
+        <entry>%s/var/const/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -4133,9 +4080,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>meta pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
