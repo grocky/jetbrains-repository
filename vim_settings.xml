@@ -1663,6 +1663,13 @@
         <mark key="^" line="70" column="27" />
         <mark key="." line="70" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/client/create-icons.js" timestamp="1529781039987">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="63" column="3" />
+        <mark key="]" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+        <mark key="^" line="64" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/AbTestHooks.php" timestamp="1431051758146">
         <mark key="'" line="75" column="21" />
         <mark key="[" line="360" column="55" />
@@ -1978,9 +1985,6 @@
         <mark key="]" line="59" column="34" />
         <mark key="^" line="59" column="34" />
         <mark key="." line="59" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/App.js" timestamp="1529533708030">
-        <mark key="'" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Services/MailChimpESPHealthCheckService.php" timestamp="1432231354998">
         <mark key="[" line="2" column="43" />
@@ -3824,8 +3828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1513" column="28" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
-      <jump line="1625" column="49" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2428" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="1599" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
@@ -3843,6 +3845,7 @@
       <jump line="3958" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="17104" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="16796" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
+      <jump line="39" column="27" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="185" column="20" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/fontawesome-free-brands/index.d.ts" />
@@ -3923,63 +3926,64 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" />
-      <jump line="39" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
+      <jump line="58" column="18" filename="$USER_HOME$/Projects/garage-remote/client/create-icons.js" />
+      <jump line="38" column="26" filename="$USER_HOME$/Projects/garage-remote/client/create-icons.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhidWNrZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>fullPath</text>
       </register>
       <register name="/" type="4">
-        <text>links</text>
+        <text>mime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoYW1vdW50ID49IDI1MCAmJiBhbW91bnQgPCA1MDApIHJldHVybiAyNTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhidWNrZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGljb25MaXN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGluZycsIGZ1bGxQYXRoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c29ydGVkRG9uYXRpb25zLmZvckVhY2goZCwpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGluZycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIChidWNrZXQgaW4gT2JqZWN0LmtleXMoc29ydGVkRG9uYXRpb25zKSkgewogIAp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGljb25MaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Li4ucHJldiwgW2J1Y2tldF06IFtdfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhidWNrZXQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c29ydGVkRG9uYXRpb25zLmZvckVhY2goZCwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>links</last-search>
+      <last-search>mime</last-search>
       <last-offset />
-      <last-pattern>links</last-pattern>
+      <last-pattern>mime</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4003,6 +4007,7 @@
         <entry>sole</entry>
         <entry>var</entry>
         <entry>links</entry>
+        <entry>mime</entry>
       </history-search>
       <history-cmd>
         <entry>.,/Note/+ s/* //</entry>
