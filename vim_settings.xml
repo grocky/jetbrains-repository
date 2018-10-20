@@ -2819,8 +2819,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/jetbrains/src/index.js" timestamp="1540077155323">
-        <mark key="[" line="46" column="5" />
+      <file name="$USER_HOME$/jetbrains/src/index.js" timestamp="1540078378098">
+        <mark key="'" line="53" column="65" />
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="53" column="65" />
+        <mark key="." line="53" column="65" />
+        <mark key="^" line="53" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Admin/Services/CustomerIOHealthCheckService.php" timestamp="1432715777006">
         <mark key="[" line="14" column="43" />
@@ -3831,7 +3835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2428" column="32" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="1599" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="1626" column="53" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
@@ -3931,49 +3934,50 @@
       <jump line="15" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" />
       <jump line="58" column="18" filename="$USER_HOME$/Projects/garage-remote/client/create-icons.js" />
       <jump line="38" column="26" filename="$USER_HOME$/Projects/garage-remote/client/create-icons.js" />
+      <jump line="53" column="65" filename="$USER_HOME$/jetbrains/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PhpStormFiles</text>
       </register>
       <register name="-" type="4">
-        <text>fullPath</text>
+        <text>PhpStormFiles</text>
       </register>
       <register name="/" type="4">
         <text>mime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoYW1vdW50ID49IDI1MCAmJiBhbW91bnQgPCA1MDApIHJldHVybiAyNTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc1BocFN0b3JtRmlsZXM6IGZhbHNlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGljb25MaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGluZycsIGZ1bGxQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGluZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGljb25MaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhidWNrZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGluZycsIGZ1bGxQYXRoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGluZycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGljb25MaXN0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c29ydGVkRG9uYXRpb25zLmZvckVhY2goZCwpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhidWNrZXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
