@@ -2819,6 +2819,9 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/jetbrains/src/index.js" timestamp="1540077155323">
+        <mark key="[" line="46" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Admin/Services/CustomerIOHealthCheckService.php" timestamp="1432715777006">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="48" />
@@ -3983,11 +3986,10 @@
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Debts</entry>
         <entry>console</entry>
         <entry>logger</entry>
         <entry>opts</entry>
