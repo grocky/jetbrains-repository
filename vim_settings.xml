@@ -627,6 +627,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/database/migrations/20181029035728-create-debt-value-log.js" timestamp="1540785522641">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronProcessMediaManoXMLs.php" timestamp="1431223319582">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="102" column="15" />
@@ -1124,10 +1130,11 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1526765115676">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debt.js" timestamp="1540786052170">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Permissions/MemberSitePermissionChangeTypes.php" timestamp="1431283435591">
         <mark key="'" line="4" column="0" />
@@ -2627,10 +2634,17 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/models/user.js" timestamp="1525997974273">
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/debtValueLog.js" timestamp="1540786023945">
+        <mark key="'" line="15" column="1" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/database/models/user.js" timestamp="1540785973632">
         <mark key="'" line="12" column="2" />
-        <mark key="[" line="2" column="54" />
-        <mark key="]" line="2" column="69" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="29" />
         <mark key="." line="2" column="69" />
         <mark key="^" line="2" column="69" />
       </file>
@@ -3861,7 +3875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2436" column="35" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2439" column="41" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2440" column="51" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2443" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
@@ -3961,49 +3974,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" />
       <jump line="21" column="34" filename="$USER_HOME$/Projects/debt-tracker/database/config/index.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/Projects/debt-tracker/database/models/debtValueLog.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sequelzie</text>
+        <text>description</text>
       </register>
       <register name="-" type="4">
-        <text>sequelzie</text>
+        <text>description</text>
       </register>
       <register name="/" type="4">
         <text>help</text>
       </register>
-      <register name="0" type="4">
-        <text>sequelize</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246IHsgdHlwZTogRGF0YVR5cGVzLlNUUklORywgYWxsb3dOdWxsOiBmYWxzZSB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRlYnQtdHJhY2tlci1wdwo=</text>
+        <text encoding="base64">ICAgIHJhdGU6IHsgdHlwZTogRGF0YVR5cGVzLkRFQ0lNQUwsIGFsbG93TnVsbDogZmFsc2UgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudFZhbHVlOiB7CiAgICAgICAgdHlwZTogU2VxdWVsaXplLkRFQ0lNQUwoMTIsIDIpCiAgICAgIH0sCiAgICAgIGRhdGVMYXN0UGFpZDogewogICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgIH0sCiAgICAgIGRhdGVTdGFydGVkOiB7CiAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiB7IHR5cGU6IERhdGFUeXBlcy5TVFJJTkcsIGFsbG93TnVsbDogZmFsc2UgfSwKICAgIGluaXRpYWxWYWx1ZToge3R5cGU6IERhdGFUeXBlcy5ERUNJTUFMKDEyLCAyKSwgZmllbGQ6ICdpbml0aWFsX3ZhbHVlJ30sCiAgICBkYXRlU3RhcnRlZDogeyB0eXBlOiBEYXRhVHlwZXMuREFURSwgZmllbGQ6ICdkYXRlX3N0YXJ0ZWQnIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGFzc29jaWF0aW9ucyBjYW4gYmUgZGVmaW5lZCBoZXJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgLSBzdXJ1c2UK</text>
+        <text encoding="base64">ICAgICAgb3duZXJJZDogeyB0eXBlOiBEYXRhVHlwZXMuSU5URUdFUiwgZmllbGQ6ICdvd25lcl9pZCcgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXZhaWxhYmxlSURFcygpIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0ZUxhc3RQYWlkOiB7IHR5cGU6IERhdGFUeXBlcy5EQVRFLCBmaWVsZDogJ2RhdGVfbGFzdF9wYWlkJyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudFZhbHVlOiB7IHR5cGU6IERhdGFUeXBlcy5ERUNJTUFMKDEyLCAyKSwgZmllbGQ6ICdjdXJyZW50X3ZhbHVlJyB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKQo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CWRlYnQtdHJhY2tlci1wdwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
