@@ -1790,8 +1790,8 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/bin/www" timestamp="1525998352816">
-        <mark key="'" line="84" column="6" />
+      <file name="$USER_HOME$/Projects/debt-tracker/bin/www" timestamp="1540786830679">
+        <mark key="'" line="33" column="4" />
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="36" />
@@ -3875,7 +3875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2439" column="41" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2440" column="51" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2443" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="3951" column="37" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
@@ -3975,6 +3974,7 @@
       <jump line="15" column="9" filename="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" />
       <jump line="21" column="34" filename="$USER_HOME$/Projects/debt-tracker/database/config/index.js" />
       <jump line="11" column="1" filename="$USER_HOME$/Projects/debt-tracker/database/models/debtValueLog.js" />
+      <jump line="33" column="4" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3984,7 +3984,7 @@
         <text>description</text>
       </register>
       <register name="/" type="4">
-        <text>help</text>
+        <text>port</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246IHsgdHlwZTogRGF0YVR5cGVzLlNUUklORywgYWxsb3dOdWxsOiBmYWxzZSB9LAo=</text>
@@ -4020,17 +4020,17 @@
         <text encoding="base64">CWRlYnQtdHJhY2tlci1wdwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>help</last-search>
+      <last-search>port</last-search>
       <last-offset />
-      <last-pattern>help</last-pattern>
+      <last-pattern>port</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -4054,6 +4054,7 @@
         <entry>links</entry>
         <entry>mime</entry>
         <entry>help</entry>
+        <entry>port</entry>
       </history-search>
       <history-cmd>
         <entry>.,/Note/+ s/* //</entry>
@@ -4076,6 +4077,7 @@
         <entry>vsp promise</entry>
         <entry>%s/var/const/</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
