@@ -355,12 +355,12 @@
         <mark key="^" line="4" column="43" />
         <mark key="." line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/migrations/20180508163604-create-debt.js" timestamp="1525799949234">
+      <file name="$USER_HOME$/Projects/debt-tracker/database/migrations/20180508163604-create-debt.js" timestamp="1540784634965">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="2" />
-        <mark key="." line="37" column="2" />
-        <mark key="^" line="37" column="2" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="28" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteAuthentication.php" timestamp="1432156676037">
         <mark key="'" line="175" column="15" />
@@ -2134,11 +2134,6 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/react-fontawesome/index.es.js" timestamp="1526182308581">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="574" column="15" />
-        <mark key="]" line="574" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/ViewModels/EngagementPostsWidgetViewModel.php" timestamp="1431244160137">
         <mark key="[" line="41" column="55" />
         <mark key="]" line="42" column="55" />
@@ -2577,6 +2572,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/node_modules/sequelize/index.js" timestamp="1540784285948">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/MemberNew/RestApiControllers/MemberBinRestApiController_v1.php" timestamp="1432647118841">
         <mark key="[" line="4" column="0" />
@@ -3374,12 +3375,12 @@
         <mark key="^" line="29" column="58" />
         <mark key="." line="29" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1540783631550">
-        <mark key="'" line="19" column="34" />
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="53" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1540784344370">
+        <mark key="'" line="20" column="34" />
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PreFlowHotfixFinishPhinxTest.php" timestamp="1432599204295">
         <mark key="'" line="89" column="0" />
@@ -3491,6 +3492,12 @@
         <mark key="]" line="45" column="40" />
         <mark key="^" line="45" column="40" />
         <mark key="." line="45" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/debt-tracker/Makefile" timestamp="1540785052142">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Modules/Signup/Views/VideoJoinStep1DirectTo99_NoContent.php" timestamp="1432258045718">
         <mark key="[" line="2" column="41" />
@@ -3957,46 +3964,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debt-tracker-pw</text>
+        <text>sequelzie</text>
       </register>
       <register name="-" type="4">
-        <text>grocky</text>
+        <text>sequelzie</text>
       </register>
       <register name="/" type="4">
         <text>help</text>
       </register>
       <register name="0" type="4">
-        <text>debt-tracker-pw</text>
+        <text>sequelize</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRlYnQtdHJhY2tlci1wdwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudFZhbHVlOiB7CiAgICAgICAgdHlwZTogU2VxdWVsaXplLkRFQ0lNQUwoMTIsIDIpCiAgICAgIH0sCiAgICAgIGRhdGVMYXN0UGFpZDogewogICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5EQVRFCiAgICAgIH0sCiAgICAgIGRhdGVTdGFydGVkOiB7CiAgICAgICAgdHlwZTogU2VxdWVsaXplLkRBVEUKICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgLSBzdXJ1c2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXZhaWxhYmxlSURFcygpIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgLSBzdXJ1c2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gYXZhaWxhYmxlSURFcygpIHsKICAgIAp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
