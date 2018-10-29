@@ -1949,12 +1949,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" timestamp="1540780925600">
-        <mark key="'" line="13" column="9" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="7" column="29" />
+      <file name="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" timestamp="1540783736250">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Signup/ViewModels/AudioFreeTrialStep2ViewModel.php" timestamp="1432220980905">
         <mark key="[" line="2" column="10" />
@@ -3374,12 +3374,12 @@
         <mark key="^" line="29" column="58" />
         <mark key="." line="29" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1526008197814">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
+      <file name="$USER_HOME$/Projects/debt-tracker/database/config/index.js" timestamp="1540783631550">
+        <mark key="'" line="19" column="34" />
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PreFlowHotfixFinishPhinxTest.php" timestamp="1432599204295">
         <mark key="'" line="89" column="0" />
@@ -3854,7 +3854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2430" column="18" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2436" column="35" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2439" column="41" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
       <jump line="2440" column="51" filename="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" />
@@ -3954,49 +3953,50 @@
       <jump line="98" column="43" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" />
+      <jump line="21" column="34" filename="$USER_HOME$/Projects/debt-tracker/database/config/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgLSBzdXJ1c2UK</text>
+      <register name="&quot;" type="4">
+        <text>debt-tracker-pw</text>
       </register>
       <register name="-" type="4">
-        <text>5433:</text>
+        <text>grocky</text>
       </register>
       <register name="/" type="4">
         <text>help</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFBocFN0b3JtOiAnUGhwU3Rvcm0nLAo=</text>
+      <register name="0" type="4">
+        <text>debt-tracker-pw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgLSBzdXJ1c2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXZhaWxhYmxlSURFcygpIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgLSBzdXJ1c2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gYXZhaWxhYmxlSURFcygpIHsKICAgIAp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGljb25MaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGluZycsIGZ1bGxQYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4009,11 +4009,10 @@
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>logger</entry>
         <entry>opts</entry>
         <entry>gaGit</entry>
