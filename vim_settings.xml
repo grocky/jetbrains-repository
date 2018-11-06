@@ -1819,7 +1819,8 @@
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/data-20181029.csv" timestamp="1540793003602">
+      <file name="$USER_HOME$/Projects/debt-tracker/data-20181029.csv" timestamp="1541522311846">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="41" />
         <mark key="^" line="2" column="41" />
@@ -3820,6 +3821,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1541522183457" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -3887,7 +3889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="38" column="13" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
       <jump line="36" column="10" filename="$USER_HOME$/Projects/debt-tracker/client/src/App.js" />
@@ -3987,6 +3988,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="47" column="4" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/debt-tracker/data-20181029.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4032,7 +4034,7 @@
         <text encoding="base64">ICBjb25zdCB1c2VySWRNYXAgPSBuZXcgTWFwKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -4042,13 +4044,10 @@
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
-        <entry>opts</entry>
-        <entry>gaGit</entry>
         <entry>Git</entry>
         <entry>Google</entry>
         <entry>random</entry>
@@ -4071,7 +4070,6 @@
         <entry>axios</entry>
       </history-search>
       <history-cmd>
-        <entry>.,/Note/+ s/* //</entry>
         <entry>.,/Note/+ s/*//</entry>
         <entry>%s/var/const</entry>
         <entry>vsp user</entry>
@@ -4092,6 +4090,8 @@
         <entry>vsp</entry>
         <entry>%s/var/const/g</entry>
         <entry>w</entry>
+        <entry>actionlist</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
