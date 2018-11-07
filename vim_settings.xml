@@ -392,12 +392,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/index.html" timestamp="1541620918081">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1541628800153">
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1541629842018">
         <mark key="'" line="22" column="24" />
-        <mark key="[" line="31" column="50" />
-        <mark key="]" line="31" column="47" />
-        <mark key="^" line="31" column="47" />
-        <mark key="." line="31" column="47" />
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/CrossSiteLoginViewModel.php" timestamp="1431221703916">
         <mark key="'" line="54" column="4" />
@@ -709,6 +709,11 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
         <mark key="'" line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541629624020">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" timestamp="1432716522554">
         <mark key="'" line="91" column="4" />
         <mark key="[" line="59" column="5" />
@@ -1011,6 +1016,13 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/naked-domain.tf" timestamp="1541629580796">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/App.css" timestamp="1541619415407">
         <mark key="'" line="29" column="7" />
@@ -1530,7 +1542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="43" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" />
       <jump line="21" column="34" filename="$USER_HOME$/Projects/debt-tracker/database/config/index.js" />
@@ -1630,49 +1641,50 @@
       <jump line="42" column="21" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
       <jump line="22" column="24" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
+      <jump line="83" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/naked-domain.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public_dns</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>public_dns</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>inactiveLogo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE5hbWUgPSAiUzMgUmVtb3RlIFRlcnJhZm9ybSBTdGF0ZSBTdG9yZSIK</text>
+        <text encoding="base64">b3V0cHV0ICJjbG91ZGZyb250X3Jvb3RfaWQiIHsKICB2YWx1ZSA9ICIke2F3c19jbG91ZGZyb250X2Rpc3RyaWJ1dGlvbi5yb290X2Rpc3RyaWJ1dGlvbi5pZH0iCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
+        <text encoding="base64">ICAvLyBOT1RFOiBuYW1lIGlzIGJsYW5rIGhlcmUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
+        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
+        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBIZXJlJ3Mgd2hlcmUgb3VyIGNlcnRpZmljYXRlIGlzIGxvYWRlZCBpbiEK</text>
+        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByYXRoZXIgdGhhbiB0aGUgZG9tYWluIG5hbWUgQ2xvdWRGcm9udCBnaXZlcyB1cy4K</text>
+        <text encoding="base64">ICAvLyBIZXJlJ3Mgd2hlcmUgb3VyIGNlcnRpZmljYXRlIGlzIGxvYWRlZCBpbiEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBIZXJlIHdlJ3JlIGVuc3VyaW5nIHdlIGNhbiBoaXQgdGhpcyBkaXN0cmlidXRpb24gdXNpbmcgd3d3LnJ1bmF0bGFudGlzLmlvCg==</text>
+        <text encoding="base64">ICAvLyByYXRoZXIgdGhhbiB0aGUgZG9tYWluIG5hbWUgQ2xvdWRGcm9udCBnaXZlcyB1cy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRoaXMgbmVlZHMgdG8gbWF0Y2ggdGhlIGBvcmlnaW5faWRgIGFib3ZlLgo=</text>
+        <text encoding="base64">ICAvLyBIZXJlIHdlJ3JlIGVuc3VyaW5nIHdlIGNhbiBoaXQgdGhpcyBkaXN0cmlidXRpb24gdXNpbmcgd3d3LnJ1bmF0bGFudGlzLmlvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBBbGwgdmFsdWVzIGFyZSBkZWZhdWx0cyBmcm9tIHRoZSBBV1MgY29uc29sZS4K</text>
+        <text encoding="base64">ICAgIC8vIFRoaXMgbmVlZHMgdG8gbWF0Y2ggdGhlIGBvcmlnaW5faWRgIGFib3ZlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRoaXMgY2FuIGJlIGFueSBuYW1lIHRvIGlkZW50aWZ5IHRoaXMgb3JpZ2luLgo=</text>
+        <text encoding="base64">ICAvLyBBbGwgdmFsdWVzIGFyZSBkZWZhdWx0cyBmcm9tIHRoZSBBV1MgY29uc29sZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
