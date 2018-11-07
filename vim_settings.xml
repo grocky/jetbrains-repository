@@ -392,11 +392,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/index.html" timestamp="1541620918081">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1541625140455">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1541628800153">
+        <mark key="'" line="22" column="24" />
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/CrossSiteLoginViewModel.php" timestamp="1431221703916">
         <mark key="'" line="54" column="4" />
@@ -427,11 +428,7 @@
         <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/Makefile" timestamp="1541621521826">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="4" column="15" />
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberSubmembersService.php" timestamp="1431045963590">
         <mark key="'" line="64" column="0" />
@@ -453,6 +450,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="42" column="86" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" timestamp="1541627444878">
+        <mark key="'" line="42" column="21" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/containers/AppContainer.js" timestamp="1541618410481">
         <mark key="'" line="8" column="8" />
@@ -1039,6 +1043,13 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" timestamp="1541628402904">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
@@ -1087,6 +1098,13 @@
         <mark key="]" line="26" column="1" />
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" timestamp="1541626856615">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/FreeTrialViewModel.php" timestamp="1431221823276">
         <mark key="'" line="9" column="0" />
@@ -1304,10 +1322,12 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/s3.tf" timestamp="1541623714789">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/s3.tf" timestamp="1541626672481">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+        <mark key="^" line="26" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Framework/AudioSiteConfiguration.php" timestamp="1431094153740">
         <mark key="'" line="119" column="41" />
@@ -1413,8 +1433,8 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" timestamp="1541625134967">
-        <mark key="'" line="36" column="1" />
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" timestamp="1541626146888">
+        <mark key="'" line="22" column="21" />
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="7" />
         <mark key="^" line="34" column="14" />
@@ -1510,13 +1530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" />
-      <jump line="58" column="18" filename="$USER_HOME$/Projects/garage-remote/client/create-icons.js" />
-      <jump line="38" column="26" filename="$USER_HOME$/Projects/garage-remote/client/create-icons.js" />
-      <jump line="53" column="65" filename="$USER_HOME$/jetbrains/src/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/jetbrains/src/index.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="98" column="43" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" />
@@ -1610,13 +1623,20 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
       <jump line="20" column="10" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
       <jump line="26" column="1" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" />
+      <jump line="22" column="21" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" />
+      <jump line="25" column="2" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/s3.tf" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" />
+      <jump line="42" column="21" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
+      <jump line="22" column="24" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>terraform_state_lock</text>
+        <text>public_dns</text>
       </register>
       <register name="-" type="4">
-        <text>terraform_state_lock</text>
+        <text>public_dns</text>
       </register>
       <register name="/" type="4">
         <text>inactiveLogo</text>
@@ -1625,34 +1645,34 @@
         <text encoding="base64">ICAgIE5hbWUgPSAiUzMgUmVtb3RlIFRlcnJhZm9ybSBTdGF0ZSBTdG9yZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVycmFmb3JtIHsKICBiYWNrZW5kICJzMyIgewogICAgYnVja2V0ID0gImluZnJhc3RydWN0dXJlLnd3dy5yb2NreWdyYXkuY29tIgogICAga2V5ICAgID0gInBhdGgvdG8vbXkva2V5IgogICAgcmVnaW9uID0gInVzLWVhc3QtMSIKICB9Cn0K</text>
+        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVycmFmb3JtIHsKICBiYWNrZW5kICJzMyIgewogICAgYnVja2V0ID0gIm15YnVja2V0IgogICAga2V5ICAgID0gInBhdGgvdG8vbXkva2V5IgogICAgcmVnaW9uID0gInVzLWVhc3QtMSIKICB9Cn0K</text>
+        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19zM19idWNrZXQiICJ3d3ciIHsKICBidWNrZXQgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICBhY2wgICAgPSAicHVibGljLXJlYWQiCiAgLy8gQHNlZSBUaGlzIHBvc3Q6IGh0dHA6Ly9hbXpuLnRvLzJGYTA0dWwgZXhwbGFpbnMgd2h5LgogIHBvbGljeSA9IDw8UE9MSUNZCnsKICAiVmVyc2lvbiI6IjIwMTItMTAtMTciLAogICJTdGF0ZW1lbnQiOlsKICAgIHsKICAgICAgIlNpZCI6IkFkZFBlcm0iLAogICAgICAiRWZmZWN0IjoiQWxsb3ciLAogICAgICAiUHJpbmNpcGFsIjogIioiLAogICAgICAiQWN0aW9uIjpbInMzOkdldE9iamVjdCJdLAogICAgICAiUmVzb3VyY2UiOlsiYXJuOmF3czpzMzo6OiR7dmFyLnd3d19kb21haW5fbmFtZX0vKiJdCiAgICB9CiAgXQp9ClBPTElDWQoKICB3ZWJzaXRlIHsKICAgIGluZGV4X2RvY3VtZW50ID0gImluZGV4Lmh0bWwiCiAgICBlcnJvcl9kb2N1bWVudCA9ICJpbmRleC5odG1sIgogIH0KfQo=</text>
+        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBIZXJlJ3Mgd2hlcmUgb3VyIGNlcnRpZmljYXRlIGlzIGxvYWRlZCBpbiEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnRlcnJhZm9ybSB7CiAgYmFja2VuZCAiczMiIHsKICAgIGJ1Y2tldCA9ICJteWJ1Y2tldCIKICAgIGtleSAgICA9ICJwYXRoL3RvL215L2tleSIKICAgIHJlZ2lvbiA9ICJ1cy1lYXN0LTEiCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAvLyByYXRoZXIgdGhhbiB0aGUgZG9tYWluIG5hbWUgQ2xvdWRGcm9udCBnaXZlcyB1cy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHBhZ2UuCg==</text>
+        <text encoding="base64">ICAvLyBIZXJlIHdlJ3JlIGVuc3VyaW5nIHdlIGNhbiBoaXQgdGhpcyBkaXN0cmlidXRpb24gdXNpbmcgd3d3LnJ1bmF0bGFudGlzLmlvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBwYWdlIHRvIHNlcnZlIHVwIGlmIGEgcmVxdWVzdCByZXN1bHRzIGluIGFuIGVycm9yIG9yIGEgbm9uLWV4aXN0aW5nCg==</text>
+        <text encoding="base64">ICAgIC8vIFRoaXMgbmVlZHMgdG8gbWF0Y2ggdGhlIGBvcmlnaW5faWRgIGFib3ZlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGV4LiBodHRwczovL3d3dy5ydW5hdGxhbnRpcy5pbwo=</text>
+        <text encoding="base64">ICAvLyBBbGwgdmFsdWVzIGFyZSBkZWZhdWx0cyBmcm9tIHRoZSBBV1MgY29uc29sZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEhlcmUgd2UgdGVsbCBTMyB3aGF0IHRvIHVzZSB3aGVuIGEgcmVxdWVzdCBjb21lcyBpbiB0byB0aGUgcm9vdAo=</text>
+        <text encoding="base64">ICAgIC8vIFRoaXMgY2FuIGJlIGFueSBuYW1lIHRvIGlkZW50aWZ5IHRoaXMgb3JpZ2luLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
