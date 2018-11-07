@@ -533,17 +533,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" timestamp="1526167464351">
-        <mark key="'" line="16796" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/Views/UserLoginView.php" timestamp="1431222675669">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="7" column="37" />
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/fontawesome-free-brands/index.d.ts" timestamp="1526168690834">
-        <mark key="'" line="185" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Views/Admin/AdminPremiumSubmembersTab.php" timestamp="1431241367574">
         <mark key="[" line="10" column="0" />
@@ -1068,9 +1062,6 @@
         <mark key="^" line="83" column="58" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
-        <mark key="'" line="79" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/SiteStartup.php" timestamp="1431052749434">
         <mark key="[" line="57" column="17" />
         <mark key="]" line="58" column="16" />
@@ -1114,9 +1105,6 @@
         <mark key="]" line="19" column="30" />
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526793318627">
-        <mark key="'" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/scripts/vagrant/env/phinx.sh" timestamp="1432671613952">
         <mark key="[" line="7" column="24" />
@@ -1797,9 +1785,6 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/rxjs-backend-samples/index.js" timestamp="1527524673015">
-        <mark key="'" line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/Assets.php" timestamp="1432154534639">
         <mark key="'" line="35" column="40" />
         <mark key="[" line="4" column="41" />
@@ -1933,9 +1918,6 @@
         <mark key="]" line="24" column="41" />
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/Database/VideoBlocks/seedData/20150520131424_add_member_with_downloads.php" timestamp="1432840779048">
-        <mark key="'" line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/mailchimp/Mailchimp/Exceptions.php" timestamp="1431273455360">
         <mark key="[" line="2" column="0" />
@@ -2125,9 +2107,6 @@
         <mark key="]" line="42" column="49" />
         <mark key="^" line="42" column="49" />
         <mark key="." line="42" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/rxjs-backend-samples/node_modules/rxjs/operators/index.d.ts" timestamp="1527468413504">
-        <mark key="'" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/DisplayingDebtItem.js" timestamp="1527323409829">
         <mark key="'" line="21" column="0" />
@@ -2599,9 +2578,6 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/node_modules/sequelize/lib/data-types.js" timestamp="1525797749547">
-        <mark key="'" line="744" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/LimelightPaymentGateway.php" timestamp="1431043805698">
         <mark key="'" line="177" column="37" />
         <mark key="[" line="64" column="0" />
@@ -2729,6 +2705,12 @@
         <mark key="]" line="125" column="0" />
         <mark key="^" line="125" column="1" />
         <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/Makefile" timestamp="1541610699412">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/ViewModels/AudioPlayerWidgetFileViewModel.php" timestamp="1432687469913">
         <mark key="[" line="6" column="15" />
@@ -3124,9 +3106,6 @@
         <mark key="]" line="30" column="39" />
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" timestamp="1526006096061">
-        <mark key="'" line="56" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Search/Model/ASpellCommandLineInterface.php" timestamp="1431220541392">
         <mark key="'" line="17" column="8" />
@@ -4034,7 +4013,7 @@
         <text encoding="base64">ICBjb25zdCB1c2VySWRNYXAgPSBuZXcgTWFwKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $SelectAll</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4089,9 +4068,10 @@
         <entry>%s/var/const/</entry>
         <entry>vsp</entry>
         <entry>%s/var/const/g</entry>
-        <entry>w</entry>
         <entry>actionlist</entry>
         <entry>action $SelectAll</entry>
+        <entry>sp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
