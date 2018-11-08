@@ -709,7 +709,8 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541629624020">
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541646320239">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -1542,7 +1543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/jetbrains/src/index.js" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" />
       <jump line="21" column="34" filename="$USER_HOME$/Projects/debt-tracker/database/config/index.js" />
       <jump line="11" column="1" filename="$USER_HOME$/Projects/debt-tracker/database/models/debtValueLog.js" />
@@ -1642,6 +1642,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
       <jump line="22" column="24" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/naked-domain.tf" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
