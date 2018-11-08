@@ -375,12 +375,6 @@
         <mark key="^" line="28" column="55" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/containers/App.js" timestamp="1541620493884">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Members/Step1MembersFormParameters.php" timestamp="1431046310517">
         <mark key="'" line="41" column="78" />
         <mark key="[" line="41" column="79" />
@@ -715,10 +709,10 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541650457229">
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541653341916">
         <mark key="'" line="16" column="22" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="2" />
         <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" timestamp="1432716522554">
@@ -765,6 +759,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="6" column="52" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/modules/s3_site/main.tf" timestamp="1541653455413">
+        <mark key="'" line="57" column="48" />
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -1031,12 +1032,6 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/App.css" timestamp="1541619415407">
-        <mark key="'" line="29" column="7" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/Scaffolding/MvcScaffoldDatabaseService.php" timestamp="1431280789492">
         <mark key="'" line="25" column="42" />
         <mark key="[" line="58" column="1" />
@@ -1097,6 +1092,12 @@
         <mark key="]" line="115" column="1" />
         <mark key="^" line="115" column="1" />
         <mark key="." line="115" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/modules/s3_site/bucket-policy.json" timestamp="1541652843212">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/MemberEditBinViewModel.php" timestamp="1431215971781">
         <mark key="'" line="31" column="50" />
@@ -1530,7 +1531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="28" column="3" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="38" column="32" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
@@ -1630,62 +1630,63 @@
       <jump line="10" column="4" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
       <jump line="2" column="19" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
+      <jump line="52" column="48" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/modules/s3_site/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>bucket</text>
       </register>
       <register name="-" type="4">
-        <text>www_domain_name</text>
+        <text>bucket</text>
       </register>
       <register name="/" type="4">
-        <text>inactiveLogo</text>
+        <text>s3_bucket.www</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICAgIEVudiA9ICJwcm9kIgogICAgQXBwbGljYXRpb24gPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9Cg==</text>
+        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIC8vIE5vdGUgdGhpcyByZWRpcmVjdC4gSGVyZSdzIHdoZXJlIHRoZSBtYWdpYyBoYXBwZW5zLgogICAgcmVkaXJlY3RfYWxsX3JlcXVlc3RzX3RvID0gImh0dHBzOi8vJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIGluZGV4X2RvY3VtZW50ID0gImluZGV4Lmh0bWwiCiAgICBlcnJvcl9kb2N1bWVudCA9ICJpbmRleC5odG1sIgogIH0KCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIucm9vdF9kb21haW5fbmFtZX0iCiAgICBFbnYgPSAicHJvZCIKICAgIEFwcGxpY2F0aW9uID0gIiR7dmFyLnd3d19kb21haW5fbmFtZX0iCiAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IDw8UE9MSUNZCgpQT0xJQ1k=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICAgIEVudiA9ICJwcm9kIgogICAgQXBwbGljYXRpb24gPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9CiAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBOT1RFOiBuYW1lIGlzIGJsYW5rIGhlcmUuCg==</text>
+        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIucm9vdF9kb21haW5fbmFtZX0iCiAgICBFbnYgPSAicHJvZCIKICAgIEFwcGxpY2F0aW9uID0gIiR7dmFyLnd3d19kb21haW5fbmFtZX0iCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
+        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICAgIEVudiA9ICJwcm9kIgogICAgQXBwbGljYXRpb24gPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9CiAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
+        <text encoding="base64">ICAvLyBOT1RFOiBuYW1lIGlzIGJsYW5rIGhlcmUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
+        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBIZXJlJ3Mgd2hlcmUgb3VyIGNlcnRpZmljYXRlIGlzIGxvYWRlZCBpbiEK</text>
+        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyByYXRoZXIgdGhhbiB0aGUgZG9tYWluIG5hbWUgQ2xvdWRGcm9udCBnaXZlcyB1cy4K</text>
+        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inactiveLogo</last-search>
+      <last-search>s3_bucket.www</last-search>
       <last-offset />
-      <last-pattern>inactiveLogo</last-pattern>
+      <last-pattern>s3_bucket.www</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1709,6 +1710,7 @@
         <entry>styles</entry>
         <entry>inactive</entry>
         <entry>inactiveLogo</entry>
+        <entry>s3_bucket.www</entry>
       </history-search>
       <history-cmd>
         <entry>%s/onKeyDown/onKeyUp/g</entry>
@@ -1730,6 +1732,8 @@
         <entry>9</entry>
         <entry>30</entry>
         <entry>37</entry>
+        <entry>wq</entry>
+        <entry>%/s3_bucket.www/s3_bucket.bucket/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
