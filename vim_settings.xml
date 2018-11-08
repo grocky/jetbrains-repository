@@ -294,6 +294,12 @@
       <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/lodash/lodash.js" timestamp="1526167464351">
         <mark key="'" line="16796" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/www-domain.tf" timestamp="1541650731448">
+        <mark key="[" line="87" column="1" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/debt-tracker/node_modules/sequelize/lib/data-types.js" timestamp="1525797749547">
         <mark key="'" line="744" column="0" />
       </file>
@@ -392,12 +398,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/index.html" timestamp="1541620918081">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1541629842018">
-        <mark key="'" line="22" column="24" />
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="43" />
-        <mark key="^" line="31" column="43" />
-        <mark key="." line="31" column="43" />
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1541650785479">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/CrossSiteLoginViewModel.php" timestamp="1431221703916">
         <mark key="'" line="54" column="4" />
@@ -451,12 +457,12 @@
         <mark key="^" line="42" column="86" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" timestamp="1541627444878">
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" timestamp="1541650318135">
         <mark key="'" line="42" column="21" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/containers/AppContainer.js" timestamp="1541618410481">
         <mark key="'" line="8" column="8" />
@@ -709,11 +715,11 @@
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541646320239">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541650457229">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" timestamp="1432716522554">
         <mark key="'" line="91" column="4" />
@@ -1056,13 +1062,7 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" timestamp="1541628402904">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" timestamp="1541650751632" />
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
@@ -1112,13 +1112,7 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" timestamp="1541626856615">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" timestamp="1541650778694" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/FreeTrialViewModel.php" timestamp="1431221823276">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="0" />
@@ -1335,13 +1329,6 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/s3.tf" timestamp="1541626672481">
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="26" column="2" />
-        <mark key="." line="26" column="2" />
-        <mark key="^" line="26" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Framework/AudioSiteConfiguration.php" timestamp="1431094153740">
         <mark key="'" line="119" column="41" />
         <mark key="[" line="104" column="69" />
@@ -1446,7 +1433,7 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" timestamp="1541626146888">
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" timestamp="1541650096355">
         <mark key="'" line="22" column="21" />
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="7" />
@@ -1543,11 +1530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="9" filename="$USER_HOME$/Projects/debt-tracker/docker-compose.yaml" />
-      <jump line="21" column="34" filename="$USER_HOME$/Projects/debt-tracker/database/config/index.js" />
-      <jump line="11" column="1" filename="$USER_HOME$/Projects/debt-tracker/database/models/debtValueLog.js" />
-      <jump line="33" column="4" filename="$USER_HOME$/Projects/debt-tracker/bin/www" />
-      <jump line="15" column="4" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="28" column="3" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
@@ -1643,49 +1625,54 @@
       <jump line="22" column="24" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/naked-domain.tf" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" />
+      <jump line="74" column="29" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" />
+      <jump line="10" column="22" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
+      <jump line="2" column="19" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>www_domain_name</text>
       </register>
       <register name="/" type="4">
         <text>inactiveLogo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">b3V0cHV0ICJjbG91ZGZyb250X3Jvb3RfaWQiIHsKICB2YWx1ZSA9ICIke2F3c19jbG91ZGZyb250X2Rpc3RyaWJ1dGlvbi5yb290X2Rpc3RyaWJ1dGlvbi5pZH0iCn0K</text>
+        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICAgIEVudiA9ICJwcm9kIgogICAgQXBwbGljYXRpb24gPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBOT1RFOiBuYW1lIGlzIGJsYW5rIGhlcmUuCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
+        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIucm9vdF9kb21haW5fbmFtZX0iCiAgICBFbnYgPSAicHJvZCIKICAgIEFwcGxpY2F0aW9uID0gIiR7dmFyLnd3d19kb21haW5fbmFtZX0iCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
+        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICAgIEVudiA9ICJwcm9kIgogICAgQXBwbGljYXRpb24gPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9CiAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
+        <text encoding="base64">ICAvLyBOT1RFOiBuYW1lIGlzIGJsYW5rIGhlcmUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBIZXJlJ3Mgd2hlcmUgb3VyIGNlcnRpZmljYXRlIGlzIGxvYWRlZCBpbiEK</text>
+        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyByYXRoZXIgdGhhbiB0aGUgZG9tYWluIG5hbWUgQ2xvdWRGcm9udCBnaXZlcyB1cy4K</text>
+        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBIZXJlIHdlJ3JlIGVuc3VyaW5nIHdlIGNhbiBoaXQgdGhpcyBkaXN0cmlidXRpb24gdXNpbmcgd3d3LnJ1bmF0bGFudGlzLmlvCg==</text>
+        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRoaXMgbmVlZHMgdG8gbWF0Y2ggdGhlIGBvcmlnaW5faWRgIGFib3ZlLgo=</text>
+        <text encoding="base64">ICAvLyBIZXJlJ3Mgd2hlcmUgb3VyIGNlcnRpZmljYXRlIGlzIGxvYWRlZCBpbiEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBBbGwgdmFsdWVzIGFyZSBkZWZhdWx0cyBmcm9tIHRoZSBBV1MgY29uc29sZS4K</text>
+        <text encoding="base64">ICAvLyByYXRoZXIgdGhhbiB0aGUgZG9tYWluIG5hbWUgQ2xvdWRGcm9udCBnaXZlcyB1cy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
