@@ -392,12 +392,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/index.html" timestamp="1541620918081">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1541650785479">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="30" column="1" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" timestamp="1542478817479">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/CrossSiteLoginViewModel.php" timestamp="1431221703916">
         <mark key="'" line="54" column="4" />
@@ -1057,7 +1057,6 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" timestamp="1541650751632" />
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
@@ -1113,7 +1112,6 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" timestamp="1541650778694" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/FreeTrialViewModel.php" timestamp="1431221823276">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="0" />
@@ -1531,9 +1529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="3" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="38" column="32" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="6" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="39" column="38" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
@@ -1631,10 +1626,19 @@
       <jump line="2" column="19" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
       <jump line="52" column="48" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/modules/s3_site/main.tf" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bucket</text>
+        <text>terraform {
+  backend &quot;s3&quot; {
+    encrypt = true
+    bucket = &quot;grocky-tfstate&quot;
+    dynamodb_table = &quot;tfstate-lock&quot;
+    region = &quot;us-east-1&quot;
+    key = &quot;www.rockygray.com/terraform.tfstate&quot;</text>
       </register>
       <register name="-" type="4">
         <text>bucket</text>
@@ -1645,35 +1649,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIC8vIE5vdGUgdGhpcyByZWRpcmVjdC4gSGVyZSdzIHdoZXJlIHRoZSBtYWdpYyBoYXBwZW5zLgogICAgcmVkaXJlY3RfYWxsX3JlcXVlc3RzX3RvID0gImh0dHBzOi8vJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIGluZGV4X2RvY3VtZW50ID0gImluZGV4Lmh0bWwiCiAgICBlcnJvcl9kb2N1bWVudCA9ICJpbmRleC5odG1sIgogIH0KCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0K</text>
+      <register name="1" type="4">
+        <text>terraform {
+  backend &quot;s3&quot; {
+    encrypt = true
+    bucket = &quot;grocky-tfstate&quot;
+    dynamodb_table = &quot;tfstate-lock&quot;
+    region = &quot;us-east-1&quot;
+    key = &quot;www.rockygray.com/terraform.tfstate&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIGluZGV4X2RvY3VtZW50ID0gImluZGV4Lmh0bWwiCiAgICBlcnJvcl9kb2N1bWVudCA9ICJpbmRleC5odG1sIgogIH0KCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0K</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IDw8UE9MSUNZCgpQT0xJQ1k=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIucm9vdF9kb21haW5fbmFtZX0iCiAgICBFbnYgPSAicHJvZCIKICAgIEFwcGxpY2F0aW9uID0gIiR7dmFyLnd3d19kb21haW5fbmFtZX0iCiAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICAgIEVudiA9ICJwcm9kIgogICAgQXBwbGljYXRpb24gPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9CiAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAvLyBOT1RFOiBuYW1lIGlzIGJsYW5rIGhlcmUuCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gV2Ugd2FudCBBV1MgdG8gaG9zdCBvdXIgem9uZSBzbyBpdHMgbmFtZXNlcnZlcnMgY2FuIHBvaW50IHRvIG91ciBDbG91ZEZyb250Cg==</text>
+        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1686,11 +1696,10 @@
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ref</entry>
         <entry>onKeyDown</entry>
         <entry>userId</entry>
         <entry>updateDebt</entry>
@@ -1713,8 +1722,6 @@
         <entry>s3_bucket.www</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/onKeyDown/onKeyUp/g</entry>
-        <entry>46</entry>
         <entry>60</entry>
         <entry>96</entry>
         <entry>s/userId/debtId/g</entry>
