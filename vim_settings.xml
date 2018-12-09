@@ -204,6 +204,9 @@
         <mark key="^" line="110" column="158" />
         <mark key="." line="110" column="158" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/onoff/onoff.js" timestamp="1544366148625">
+        <mark key="'" line="188" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/Form/FormCheckBoxInputWidget.php" timestamp="1432392800437">
         <mark key="'" line="23" column="40" />
         <mark key="[" line="6" column="0" />
@@ -612,6 +615,13 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1544366292406">
+        <mark key="'" line="27" column="31" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
         <mark key="[" line="463" column="76" />
@@ -1004,8 +1014,12 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544363832353">
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544365046992">
         <mark key="'" line="31" column="3" />
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="46" />
+        <mark key="^" line="22" column="46" />
+        <mark key="." line="22" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
@@ -1532,11 +1546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="6" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="39" column="38" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="3" column="30" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="45" column="2" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="47" column="4" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/debt-tracker/data-20181029.csv" />
@@ -1632,74 +1641,73 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
       <jump line="31" column="3" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/onoff/onoff.js" />
+      <jump line="188" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/onoff/onoff.js" />
+      <jump line="13" column="27" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="26" column="31" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>terraform {
-  backend &quot;s3&quot; {
-    encrypt = true
-    bucket = &quot;grocky-tfstate&quot;
-    dynamodb_table = &quot;tfstate-lock&quot;
-    region = &quot;us-east-1&quot;
-    key = &quot;www.rockygray.com/terraform.tfstate&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bucket</text>
+        <text>require('onoff').Gpio;</text>
       </register>
       <register name="/" type="4">
-        <text>s3_bucket.www</text>
+        <text>HIGH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIC8vIE5vdGUgdGhpcyByZWRpcmVjdC4gSGVyZSdzIHdoZXJlIHRoZSBtYWdpYyBoYXBwZW5zLgogICAgcmVkaXJlY3RfYWxsX3JlcXVlc3RzX3RvID0gImh0dHBzOi8vJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>terraform {
-  backend &quot;s3&quot; {
-    encrypt = true
-    bucket = &quot;grocky-tfstate&quot;
-    dynamodb_table = &quot;tfstate-lock&quot;
-    region = &quot;us-east-1&quot;
-    key = &quot;www.rockygray.com/terraform.tfstate&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIGluZGV4X2RvY3VtZW50ID0gImluZGV4Lmh0bWwiCiAgICBlcnJvcl9kb2N1bWVudCA9ICJpbmRleC5odG1sIgogIH0KCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0K</text>
+        <text encoding="base64">bGV0IGNvdW50ID0gMDsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDw8UE9MSUNZCgpQT0xJQ1k=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBHcGlvID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBHcGlvLkhJR0gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIucm9vdF9kb21haW5fbmFtZX0iCiAgICBFbnYgPSAicHJvZCIKICAgIEFwcGxpY2F0aW9uID0gIiR7dmFyLnd3d19kb21haW5fbmFtZX0iCiAgfQo=</text>
+        <text encoding="base64">CmNvbnN0IG9ub2ZmID0gcmVxdWlyZSgnb25vZmYnKTsKb25vZmYuSElHSDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICAgIEVudiA9ICJwcm9kIgogICAgQXBwbGljYXRpb24gPSAiJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9CiAgCg==</text>
+      <register name="6" type="4">
+        <text>terraform {
+  backend &quot;s3&quot; {
+    encrypt = true
+    bucket = &quot;grocky-tfstate&quot;
+    dynamodb_table = &quot;tfstate-lock&quot;
+    region = &quot;us-east-1&quot;
+    key = &quot;www.rockygray.com/terraform.tfstate&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBOT1RFOiBuYW1lIGlzIGJsYW5rIGhlcmUuCg==</text>
+        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIGluZGV4X2RvY3VtZW50ID0gImluZGV4Lmh0bWwiCiAgICBlcnJvcl9kb2N1bWVudCA9ICJpbmRleC5odG1sIgogIH0KCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gVGhpcyBSb3V0ZTUzIHJlY29yZCB3aWxsIHBvaW50IGF0IG91ciBDbG91ZEZyb250IGRpc3RyaWJ1dGlvbi4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">IDw8UE9MSUNZCgpQT0xJQ1k=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZGlzdHJpYnV0aW9uLgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>s3_bucket.www</last-search>
+      <last-search>HIGH</last-search>
       <last-offset />
-      <last-pattern>s3_bucket.www</last-pattern>
+      <last-pattern>HIGH</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1723,6 +1731,7 @@
         <entry>inactive</entry>
         <entry>inactiveLogo</entry>
         <entry>s3_bucket.www</entry>
+        <entry>HIGH</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
