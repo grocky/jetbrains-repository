@@ -798,6 +798,13 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/mqtt.js" timestamp="1544398517962">
+        <mark key="'" line="23" column="16" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" timestamp="1526006096061">
         <mark key="'" line="56" column="6" />
       </file>
@@ -1408,6 +1415,9 @@
         <mark key="^" line="0" column="81" />
         <mark key="." line="0" column="81" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/aws-iot-device-sdk/device/index.js" timestamp="1544396844315">
+        <mark key="'" line="887" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/ThirdParty/OAuth2/Provider/FullScreen.php" timestamp="1432850067719">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="58" column="30" />
@@ -1546,12 +1556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="28" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
-      <jump line="25" column="23" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
-      <jump line="82" column="15" filename="$USER_HOME$/Projects/rockygray.com/client/js/containers/App.js" />
-      <jump line="52" column="20" filename="$USER_HOME$/Projects/rockygray.com/client/js/components/Logo.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/rockygray.com/client/js/components/SocialLinksList.js" />
-      <jump line="69" column="5" filename="$USER_HOME$/Projects/rockygray.com/client/js/components/Logo.js" />
       <jump line="50" column="6" filename="$USER_HOME$/Projects/rockygray.com/client/js/components/Logo.js" />
       <jump line="55" column="16" filename="$USER_HOME$/Projects/rockygray.com/client/js/components/Logo.js" />
       <jump line="56" column="11" filename="$USER_HOME$/Projects/rockygray.com/client/js/components/Logo.js" />
@@ -1646,58 +1650,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="12" column="1" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="4" column="21" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
+      <jump line="24" column="29" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
+      <jump line="887" column="13" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/aws-iot-device-sdk/device/index.js" />
+      <jump line="32" column="38" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
+      <jump line="23" column="16" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>console.log</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzd2l0Y2ggKHRvcGljKSB7CiAgICBjYXNlOgogIH0KICBsb2coYE1lc3NhZ2UgcmVjaWV2ZWQ6ICR7bWVzc2FnZS50b1N0cmluZygpfWApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>console.log</text>
+        <text encoding="base64">KCkgPT4ge30=</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>device</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIC8vIE5vdGUgdGhpcyByZWRpcmVjdC4gSGVyZSdzIHdoZXJlIHRoZSBtYWdpYyBoYXBwZW5zLgogICAgcmVkaXJlY3RfYWxsX3JlcXVlc3RzX3RvID0gImh0dHBzOi8vJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9Cg==</text>
+        <text encoding="base64">ICBwcm9jZXNzLmVtaXQoJ2NsZWFudXAnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBzd2l0Y2ggKHRvcGljKSB7CiAgICBjYXNlOgogIH0KICBsb2coYE1lc3NhZ2UgcmVjaWV2ZWQ6ICR7bWVzc2FnZS50b1N0cmluZygpfWApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXNwb25zZSA9IGVyciAKICAgICAgICAgID8ge2RhdGE6IHttZXNzYWdlOiBlcnIubWVzc2FnZSB9fQogICAgICAgICAgOiB7ZGF0YToge21lc3NhZ2U6IH19Owo=</text>
+        <text encoding="base64">Y2xpZW50Lm9uKCdjb25uZWN0JywgZnVuY3Rpb24gKCkgewp9KTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICghZXJyKSB7CiAgICAgIGNsaWVudC5wdWJsaXNoKCdwcmVzZW5jZScsICdIZWxsbyBtcXR0Jyk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAnZ2FyYWdlIHRvZ2dsZSBzdWNjZXNzZnVsJwo=</text>
+        <text encoding="base64">ICBjbGllbnQuc3Vic2NyaWJlKCdnYXJhZ2UvYnV0dG9uX3ByZXNzJywgZnVuY3Rpb24gKGVycikgewogICAgaWYgKCFlcnIpIHsKICAgICAgY2xpZW50LnB1Ymxpc2goJ3ByZXNlbmNlJywgJ0hlbGxvIG1xdHQnKTsKICAgIH0KICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">Y2xpZW50Lm9uKCdjb25uZWN0JywgZnVuY3Rpb24gKCkgewogIGNsaWVudC5zdWJzY3JpYmUoJ3ByZXNlbmNlJywgZnVuY3Rpb24gKGVycikgewogICAgaWYgKCFlcnIpIHsKICAgICAgY2xpZW50LnB1Ymxpc2goJ3ByZXNlbmNlJywgJ0hlbGxvIG1xdHQnKTsKICAgIH0KICB9KQp9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAvLyBJbmZvcm0gY29udHJvbGxlcnMgdGhhdCBnYXJhZ2UgaXMgY29ubmVjdGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnByb2Nlc3Mub24oJ2JlZm9yZUV4aXQnLCAoKSA9PiB7CiAgbG9nKCdiZWZvcmVFeGl0Jyk7CiAgcHJvY2Vzcy5lbWl0KCdjbGVhbnVwJyk7Cn0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IGNvdW50ID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBHcGlvID0gCg==</text>
+        <text encoding="base64">Ly8gY2F0Y2ggY3RybCtjIGV2ZW50IGFuZCBleGl0IG5vcm1hbGx5CnByb2Nlc3Mub24oJ1NJR0lOVCcsICgpID0+IHsKICBwcm9jZXNzLmV4aXQoMik7CiAgcHJvY2Vzcy5lbWl0KCdjbGVhbnVwJyk7Cn0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>device</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>device</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1727,6 +1737,7 @@
         <entry>s3_bucket.www</entry>
         <entry>HIGH</entry>
         <entry>console.log</entry>
+        <entry>device</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
