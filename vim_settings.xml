@@ -615,12 +615,12 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1544366292406">
-        <mark key="'" line="27" column="31" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1544366831351">
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -1546,10 +1546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="4" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/debt-tracker/bin/batchImport.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/debt-tracker/data-20181029.csv" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/rockygray.com/Makefile" />
       <jump line="26" column="28" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
       <jump line="25" column="23" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
       <jump line="82" column="15" filename="$USER_HOME$/Projects/rockygray.com/client/js/containers/App.js" />
@@ -1646,64 +1642,62 @@
       <jump line="13" column="27" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="14" column="14" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="26" column="31" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="41" column="20" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="12" column="1" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="4" column="21" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>console.log</text>
       </register>
       <register name="-" type="4">
-        <text>require('onoff').Gpio;</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
-        <text>HIGH</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIC8vIE5vdGUgdGhpcyByZWRpcmVjdC4gSGVyZSdzIHdoZXJlIHRoZSBtYWdpYyBoYXBwZW5zLgogICAgcmVkaXJlY3RfYWxsX3JlcXVlc3RzX3RvID0gImh0dHBzOi8vJHt2YXIud3d3X2RvbWFpbl9uYW1lfSIKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGNvdW50ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXNwb25zZSA9IGVyciAKICAgICAgICAgID8ge2RhdGE6IHttZXNzYWdlOiBlcnIubWVzc2FnZSB9fQogICAgICAgICAgOiB7ZGF0YToge21lc3NhZ2U6IH19Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBHcGlvID0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBHcGlvLkhJR0gK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAnZ2FyYWdlIHRvZ2dsZSBzdWNjZXNzZnVsJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IG9ub2ZmID0gcmVxdWlyZSgnb25vZmYnKTsKb25vZmYuSElHSDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>terraform {
-  backend &quot;s3&quot; {
-    encrypt = true
-    bucket = &quot;grocky-tfstate&quot;
-    dynamodb_table = &quot;tfstate-lock&quot;
-    region = &quot;us-east-1&quot;
-    key = &quot;www.rockygray.com/terraform.tfstate&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIGluZGV4X2RvY3VtZW50ID0gImluZGV4Lmh0bWwiCiAgICBlcnJvcl9kb2N1bWVudCA9ICJpbmRleC5odG1sIgogIH0KCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDw8UE9MSUNZCgpQT0xJQ1k=</text>
+      <register name="8" type="2">
+        <text encoding="base64">bGV0IGNvdW50ID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCBHcGlvID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HIGH</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>HIGH</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -1732,6 +1726,7 @@
         <entry>inactiveLogo</entry>
         <entry>s3_bucket.www</entry>
         <entry>HIGH</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
