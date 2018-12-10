@@ -687,13 +687,13 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544402658716">
+      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544404018799">
         <mark key="'" line="31" column="31" />
         <mark key="z" line="17" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="70" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="25" />
+        <mark key="^" line="43" column="26" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/GitHookPhinxCommandTest.php" timestamp="1432562036876">
         <mark key="'" line="7" column="3" />
@@ -1670,11 +1670,11 @@
       <jump line="31" column="31" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXEuYXBwLm1xdHQgPSBjbGllbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Button pressed</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sending</text>
@@ -1683,34 +1683,34 @@
         <text encoding="base64">ICAnZ2FyYWdlL29wZW4nOiAobWVzc2FnZSkgPT4gbG9nKGBCdXR0b24gcHJlc3NlZDogJHttZXNzYWdlfWApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXEuYXBwLm1xdHQgPSBjbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudC5wdWJsaXNoKCdnYXJhZ2UvY29ubmVjdGVkJywgJ2ZhbHNlJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xpZW50Lm9uKCdjb25uZWN0JywgKCkgPT4gewogIE9iamVjdC5rZXlzKHRvcGljSGFuZGxlcnMpLmZvckVhY2godG9waWMgPT4gY2xpZW50LnN1YnNjcmliZSh0b3BpYykpOwp9KTsKCmNsaWVudC5vbignbWVzc2FnZScsICh0b3BpYywgbWVzc2FnZSkgPT4gewogIGNvbnN0IG5vT3AgPSAoKSA9PiB7fTsKICBjb25zdCBoYW5kbGVyID0gdG9waWNIYW5kbGVyc1t0b3BpY10gfHwgbm9PcDsKCiAgaGFuZGxlcihtZXNzYWdlKTsKfSk7Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvbmUgPSAoKSA9PiB7CiAgICAgIGxvZygnbXF0dCBjb25uZWN0aW9uIGNsb3NlZCcpOwogICAgfTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2coJ2Nsb3NpbmcgbXF0dCBjb25uZWN0aW9uJyk7CiAgY29uc3QgZm9yY2UgPSBmYWxzZTsKICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICdmYWxzZScpOwogIGNvbnN0IGRvbmUgPSAoKSA9PiB7CiAgICBsb2coJ21xdHQgY29ubmVjdGlvbiBjbG9zZWQnKTsKICB9OwogIGNsaWVudC5lbmQoZm9yY2UsIGRvbmUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNiKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXEuYXBwLm1xdHQgPSBjbGllbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGllbnQuc3Vic2NyaWJlKCdnYXJhZ2Uvb3BlbicpCiAgY2xpZW50LnN1YnNjcmliZSgnZ2FyYWdlL2Nsb3NlJykK</text>
+        <text encoding="base64">Y2xpZW50Lm9uKCdjb25uZWN0JywgKCkgPT4gewogIE9iamVjdC5rZXlzKHRvcGljSGFuZGxlcnMpLmZvckVhY2godG9waWMgPT4gY2xpZW50LnN1YnNjcmliZSh0b3BpYykpOwp9KTsKCmNsaWVudC5vbignbWVzc2FnZScsICh0b3BpYywgbWVzc2FnZSkgPT4gewogIGNvbnN0IG5vT3AgPSAoKSA9PiB7fTsKICBjb25zdCBoYW5kbGVyID0gdG9waWNIYW5kbGVyc1t0b3BpY10gfHwgbm9PcDsKCiAgaGFuZGxlcihtZXNzYWdlKTsKfSk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdG9waWNIYW5kbGVycyA9IHsKICAnZ2FyYWdlL2J1dHRvbl9wcmVzcyc6IChtZXNzYWdlKSA9PiBsb2coYEJ1dHRvbiBwcmVzc2VkOiAke21lc3NhZ2V9YCksCn07Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2coYFRvcGljOiAke3RvcGljfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
