@@ -921,6 +921,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/reducers/logoReducer.js" timestamp="1541616380158">
         <mark key="'" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544469649318">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserLoginViewModel.php" timestamp="1431222592439">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="28" />
@@ -1579,8 +1585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="15" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/containers/App.js" />
-      <jump line="39" column="1" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.css" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.css" />
       <jump line="17" column="25" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
@@ -1679,10 +1683,12 @@
       <jump line="46" column="8" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="34" column="1" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kU3RhdGVVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>.json({ data: { message }})</text>
@@ -1694,34 +1700,34 @@
         <text encoding="base64">ICAgICAgICBzZW5kU3RhdGVVcGRhdGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2xpZW50SW5pdGlhbGl6ZXIgPSAob3B0aW9ucykgPT4gewogIGNvbnN0IHsgaG9zdCA9ICdsb2NhbGhvc3QnLCBjbGllbnRJZCwgdG9waWNIYW5kbGVycyB9ID0gb3B0aW9uczsKICBjbGllbnQgID0gbXF0dC5jb25uZWN0KGBtcXR0Oi8vJHtob3N0fWAsIHsgY2xpZW50SWQgfSk7CgogIGNsaWVudC5vbignY29ubmVjdCcsICgpID0+IHsKICAgIE9iamVjdC5rZXlzKHRvcGljSGFuZGxlcnMpLmZvckVhY2godG9waWMgPT4gY2xpZW50LnN1YnNjcmliZSh0b3BpYykpOwogIH0pOwoKICBjbGllbnQub24oJ21lc3NhZ2UnLCAodG9waWMsIG1lc3NhZ2UpID0+IHsKICAgIGNvbnN0IG5vT3AgPSAoKSA9PiB7fTsKICAgIGNvbnN0IGhhbmRsZXIgPSB0b3BpY0hhbmRsZXJzW3RvcGljXSB8fCBub09wOwoKICAgIGhhbmRsZXIobWVzc2FnZSk7CiAgfSk7CgogIENsZWFudXAoKCkgPT4gbmV3IFByb21pc2UoKHJlcywgcmVqKSA9PiB7CiAgICBsb2coJ2Nsb3NpbmcgbXF0dCBjb25uZWN0aW9uJyk7CiAgICBjb25zdCBmb3JjZSA9IGZhbHNlOwogICAgY2xpZW50LmVuZChmb3JjZSwgcmVzKTsKICB9KSk7Cn07Cgpjb25zdCBtaWRkbGV3YXJlID0gKHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgcmVxLmFwcC5tcXR0ID0gY2xpZW50OwogIG5leHQoKTsKfTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbG9nID0gcmVxdWlyZSgnLi4vbG9nZ2VyJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgbXF0dCA9IHJlcXVpcmUoJ21xdHQnKTsKY29uc3QgQ2xlYW51cCA9IHJlcXVpcmUoJy4uL2NsZWFudXAnKTsKCmNvbnN0IGxvZyA9IChtc2cpID0+IGNvbnNvbGUubG9nKGAke25ldyBEYXRlKCl9IC0gJHttc2d9YCk7CgpsZXQgY2xpZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2cgPSByZXF1aXJlKCcuLi9sb2dnZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgbWVzc2FnZSA9ICcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
