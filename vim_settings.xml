@@ -618,12 +618,11 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1544410822730">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1544412853811">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -670,7 +669,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544406349144">
+      <file name="/Dummy.txt" timestamp="1544411483916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberBinController.php" timestamp="1432648053508">
@@ -1031,12 +1030,12 @@
         <mark key="^" line="169" column="23" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544410785725">
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544411568736">
         <mark key="'" line="21" column="8" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+        <mark key="[" line="49" column="47" />
+        <mark key="]" line="49" column="46" />
+        <mark key="^" line="49" column="46" />
+        <mark key="." line="49" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
@@ -1682,11 +1681,11 @@
       <jump line="34" column="1" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KG1zZykgPT4gY29uc29sZS5sb2coYCR7bmV3IERhdGUoKX0gLSAke21zZ31gKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5hcHAubXF0dCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KG1zZykgPT4gY29uc29sZS5sb2coYCR7bmV3IERhdGUoKX0gLSAke21zZ31gKTs=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -1695,34 +1694,34 @@
         <text encoding="base64">ICAnZ2FyYWdlL29wZW4nOiAobWVzc2FnZSkgPT4gbG9nKGBCdXR0b24gcHJlc3NlZDogJHttZXNzYWdlfWApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5hcHAubXF0dCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYmFzZUxvZ2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTVFUVCBTZXR1cC4uLicpOwo=</text>
+        <text encoding="base64">Y29uc3QgYmFzZUxvZ2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTVFUVCBTZXR1cC4uLicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcS5hcHAubXF0dCA9IGNsaWVudDsKICAgIG5leHQoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXEuYXBwLm1xdHQgPSBjbGllbnQ7CiAgbmV4dCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlcS5hcHAubXF0dCA9IGNsaWVudDsKICAgIG5leHQoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZXEuYXBwLm1xdHQgPSBjbGllbnQ7CiAgbmV4dCgpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNUVRUIFNldHVwLi4uJyk7CiAgICBjb25zdCB7IGhvc3QgPSAnbG9jYWxob3N0JywgY2xpZW50SWQsIHRvcGljSGFuZGxlcnMgfSA9IG9wdGlvbnM7CiAgICBjb25zdCBjbGllbnQgID0gbXF0dC5jb25uZWN0KGBtcXR0Oi8vJHtob3N0fWAsIHsgY2xpZW50SWQgfSk7CgogICAgY2xpZW50Lm9uKCdjb25uZWN0JywgKCkgPT4gewogICAgICBPYmplY3Qua2V5cyh0b3BpY0hhbmRsZXJzKS5mb3JFYWNoKHRvcGljID0+IGNsaWVudC5zdWJzY3JpYmUodG9waWMpKTsKICAgIH0pOwoKICAgIGNsaWVudC5vbignbWVzc2FnZScsICh0b3BpYywgbWVzc2FnZSkgPT4gewogICAgICBjb25zdCBub09wID0gKCkgPT4ge307CiAgICAgIGNvbnN0IGhhbmRsZXIgPSB0b3BpY0hhbmRsZXJzW3RvcGljXSB8fCBub09wOwoKICAgICAgaGFuZGxlcihtZXNzYWdlKTsKICAgIH0pOwoKICAgIENsZWFudXAoKCkgPT4gbmV3IFByb21pc2UoKHJlcywgcmVqKSA9PiB7CiAgICAgIGxvZygnY2xvc2luZyBtcXR0IGNvbm5lY3Rpb24nKTsKICAgICAgY29uc3QgZm9yY2UgPSBmYWxzZTsKICAgICAgY2xpZW50LmVuZChmb3JjZSwgcmVzKTsKICAgIH0pKTsKCiAgICByZXEuYXBwLm1xdHQgPSBjbGllbnQ7CiAgICBuZXh0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgR3BpbyA9IHJlcXVpcmUoJ29ub2ZmJykuR3BpbzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNUVRUIFNldHVwLi4uJyk7CiAgICBjb25zdCB7IGhvc3QgPSAnbG9jYWxob3N0JywgY2xpZW50SWQsIHRvcGljSGFuZGxlcnMgfSA9IG9wdGlvbnM7CiAgICBjb25zdCBjbGllbnQgID0gbXF0dC5jb25uZWN0KGBtcXR0Oi8vJHtob3N0fWAsIHsgY2xpZW50SWQgfSk7CgogICAgY2xpZW50Lm9uKCdjb25uZWN0JywgKCkgPT4gewogICAgICBPYmplY3Qua2V5cyh0b3BpY0hhbmRsZXJzKS5mb3JFYWNoKHRvcGljID0+IGNsaWVudC5zdWJzY3JpYmUodG9waWMpKTsKICAgIH0pOwoKICAgIGNsaWVudC5vbignbWVzc2FnZScsICh0b3BpYywgbWVzc2FnZSkgPT4gewogICAgICBjb25zdCBub09wID0gKCkgPT4ge307CiAgICAgIGNvbnN0IGhhbmRsZXIgPSB0b3BpY0hhbmRsZXJzW3RvcGljXSB8fCBub09wOwoKICAgICAgaGFuZGxlcihtZXNzYWdlKTsKICAgIH0pOwoKICAgIENsZWFudXAoKCkgPT4gbmV3IFByb21pc2UoKHJlcywgcmVqKSA9PiB7CiAgICAgIGxvZygnY2xvc2luZyBtcXR0IGNvbm5lY3Rpb24nKTsKICAgICAgY29uc3QgZm9yY2UgPSBmYWxzZTsKICAgICAgY2xpZW50LmVuZChmb3JjZSwgcmVzKTsKICAgIH0pKTsKCiAgICByZXEuYXBwLm1xdHQgPSBjbGllbnQ7CiAgICBuZXh0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
