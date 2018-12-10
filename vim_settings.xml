@@ -668,8 +668,8 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544411483916">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1544469179781">
+        <mark key="[" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberBinController.php" timestamp="1432648053508">
         <mark key="'" line="104" column="0" />
@@ -1541,6 +1541,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1544469100052" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1733,17 +1734,10 @@
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onKeyDown</entry>
-        <entry>userId</entry>
-        <entry>updateDebt</entry>
-        <entry>zip</entry>
-        <entry>cnsole</entry>
-        <entry>sole</entry>
-        <entry>links</entry>
         <entry>mime</entry>
         <entry>help</entry>
         <entry>port</entry>
@@ -1766,9 +1760,6 @@
         <entry>log</entry>
       </history-search>
       <history-cmd>
-        <entry>60</entry>
-        <entry>96</entry>
-        <entry>s/userId/debtId/g</entry>
         <entry>17</entry>
         <entry>93</entry>
         <entry>vsp promise</entry>
