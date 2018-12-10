@@ -921,11 +921,11 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/reducers/logoReducer.js" timestamp="1541616380158">
         <mark key="'" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544470395721">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544476239149">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserLoginViewModel.php" timestamp="1431222592439">
         <mark key="'" line="0" column="0" />
@@ -1687,11 +1687,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>fs.exists(filename)</text>
       </register>
       <register name="-" type="4">
-        <text>.json({ data: { message }})</text>
+        <text>fs.exists(filename)</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
