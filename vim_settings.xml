@@ -381,6 +381,12 @@
         <mark key="^" line="28" column="55" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/Makefile" timestamp="1544698725171">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Members/Step1MembersFormParameters.php" timestamp="1431046310517">
         <mark key="'" line="41" column="78" />
         <mark key="[" line="41" column="79" />
@@ -388,12 +394,12 @@
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" timestamp="1544697837513">
+      <file name="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" timestamp="1544698605163">
         <mark key="'" line="29" column="41" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+        <mark key="^" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronProcessMediaManoXMLs.php" timestamp="1431223319582">
         <mark key="'" line="0" column="0" />
@@ -1710,16 +1716,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text>webserver</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>webserver</text>
       </register>
       <register name="/" type="4">
         <text>project_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdlYnNlcnZlcl9uYW1lOiBnYXJhZ2UtcmVtb3RlCg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgd2Vic2VydmVyIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyB3ZWJzZXJ2ZXJfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
