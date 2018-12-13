@@ -388,6 +388,13 @@
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" timestamp="1544697837513">
+        <mark key="'" line="29" column="41" />
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronProcessMediaManoXMLs.php" timestamp="1431223319582">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="102" column="15" />
@@ -1483,6 +1490,12 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/deployment/hosts" timestamp="1544697295924">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/DTOs/ESPHealthCheckErrorDTO.php" timestamp="1432226682046">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="10" />
@@ -1594,18 +1607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="6" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.css" />
-      <jump line="7" column="6" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
-      <jump line="24" column="1" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" />
-      <jump line="5" column="9" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Logo.js" />
-      <jump line="79" column="19" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Logo.js" />
-      <jump line="16" column="4" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/SocialLinksList.js" />
-      <jump line="15" column="9" filename="$USER_HOME$/Projects/rockygray.com/client/index.html" />
-      <jump line="5" column="18" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/public/index.html" />
-      <jump line="55" column="12" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/public/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/public/index.html" />
-      <jump line="4" column="35" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/public/index.html" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/public/index.html" />
       <jump line="20" column="19" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
@@ -1694,19 +1695,31 @@
       <jump line="46" column="8" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
       <jump line="48" column="12" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
       <jump line="22" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="50" column="34" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="56" column="6" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="5" column="4" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="47" column="70" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="44" column="29" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="51" column="6" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="6" column="37" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="52" column="84" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="57" column="38" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="28" column="20" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="29" column="41" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>master</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>project_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZW5kQ29ubmVjdGlvblVwZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHdlYnNlcnZlcl9uYW1lOiBnYXJhZ2UtcmVtb3RlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1715,39 +1728,39 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
+        <text encoding="base64">Wwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>project_name</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
-      <last-replace>const</last-replace>
-      <last-substitute>var</last-substitute>
+      <last-pattern>project_name</last-pattern>
+      <last-replace>webserver_name</last-replace>
+      <last-substitute>project_name</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1774,6 +1787,7 @@
         <entry>Gpio</entry>
         <entry>log</entry>
         <entry>console</entry>
+        <entry>project_name</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
@@ -1797,6 +1811,7 @@
         <entry>46</entry>
         <entry>9</entry>
         <entry>31</entry>
+        <entry>%s/project_name/webserver_name/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
