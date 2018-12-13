@@ -618,10 +618,11 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1544414746414">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1544692751807">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -685,13 +686,13 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544415103384">
+      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544692608776">
         <mark key="'" line="87" column="1" />
         <mark key="z" line="70" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="22" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="63" column="18" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/GitHookPhinxCommandTest.php" timestamp="1432562036876">
         <mark key="'" line="7" column="3" />
@@ -921,12 +922,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/reducers/logoReducer.js" timestamp="1541616380158">
         <mark key="'" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544487395287">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="31" />
-        <mark key="^" line="23" column="31" />
-        <mark key="." line="23" column="31" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544693668848">
+        <mark key="'" line="48" column="12" />
+        <mark key="[" line="64" column="6" />
+        <mark key="]" line="64" column="6" />
+        <mark key="." line="64" column="6" />
+        <mark key="^" line="48" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserLoginViewModel.php" timestamp="1431222592439">
         <mark key="'" line="0" column="0" />
@@ -1036,12 +1037,12 @@
         <mark key="^" line="169" column="23" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544411568736">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="49" column="46" />
-        <mark key="^" line="49" column="46" />
-        <mark key="." line="49" column="46" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544693987970">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
@@ -1210,6 +1211,12 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/garage-state.json" timestamp="1544492760009">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/EngagementPosts/EngagementPostsEntityService.php" timestamp="1431052867182">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="14" column="36" />
@@ -1231,10 +1238,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/logger.js" timestamp="1544410734156">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/logger.js" timestamp="1544693971593">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1431915555959">
         <mark key="'" line="61" column="37" />
@@ -1586,14 +1594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="25" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
-      <jump line="10" column="22" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
-      <jump line="29" column="7" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/App.css" />
-      <jump line="1" column="11" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/App.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/containers/App.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/containers/App.js" />
       <jump line="63" column="6" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.css" />
       <jump line="7" column="6" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.js" />
       <jump line="24" column="1" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" />
@@ -1643,7 +1643,6 @@
       <jump line="41" column="20" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="12" column="1" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="4" column="21" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
       <jump line="24" column="29" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
@@ -1686,62 +1685,71 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
       <jump line="21" column="6" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="47" column="5" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="37" column="37" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="4" column="2" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="27" column="12" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="43" column="6" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="46" column="8" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="48" column="12" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stateString</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>stateString</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kU3RhdGVVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRlTWFuYWdlci5zdG9yZVN0YXRlKHsgY29ubmVjdGVkOiBtZXNzYWdlLnRvU3RyaW5nKCkgPT09ICd0cnVlJyB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">LyoqCiAqIEByZXR1cm4ge2Z1bmN0aW9uKCopOiAodm9pZCB8ICopfQogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogQHBhcmFtIG1vZHVsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtvYmplY3R9IG1vZHVsZSAtIFRoZSBmaWxlJ3MgbW9kdWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsKICAgIAogIH0pOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke2J1aWxkTGFiZWwoeyBjYWxsaW5nTW9kdWxlOiBtb2R1bGUgfSl9IC0gJHttZXNzYWdlfWApOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbGl6ZVN0YXRlRmlsZSA9IChvcHRpb25zKSA9PiB7CiAgY29uc3QgeyBmaWxlbmFtZSB9ID0gb3B0aW9uczsKICBpZiAoKQp9Owo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGllbnRJbml0aWFsaXplciwK</text>
+        <text encoding="base64">ICBjb25zdCBwYXJ0cyA9IGNhbGxpbmdNb2R1bGUuZmlsZW5hbWUuc3BsaXQocGF0aC5zZXApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1765,6 +1773,7 @@
         <entry>onoff</entry>
         <entry>Gpio</entry>
         <entry>log</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
@@ -1778,7 +1787,6 @@
         <entry>sp</entry>
         <entry>vsp Make</entry>
         <entry>vsp Makefile</entry>
-        <entry>9</entry>
         <entry>30</entry>
         <entry>37</entry>
         <entry>wq</entry>
@@ -1786,6 +1794,9 @@
         <entry>m-2</entry>
         <entry>vsp server.js</entry>
         <entry>vsp ./server.js</entry>
+        <entry>46</entry>
+        <entry>9</entry>
+        <entry>31</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
