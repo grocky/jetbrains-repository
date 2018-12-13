@@ -686,13 +686,13 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544692608776">
-        <mark key="'" line="87" column="1" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544696315718">
+        <mark key="'" line="92" column="1" />
         <mark key="z" line="70" column="0" />
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
+        <mark key="[" line="92" column="71" />
+        <mark key="]" line="93" column="1" />
+        <mark key="." line="93" column="1" />
+        <mark key="^" line="93" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/GitHookPhinxCommandTest.php" timestamp="1432562036876">
         <mark key="'" line="7" column="3" />
@@ -1037,12 +1037,12 @@
         <mark key="^" line="169" column="23" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544694685901">
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544696957226">
         <mark key="'" line="22" column="13" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="42" column="35" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
@@ -1432,12 +1432,12 @@
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/controller.mqtt.js" timestamp="1544695391898">
-        <mark key="'" line="45" column="2" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="10" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/controller.mqtt.js" timestamp="1544695679378">
+        <mark key="'" line="49" column="2" />
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="50" column="13" />
+        <mark key="^" line="50" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Widgets/Views/AudioPlayerWidgetView.php" timestamp="1432254705112">
         <mark key="'" line="3" column="0" />
@@ -1697,46 +1697,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRlTWFuYWdlci5zdG9yZVN0YXRlKHsgY29ubmVjdGVkOiBtZXNzYWdlLnRvU3RyaW5nKCkgPT09ICd0cnVlJyB9KTsK</text>
+        <text encoding="base64">ICBzZW5kQ29ubmVjdGlvblVwZGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGhvc3QgPSAnbG9jYWxob3N0JywgY2xpZW50SWQsIHRvcGljSGFuZGxlcnMgfSA9IG9wdGlvbnM7Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSBvcHRpb25zCiAqIEByZXR1cm4ge01xdHRDbGllbnR9CiAqLwo=</text>
+        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgVEhJUlRZX1NFQ09ORFNfSU5fTVMgPSAxMDAwICogMzA7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0SW50ZXJ2YWwoYXN5bmMgKCkgPT4gYXdhaXQgc3RhdGVNYW5hZ2VyLnN0b3JlU3RhdGUoKSwgVEhJUlRZX1NFQ09ORFNfSU5fTVMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
