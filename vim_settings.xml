@@ -935,12 +935,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/reducers/logoReducer.js" timestamp="1541616380158">
         <mark key="'" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544694950673">
+      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544760688621">
         <mark key="'" line="48" column="12" />
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="43" />
-        <mark key="^" line="39" column="43" />
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserLoginViewModel.php" timestamp="1431222592439">
         <mark key="'" line="0" column="0" />
@@ -1716,10 +1716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>webserver</text>
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>webserver</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>project_name</text>
@@ -1728,34 +1728,34 @@
         <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgd2Vic2VydmVyIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyB3ZWJzZXJ2ZXJfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2coJ2xvYWRTdGF0ZSByZWFkRmlsZScsIGRhdGEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Wwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
