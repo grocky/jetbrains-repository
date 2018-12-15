@@ -935,12 +935,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/reducers/logoReducer.js" timestamp="1541616380158">
         <mark key="'" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544760688621">
-        <mark key="'" line="48" column="12" />
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="48" column="19" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544763233422">
+        <mark key="'" line="25" column="9" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserLoginViewModel.php" timestamp="1431222592439">
         <mark key="'" line="0" column="0" />
@@ -1613,7 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/rockygray.com/upgraded-app/public/index.html" />
       <jump line="20" column="19" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
@@ -1690,7 +1689,6 @@
       <jump line="34" column="1" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
       <jump line="21" column="6" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
       <jump line="47" column="5" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="37" column="37" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
@@ -1713,58 +1711,60 @@
       <jump line="57" column="38" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
       <jump line="28" column="20" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
       <jump line="29" column="41" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
+      <jump line="47" column="16" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="25" column="9" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>project_name</text>
+        <text>writeFile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgd2Vic2VydmVyIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyB3ZWJzZXJ2ZXJfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2coJ2xvYWRTdGF0ZSByZWFkRmlsZScsIGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXMoe30pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZzLmNsb3NlU3luYyhmcy5vcGVuU3luYyh0aGlzLnN0YXRlRmlsZSwgJ3cnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2coJ2xvYWRTdGF0ZSByZWFkRmlsZScsIGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
+        <text encoding="base64">Wwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>project_name</last-search>
+      <last-search>writeFile</last-search>
       <last-offset />
-      <last-pattern>project_name</last-pattern>
+      <last-pattern>writeFile</last-pattern>
       <last-replace>webserver_name</last-replace>
       <last-substitute>project_name</last-substitute>
       <last-dir>1</last-dir>
@@ -1794,6 +1794,7 @@
         <entry>log</entry>
         <entry>console</entry>
         <entry>project_name</entry>
+        <entry>writeFile</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
