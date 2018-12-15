@@ -699,13 +699,12 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544896296054">
+      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544899552685">
         <mark key="'" line="59" column="0" />
         <mark key="z" line="73" column="0" />
-        <mark key="[" line="101" column="23" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="102" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/GitHookPhinxCommandTest.php" timestamp="1432562036876">
         <mark key="'" line="7" column="3" />
@@ -744,12 +743,6 @@
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
         <mark key="'" line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" timestamp="1541653341916">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="2" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" timestamp="1432716522554">
         <mark key="'" line="91" column="4" />
@@ -1105,6 +1098,12 @@
         <mark key="]" line="489" column="0" />
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/types/lib/client.d.ts" timestamp="1544899164483">
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="79" column="37" />
+        <mark key="^" line="79" column="37" />
+        <mark key="." line="79" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1715,8 +1714,8 @@
       <jump line="59" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(error)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(error)</text>
@@ -1728,34 +1727,34 @@
         <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgd2Vic2VydmVyIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyB3ZWJzZXJ2ZXJfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXMoe30pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZzLmNsb3NlU3luYyhmcy5vcGVuU3luYyh0aGlzLnN0YXRlRmlsZSwgJ3cnKSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgTUFYX0NPTk5FQ1RJT05fV0FJVF9TRUNPTkRTID0gNTsKbGV0IGNvbm5lY3Rpb25UaW1lclNlY29uZHMgPSAwOwpjb25zdCBkZWxheSA9IChzZWNvbmRzKSA9PiAKd2hpbGUgKCFjbGllbnQuY29ubmVjdGVkKSB7CiAgCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2coJ2xvYWRTdGF0ZSByZWFkRmlsZScsIGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2xpZW50SW5pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXMoe30pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZzLmNsb3NlU3luYyhmcy5vcGVuU3luYyh0aGlzLnN0YXRlRmlsZSwgJ3cnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc2VuZFBvbmdNZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2coJ2xvYWRTdGF0ZSByZWFkRmlsZScsIGRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZygncmVjZWl2ZWQgUElORycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGllbnQucHVibGlzaCgnZ2FyYWdlL2Nvbm5lY3RlZCcsICd0cnVlJyk7Cg==</text>
+        <text encoding="base64">Wwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
