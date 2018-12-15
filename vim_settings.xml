@@ -19,6 +19,9 @@
         <mark key="^" line="23" column="70" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" timestamp="1544901102567">
+        <mark key="'" line="724" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Services/CustomerIOHealthCheckService.php" timestamp="1432742419889">
         <mark key="'" line="100" column="47" />
         <mark key="[" line="21" column="45" />
@@ -699,12 +702,13 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544899552685">
+      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544902257478">
         <mark key="'" line="59" column="0" />
         <mark key="z" line="73" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+        <mark key="[" line="109" column="7" />
+        <mark key="]" line="109" column="19" />
+        <mark key="." line="109" column="19" />
+        <mark key="^" line="109" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/GitHookPhinxCommandTest.php" timestamp="1432562036876">
         <mark key="'" line="7" column="3" />
@@ -1612,17 +1616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" />
-      <jump line="25" column="2" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/s3.tf" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" />
-      <jump line="42" column="21" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/cloudfront.tf" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
-      <jump line="22" column="24" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
-      <jump line="83" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/naked-domain.tf" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" />
-      <jump line="74" column="29" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" />
-      <jump line="10" column="22" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/root-domain.tf" />
       <jump line="10" column="4" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
       <jump line="2" column="19" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
@@ -1712,58 +1705,69 @@
       <jump line="17" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="26" column="2" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="521" column="2" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="729" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="734" column="21" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="532" column="23" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="727" column="67" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="774" column="10" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="253" column="25" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="722" column="4" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="724" column="22" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Unable to connect</text>
       </register>
       <register name="-" type="4">
-        <text>(error)</text>
+        <text>Unable to connect</text>
       </register>
       <register name="/" type="4">
-        <text>garage\/connected</text>
+        <text>setupReconnect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgd2Vic2VydmVyIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyB3ZWJzZXJ2ZXJfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
+        <text encoding="base64">Y2xpZW50Lm9uKCdvZmZsaW5lJywgKC4uLmFyZ3MpID0+IGxvZygnb2ZmbGluZScsIGFyZ3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9jZXNzLmV4aXQoMSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgTUFYX0NPTk5FQ1RJT05fV0FJVF9TRUNPTkRTID0gNTsKbGV0IGNvbm5lY3Rpb25UaW1lclNlY29uZHMgPSAwOwpjb25zdCBkZWxheSA9IChzZWNvbmRzKSA9PiAKd2hpbGUgKCFjbGllbnQuY29ubmVjdGVkKSB7CiAgCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9jZXNzLmVtaXQoJ2V4aXQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50SW5pCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXMoe30pOwo=</text>
+        <text encoding="base64">Y2xpZW50Lm9uKCdvZmZsaW5lJywgKC4uLmFyZ3MpID0+IGxvZygnb2ZmbGluZScsIGFyZ3MpKTsKY2xpZW50Lm9uKCdzdGF0dXMnLCAoLi4uYXJncykgPT4gbG9nKCdzdGF0dXMnLCBhcmdzKSk7CmNsaWVudC5vbignZXJyb3InLCBsb2cpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZzLmNsb3NlU3luYyhmcy5vcGVuU3luYyh0aGlzLnN0YXRlRmlsZSwgJ3cnKSk7Cg==</text>
+        <text encoding="base64">Y2xpZW50Lm9uKCdlcnJvcicsIGxvZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2coJ2xvYWRTdGF0ZSByZWFkRmlsZScsIGRhdGEpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgTUFYX0NPTk5FQ1RJT05fV0FJVF9TRUNPTkRTID0gNTsKbGV0IGNvbm5lY3Rpb25UaW1lclNlY29uZHMgPSAwOwpjb25zdCBkZWxheSA9IChzZWNvbmRzKSA9PiAKd2hpbGUgKCFjbGllbnQuY29ubmVjdGVkKSB7CiAgCn0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>garage\/connected</last-search>
+      <last-search>setupReconnect</last-search>
       <last-offset />
-      <last-pattern>garage\/connected</last-pattern>
+      <last-pattern>setupReconnect</last-pattern>
       <last-replace>webserver_name</last-replace>
       <last-substitute>project_name</last-substitute>
       <last-dir>1</last-dir>
@@ -1798,6 +1802,9 @@
         <entry>state</entry>
         <entry>garage</entry>
         <entry>garage\/connected</entry>
+        <entry>offline</entry>
+        <entry>reconnectPeriod</entry>
+        <entry>setupReconnect</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
