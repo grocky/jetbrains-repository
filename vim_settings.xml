@@ -685,8 +685,8 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544469179781">
-        <mark key="[" line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1544904082466">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberBinController.php" timestamp="1432648053508">
         <mark key="'" line="104" column="0" />
@@ -702,13 +702,13 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544902257478">
-        <mark key="'" line="59" column="0" />
-        <mark key="z" line="73" column="0" />
-        <mark key="[" line="109" column="7" />
-        <mark key="]" line="109" column="19" />
-        <mark key="." line="109" column="19" />
-        <mark key="^" line="109" column="19" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544905160179">
+        <mark key="'" line="13" column="0" />
+        <mark key="z" line="12" column="24" />
+        <mark key="[" line="93" column="6" />
+        <mark key="]" line="93" column="21" />
+        <mark key="." line="93" column="21" />
+        <mark key="^" line="93" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/GitHookPhinxCommandTest.php" timestamp="1432562036876">
         <mark key="'" line="7" column="3" />
@@ -1254,11 +1254,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/logger.js" timestamp="1544695014419">
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="79" />
-        <mark key="^" line="18" column="79" />
-        <mark key="." line="18" column="79" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/logger.js" timestamp="1544904049043">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1431915555959">
         <mark key="'" line="61" column="37" />
@@ -1616,29 +1616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/dns.tf" />
-      <jump line="2" column="19" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/ssl.tf" />
-      <jump line="52" column="48" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/modules/s3_site/main.tf" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
-      <jump line="31" column="3" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/onoff/onoff.js" />
-      <jump line="188" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/onoff/onoff.js" />
-      <jump line="13" column="27" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="14" column="14" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="26" column="31" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="41" column="20" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="12" column="1" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
-      <jump line="24" column="29" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
-      <jump line="887" column="13" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/aws-iot-device-sdk/device/index.js" />
-      <jump line="32" column="38" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
-      <jump line="23" column="18" filename="$USER_HOME$/Projects/garage-remote/server/mqtt.js" />
-      <jump line="57" column="2" filename="$USER_HOME$/Projects/garage-remote/server/controller.mqtt.js" />
       <jump line="11" column="28" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="4" column="13" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1700,7 +1677,6 @@
       <jump line="89" column="26" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="124" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="5" column="20" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="17" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="26" column="2" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1716,46 +1692,70 @@
       <jump line="253" column="25" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
       <jump line="722" column="4" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
       <jump line="724" column="22" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
+      <jump line="64" column="6" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="74" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="81" column="6" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="85" column="24" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="88" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="97" column="64" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="99" column="15" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="100" column="8" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="102" column="40" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="114" column="20" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="10" column="23" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="18" column="18" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="19" column="24" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="20" column="26" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="28" column="2" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="45" column="6" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="56" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="129" column="24" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Unable to connect</text>
+        <text>generalEventLog</text>
       </register>
       <register name="-" type="4">
-        <text>Unable to connect</text>
+        <text>generalEventLog</text>
       </register>
       <register name="/" type="4">
-        <text>setupReconnect</text>
+        <text>sending state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xpZW50Lm9uKCdvZmZsaW5lJywgKC4uLmFyZ3MpID0+IGxvZygnb2ZmbGluZScsIGFyZ3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmV4aXQoMSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvZygnY2xvc2UnLCBtZXNzYWdlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gbG9nZ2VyKG1vZHVsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmVtaXQoJ2V4aXQnKQo=</text>
+        <text encoding="base64">CmNvbnN0IGxvZyA9IGxvZ2dlcihtb2R1bGUpOwpsb2coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICogQHJldHVybnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xpZW50Lm9uKCdvZmZsaW5lJywgKC4uLmFyZ3MpID0+IGxvZygnb2ZmbGluZScsIGFyZ3MpKTsKY2xpZW50Lm9uKCdzdGF0dXMnLCAoLi4uYXJncykgPT4gbG9nKCdzdGF0dXMnLCBhcmdzKSk7CmNsaWVudC5vbignZXJyb3InLCBsb2cpOwo=</text>
+        <text encoding="base64">bG9nZ2VyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xpZW50Lm9uKCdlcnJvcicsIGxvZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgTUFYX0NPTk5FQ1RJT05fV0FJVF9TRUNPTkRTID0gNTsKbGV0IGNvbm5lY3Rpb25UaW1lclNlY29uZHMgPSAwOwpjb25zdCBkZWxheSA9IChzZWNvbmRzKSA9PiAKd2hpbGUgKCFjbGllbnQuY29ubmVjdGVkKSB7CiAgCn0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">PSAobW9kdWxlKSA9PgogIChtZXNzYWdlLCBjb250ZXh0ID0ge30pID0+IHsKICAgIGNvbnNvbGUubG9nKGAke2J1aWxkTGFiZWwoeyBjYWxsaW5nTW9kdWxlOiBtb2R1bGUgfSl9IC0gJHttZXNzYWdlfWAsIEpTT04uc3RyaW5naWZ5KGNvbnRleHQpKTsKICB9Ow==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1765,9 +1765,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setupReconnect</last-search>
+      <last-search>sending state</last-search>
       <last-offset />
-      <last-pattern>setupReconnect</last-pattern>
+      <last-pattern>sending state</last-pattern>
       <last-replace>webserver_name</last-replace>
       <last-substitute>project_name</last-substitute>
       <last-dir>1</last-dir>
@@ -1794,7 +1794,6 @@
         <entry>sending</entry>
         <entry>onoff</entry>
         <entry>Gpio</entry>
-        <entry>log</entry>
         <entry>console</entry>
         <entry>project_name</entry>
         <entry>writeFile</entry>
@@ -1805,6 +1804,8 @@
         <entry>offline</entry>
         <entry>reconnectPeriod</entry>
         <entry>setupReconnect</entry>
+        <entry>log</entry>
+        <entry>sending state</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
@@ -1829,6 +1830,7 @@
         <entry>9</entry>
         <entry>31</entry>
         <entry>%s/project_name/webserver_name/g</entry>
+        <entry>m+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -1891,6 +1893,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>meta pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
