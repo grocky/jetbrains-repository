@@ -699,13 +699,13 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544696315718">
-        <mark key="'" line="92" column="1" />
-        <mark key="z" line="70" column="0" />
-        <mark key="[" line="92" column="71" />
-        <mark key="]" line="93" column="1" />
-        <mark key="." line="93" column="1" />
-        <mark key="^" line="93" column="1" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" timestamp="1544832841790">
+        <mark key="'" line="26" column="2" />
+        <mark key="z" line="73" column="0" />
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="76" />
+        <mark key="." line="8" column="76" />
+        <mark key="^" line="8" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/GitHookPhinxCommandTest.php" timestamp="1432562036876">
         <mark key="'" line="7" column="3" />
@@ -1613,14 +1613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="19" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/rockygray.com/package.json" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/rockygray.com/src/main.tf" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
-      <jump line="32" column="26" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
-      <jump line="20" column="10" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/main.tf" />
       <jump line="26" column="1" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" />
       <jump line="22" column="21" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/remote-state/main.tf" />
       <jump line="25" column="2" filename="$USER_HOME$/Projects/rockygray.com/infrastructure/s3.tf" />
@@ -1713,16 +1705,24 @@
       <jump line="29" column="41" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
       <jump line="47" column="16" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
       <jump line="25" column="9" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
+      <jump line="15" column="34" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="89" column="26" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="5" column="20" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>'garage-door-switch'}</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>'garage-door-switch'}</text>
       </register>
       <register name="/" type="4">
-        <text>writeFile</text>
+        <text>garage\/connected</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgd2Vic2VydmVyIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyB3ZWJzZXJ2ZXJfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
@@ -1762,9 +1762,9 @@
       </register>
     </registers>
     <search>
-      <last-search>writeFile</last-search>
+      <last-search>garage\/connected</last-search>
       <last-offset />
-      <last-pattern>writeFile</last-pattern>
+      <last-pattern>garage\/connected</last-pattern>
       <last-replace>webserver_name</last-replace>
       <last-substitute>project_name</last-substitute>
       <last-dir>1</last-dir>
@@ -1795,6 +1795,10 @@
         <entry>console</entry>
         <entry>project_name</entry>
         <entry>writeFile</entry>
+        <entry>state updated</entry>
+        <entry>state</entry>
+        <entry>garage</entry>
+        <entry>garage\/connected</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
