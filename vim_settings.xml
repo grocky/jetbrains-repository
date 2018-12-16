@@ -111,12 +111,11 @@
       <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526793318627">
         <mark key="'" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1544923330984">
-        <mark key="'" line="113" column="35" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1544925177266">
+        <mark key="'" line="110" column="35" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" timestamp="1526006096061">
         <mark key="'" line="56" column="6" />
@@ -312,8 +311,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GpioFactory.create();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>GpioFactory.create();</text>
@@ -325,34 +324,34 @@
         <text encoding="base64">ICByZWFkU3luYzogKCkgPT4gY29uc29sZS5sb2coJ3JlYWRTeW5jKCknKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgR3Bpb0ZhY3RvcnkgPSByZXF1aXJlKCcuL0dwaW9GYWN0b3J5Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ291dCcpOwo=</text>
+        <text encoding="base64">Z2FyYWdlQnV0dG9uLmRlcHJlc3MgPSAoKSA9PiB7CiAgZ2FyYWdlQnV0dG9uLndyaXRlU3luYyhHcGlvLkxPVyk7CiAgc2V0VGltZW91dCgoKSA9PiB7CiAgICBnYXJhZ2VCdXR0b24ud3JpdGUoR3Bpby5ISUdILCAoZXJyLCB2YWx1ZSkgPT4gewogICAgICBjb25zdCBtZXNzYWdlID0gZXJyID8gZXJyLm1lc3NhZ2UgOiBgZ2FyYWdlIGJ1dHRvbiBzdGF0ZSBzZXQgdG8gJHt2YWx1ZX1gOwogICAgICBsb2cobWVzc2FnZSk7CiAgICB9KTsKICB9LCA1MDApOwp9OwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ci8vIHN0YXJ0IGl0IGhpZ2ggKHJlbGF5IGRlYWN0aXZhdGVkLi4uKQpsb2coJ1N0YXJ0aW5nIEdQSU8gcGluIG9uIGhpJyk7CmdhcmFnZUJ1dHRvbi53cml0ZVN5bmMoR3Bpby5ISUdIKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IGdhcmFnZUJ1dHRvbiA9IG5ldyBHcGlvKDQsICdvdXQnKTsK</text>
+        <text encoding="base64">Y29uc3QgR3Bpb0ZhY3RvcnkgPSByZXF1aXJlKCcuL0dwaW9GYWN0b3J5Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgRXBvbGwgPSByZXF1aXJlKCdlcG9sbCcpLkVwb2xsOwo=</text>
+        <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ291dCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmNvbnN0IGdhcmFnZUJ1dHRvbiA9IG5ldyBHcGlvKDQsICdvdXQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
