@@ -1083,12 +1083,12 @@
         <mark key="^" line="169" column="23" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544875297089">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="44" column="11" />
-        <mark key="]" line="44" column="40" />
-        <mark key="." line="44" column="40" />
-        <mark key="^" line="44" column="40" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1544990683918">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
@@ -1631,6 +1631,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1544983266121" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1668,7 +1669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="32" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="18" column="2" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="34" column="4" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
       <jump line="46" column="8" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
@@ -1768,10 +1768,11 @@
       <jump line="4" column="6" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/cleanup.js" />
       <jump line="17" column="12" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/cleanup.js" />
       <jump line="22" column="19" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/cleanup.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyeWluZyB0byBycXVpcmUnKTsK</text>
+        <text encoding="base64">ICAvLyBoZXJlIHlvdSBjYW4gc3RhcnQgZW1pdHRpbmcgZXZlbnRzIHRvIHRoZSBjbGllbnQgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1783,34 +1784,34 @@
         <text encoding="base64">ICAgICAgICAtICJ7eyB3ZWJzZXJ2ZXJfbmFtZSB9fSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyeWluZyB0byBycXVpcmUnKTsK</text>
+        <text encoding="base64">ICAvLyBoZXJlIHlvdSBjYW4gc3RhcnQgZW1pdHRpbmcgZXZlbnRzIHRvIHRoZSBjbGllbnQgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2JlZm9yZSBuZXcnLCBPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoR3BpbykpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgc3dpdGNoIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyBzd2l0Y2hfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHBtMgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBucG06Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyeWluZyB0byBycXVpcmUnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2JlZm9yZSBuZXcnLCBPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoR3BpbykpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgc3dpdGNoIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyBzd2l0Y2hfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHBtMgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2FyYWdlQnV0dG9uLmRlcHJlc3MgPSAoKSA9PiB7CiAgZ2FyYWdlQnV0dG9uLndyaXRlU3luYyhHcGlvLkxPVyk7CiAgc2V0VGltZW91dCgoKSA9PiB7CiAgICBnYXJhZ2VCdXR0b24ud3JpdGUoR3Bpby5ISUdILCAoZXJyLCB2YWx1ZSkgPT4gewogICAgICBjb25zdCBtZXNzYWdlID0gZXJyID8gZXJyLm1lc3NhZ2UgOiBgZ2FyYWdlIGJ1dHRvbiBzdGF0ZSBzZXQgdG8gJHt2YWx1ZX1gOwogICAgICBsb2cobWVzc2FnZSk7CiAgICB9KTsKICB9LCA1MDApOwp9OwoK</text>
+        <text encoding="base64">ICBucG06Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIHN0YXJ0IGl0IGhpZ2ggKHJlbGF5IGRlYWN0aXZhdGVkLi4uKQpsb2coJ1N0YXJ0aW5nIEdQSU8gcGluIG9uIGhpJyk7CmdhcmFnZUJ1dHRvbi53cml0ZVN5bmMoR3Bpby5ISUdIKTsK</text>
+        <text encoding="base64">Z2FyYWdlQnV0dG9uLmRlcHJlc3MgPSAoKSA9PiB7CiAgZ2FyYWdlQnV0dG9uLndyaXRlU3luYyhHcGlvLkxPVyk7CiAgc2V0VGltZW91dCgoKSA9PiB7CiAgICBnYXJhZ2VCdXR0b24ud3JpdGUoR3Bpby5ISUdILCAoZXJyLCB2YWx1ZSkgPT4gewogICAgICBjb25zdCBtZXNzYWdlID0gZXJyID8gZXJyLm1lc3NhZ2UgOiBgZ2FyYWdlIGJ1dHRvbiBzdGF0ZSBzZXQgdG8gJHt2YWx1ZX1gOwogICAgICBsb2cobWVzc2FnZSk7CiAgICB9KTsKICB9LCA1MDApOwp9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1823,27 +1824,10 @@
       <last-replace>Gpio</last-replace>
       <last-substitute>levels</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mime</entry>
-        <entry>help</entry>
-        <entry>port</entry>
-        <entry>var</entry>
-        <entry>readFile</entry>
-        <entry>axios</entry>
-        <entry>noop</entry>
-        <entry>Logo</entry>
-        <entry>socialIcons</entry>
-        <entry>styles</entry>
-        <entry>inactive</entry>
-        <entry>inactiveLogo</entry>
-        <entry>s3_bucket.www</entry>
-        <entry>console.log</entry>
-        <entry>device</entry>
-        <entry>sending</entry>
-        <entry>onoff</entry>
         <entry>Gpio</entry>
         <entry>console</entry>
         <entry>project_name</entry>
@@ -1866,12 +1850,6 @@
         <entry>signal</entry>
       </history-search>
       <history-cmd>
-        <entry>17</entry>
-        <entry>93</entry>
-        <entry>vsp promise</entry>
-        <entry>%s/var/const/</entry>
-        <entry>vsp</entry>
-        <entry>%s/var/const/g</entry>
         <entry>actionlist</entry>
         <entry>action $SelectAll</entry>
         <entry>sp</entry>
