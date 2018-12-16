@@ -1431,6 +1431,12 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/Dockerfile" timestamp="1544993503451">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/VideoBlocks/seedData/20150520131424_add_member_with_downloads.php" timestamp="1432840779048">
         <mark key="'" line="149" column="0" />
       </file>
@@ -1772,10 +1778,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBoZXJlIHlvdSBjYW4gc3RhcnQgZW1pdHRpbmcgZXZlbnRzIHRvIHRoZSBjbGllbnQgCg==</text>
+        <text encoding="base64">RU5WIFBPUlQgODAKRVhQT1NFIDgwCgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>npm install -g nodemon</text>
       </register>
       <register name="/" type="4">
         <text>signal</text>
@@ -1784,34 +1790,34 @@
         <text encoding="base64">ICAgICAgICAtICJ7eyB3ZWJzZXJ2ZXJfbmFtZSB9fSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBoZXJlIHlvdSBjYW4gc3RhcnQgZW1pdHRpbmcgZXZlbnRzIHRvIHRoZSBjbGllbnQgCg==</text>
+        <text encoding="base64">RU5WIFBPUlQgODAKRVhQT1NFIDgwCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAmJiBucG0gaW5zdGFsbCAtZyBub2RlbW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyeWluZyB0byBycXVpcmUnKTsK</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2JlZm9yZSBuZXcnLCBPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoR3BpbykpOwo=</text>
+        <text encoding="base64">ICAvLyBoZXJlIHlvdSBjYW4gc3RhcnQgZW1pdHRpbmcgZXZlbnRzIHRvIHRoZSBjbGllbnQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgc3dpdGNoIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyBzd2l0Y2hfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHBtMgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBucG06Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyeWluZyB0byBycXVpcmUnKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2JlZm9yZSBuZXcnLCBPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoR3BpbykpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgc3dpdGNoIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyBzd2l0Y2hfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2FyYWdlQnV0dG9uLmRlcHJlc3MgPSAoKSA9PiB7CiAgZ2FyYWdlQnV0dG9uLndyaXRlU3luYyhHcGlvLkxPVyk7CiAgc2V0VGltZW91dCgoKSA9PiB7CiAgICBnYXJhZ2VCdXR0b24ud3JpdGUoR3Bpby5ISUdILCAoZXJyLCB2YWx1ZSkgPT4gewogICAgICBjb25zdCBtZXNzYWdlID0gZXJyID8gZXJyLm1lc3NhZ2UgOiBgZ2FyYWdlIGJ1dHRvbiBzdGF0ZSBzZXQgdG8gJHt2YWx1ZX1gOwogICAgICBsb2cobWVzc2FnZSk7CiAgICB9KTsKICB9LCA1MDApOwp9OwoK</text>
+        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHBtMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
