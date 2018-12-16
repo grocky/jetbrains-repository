@@ -473,6 +473,13 @@
       <file name="$USER_HOME$/Projects/rockygray.com/Makefile" timestamp="1541621521826">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/docker-compose.yml" timestamp="1544997835726">
+        <mark key="'" line="36" column="17" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberSubmembersService.php" timestamp="1431045963590">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="31" column="41" />
@@ -619,6 +626,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" timestamp="1544997716135">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Signup/ViewModels/GraphicJoinStep2ViewModel.php" timestamp="1431247659832">
         <mark key="'" line="4" column="0" />
@@ -1431,11 +1445,11 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/Dockerfile" timestamp="1544993503451">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/Dockerfile" timestamp="1544998738004">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Database/VideoBlocks/seedData/20150520131424_add_member_with_downloads.php" timestamp="1432840779048">
         <mark key="'" line="149" column="0" />
@@ -1675,29 +1689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="2" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="46" column="8" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="34" column="1" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="47" column="5" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="37" column="37" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="27" column="12" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="43" column="6" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="46" column="8" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="48" column="12" filename="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" />
-      <jump line="22" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="50" column="34" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="56" column="6" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="5" column="4" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="47" column="70" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="44" column="29" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="51" column="6" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="6" column="37" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
       <jump line="52" column="84" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
       <jump line="57" column="38" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
       <jump line="28" column="20" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
@@ -1775,62 +1766,85 @@
       <jump line="17" column="12" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/cleanup.js" />
       <jump line="22" column="19" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/cleanup.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="4" column="3" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="61" column="6" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="14" column="2" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="67" column="2" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="65" column="2" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="27" column="20" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
+      <jump line="19" column="16" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
+      <jump line="17" column="11" filename="$USER_HOME$/Projects/garage-remote/server/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/Dockerfile" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/garage-remote/server/Dockerfile" />
+      <jump line="21" column="7" filename="$USER_HOME$/Projects/garage-remote/server/Dockerfile" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/garage-remote/server/Dockerfile" />
+      <jump line="35" column="29" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="26" column="17" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
+      <jump line="36" column="17" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RU5WIFBPUlQgODAKRVhQT1NFIDgwCgo=</text>
+        <text encoding="base64">Qwo=</text>
       </register>
       <register name="-" type="4">
-        <text>npm install -g nodemon</text>
+        <text>/client</text>
       </register>
       <register name="/" type="4">
-        <text>signal</text>
+        <text>nodemon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtICJ7eyB3ZWJzZXJ2ZXJfbmFtZSB9fSIK</text>
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGRlciBub2RlX21vZHVsZXMgLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFBPUlQgODAKRVhQT1NFIDgwCgo=</text>
+        <text encoding="base64">Qwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAmJiBucG0gaW5zdGFsbCAtZyBub2RlbW9uCg==</text>
+        <text encoding="base64">ICYmIG5wbSBjYWNoZSBjbGVhbiAtLWZvcmNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBoZXJlIHlvdSBjYW4gc3RhcnQgZW1pdHRpbmcgZXZlbnRzIHRvIHRoZSBjbGllbnQgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">UlVOCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Q09QWQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RyeWluZyB0byBycXVpcmUnKTsK</text>
+        <text encoding="base64">ICYmIG12IC9hcHAvbm9kZV9tb2R1bGVzIC9ub2RlX21vZHVsZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2JlZm9yZSBuZXcnLCBPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoR3BpbykpOwo=</text>
+        <text encoding="base64">ClJVTiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogRGVsZXRlIG9sZCBwbTIgc3dpdGNoIHByb2Nlc3MKICAgICAgY29tbWFuZDogcG0yIGRlbGV0ZSB7eyBzd2l0Y2hfbmFtZSB9fQogICAgICBpZ25vcmVfZXJyb3JzOiB5ZXMK</text>
+        <text encoding="base64">ClJVTiBta2RpciAtcCAvYXBwCldPUktESVIgL2FwcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHBtMgo=</text>
+        <text encoding="base64">RU5WIFBPUlQgODAKRVhQT1NFIDgwCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>signal</last-search>
+      <last-search>nodemon</last-search>
       <last-offset />
-      <last-pattern>signal</last-pattern>
-      <last-replace>Gpio</last-replace>
-      <last-substitute>levels</last-substitute>
+      <last-pattern>nodemon</last-pattern>
+      <last-replace>devices</last-replace>
+      <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1854,6 +1868,9 @@
         <entry>LOW</entry>
         <entry>HIGH</entry>
         <entry>signal</entry>
+        <entry>front-tier</entry>
+        <entry>back-tier</entry>
+        <entry>nodemon</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -1875,6 +1892,9 @@
         <entry>m+</entry>
         <entry>%s/controller_name/switch_name/g</entry>
         <entry>%s/levels/Gpio/</entry>
+        <entry>%s/front-tier/frontend/g</entry>
+        <entry>%s/back-tier/devices/</entry>
+        <entry>15</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
