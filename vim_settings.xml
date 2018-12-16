@@ -111,12 +111,12 @@
       <file name="$USER_HOME$/Projects/debt-tracker/client/src/debts/EditingDebtItem.js" timestamp="1526793318627">
         <mark key="'" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1544918423035">
-        <mark key="'" line="120" column="35" />
-        <mark key="[" line="16" column="52" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1544919283442">
+        <mark key="'" line="110" column="35" />
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/debt-tracker/node_modules/express/lib/router/index.js" timestamp="1526006096061">
         <mark key="'" line="56" column="6" />
@@ -313,7 +313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgRXBvbGwgPSByZXF1aXJlKCdlcG9sbCcpLkVwb2xsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>log</text>
@@ -325,34 +325,34 @@
         <text encoding="base64">ICByZWFkU3luYzogKCkgPT4gY29uc29sZS5sb2coJ3JlYWRTeW5jKCknKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgRXBvbGwgPSByZXF1aXJlKCdlcG9sbCcpLkVwb2xsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">CmNvbnN0IGdhcmFnZUJ1dHRvbiA9IG5ldyBHcGlvKDQsICdvdXQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgKCkK</text>
+        <text encoding="base64">Y29uc3QgRXBvbGwgPSByZXF1aXJlKCdlcG9sbCcpLkVwb2xsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBHcGlvIH0gPSByZXF1aXJlKCdvbm9mZicpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgTW9ja0dQSU8gPSAocGluLCBkaXJlY3Rpb24pID0+IHsKICBsZXQgX3ZhbHVlID0gMDsKICBsZXQgX2RpcmVjdGlvbiA9IGRpcmVjdGlvbjsKCiAgcmV0dXJuIHsKICB9Owp9Owo=</text>
+        <text encoding="base64">Y29uc3QgeyBHcGlvIH0gPSByZXF1aXJlKCdvbm9mZicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
