@@ -171,11 +171,11 @@
       <file name="$USER_HOME$/Projects/StockBlocks/Database/VideoBlocks/seedData/20150520131424_add_member_with_downloads.php" timestamp="1432840779048">
         <mark key="'" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" timestamp="1544916867772">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" timestamp="1544921987310">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/server/middleware/controller.mqtt.js" timestamp="1544695679378">
         <mark key="'" line="49" column="2" />
@@ -313,7 +313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="-" type="4">
         <text>log</text>
@@ -325,34 +325,34 @@
         <text encoding="base64">ICByZWFkU3luYzogKCkgPT4gY29uc29sZS5sb2coJ3JlYWRTeW5jKCknKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IGdhcmFnZUJ1dHRvbiA9IG5ldyBHcGlvKDQsICdvdXQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgRXBvbGwgPSByZXF1aXJlKCdlcG9sbCcpLkVwb2xsOwo=</text>
+        <text encoding="base64">CmNvbnN0IGdhcmFnZUJ1dHRvbiA9IG5ldyBHcGlvKDQsICdvdXQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">Y29uc3QgRXBvbGwgPSByZXF1aXJlKCdlcG9sbCcpLkVwb2xsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgKCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBHcGlvIH0gPSByZXF1aXJlKCdvbm9mZicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBHcGlvIH0gPSByZXF1aXJlKCdvbm9mZicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
