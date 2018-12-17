@@ -679,11 +679,12 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="14" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545014962636">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545018828790">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="60" column="41" />
+        <mark key="^" line="60" column="41" />
+        <mark key="." line="60" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -846,6 +847,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/Icon/garage-closed.svg" timestamp="1545017418160">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/garage-remote/.dockerignore" timestamp="1545002626597">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -959,6 +965,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/Icon/garage-open.svg" timestamp="1545017437976">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/CronJobs/Models/AudioCronSiteMapModel.php" timestamp="1431035223703">
         <mark key="'" line="44" column="0" />
@@ -1133,12 +1144,26 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/Icons/index.js" timestamp="1545016106080">
+        <mark key="'" line="15" column="19" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/naked-domain.tf" timestamp="1541629580796">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/style.css" timestamp="1545019282200">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/Scaffolding/MvcScaffoldDatabaseService.php" timestamp="1431280789492">
         <mark key="'" line="25" column="42" />
@@ -1197,6 +1222,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="87" column="39" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/Icon/index.js" timestamp="1545016762343">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/ActionResults/MvcJsonResult.php" timestamp="1432260719418">
         <mark key="'" line="115" column="1" />
@@ -1665,7 +1696,6 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1544983266121" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1709,11 +1739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="724" column="22" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="64" column="6" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="74" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="81" column="6" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="85" column="24" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="88" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="96" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="97" column="64" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1809,58 +1834,63 @@
       <jump line="143" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="13" column="19" filename="$USER_HOME$/Projects/garage-remote/client/src/components/Icons/index.js" />
+      <jump line="43" column="30" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
+      <jump line="1" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
+      <jump line="37" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/style.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9idXR0b24+KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>getStateRepresentation</text>
       </register>
       <register name="/" type="4">
-        <text>use</text>
+        <text>logo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gZXhwcmVzcygpOwoKYXBwLnVzZShsb2dnZXIoJ2RldicpKTsKYXBwLnVzZShib2R5UGFyc2VyLmpzb24oKSk7CmFwcC51c2UoYm9keVBhcnNlci51cmxlbmNvZGVkKHsgZXh0ZW5kZWQ6IGZhbHNlIH0pKTsKYXBwLnVzZShjb29raWVQYXJzZXIoKSk7Cgpjb25zdCBidWlsZERpcmVjdG9yeSA9IHBhdGguam9pbihfX2Rpcm5hbWUsICcuLicsICdjbGllbnQnLCAnYnVpbGQnKTsKbG9nKGBVc2luZyBidWlsZCBkaXJlY3Rvcnk6ICR7YnVpbGREaXJlY3Rvcnl9YCk7CmFwcC51c2UoZmF2aWNvbihwYXRoLmpvaW4oYnVpbGREaXJlY3RvcnksICdmYXZpY29uLmljbycpKSk7CmFwcC51c2UoZXhwcmVzcy5zdGF0aWMoYnVpbGREaXJlY3RvcnkpKTsKCmNvbnN0IHN0YXRlTWFuYWdlciA9IG5ldyBTdGF0ZU1hbmFnZXIoJ2dhcmFnZS1zdGF0ZS5qc29uJyk7CgphcHAudXNlKFN0YXRlTWFuYWdlci5taWRkbGV3YXJlKHN0YXRlTWFuYWdlcikpOwoKY29uc3QgbXF0dFRvcGljSGFuZGxlcnMgPSB7CiAgJ2dhcmFnZS9jb25uZWN0ZWQnOiBhc3luYyAobWVzc2FnZSkgPT4gewogICAgbG9nKGBnYXJhZ2UvY29ubmVjdGVkIC0gJHttZXNzYWdlfWApOwogICAgYXdhaXQgc3RhdGVNYW5hZ2VyLnVwZGF0ZVN0YXRlKHsgY29ubmVjdGVkOiBtZXNzYWdlLnRvU3RyaW5nKCkgPT09ICd0cnVlJyB9KTsKICB9LAogICdnYXJhZ2Uvc3RhdGUnOiBhc3luYyAobWVzc2FnZSkgPT4gewogICAgbG9nKGBnYXJhZ2Ugc3RhdGUgdXBkYXRlZCB0byAke21lc3NhZ2V9YCk7CiAgICBhd2FpdCBzdGF0ZU1hbmFnZXIudXBkYXRlU3RhdGUoeyBzdGF0dXM6IG1lc3NhZ2UudG9TdHJpbmcoKSB9KTsKICAgIGF3YWl0IHN0YXRlTWFuYWdlci5zdG9yZVN0YXRlKCk7CiAgfQp9OwoKY29uc3QgbXF0dENsaWVudCA9IG1xdHRDb250cm9sbGVyLmNsaWVudEluaXRpYWxpemVyKHsKICBob3N0OiBwcm9jZXNzLmVudi5NUVRUX0hPU1QgfHwgJ2xvY2FsaG9zdCcsCiAgY2xpZW50SWQ6IHByb2Nlc3MuZW52Lk1RVFRfQ0xJRU5UX0lEIHx8ICcnLAogIHRvcGljSGFuZGxlcnM6IG1xdHRUb3BpY0hhbmRsZXJzLAp9KTsKCm1xdHRDbGllbnQucHVibGlzaCgnZ2FyYWdlL3BpbmcnLCAndHJ1ZScsIGxvZyk7CgphcHAudXNlKG1xdHRDb250cm9sbGVyLm1pZGRsZXdhcmUpOwoKYXBwLnVzZSgnL2dhcmFnZScsIHJlcXVpcmUoJy4vcm91dGVzL2dhcmFnZScpKTsKCmFwcC5nZXQoJyonLCAocmVxLCByZXMpID0+IHsKICByZXMuc2VuZEZpbGUocGF0aC5qb2luKGAke2J1aWxkRGlyZWN0b3J5fS9pbmRleC5odG1sYCkpOwp9KTsKCi8vIGNhdGNoIDQwNCBhbmQgZm9yd2FyZCB0byBlcnJvciBoYW5kbGVyCmFwcC51c2UoKHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgY29uc3QgZXJyID0gbmV3IEVycm9yKCdOb3QgRm91bmQnKTsKICBlcnIuc3RhdHVzID0gNDA0OwogIG5leHQoZXJyKTsKfSk7CgovLyBlcnJvciBoYW5kbGVyCmFwcC51c2UoKGVyciwgcmVxLCByZXMsIG5leHQpID0+IHsKICAvLyBzZXQgbG9jYWxzLCBvbmx5IHByb3ZpZGluZyBlcnJvciBpbiBkZXZlbG9wbWVudAogIHJlcy5sb2NhbHMubWVzc2FnZSA9IGVyci5tZXNzYWdlOwogIHJlcy5sb2NhbHMuZXJyb3IgPSByZXEuYXBwLmdldCgnZW52JykgPT09ICdkZXZlbG9wbWVudCcgPyBlcnIgOiB7fTsKCiAgLy8gcmVuZGVyIHRoZSBlcnJvciBwYWdlCiAgcmVzLnN0YXR1cyhlcnIuc3RhdHVzIHx8IDUwMCk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgImdhcmFnZS1jbG9zZWQiOgogICAgICByZXR1cm4gPEdhcmFnZUNsb3NlZCB7Li4ucHJvcHN9IC8+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9idXR0b24+KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgIEN1cnJlbnQgc3RhdHVzOiB7dGhpcy5zdGF0ZS5zdGF0dXN9CiAgICAgICAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8SWNvbiBuYW1lPXtnYXJhZ2VJY29ufSAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0nYnRuIGJ0bi1ibG9jaycgb25DbGljaz17dGhpcy50b2dnbGVHYXJhZ2VCdXR0b259IGRpc2FibGVkPXtpblByb2dyZXNzfT4KICAgICAgICAgICAgICAgIDxJY29uIG5hbWU9e2dhcmFnZUljb259IC8+CiAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW8uY29uCg==</text>
+        <text encoding="base64">LmJ0biBzdmcgewogIGhlaWdodDogOTAlOwogIGZpbGw6ICNmN2Y3Zjc7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZSB0aGUgU29ja2V0SU8gc2VydmVyCiAqIEB0eXBlIHtpb30KICovCmNvbnN0IGlvID0gc29ja2V0KHNlcnZlciwgc3RhdGVNYW5hZ2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmJ0bi1ibG9jayB7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gaW5pdGlhbGl6ZUFwcChzdGF0ZU1hbmFnZXIpOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAxMCUgMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDRlbTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>use</last-search>
+      <last-search>logo</last-search>
       <last-offset />
-      <last-pattern>use</last-pattern>
+      <last-pattern>logo</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -1895,6 +1925,7 @@
         <entry>buildDirectory</entry>
         <entry>io</entry>
         <entry>use</entry>
+        <entry>logo</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
