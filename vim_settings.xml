@@ -675,11 +675,11 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="14" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545006494111">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="10" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545011266911">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -712,11 +712,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/bin/www" timestamp="1545003632257">
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="88" column="22" />
-        <mark key="." line="88" column="22" />
-        <mark key="^" line="88" column="22" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/bin/www" timestamp="1545010631267">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberConfirmationModel.php" timestamp="1431216057331">
         <mark key="'" line="62" column="33" />
@@ -1108,12 +1108,12 @@
         <mark key="^" line="169" column="23" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1545003098111">
-        <mark key="'" line="61" column="28" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="41" />
-        <mark key="^" line="21" column="41" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1545010700231">
+        <mark key="'" line="63" column="13" />
+        <mark key="[" line="63" column="29" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
@@ -1670,6 +1670,12 @@
         <mark key="^" line="430" column="26" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/socket.js" timestamp="1545010822705">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528575941520">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="93" column="0" />
@@ -1700,13 +1706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="124" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="5" column="20" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="521" column="2" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
       <jump line="729" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
       <jump line="734" column="21" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
@@ -1800,43 +1799,50 @@
       <jump line="22" column="23" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="61" column="28" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="102" column="7" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/garage-remote/server/socket.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/garage-remote/server/socket.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/garage-remote/server/socket.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="56" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="63" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzID0+IHJlcy5qc29uKCkpCiAgICAgIC50aGVuKGRhdGEgPT4KICAgICAgICAgIHRoaXMuc2V0U3RhdGUocHJldiA9PiBPYmplY3QuYXNzaWduKHByZXYsIHsKICAgICAgICAgICAgICBpbkZsaWdodDogZmFsc2UsCiAgICAgICAgICAgICAgc3RhdHVzOiBkYXRhLm1lc3NhZ2UKICAgICAgICAgIH0pKQogICAgICApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>this.state.endpoint</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>this.state.endpoint</text>
       </register>
       <register name="/" type="4">
-        <text>buildDirectory</text>
+        <text>io</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29udGV4dDogLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzID0+IHJlcy5qc29uKCkpCiAgICAgIC50aGVuKGRhdGEgPT4KICAgICAgICAgIHRoaXMuc2V0U3RhdGUocHJldiA9PiBPYmplY3QuYXNzaWduKHByZXYsIHsKICAgICAgICAgICAgICBpbkZsaWdodDogZmFsc2UsCiAgICAgICAgICAgICAgc3RhdHVzOiBkYXRhLm1lc3NhZ2UKICAgICAgICAgIH0pKQogICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oYm9keSA9PiBib2R5LmRhdGEpCg==</text>
+        <text encoding="base64">ICBpby5vbignY29ubmVjdGlvbicsIChjbGllbnQpID0+IHsKICAgIGxvZygnc29ja2V0IGNsaWVudCBjb25uZWN0ZWQuLi4nKTsKICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LCA1MDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">aW8ub24oJ2Nvbm5lY3Rpb24nLCAoY2xpZW50KSA9PiB7Cgp9KTsKCmNvbnN0IHBvcnQgPSA4MDAxOwppby5saXN0ZW4ocG9ydCk7CmNvbnNvbGUubG9nKCdzb2NrZXQgSU8gbGlzdGVuaW5nIG9uIHBvcnQuLi4gJywgcG9ydCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdhcmFnZUJ1dHRvbi53cml0ZVN5bmMoR3Bpby5ISUdIKTsK</text>
+        <text encoding="base64">Y29uc3QgaW8gPSByZXF1aXJlKCdzb2NrZXQuaW8nKSgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LCAoZXJyLCB2YWx1ZSkgPT4gewogICAgICBjb25zdCBtZXNzYWdlID0gZXJyID8gZXJyLm1lc3NhZ2UgOiBgZ2FyYWdlIGJ1dHRvbiBzdGF0ZSBzZXQgdG8gJHt2YWx1ZX1gOwogICAgICBsb2cobWVzc2FnZSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gdW5jb21tZW50IGFmdGVyIHBsYWNpbmcgeW91ciBmYXZpY29uIGluIC9wdWJsaWMK</text>
+        <text encoding="base64">ICogQHR5cGUgeyp8dm9pZHxpb30K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1849,9 +1855,9 @@
       </register>
     </registers>
     <search>
-      <last-search>buildDirectory</last-search>
+      <last-search>io</last-search>
       <last-offset />
-      <last-pattern>buildDirectory</last-pattern>
+      <last-pattern>io</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -1884,6 +1890,7 @@
         <entry>nodemon</entry>
         <entry>favicon</entry>
         <entry>buildDirectory</entry>
+        <entry>io</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
