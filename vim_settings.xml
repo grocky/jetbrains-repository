@@ -254,11 +254,15 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/Gpio.js" timestamp="1544914948229">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/containers/AppContainer.dev.js" timestamp="1541618381345">
         <mark key="'" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" timestamp="1545012714405">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="44" />
+        <mark key="^" line="26" column="44" />
+        <mark key="." line="26" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Home/Views/AudioHome/AudioHomeView.php" timestamp="1432260386397">
         <mark key="'" line="1" column="0" />
@@ -675,11 +679,11 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="14" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545011266911">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="27" column="3" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="27" column="3" />
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545014962636">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="11" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -712,11 +716,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/bin/www" timestamp="1545010631267">
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-        <mark key="^" line="25" column="28" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/bin/www" timestamp="1545014387087">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Models/MemberConfirmationModel.php" timestamp="1431216057331">
         <mark key="'" line="62" column="33" />
@@ -731,9 +735,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544904082466">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Member/Controllers/GraphicMemberBinController.php" timestamp="1432648053508">
         <mark key="'" line="104" column="0" />
@@ -786,9 +787,6 @@
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
         <mark key="'" line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/garage-remote/deployment/roles/nodejs/tasks/main.yml" timestamp="1544964726531">
-        <mark key="[" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/package.json" timestamp="1544911756334">
         <mark key="[" line="6" column="21" />
@@ -993,12 +991,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/reducers/logoReducer.js" timestamp="1541616380158">
         <mark key="'" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1544763233422">
+      <file name="$USER_HOME$/Projects/garage-remote/server/middleware/garage-state.js" timestamp="1545013022779">
         <mark key="'" line="25" column="9" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="59" column="40" />
+        <mark key="." line="59" column="40" />
+        <mark key="^" line="59" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/ViewModels/UserLoginViewModel.php" timestamp="1431222592439">
         <mark key="'" line="0" column="0" />
@@ -1108,12 +1106,11 @@
         <mark key="^" line="169" column="23" />
         <mark key="." line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1545010700231">
-        <mark key="'" line="63" column="13" />
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="63" column="31" />
-        <mark key="." line="63" column="31" />
-        <mark key="^" line="63" column="31" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1545014769285">
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
@@ -1190,6 +1187,9 @@
         <mark key="]" line="3" column="56" />
         <mark key="^" line="3" column="56" />
         <mark key="." line="3" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" timestamp="1545012769099">
+        <mark key="'" line="143" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/hooks/PreFlowHotfixFinishPhinxTest.php" timestamp="1432599204295">
         <mark key="'" line="89" column="0" />
@@ -1414,6 +1414,12 @@
         <mark key="^" line="151" column="25" />
         <mark key="." line="151" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/router/index.js" timestamp="1545012780103">
+        <mark key="[" line="427" column="30" />
+        <mark key="]" line="427" column="29" />
+        <mark key="^" line="427" column="29" />
+        <mark key="." line="427" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponseDefaultMessages.php" timestamp="1432390555462">
         <mark key="'" line="6" column="51" />
         <mark key="[" line="21" column="1" />
@@ -1567,9 +1573,6 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544966475386">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceCustomerIOListenerCollection.php" timestamp="1431629782003">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="54" />
@@ -1670,11 +1673,11 @@
         <mark key="^" line="430" column="26" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/server/socket.js" timestamp="1545010822705">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/Projects/garage-remote/server/socket.js" timestamp="1545014104704">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528575941520">
         <mark key="'" line="15" column="0" />
@@ -1706,15 +1709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="729" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="734" column="21" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="23" column="2" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="532" column="23" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="727" column="67" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="774" column="10" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="253" column="25" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
-      <jump line="722" column="4" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
       <jump line="724" column="22" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/lib/client.js" />
       <jump line="64" column="6" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="74" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1796,7 +1790,6 @@
       <jump line="19" column="6" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="20" column="30" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="21" column="26" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="22" column="23" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="61" column="28" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="102" column="7" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/garage-remote/server/socket.js" />
@@ -1806,19 +1799,29 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="56" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
       <jump line="63" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="13" column="1" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="70" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
+      <jump line="8" column="1" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" />
+      <jump line="131" column="65" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" />
+      <jump line="143" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.state.endpoint</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.endpoint</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
-        <text>io</text>
+        <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogLgo=</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gZXhwcmVzcygpOwoKYXBwLnVzZShsb2dnZXIoJ2RldicpKTsKYXBwLnVzZShib2R5UGFyc2VyLmpzb24oKSk7CmFwcC51c2UoYm9keVBhcnNlci51cmxlbmNvZGVkKHsgZXh0ZW5kZWQ6IGZhbHNlIH0pKTsKYXBwLnVzZShjb29raWVQYXJzZXIoKSk7Cgpjb25zdCBidWlsZERpcmVjdG9yeSA9IHBhdGguam9pbihfX2Rpcm5hbWUsICcuLicsICdjbGllbnQnLCAnYnVpbGQnKTsKbG9nKGBVc2luZyBidWlsZCBkaXJlY3Rvcnk6ICR7YnVpbGREaXJlY3Rvcnl9YCk7CmFwcC51c2UoZmF2aWNvbihwYXRoLmpvaW4oYnVpbGREaXJlY3RvcnksICdmYXZpY29uLmljbycpKSk7CmFwcC51c2UoZXhwcmVzcy5zdGF0aWMoYnVpbGREaXJlY3RvcnkpKTsKCmNvbnN0IHN0YXRlTWFuYWdlciA9IG5ldyBTdGF0ZU1hbmFnZXIoJ2dhcmFnZS1zdGF0ZS5qc29uJyk7CgphcHAudXNlKFN0YXRlTWFuYWdlci5taWRkbGV3YXJlKHN0YXRlTWFuYWdlcikpOwoKY29uc3QgbXF0dFRvcGljSGFuZGxlcnMgPSB7CiAgJ2dhcmFnZS9jb25uZWN0ZWQnOiBhc3luYyAobWVzc2FnZSkgPT4gewogICAgbG9nKGBnYXJhZ2UvY29ubmVjdGVkIC0gJHttZXNzYWdlfWApOwogICAgYXdhaXQgc3RhdGVNYW5hZ2VyLnVwZGF0ZVN0YXRlKHsgY29ubmVjdGVkOiBtZXNzYWdlLnRvU3RyaW5nKCkgPT09ICd0cnVlJyB9KTsKICB9LAogICdnYXJhZ2Uvc3RhdGUnOiBhc3luYyAobWVzc2FnZSkgPT4gewogICAgbG9nKGBnYXJhZ2Ugc3RhdGUgdXBkYXRlZCB0byAke21lc3NhZ2V9YCk7CiAgICBhd2FpdCBzdGF0ZU1hbmFnZXIudXBkYXRlU3RhdGUoeyBzdGF0dXM6IG1lc3NhZ2UudG9TdHJpbmcoKSB9KTsKICAgIGF3YWl0IHN0YXRlTWFuYWdlci5zdG9yZVN0YXRlKCk7CiAgfQp9OwoKY29uc3QgbXF0dENsaWVudCA9IG1xdHRDb250cm9sbGVyLmNsaWVudEluaXRpYWxpemVyKHsKICBob3N0OiBwcm9jZXNzLmVudi5NUVRUX0hPU1QgfHwgJ2xvY2FsaG9zdCcsCiAgY2xpZW50SWQ6IHByb2Nlc3MuZW52Lk1RVFRfQ0xJRU5UX0lEIHx8ICcnLAogIHRvcGljSGFuZGxlcnM6IG1xdHRUb3BpY0hhbmRsZXJzLAp9KTsKCm1xdHRDbGllbnQucHVibGlzaCgnZ2FyYWdlL3BpbmcnLCAndHJ1ZScsIGxvZyk7CgphcHAudXNlKG1xdHRDb250cm9sbGVyLm1pZGRsZXdhcmUpOwoKYXBwLnVzZSgnL2dhcmFnZScsIHJlcXVpcmUoJy4vcm91dGVzL2dhcmFnZScpKTsKCmFwcC5nZXQoJyonLCAocmVxLCByZXMpID0+IHsKICByZXMuc2VuZEZpbGUocGF0aC5qb2luKGAke2J1aWxkRGlyZWN0b3J5fS9pbmRleC5odG1sYCkpOwp9KTsKCi8vIGNhdGNoIDQwNCBhbmQgZm9yd2FyZCB0byBlcnJvciBoYW5kbGVyCmFwcC51c2UoKHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgY29uc3QgZXJyID0gbmV3IEVycm9yKCdOb3QgRm91bmQnKTsKICBlcnIuc3RhdHVzID0gNDA0OwogIG5leHQoZXJyKTsKfSk7CgovLyBlcnJvciBoYW5kbGVyCmFwcC51c2UoKGVyciwgcmVxLCByZXMsIG5leHQpID0+IHsKICAvLyBzZXQgbG9jYWxzLCBvbmx5IHByb3ZpZGluZyBlcnJvciBpbiBkZXZlbG9wbWVudAogIHJlcy5sb2NhbHMubWVzc2FnZSA9IGVyci5tZXNzYWdlOwogIHJlcy5sb2NhbHMuZXJyb3IgPSByZXEuYXBwLmdldCgnZW52JykgPT09ICdkZXZlbG9wbWVudCcgPyBlcnIgOiB7fTsKCiAgLy8gcmVuZGVyIHRoZSBlcnJvciBwYWdlCiAgcmVzLnN0YXR1cyhlcnIuc3RhdHVzIHx8IDUwMCk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1827,25 +1830,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpby5vbignY29ubmVjdGlvbicsIChjbGllbnQpID0+IHsKICAgIGxvZygnc29ja2V0IGNsaWVudCBjb25uZWN0ZWQuLi4nKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgIEN1cnJlbnQgc3RhdHVzOiB7dGhpcy5zdGF0ZS5zdGF0dXN9CiAgICAgICAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW8ub24oJ2Nvbm5lY3Rpb24nLCAoY2xpZW50KSA9PiB7Cgp9KTsKCmNvbnN0IHBvcnQgPSA4MDAxOwppby5saXN0ZW4ocG9ydCk7CmNvbnNvbGUubG9nKCdzb2NrZXQgSU8gbGlzdGVuaW5nIG9uIHBvcnQuLi4gJywgcG9ydCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW8gPSByZXF1aXJlKCdzb2NrZXQuaW8nKSgpOwo=</text>
+        <text encoding="base64">aW8uY29uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZSB0aGUgU29ja2V0SU8gc2VydmVyCiAqIEB0eXBlIHtpb30KICovCmNvbnN0IGlvID0gc29ja2V0KHNlcnZlciwgc3RhdGVNYW5hZ2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHR5cGUgeyp8dm9pZHxpb30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gaW5pdGlhbGl6ZUFwcChzdGF0ZU1hbmFnZXIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1855,9 +1858,9 @@
       </register>
     </registers>
     <search>
-      <last-search>io</last-search>
+      <last-search>use</last-search>
       <last-offset />
-      <last-pattern>io</last-pattern>
+      <last-pattern>use</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -1891,6 +1894,7 @@
         <entry>favicon</entry>
         <entry>buildDirectory</entry>
         <entry>io</entry>
+        <entry>use</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -1915,6 +1919,7 @@
         <entry>%s/front-tier/frontend/g</entry>
         <entry>%s/back-tier/devices/</entry>
         <entry>15</entry>
+        <entry>17</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
