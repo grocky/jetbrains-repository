@@ -858,10 +858,10 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1545003994882">
-        <mark key="'" line="102" column="7" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1547318241826">
+        <mark key="'" line="108" column="12" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="40" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="7" />
       </file>
@@ -1740,7 +1740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="4" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="96" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="97" column="64" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="99" column="15" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1840,10 +1839,11 @@
       <jump line="1" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
       <jump line="37" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/style.css" />
+      <jump line="108" column="12" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9idXR0b24+KTsK</text>
+        <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ291dCcpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>getStateRepresentation</text>
@@ -1852,7 +1852,7 @@
         <text>logo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgImdhcmFnZS1jbG9zZWQiOgogICAgICByZXR1cm4gPEdhcmFnZUNsb3NlZCB7Li4ucHJvcHN9IC8+Owo=</text>
+        <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ291dCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPC9idXR0b24+KTsK</text>
