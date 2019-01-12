@@ -410,10 +410,10 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/Makefile" timestamp="1544698725171">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Members/Step1MembersFormParameters.php" timestamp="1431046310517">
         <mark key="'" line="41" column="78" />
@@ -1696,6 +1696,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1547310488830" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1894,18 +1895,10 @@
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Gpio</entry>
-        <entry>console</entry>
-        <entry>project_name</entry>
-        <entry>writeFile</entry>
-        <entry>state updated</entry>
-        <entry>state</entry>
-        <entry>garage</entry>
-        <entry>garage\/connected</entry>
         <entry>offline</entry>
         <entry>reconnectPeriod</entry>
         <entry>setupReconnect</entry>
@@ -1928,10 +1921,6 @@
         <entry>logo</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
-        <entry>action $SelectAll</entry>
-        <entry>sp</entry>
-        <entry>vsp Make</entry>
         <entry>vsp Makefile</entry>
         <entry>30</entry>
         <entry>37</entry>
