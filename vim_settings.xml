@@ -858,12 +858,12 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1547318241826">
-        <mark key="'" line="108" column="12" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="7" />
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1547319264446">
+        <mark key="'" line="104" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -1530,10 +1530,11 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" timestamp="1544966544663">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" timestamp="1547319519942">
+        <mark key="'" line="45" column="25" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/SliderWidget.php" timestamp="1431119190219">
         <mark key="'" line="136" column="31" />
@@ -1740,8 +1741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="97" column="64" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="99" column="15" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="100" column="8" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="102" column="40" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1840,49 +1839,51 @@
       <jump line="37" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/style.css" />
       <jump line="108" column="12" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="33" column="2" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
+      <jump line="45" column="25" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ291dCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getStateRepresentation</text>
+        <text>out</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ291dCcpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fdmFsdWUgPSAxOwogICAgICB0aGlzLmRpcmVjdGlvbiA9ICdvdXQnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9idXR0b24+KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8SWNvbiBuYW1lPXtnYXJhZ2VJY29ufSAvPgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2RpcmVjdGlvbiA9IGRpcmVjdGlvbjsKICAgIHRoaXMuX3ZhbHVlID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0nYnRuIGJ0bi1ibG9jaycgb25DbGljaz17dGhpcy50b2dnbGVHYXJhZ2VCdXR0b259IGRpc2FibGVkPXtpblByb2dyZXNzfT4KICAgICAgICAgICAgICAgIDxJY29uIG5hbWU9e2dhcmFnZUljb259IC8+CiAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2RpcmVjdGlvbiA9IGRpcmVjdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmJ0biBzdmcgewogIGhlaWdodDogOTAlOwogIGZpbGw6ICNmN2Y3Zjc7Cn0K</text>
+        <text encoding="base64">Ci8vIHN0YXJ0IGl0IGhpZ2ggKHJlbGF5IGRlYWN0aXZhdGVkLi4uKQpsb2coJ1N0YXJ0aW5nIEdQSU8gcGluIG9uIGhpJyk7CmdhcmFnZUJ1dHRvbi53cml0ZVN5bmMoR3Bpby5ISUdIKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9idXR0b24+KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmJ0bi1ibG9jayB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICA8SWNvbiBuYW1lPXtnYXJhZ2VJY29ufSAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAxMCUgMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0nYnRuIGJ0bi1ibG9jaycgb25DbGljaz17dGhpcy50b2dnbGVHYXJhZ2VCdXR0b259IGRpc2FibGVkPXtpblByb2dyZXNzfT4KICAgICAgICAgICAgICAgIDxJY29uIG5hbWU9e2dhcmFnZUljb259IC8+CiAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDRlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
