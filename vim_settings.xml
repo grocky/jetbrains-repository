@@ -864,12 +864,12 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1547421630491">
-        <mark key="'" line="104" column="12" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="37" column="19" />
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1547433079945">
+        <mark key="'" line="112" column="11" />
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Pages/ViewModels/AudioStaticPageViewModel.php" timestamp="1431220319776">
         <mark key="'" line="14" column="11" />
@@ -1747,7 +1747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="8" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="102" column="40" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="114" column="20" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="10" column="23" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1847,62 +1846,63 @@
       <jump line="33" column="2" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
       <jump line="45" column="25" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/garage-remote/README.md" />
+      <jump line="109" column="11" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vIEFsd2F5cyByZXN0YXJ0IHRoZSBzdGF0ZSB0byBjbG9zZWQgb24gcmVib290IGZvciBub3cuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>swtich</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>sending state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ2hpZ2gnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vIEFsd2F5cyByZXN0YXJ0IHRoZSBzdGF0ZSB0byBjbG9zZWQgb24gcmVib290IGZvciBub3cuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W3NldHVwXSguL3Jhc3BiZXJyeS1waS1zZXR1cC5tZCkKCg==</text>
+        <text encoding="base64">Ci8vIEFsd2F5cyByZXN0YXJ0IHRoZSBzdGF0ZSB0byBjbG9zZWQgb24gcmVib290IGZvciBub3cuLi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgYXBwbGljYXRpb24gc2V0dXAKCjEuIGNsb25lIHRoZSByZXBvIG9udG8gdGhlIHBpICh0b2RvOiBtYWtlIGRlcGxveW1lbnQgY29uZmlnKQoyLiBpbnN0YWxsIHBtMjogYHN1ZG8gbnBtIGkgLWcgcG0yYAozLiBgc3VkbyBzZXRjYXAgJ2NhcF9uZXRfYmluZF9zZXJ2aWNlPStlcCcgJCh3aGljaCBub2RlKWAKNC4gYWRkIHBtMiBzdGFydHVwIGNvbmZpZwogICAgYGBgCiAgICBzdWRvIGVudiBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluIHBtMiBzdGFydHVwIHN5c3RlbWQgLXUgcGkgLS1ocCAvaG9tZS9waQogICAgYGBgCjUuIGBjZCBnYXJhZ2UtcmVtb3RlICYmIG5wbSBydW4gYnVpbGRgCjYuIGBjZCBzZXJ2ZXIgJiYgbnBtIGluc3RhbGwgJiYgcG0yIHN0YXJ0IGVjb3N5c3RlbS5jb25maWcuanNgCg==</text>
+        <text encoding="base64">W3NldHVwXSguL3Jhc3BiZXJyeS1waS1zZXR1cC5tZCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClN0YXRpYyBpcDogaHR0cDovLzE5Mi4xNjguMS4xMAo=</text>
+        <text encoding="base64">IyMgYXBwbGljYXRpb24gc2V0dXAKCjEuIGNsb25lIHRoZSByZXBvIG9udG8gdGhlIHBpICh0b2RvOiBtYWtlIGRlcGxveW1lbnQgY29uZmlnKQoyLiBpbnN0YWxsIHBtMjogYHN1ZG8gbnBtIGkgLWcgcG0yYAozLiBgc3VkbyBzZXRjYXAgJ2NhcF9uZXRfYmluZF9zZXJ2aWNlPStlcCcgJCh3aGljaCBub2RlKWAKNC4gYWRkIHBtMiBzdGFydHVwIGNvbmZpZwogICAgYGBgCiAgICBzdWRvIGVudiBQQVRIPSRQQVRIOi91c3IvbG9jYWwvYmluIHBtMiBzdGFydHVwIHN5c3RlbWQgLXUgcGkgLS1ocCAvaG9tZS9waQogICAgYGBgCjUuIGBjZCBnYXJhZ2UtcmVtb3RlICYmIG5wbSBydW4gYnVpbGRgCjYuIGBjZCBzZXJ2ZXIgJiYgbnBtIGluc3RhbGwgJiYgcG0yIHN0YXJ0IGVjb3N5c3RlbS5jb25maWcuanNgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgbG9nKCdnYXJhZ2UgZG9vciBmaW5pc2hlZCBjbG9zaW5nJyk7CiAgICAgIHN0YXRlID0gJ2Nsb3NlZCc7CiAgICAgIHNlbmRTdGF0ZVVwZGF0ZSgpOwogICAgfSwgMTAwMCAqIDExKTsK</text>
+        <text encoding="base64">ClN0YXRpYyBpcDogaHR0cDovLzE5Mi4xNjguMS4xMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgbG9nKCdnYXJhZ2UgZG9vciBmaW5pc2hlZCBjbG9zaW5nJyk7CiAgICAgIHN0YXRlID0gJ2Nsb3NlZCc7CiAgICAgIHNlbmRTdGF0ZVVwZGF0ZSgpOwogICAgfSwgMTAwMCAqIDExKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHNpbXVsYXRlIGRvb3Igb3BlbiBhZnRlciA1IHNlY29uZHMgKHdvdWxkIGJlIGxpc3RlbmluZyB0byBoYXJkd2FyZSkKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBsb2coJ2dhcmFnZSBkb29yIGZpbmlzaGVkIG9wZW5pbmcnKTsKICAgICAgc3RhdGUgPSAnb3Blbic7CiAgICAgIHNlbmRTdGF0ZVVwZGF0ZSgpOwogICAgfSwgMTAwMCAqIDExKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBmYWxsaW5nIGVkZ2UgaXMgMCwgcmlzaW5nIGVkZ2UgaXMgMQo=</text>
+        <text encoding="base64">ICAgIC8vIHNpbXVsYXRlIGRvb3Igb3BlbiBhZnRlciA1IHNlY29uZHMgKHdvdWxkIGJlIGxpc3RlbmluZyB0byBoYXJkd2FyZSkKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBsb2coJ2dhcmFnZSBkb29yIGZpbmlzaGVkIG9wZW5pbmcnKTsKICAgICAgc3RhdGUgPSAnb3Blbic7CiAgICAgIHNlbmRTdGF0ZVVwZGF0ZSgpOwogICAgfSwgMTAwMCAqIDExKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0ZQo=</text>
+        <text encoding="base64">ICAvLyBmYWxsaW5nIGVkZ2UgaXMgMCwgcmlzaW5nIGVkZ2UgaXMgMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>sending state</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>sending state</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1910,7 +1910,6 @@
         <entry>reconnectPeriod</entry>
         <entry>setupReconnect</entry>
         <entry>log</entry>
-        <entry>sending state</entry>
         <entry>npm</entry>
         <entry>controller_name</entry>
         <entry>Epoll</entry>
@@ -1926,6 +1925,8 @@
         <entry>io</entry>
         <entry>use</entry>
         <entry>logo</entry>
+        <entry>sendingState</entry>
+        <entry>sending state</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
