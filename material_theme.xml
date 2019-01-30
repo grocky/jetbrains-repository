@@ -1,6 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="PALENIGHT" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="userId" value="6b71acbd:1689bc8272e:-7fff" />
+    <option name="version" value="3.5.0" />
   </component>
 </application>
