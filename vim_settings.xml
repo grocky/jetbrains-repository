@@ -503,6 +503,13 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/learnGitBranching/src/js/sandbox/commands.js" timestamp="1551480162096">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="101" column="27" />
+        <mark key="]" line="101" column="27" />
+        <mark key="." line="101" column="27" />
+        <mark key="^" line="101" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/SocialLinksList.js" timestamp="1541620342430">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="0" column="12" />
@@ -1759,7 +1766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="129" column="24" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="12" column="23" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
@@ -1859,58 +1865,59 @@
       <jump line="96" column="41" filename="$USER_HOME$/Projects/node-db-migrate/lib/walker.js" />
       <jump line="97" column="22" filename="$USER_HOME$/Projects/node-db-migrate/lib/walker.js" />
       <jump line="25" column="6" filename="$USER_HOME$/Projects/node-db-migrate/lib/walker.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/Projects/learnGitBranching/src/js/sandbox/commands.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID09PSBHcGlvLkhJR0ggPyAnY2xvc2VkJyA6ICdvcGVuJzs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFsbENvbW1hbmRzLmZvckVhY2goZnVuY3Rpb24ocmVnZXgsIGNvbW1hbmQpIHsKICAgICAgbGluZXMucHVzaChjb21tYW5kKTsKICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID09PSBHcGlvLkhJR0ggPyAnY2xvc2VkJyA6ICdvcGVuJzs=</text>
       </register>
       <register name="/" type="4">
-        <text>up</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ2hpZ2gnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbENvbW1hbmRzLmZvckVhY2goZnVuY3Rpb24ocmVnZXgsIGNvbW1hbmQpIHsKICAgICAgbGluZXMucHVzaChjb21tYW5kKTsKICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZW5kU3RhdGVVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgc3RhdGUgPSBlZGdlID09PSBHcGlvLkxPVyA/ICdjbG9zZWQnIDogJ29wZW4nOwo=</text>
+        <text encoding="base64">ICBzZW5kU3RhdGVVcGRhdGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2coJ01hZ25ldGljIHN3aXRjaCBjaGFuZ2VkJywgeyBlZGdlIH0pOwo=</text>
+        <text encoding="base64">CiAgc3RhdGUgPSBlZGdlID09PSBHcGlvLkxPVyA/ICdjbG9zZWQnIDogJ29wZW4nOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2coJ01hZ25ldGljIHN3aXRjaCBjaGFuZ2VkJywgeyBlZGdlIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIEFsd2F5cyByZXN0YXJ0IHRoZSBzdGF0ZSB0byBjbG9zZWQgb24gcmVib290IGZvciBub3cuLi4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>up</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>up</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -1918,7 +1925,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>npm</entry>
         <entry>controller_name</entry>
         <entry>Epoll</entry>
@@ -1939,6 +1945,8 @@
         <entry>state</entry>
         <entry>state =</entry>
         <entry>up</entry>
+        <entry>comands</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
