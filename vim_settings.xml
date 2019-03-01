@@ -351,6 +351,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="1" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/learnGitBranching/src/js/commands/index.js" timestamp="1551482166053">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/debt-tracker/client/node_modules/@fortawesome/fontawesome-free-brands/index.d.ts" timestamp="1526168690834">
         <mark key="'" line="185" column="20" />
       </file>
@@ -1457,6 +1463,9 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" timestamp="1551482322246">
+        <mark key="'" line="117" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/User/Models/UserPasswordResetModel.php" timestamp="1431222548576">
         <mark key="'" line="151" column="25" />
         <mark key="[" line="151" column="25" />
@@ -1766,15 +1775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="24" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="12" column="23" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/garage-remote/server/garage.mqtt.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="30" column="31" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="69" column="43" filename="$USER_HOME$/Projects/garage-remote/deployment/deploy.yml" />
-      <jump line="8" column="22" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="31" column="21" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="4" column="1" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
       <jump line="4" column="31" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/node_modules/onoff/onoff.js" />
       <jump line="162" column="27" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/node_modules/onoff/onoff.js" />
@@ -1866,6 +1866,15 @@
       <jump line="97" column="22" filename="$USER_HOME$/Projects/node-db-migrate/lib/walker.js" />
       <jump line="25" column="6" filename="$USER_HOME$/Projects/node-db-migrate/lib/walker.js" />
       <jump line="84" column="0" filename="$USER_HOME$/Projects/learnGitBranching/src/js/sandbox/commands.js" />
+      <jump line="330" column="7" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="443" column="51" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="557" column="13" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="562" column="13" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="570" column="33" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="571" column="34" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="639" column="21" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="761" column="41" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="117" column="2" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1875,7 +1884,7 @@
         <text encoding="base64">ID09PSBHcGlvLkhJR0ggPyAnY2xvc2VkJyA6ICdvcGVuJzs=</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>checkout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ2hpZ2gnKTsK</text>
@@ -1915,9 +1924,9 @@
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>checkout</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>checkout</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -1947,6 +1956,8 @@
         <entry>up</entry>
         <entry>comands</entry>
         <entry>show</entry>
+        <entry>commit</entry>
+        <entry>checkout</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
