@@ -246,6 +246,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/index.js" timestamp="1558194075827">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="21" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Api/Models/ApiErrorCode.php" timestamp="1432262336756">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="2" column="10" />
@@ -384,6 +390,11 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/package.json" timestamp="1558194171666">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
         <mark key="'" line="50" column="0" />
@@ -663,6 +674,12 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/containers/AppContainer.js" timestamp="1558194270072">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Signup/ViewModels/GraphicJoinStep2ViewModel.php" timestamp="1431247659832">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="58" />
@@ -790,6 +807,7 @@
         <mark key="^" line="336" column="15" />
         <mark key="." line="336" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/containers/App.js" timestamp="1558194349037" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/ViewModels/ActivateSubMemberViewModel.php" timestamp="1431216245964">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="47" column="93" />
@@ -1330,6 +1348,12 @@
         <mark key="." line="64" column="50" />
         <mark key="^" line="64" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/components/IconLinkListItem.js" timestamp="1558194692754">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/AbTestHooks.php" timestamp="1431051758146">
         <mark key="'" line="75" column="21" />
         <mark key="[" line="360" column="55" />
@@ -1775,7 +1799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="1" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
       <jump line="4" column="31" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/node_modules/onoff/onoff.js" />
       <jump line="162" column="27" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/node_modules/onoff/onoff.js" />
       <jump line="18" column="17" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
@@ -1875,58 +1898,59 @@
       <jump line="639" column="21" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
       <jump line="761" column="41" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
       <jump line="117" column="2" filename="$USER_HOME$/Projects/learnGitBranching/src/js/git/commands.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/containers/AppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsbENvbW1hbmRzLmZvckVhY2goZnVuY3Rpb24ocmVnZXgsIGNvbW1hbmQpIHsKICAgICAgbGluZXMucHVzaChjb21tYW5kKTsKICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>noopener</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09PSBHcGlvLkhJR0ggPyAnY2xvc2VkJyA6ICdvcGVuJzs=</text>
+        <text>noopener</text>
       </register>
       <register name="/" type="4">
-        <text>checkout</text>
+        <text>font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ2FyYWdlQnV0dG9uID0gbmV3IEdwaW8oNCwgJ2hpZ2gnKTsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsbENvbW1hbmRzLmZvckVhY2goZnVuY3Rpb24ocmVnZXgsIGNvbW1hbmQpIHsKICAgICAgbGluZXMucHVzaChjb21tYW5kKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Ly8gQXBwQ29udGFpbmVyLnByb3BUeXBlcyA9IHsKLy8gICBzdG9yZTogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAovLyAgIGluaXRpYWxQcm9wczogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkCi8vIH07Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJzdGFydDpkZXYiOiAiREVCVUc9dHJ1ZSBub2RlIHNlcnZlci5qcyIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdsaW5rZWRpbicsCiAgICAgICAgdXJsOiAnaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3JvY2t5Z3JheScKICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZW5kU3RhdGVVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbENvbW1hbmRzLmZvckVhY2goZnVuY3Rpb24ocmVnZXgsIGNvbW1hbmQpIHsKICAgICAgbGluZXMucHVzaChjb21tYW5kKTsKICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgc3RhdGUgPSBlZGdlID09PSBHcGlvLkxPVyA/ICdjbG9zZWQnIDogJ29wZW4nOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2coJ01hZ25ldGljIHN3aXRjaCBjaGFuZ2VkJywgeyBlZGdlIH0pOwo=</text>
+        <text encoding="base64">ICBzZW5kU3RhdGVVcGRhdGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkout</last-search>
+      <last-search>font</last-search>
       <last-offset />
-      <last-pattern>checkout</last-pattern>
+      <last-pattern>font</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -1934,10 +1958,6 @@
     </search>
     <history>
       <history-search>
-        <entry>npm</entry>
-        <entry>controller_name</entry>
-        <entry>Epoll</entry>
-        <entry>levels</entry>
         <entry>LOW</entry>
         <entry>HIGH</entry>
         <entry>signal</entry>
@@ -1958,6 +1978,7 @@
         <entry>show</entry>
         <entry>commit</entry>
         <entry>checkout</entry>
+        <entry>font</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
