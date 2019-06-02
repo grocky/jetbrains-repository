@@ -20,11 +20,12 @@
       <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/onoff/onoff.js" timestamp="1544366148625">
         <mark key="'" line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/index.js" timestamp="1559497538886">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-        <mark key="^" line="4" column="42" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/index.js" timestamp="1559505647665">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/containers/AppContainer.dev.js" timestamp="1541618381345">
         <mark key="'" line="10" column="13" />
@@ -41,12 +42,12 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/index.html" timestamp="1541620918081">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" timestamp="1559501515335">
-        <mark key="'" line="57" column="34" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" timestamp="1559506026588">
+        <mark key="'" line="28" column="15" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="32" column="10" />
+        <mark key="." line="32" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/Makefile" timestamp="1541621521826">
         <mark key="'" line="0" column="0" />
@@ -70,11 +71,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1559501304341">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1559505984294">
+        <mark key="'" line="0" column="34" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/vendor/robmorgan/phinx/src/Phinx/Console/PhinxApplication.php" timestamp="1432931947971">
         <mark key="'" line="79" column="0" />
@@ -91,6 +93,9 @@
         <mark key="]" line="78" column="10" />
         <mark key="^" line="3" column="27" />
         <mark key="." line="78" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" timestamp="1559505581820">
+        <mark key="'" line="92" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoReducer/logoReducer.js" timestamp="1559500522963" />
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/reducers/logoReducer.js" timestamp="1541616380158">
@@ -142,15 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="2" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
-      <jump line="67" column="2" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
-      <jump line="65" column="2" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
-      <jump line="27" column="20" filename="$USER_HOME$/Projects/garage-remote/docker-compose.yml" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
-      <jump line="19" column="16" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/Dockerfile" />
       <jump line="17" column="11" filename="$USER_HOME$/Projects/garage-remote/server/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/garage-remote/server/Dockerfile" />
@@ -242,58 +238,67 @@
       <jump line="16" column="13" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="57" column="34" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/index.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
+      <jump line="92" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
+      <jump line="43" column="3" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
+      <jump line="0" column="34" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" />
+      <jump line="28" column="15" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>LogoActions.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>LogoActions</text>
+        <text>Provider</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUHJvZmlsZUNvbnRhaW5lciBleHRlbmRzIENvbXBvbmVudCB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxQcm92aWRlciBzdG9yZT17dGhpcy5wcm9wcy5zdG9yZX0+CiAgICAgICAgPFByb2ZpbGUgLz4KICAgICAgPC9Qcm92aWRlcj4KICAgICk7CiAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpleHBvcnQgZnVuY3Rpb24gdXBkYXRlU2VjdGlvbnMoKSB7CiAgcmV0dXJuIHsKICAgIHR5cGU6IHR5cGVzLkxPR09fSU5URVJBQ1RJT04sCiAgfQp9CgpleHBvcnQgZnVuY3Rpb24gY3JlYXRlTG9nbyhsb2dvUmVmKSB7CiAgcmV0dXJuIHsKICAgIHR5cGU6IHR5cGVzLkxPR09fQ1JFQVRFRCwKICAgIHBheWxvYWQ6IHsgbG9nb1JlZiB9CiAgfQp9CgpleHBvcnQgZnVuY3Rpb24gc3RhcnRSb3RhdGlvbigpIHsKICByZXR1cm4gewogICAgdHlwZTogdHlwZXMuU1BJTl9TVEFSVEVELAogICAgcGF5bG9hZDogewogICAgICBpc1NwaW5uaW5nOiB0cnVlCiAgICB9CiAgfQp9CgpleHBvcnQgZnVuY3Rpb24gcm90YXRpb25TdG9wcGVkKCkgewogIHJldHVybiB7CiAgICB0eXBlOiB0eXBlcy5TUElOX1NUT1BQRUQsCiAgICBwYXlsb2FkOiB7CiAgICAgIGlzU3Bpbm5pbmc6IGZhbHNlCiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">CmltcG9ydCB7IFR3ZWVuTWF4LCBQb3dlcjQgfSBmcm9tICdnc2FwJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHR5cGVzID0gewp9OwoK</text>
+        <text encoding="base64">CmNsYXNzIFByb2ZpbGVDb250YWluZXIgZXh0ZW5kcyBDb21wb25lbnQgewoKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8UHJvdmlkZXIgc3RvcmU9e3RoaXMucHJvcHMuc3RvcmV9PgogICAgICAgIDxQcm9maWxlIC8+CiAgICAgIDwvUHJvdmlkZXI+CiAgICApOwogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgUm9vdCA9ICh7IHN0b3JlIH0pID0+IHsKfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdHlwZXMgYXMgY2FyZEFjdGlvblR5cGVzIH0gZnJvbSAnLi4vTG9nb0FjdGlvbnMnOwo=</text>
+        <text encoding="base64">ICA8Um9vdCBzdG9yZT17c3RvcmV9IC8+LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMT0dPX0lOVEVSQUNUSU9OOiAnTE9HT19JTlRFUkFDVElPTicsCiAgTE9HT19DUkVBVEVEOiAnTE9HT19DUkVBVEVEJywKICBTUElOX1NUQVJURUQ6ICdTUElOX1NUQVJURUQnLAogIFNQSU5fU1RPUFBFRDogJ1NQSU5fU1RPUFBFRCcK</text>
+        <text encoding="base64">ICA8UHJvdmlkZXIgc3RvcmU9e3N0b3JlfT4KICAgIDxQcm9maWxlIC8+CiAgPC9Qcm92aWRlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIGxvZ29zKHN0YXRlID0gaW5pdGlhbFN0YXRlLCBhY3Rpb24pIHsKfQo=</text>
+        <text encoding="base64">ICA8QXBwQ29udGFpbmVyIHN0b3JlPXtzdG9yZX0gLz4sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LogoActions</last-search>
+      <last-search>Provider</last-search>
       <last-offset />
-      <last-pattern>LogoActions</last-pattern>
+      <last-pattern>Provider</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -322,6 +327,7 @@
         <entry>checkout</entry>
         <entry>font</entry>
         <entry>LogoActions</entry>
+        <entry>Provider</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
