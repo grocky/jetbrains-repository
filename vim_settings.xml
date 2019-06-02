@@ -256,7 +256,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Provider</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0sCg==</text>
@@ -296,9 +296,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Provider</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>Provider</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>devices</last-replace>
       <last-substitute>back-tier</last-substitute>
       <last-dir>1</last-dir>
@@ -328,6 +328,7 @@
         <entry>font</entry>
         <entry>LogoActions</entry>
         <entry>Provider</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
