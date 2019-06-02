@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="VimVisualToggleBlockMode">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+</keymap>
