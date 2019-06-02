@@ -59,6 +59,7 @@
       <file name="$USER_HOME$/Projects/rockygray.com/client/js/components/SocialLinksList.js" timestamp="1541615781354">
         <mark key="'" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/index.css" timestamp="1559517898706" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Signup/SubscriptionService.php" timestamp="1431285525066">
         <mark key="'" line="537" column="65" />
         <mark key="[" line="46" column="0" />
@@ -192,8 +193,12 @@
         <mark key="^" line="70" column="45" />
         <mark key="." line="70" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/component.js" timestamp="1559514768858">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/component.js" timestamp="1559516591300">
         <mark key="'" line="8" column="118" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/AbTestSegment.php" timestamp="1432687543703">
         <mark key="'" line="3" column="0" />
@@ -292,8 +297,12 @@
         <mark key="^" line="67" column="61" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1559510854917">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1559517988667">
         <mark key="'" line="2" column="0" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Views/MemberBillingView.php" timestamp="1431216793641">
         <mark key="'" line="0" column="0" />
@@ -372,6 +381,13 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1559518073289">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="55" column="14" />
+        <mark key="]" line="55" column="13" />
+        <mark key="^" line="55" column="13" />
+        <mark key="." line="55" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
         <mark key="'" line="50" column="0" />
@@ -659,6 +675,12 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/containers/AppContainer.js" timestamp="1559496391275">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Signup/ViewModels/GraphicJoinStep2ViewModel.php" timestamp="1431247659832">
         <mark key="'" line="4" column="0" />
@@ -1414,12 +1436,11 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559514667927">
-        <mark key="'" line="29" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="2" column="20" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559518019661">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
@@ -1712,19 +1733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="13" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="13" column="1" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="70" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
-      <jump line="8" column="1" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
-      <jump line="109" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/express.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" />
-      <jump line="131" column="65" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" />
-      <jump line="143" column="17" filename="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/application.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/garage-remote/server/server.js" />
-      <jump line="13" column="19" filename="$USER_HOME$/Projects/garage-remote/client/src/components/Icons/index.js" />
-      <jump line="43" column="30" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
       <jump line="1" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
       <jump line="37" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/style.css" />
@@ -1812,58 +1820,71 @@
       <jump line="4" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfilePicture.js" />
       <jump line="46" column="13" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfilePicture.js" />
       <jump line="8" column="118" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/component.js" />
+      <jump line="31" column="5" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="34" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="48" column="9" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="45" column="12" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="9" column="12" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhpZ2hsaWdodENvbG9yPXsiIzM1MzUzNSJ9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2luZG93Ll9fUkVEVVhfREVWVE9PTFNfRVhURU5TSU9OX18gJiYgd2luZG93Ll9fUkVEVVhfREVWVE9PTFNfRVhURU5TSU9OX18oKSw=</text>
+        <text>this.props.actions.</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>highlightedSections</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGhpZ2hsaWdodENvbG9yPXsiIzM1MzUzNSJ9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVNlY3Rpb25zOiAoKSA9PiBkaXNwYXRjaCh1cGRhdGVTZWN0aW9ucygpKSwKICAgIHN0YXJ0Um90YXRpb246ICgpID0+IGRpc3BhdGNoKHN0YXJ0Um90YXRpb24oKSksCiAgICByb3RhdGlvblN0b3BwZWQ6ICgpID0+IGRpc3BhdGNoKHJvdGF0aW9uU3RvcHBlZCgpKSwKICAgIGNyZWF0ZUxvZ286IChyZWYpID0+IGRpc3BhdGNoKGNyZWF0ZUxvZ28ocmVmKSksCiAgfQp9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhY3Rpb25zOiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBjcmVhdGVMb2dvLAogIHJvdGF0aW9uU3RvcHBlZCwKICBzdGFydFJvdGF0aW9uLAogIHVwZGF0ZVNlY3Rpb25zCn0gZnJvbSAiLi9pbmRleCI7Cg==</text>
+        <text encoding="base64">ICApID0+ICgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ28gZnJvbSAnLi9jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZ21lbnRzLAogICAgICAgICAgICAgICAgZmlsbENvbG9yLCAKICAgICAgICAgICAgICAgIGhpZ2hsaWdodENvbG9yLAogICAgICAgICAgICAgICAgY3JlYXRlTG9nbywKICAgICAgICAgICAgICAgIG9uTW91c2VFbnRlciwKICAgICAgICAgICAgICAgIG9uQ2xpY2ssCiAgICAgICAgICAgICAgICBoaWdobGlnaHRlZFNlY3Rpb25zLAogICAgICAgICAgICAgICAgY29udGFpbmVyQ2xhc3MsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>highlightedSections</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>highlightedSections</last-pattern>
       <last-replace>className</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -1897,6 +1918,10 @@
         <entry>Logo</entry>
         <entry>react</entry>
         <entry>class</entry>
+        <entry>highlighted</entry>
+        <entry>onMouseEnter</entry>
+        <entry>props</entry>
+        <entry>highlightedSections</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
@@ -1919,6 +1944,7 @@
         <entry>17</entry>
         <entry>15</entry>
         <entry>%s/class/className/g</entry>
+        <entry>39</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
