@@ -382,12 +382,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1559525946996">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="38" />
-        <mark key="^" line="54" column="38" />
-        <mark key="." line="54" column="38" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1559527656420">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
         <mark key="'" line="50" column="0" />
@@ -1430,12 +1430,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559525707953">
-        <mark key="'" line="26" column="6" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="54" column="13" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559527107816">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="53" column="13" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
@@ -1812,7 +1812,6 @@
       <jump line="71" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="34" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="1" column="7" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="8" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="45" column="12" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="50" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
@@ -1828,13 +1827,14 @@
       <jump line="48" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>svgRef</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>svgRef</text>
+        <text encoding="base64">ID0gVHdlZW5NYXg=</text>
       </register>
       <register name="/" type="4">
         <text>mergeProps</text>
@@ -1843,34 +1843,34 @@
         <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3ZnUmVmLAo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBUd2Vlbk1heC50byhsb2dvUmVmLCAzLCB7CiAgICB0aHJvd1Byb3BzOiB7CiAgICAgIHJvdGF0aW9uOiB7CiAgICAgICAgdmVsb2NpdHk6IDgwMCwKICAgICAgICBlbmQ6IG5hdHVyYWxMYW5kaW5nVmFsdWUgPT4gTWF0aC5yb3VuZChuYXR1cmFsTGFuZGluZ1ZhbHVlIC8gMTgwKSAqIDE4MAogICAgICB9CiAgICB9LAogICAgZWFzZTogUG93ZXI0LmVhc2VPdXQsCiAgICBvbkNvbXBsZXRlOiByb3RhdGlvblN0b3BwZWQKICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9e3N2Z1JlZn0K</text>
+        <text encoding="base64">aW1wb3J0IHsgVHdlZW5NYXgsIFBvd2VyNCB9IGZyb20gJ2dzYXAnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3ZnUmVmLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBUd2Vlbk1heC50byhsb2dvUmVmLCAzLCB7CiAgICB0aHJvd1Byb3BzOiB7CiAgICAgIHJvdGF0aW9uOiB7CiAgICAgICAgdmVsb2NpdHk6IDgwMCwKICAgICAgICBlbmQ6IG5hdHVyYWxMYW5kaW5nVmFsdWUgPT4gTWF0aC5yb3VuZChuYXR1cmFsTGFuZGluZ1ZhbHVlIC8gMTgwKSAqIDE4MAogICAgICB9CiAgICB9LAogICAgZWFzZTogUG93ZXI0LmVhc2VPdXQsCiAgICBvbkNvbXBsZXRlOiByb3RhdGlvblN0b3BwZWQKICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KSA9PiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWY9e3N2Z1JlZn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaGFuZGxlT25Nb3VzZUVudGVyID0gKGV2ZW50KSA9PiB7CiAgY29uc29sZS5sb2coZXZlbnQpOwogIHVwZGF0ZVNlY3Rpb25zKCk7Cn07Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">KSA9PiA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
