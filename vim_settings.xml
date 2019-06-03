@@ -297,12 +297,12 @@
         <mark key="^" line="67" column="61" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1559517988667">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1559520767258">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Views/MemberBillingView.php" timestamp="1431216793641">
         <mark key="'" line="0" column="0" />
@@ -382,12 +382,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1559518073289">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="55" column="13" />
-        <mark key="^" line="55" column="13" />
-        <mark key="." line="55" column="13" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1559522331011">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="27" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
         <mark key="'" line="50" column="0" />
@@ -675,6 +675,12 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/containers/AppContainer.js" timestamp="1559496391275">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Signup/ViewModels/GraphicJoinStep2ViewModel.php" timestamp="1431247659832">
         <mark key="'" line="4" column="0" />
@@ -966,12 +972,12 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="78" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" timestamp="1559514780257">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="84" column="23" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="84" column="26" />
-        <mark key="^" line="84" column="26" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" timestamp="1559521332933">
+        <mark key="'" line="19" column="1" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoReducer/logoReducer.js" timestamp="1559500522963" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/mailchimp/Mailchimp/Campaigns.php" timestamp="1431273443578">
@@ -1430,12 +1436,11 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559519168615">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="46" column="25" />
-        <mark key="." line="46" column="25" />
-        <mark key="^" line="46" column="25" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559521507657">
+        <mark key="'" line="45" column="18" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
@@ -1728,13 +1733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
-      <jump line="37" column="20" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/garage-remote/client/src/components/App/style.css" />
-      <jump line="108" column="12" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="33" column="2" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
-      <jump line="45" column="25" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/garage-remote/README.md" />
       <jump line="109" column="11" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
@@ -1821,65 +1819,74 @@
       <jump line="71" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="34" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="1" column="7" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="48" column="9" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="13" column="4" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="8" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="45" column="12" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="50" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="15" column="4" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="9" column="12" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="45" column="17" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="21" column="1" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="48" column="18" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9uTW91c2VFbnRlcj17dXBkYXRlU2VjdGlvbnN9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createLogo</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.actions.</text>
+        <text>createLogo</text>
       </register>
       <register name="/" type="4">
-        <text>highlightedSections</text>
+        <text>updateSections</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uTW91c2VFbnRlcj17dXBkYXRlU2VjdGlvbnN9Cg==</text>
+        <text encoding="base64">ICAgICAgaGlnaGxpZ2h0Q29sb3IsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGhpZ2hsaWdodENvbG9yPXsiIzM1MzUzNSJ9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IGV4dHJhY3QgdG8gU1ZHUGF0aHNHcm91cAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmNvbnN0IExvZ28gPSAoewogICAgc2VnbWVudHMsCiAgICBmaWxsQ29sb3IsCiAgICBoaWdobGlnaHRDb2xvciwKICAgIGNyZWF0ZUxvZ28sCiAgICBvbk1vdXNlRW50ZXIsCiAgICBvbkNsaWNrLAogICAgaGlnaGxpZ2h0ZWRTZWN0aW9ucywKICAgIGNvbnRhaW5lckNsYXNzLAp9KSA9PiA7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">ICByZWVuZGVyKCkgewoKICAvLyBUT0RPOiBleHRyYWN0IHRvIFNWR1BhdGhzR3JvdXAKICBjb25zdCBsb2dvUGF0aHMgPSBzZWdtZW50cy5tYXAoc2VnbWVudCA9PiAoCiAgICA8TG9nb1BhdGgKICAgICAga2V5PXtzZWdtZW50LmlkfQogICAgICBmaWxsPXtoaWdobGlnaHRlZFNlY3Rpb25zLmluY2x1ZGVzKHNlZ21lbnQuaWQpID8gaGlnaGxpZ2h0Q29sb3IgOiBzZWdtZW50LmZpbGx9CiAgICAgIHBhdGg9e3NlZ21lbnQucGF0aH0KICAgIC8+CiAgKSk7CgogIHJldHVybiAoCiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgICAgY2xhc3NOYW1lPXtjb250YWluZXJDbGFzc30KICAgICAgICAgZmlsbD17ZmlsbENvbG9yfQogICAgICAgICB2aWV3Qm94PSIwIDAgMjE1IDMyMyIKICAgICAgICAgcmVmPXtjcmVhdGVMb2dvfQogICAgICAgICBvbk1vdXNlRW50ZXI9e29uTW91c2VFbnRlcn0KICAgICAgICAgb25DbGljaz17b25DbGlja30KICAgID4KICAgICAgey8qIFRPRE8gbWFrZSB0aGlzIGEgU1ZHUGF0aHNHcm91cCovfQogICAgICB7Lyo8IFNWR1BhdGhzR3JvdXAgLz4qL30KICAgICAgPGc+CiAgICAgICAge2xvZ29QYXRoc30KICAgICAgPC9nPgogICAgPC9zdmc+CiAgKTsKfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVNlY3Rpb25zOiAoKSA9PiBkaXNwYXRjaCh1cGRhdGVTZWN0aW9ucygpKSwKICAgIHN0YXJ0Um90YXRpb246ICgpID0+IGRpc3BhdGNoKHN0YXJ0Um90YXRpb24oKSksCiAgICByb3RhdGlvblN0b3BwZWQ6ICgpID0+IGRpc3BhdGNoKHJvdGF0aW9uU3RvcHBlZCgpKSwKICAgIGNyZWF0ZUxvZ286IChyZWYpID0+IGRpc3BhdGNoKGNyZWF0ZUxvZ28ocmVmKSksCiAgfQp9KTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewoKICAvLyBUT0RPOiBleHRyYWN0IHRvIFNWR1BhdGhzR3JvdXAKICBjb25zdCBsb2dvUGF0aHMgPSBzZWdtZW50cy5tYXAoc2VnbWVudCA9PiAoCiAgICA8TG9nb1BhdGgKICAgICAga2V5PXtzZWdtZW50LmlkfQogICAgICBmaWxsPXtoaWdobGlnaHRlZFNlY3Rpb25zLmluY2x1ZGVzKHNlZ21lbnQuaWQpID8gaGlnaGxpZ2h0Q29sb3IgOiBzZWdtZW50LmZpbGx9CiAgICAgIHBhdGg9e3NlZ21lbnQucGF0aH0KICAgIC8+CiAgKSk7CgogIHJldHVybiAoCiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgICAgY2xhc3NOYW1lPXtjb250YWluZXJDbGFzc30KICAgICAgICAgZmlsbD17ZmlsbENvbG9yfQogICAgICAgICB2aWV3Qm94PSIwIDAgMjE1IDMyMyIKICAgICAgICAgcmVmPXtjcmVhdGVMb2dvfQogICAgICAgICBvbk1vdXNlRW50ZXI9e29uTW91c2VFbnRlcn0KICAgICAgICAgb25DbGljaz17b25DbGlja30KICAgID4KICAgICAgey8qIFRPRE8gbWFrZSB0aGlzIGEgU1ZHUGF0aHNHcm91cCovfQogICAgICB7Lyo8IFNWR1BhdGhzR3JvdXAgLz4qL30KICAgICAgPGc+CiAgICAgICAge2xvZ29QYXRoc30KICAgICAgPC9nPgogICAgPC9zdmc+CiAgKTsKfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiB7Cg==</text>
+      <register name="7" type="4">
+        <text>{
+    
+  }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICApID0+ICgK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewoKICAvLyBUT0RPOiBleHRyYWN0IHRvIFNWR1BhdGhzR3JvdXAKICBjb25zdCBsb2dvUGF0aHMgPSBzZWdtZW50cy5tYXAoc2VnbWVudCA9PiAoCiAgICA8TG9nb1BhdGgKICAgICAga2V5PXtzZWdtZW50LmlkfQogICAgICBmaWxsPXtoaWdobGlnaHRlZFNlY3Rpb25zLmluY2x1ZGVzKHNlZ21lbnQuaWQpID8gaGlnaGxpZ2h0Q29sb3IgOiBzZWdtZW50LmZpbGx9CiAgICAgIHBhdGg9e3NlZ21lbnQucGF0aH0KICAgIC8+CiAgKSk7CgogIHJldHVybiAoCiAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgICAgY2xhc3NOYW1lPXtjb250YWluZXJDbGFzc30KICAgICAgICAgZmlsbD17ZmlsbENvbG9yfQogICAgICAgICB2aWV3Qm94PSIwIDAgMjE1IDMyMyIKICAgICAgICAgcmVmPXtjcmVhdGVMb2dvfQogICAgICAgICBvbk1vdXNlRW50ZXI9e29uTW91c2VFbnRlcn0KICAgICAgICAgb25DbGljaz17b25DbGlja30KICAgID4KICAgICAgey8qIFRPRE8gbWFrZSB0aGlzIGEgU1ZHUGF0aHNHcm91cCovfQogICAgICB7Lyo8IFNWR1BhdGhzR3JvdXAgLz4qL30KICAgICAgPGc+CiAgICAgICAge2xvZ29QYXRoc30KICAgICAgPC9nPgogICAgPC9zdmc+CiAgKTsKfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>highlightedSections</last-search>
+      <last-search>updateSections</last-search>
       <last-offset />
-      <last-pattern>highlightedSections</last-pattern>
+      <last-pattern>updateSections</last-pattern>
       <last-replace>className</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -1917,6 +1924,8 @@
         <entry>onMouseEnter</entry>
         <entry>props</entry>
         <entry>highlightedSections</entry>
+        <entry>createLogo</entry>
+        <entry>updateSections</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
@@ -1940,6 +1949,7 @@
         <entry>15</entry>
         <entry>%s/class/className/g</entry>
         <entry>39</entry>
+        <entry>32</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
