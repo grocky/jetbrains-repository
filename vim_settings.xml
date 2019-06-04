@@ -297,12 +297,12 @@
         <mark key="^" line="67" column="61" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1559523351551">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1559616353107">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="47" column="5" />
+        <mark key="^" line="47" column="5" />
+        <mark key="." line="47" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Views/MemberBillingView.php" timestamp="1431216793641">
         <mark key="'" line="0" column="0" />
@@ -382,12 +382,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1559532338461">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="27" column="36" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="27" column="36" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1559617894714">
+        <mark key="'" line="36" column="19" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
         <mark key="'" line="50" column="0" />
@@ -1430,12 +1430,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559530936935">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559616138944">
         <mark key="'" line="25" column="6" />
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="62" column="39" />
-        <mark key="." line="62" column="39" />
-        <mark key="^" line="62" column="27" />
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="58" column="35" />
+        <mark key="^" line="58" column="35" />
+        <mark key="." line="58" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
@@ -1728,10 +1728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="8" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="42" column="4" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="49" column="28" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="54" column="4" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="60" column="30" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="65" column="4" filename="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" />
@@ -1827,59 +1823,63 @@
       <jump line="48" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="13" column="39" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="18" column="11" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="17" column="16" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="82" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="36" column="19" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc3BpbkFuaW1hdGlvbi5wYXVzZSgwKTsK</text>
+        <text encoding="base64">ICBvbkNsaWNrOiBub29wLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>invalidate</text>
+        <text>fetchTrans()</text>
       </register>
       <register name="/" type="4">
-        <text>mergeProps</text>
+        <text>onRotationStop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdnaXRodWInLAogICAgICAgIHVybDogJ2h0dHBzOi8vZ2l0aHViLmNvbS9ncm9ja3knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc3BpbkFuaW1hdGlvbi5wYXVzZSgwKTsK</text>
+        <text encoding="base64">ICBvbkNsaWNrOiBub29wLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvcHMub25Sb3RhdGlvblN0b3AoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KGUpID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKCdBbg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFR3ZWVuTWF4LnRvKHRoaXMubG9nb1JlZiwgMywgewogICAgICB0aHJvd1Byb3BzOiB7CiAgICAgICAgcm90YXRpb246IHsKICAgICAgICAgIHZlbG9jaXR5OiA4MDAsCiAgICAgICAgICBlbmQ6IG5hdHVyYWxMYW5kaW5nVmFsdWUgPT4gTWF0aC5yb3VuZChuYXR1cmFsTGFuZGluZ1ZhbHVlIC8gMTgwKSAqIDE4MAogICAgICAgIH0KICAgICAgfSwKICAgICAgZWFzZTogUG93ZXI0LmVhc2VPdXQsCiAgICAgIG9uQ29tcGxldGU6ICgpID0+IHsKICAgICAgICB0aGlzLnByb3BzLm9uUm90YXRpb25TdG9wKCk7CiAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudERpZFVwZGF0ZShwcmV2UHJvcHMpIHsKICAgICAgaWYgKHByZXZQcm9wcy5wYXJhbXMuaWQgIT09IHRoaXMucHJvcHMucGFyYW1zLmlkKSB7CiAgICAgICAgdGhpcy5mZXRjaFRyYW5zKCk7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaGFuZGxlTG9nb0NsaWNrID0gKGxvZ29SZWYpID0+IChldmVudCkgPT4gewogIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgc3RhcnRSb3RhdGlvbigpOwp9Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgb25DbGljaywK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHdlZW5NYXgsIFBvd2VyNCB9IGZyb20gJ2dzYXAnOwo=</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICB9CgogIGNvbXBvbmVudERpZFVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSwgc25hcHNob3QpIHsKICAgIHRoaXMuc3BpbkFuaW1hdGlvbi5wYXVzZWQoIXRoaXMucHJvcHMuaXNTcGlubmluZykKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3ZnUmVmLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNwaW5BbmltYXRpb24uc2VlaygwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mergeProps</last-search>
+      <last-search>onRotationStop</last-search>
       <last-offset />
-      <last-pattern>mergeProps</last-pattern>
+      <last-pattern>onRotationStop</last-pattern>
       <last-replace>className</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -1920,6 +1920,7 @@
         <entry>createLogo</entry>
         <entry>updateSections</entry>
         <entry>mergeProps</entry>
+        <entry>onRotationStop</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
