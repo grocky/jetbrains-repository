@@ -310,12 +310,10 @@
         <mark key="^" line="67" column="61" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1559616353107">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="47" column="5" />
-        <mark key="^" line="47" column="5" />
-        <mark key="." line="47" column="5" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1560052014137">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/garage-remote/README.md" timestamp="1549221718631">
         <mark key="[" line="7" column="0" />
@@ -884,12 +882,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1559515343778">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1560052274183">
         <mark key="'" line="0" column="34" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/package.json" timestamp="1544911756334">
         <mark key="[" line="6" column="21" />
@@ -1133,12 +1131,11 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" timestamp="1560045841843">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="48" column="10" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
-        <mark key="^" line="48" column="15" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" timestamp="1560052775238">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="44" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/DTOs/MvcJsonDTO.php" timestamp="1431047741646">
         <mark key="'" line="53" column="41" />
@@ -1544,13 +1541,6 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1560043317545">
-        <mark key="'" line="6" column="42" />
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="6" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
         <mark key="[" line="18" column="26" />
@@ -1848,7 +1838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="34" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
       <jump line="1" column="9" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="14" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/index.js" />
@@ -1948,13 +1937,14 @@
       <jump line="22" column="27" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="4" column="30" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="6" column="28" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ref</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yZWYpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ref</text>
+        <text>isActive</text>
       </register>
       <register name="/" type="4">
         <text>props</text>
@@ -1963,43 +1953,34 @@
         <text encoding="base64">IXByZXZTdGF0ZS5pc0FjdGl2ZSAmJiB0aGlzLnN0YXRlLmlzQWN0aXZl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yZWYpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgIGNsYXNzTmFtZT17Y29udGFpbmVyQ2xhc3N9CiAgICAgICBmaWxsPXtmaWxsQ29sb3J9CiAgICAgICB2aWV3Qm94PSIwIDAgMjE1IDMyMyIKICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQogICAgICAgcmVmPXtnZXRSZWZ9CiAgPgogICAgPGc+CiAgICAgIHsKICAgICAgICBzZWdtZW50cy5tYXAoc2VnbWVudCA9PiAoCiAgICAgICAgICA8TG9nb1BhdGgKICAgICAgICAgICAga2V5PXtzZWdtZW50LmlkfQogICAgICAgICAgICBmaWxsPXtoaWdobGlnaHRlZFNlY3Rpb25zLmluY2x1ZGVzKHNlZ21lbnQuaWQpID8gaGlnaGxpZ2h0Q29sb3IgOiBzZWdtZW50LmZpbGx9CiAgICAgICAgICAgIHBhdGg9e3NlZ21lbnQucGF0aH0KICAgICAgICAgICAgb25DbGljaz17b25DbGlja30KICAgICAgICAgICAgb25Nb3VzZUVudGVyPXtvbk1vdXNlRW50ZXJ9CiAgICAgICAgICAvPgogICAgICAgICkpCiAgICAgIH0KICAgIDwvZz4KICA8L3N2Zz4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzQWN0aXZlOiBmYWxzZSB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgIGNsYXNzTmFtZT17Y29udGFpbmVyQ2xhc3N9CiAgICAgICBmaWxsPXtmaWxsQ29sb3J9CiAgICAgICB2aWV3Qm94PSIwIDAgMjE1IDMyMyIKICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQogICAgICAgcmVmPXtnZXRSZWZ9CiAgPgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzQWN0aXZlOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgICAgICAgY2xhc3NOYW1lPXtjb250YWluZXJDbGFzc30KICAgICAgICAgICBmaWxsPXtmaWxsQ29sb3J9CiAgICAgICAgICAgdmlld0JveD0iMCAwIDIxNSAzMjMiCiAgICAgICAgICAgb25Nb3VzZUVudGVyPXtvbk1vdXNlRW50ZXJ9CiAgICAgICAgICAgcmVmPXtnZXRSZWZ9CiAgICAgID4KICAgICAgICA8Zz4KICAgICAgICAgIHsKICAgICAgICAgICAgc2VnbWVudHMubWFwKHNlZ21lbnQgPT4gKAogICAgICAgICAgICAgIDxMb2dvUGF0aAogICAgICAgICAgICAgICAga2V5PXtzZWdtZW50LmlkfQogICAgICAgICAgICAgICAgZmlsbD17aGlnaGxpZ2h0ZWRTZWN0aW9ucy5pbmNsdWRlcyhzZWdtZW50LmlkKSA/IGhpZ2hsaWdodENvbG9yIDogc2VnbWVudC5maWxsfQogICAgICAgICAgICAgICAgcGF0aD17c2VnbWVudC5wYXRofQogICAgICAgICAgICAgICAgb25DbGljaz17b25DbGlja30KICAgICAgICAgICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICkpCiAgICAgICAgICB9CiAgICAgICAgPC9nPgogICAgICA8L3N2Zz4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICBpc0FjdGl2ZTogZmFsc2UsCiAgICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ICA9IHByb3BzOwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      segments,
-      highlightedSections,
-      containerClass,
-      fillColor,
-      highlightColor,
-      onMouseEnter,
-      onClick,
-      getRef,
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHN0YXJ0Um90YXRpb24oKSB7CiAgcmV0dXJuIHsKICAgIHR5cGU6IFNQSU5fU1RBUlRFRCwKICAgIHBheWxvYWQ6IHsKICAgICAgaXNTcGlubmluZzogdHJ1ZQogICAgfQogIH0KfQoKZXhwb3J0IGZ1bmN0aW9uIHJvdGF0aW9uU3RvcHBlZCgpIHsKICByZXR1cm4gewogICAgdHlwZTogU1BJTl9TVE9QUEVELAogICAgcGF5bG9hZDogewogICAgICBpc1NwaW5uaW5nOiBmYWxzZQogICAgfQogIH0KfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgTG9nb0NvbnRhaW5lciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKICAgIHRoaXMubG9nb1JlZiA9IFJlYWN0LmNyZWF0ZVJlZigpOwogIH0KCiAgcmVuZGVyKCkgewogICAgY29uc3QgewogICAgICBhY3Rpb25zOiB7CiAgICAgICAgdXBkYXRlU2VjdGlvbnMsCiAgICAgICAgcm90YXRpb25TdG9wcGVkLAogICAgICAgIHN0YXJ0Um90YXRpb24sCiAgICAgIH0sCiAgICAgIGxvZ29zOiB7CiAgICAgICAgbGV0dGVyR3JvdXBzOiB7CiAgICAgICAgICBzZWdtZW50cywKICAgICAgICB9LAogICAgICAgIGhpZ2hsaWdodGVkU2VjdGlvbnMsCiAgICAgICAgaXNTcGlubmluZywKICAgICAgfSwKICAgIH0gPSB0aGlzLnByb3BzOwogICAgcmV0dXJuICgKICAgICAgPExvZ28KICAgICAgICBpc1NwaW5uaW5nPXtpc1NwaW5uaW5nfQogICAgICAgIHN2Z1JlZj17dGhpcy5sb2dvUmVmfQogICAgICAgIHNlZ21lbnRzPXtzZWdtZW50c30KICAgICAgICBoaWdobGlnaHRlZFNlY3Rpb25zPXtoaWdobGlnaHRlZFNlY3Rpb25zfQogICAgICAgIG9uTW91c2VFbnRlcj17dXBkYXRlU2VjdGlvbnN9CiAgICAgICAgb25Sb3RhdGlvblN0b3A9e3JvdGF0aW9uU3RvcHBlZH0KICAgICAgICBzdGFydFJvdGF0aW9uPXtzdGFydFJvdGF0aW9ufQogICAgICAvPgogICAgKQogIH0KfQoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdXBkYXRlU2VjdGlvbnM6ICgpID0+IGRpc3BhdGNoKHVwZGF0ZVNlY3Rpb25zKCkpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2084,6 +2065,7 @@
         <entry>53</entry>
         <entry>%s/isSpinning/isActive/g</entry>
         <entry>18</entry>
+        <entry>49</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
