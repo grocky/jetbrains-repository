@@ -309,10 +309,10 @@
         <mark key="^" line="67" column="61" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1560055647791">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" timestamp="1560056412308">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/garage-remote/README.md" timestamp="1549221718631">
         <mark key="[" line="7" column="0" />
@@ -401,12 +401,12 @@
         <mark key="^" line="51" column="1" />
         <mark key="." line="51" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1560045779398">
-        <mark key="'" line="4" column="30" />
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="6" />
-        <mark key="^" line="20" column="5" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1560057041994">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="41" />
+        <mark key="^" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
         <mark key="'" line="50" column="0" />
@@ -874,12 +874,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1560052274183">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1560056895577">
         <mark key="'" line="0" column="34" />
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/package.json" timestamp="1544911756334">
         <mark key="[" line="6" column="21" />
@@ -1124,7 +1124,7 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" timestamp="1560055205088">
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" timestamp="1560056478828">
         <mark key="[" line="45" column="40" />
         <mark key="]" line="45" column="42" />
         <mark key="." line="45" column="42" />
@@ -1509,6 +1509,12 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/redux.js" timestamp="1560057627034">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/GraphicStock/Modules/Signup/Controllers/GraphicPartnerSignupPageController.php" timestamp="1432157147960">
         <mark key="'" line="10" column="48" />
         <mark key="[" line="10" column="50" />
@@ -1537,11 +1543,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1560055247006">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1560058051463">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="13" column="96" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
@@ -1840,10 +1847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
-      <jump line="92" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
-      <jump line="43" column="3" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="0" column="34" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" />
       <jump line="28" column="15" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
@@ -1934,55 +1937,59 @@
       <jump line="22" column="27" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="4" column="30" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
-      <jump line="6" column="28" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfilePicture.js" />
       <jump line="56" column="19" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
       <jump line="5" column="42" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
       <jump line="60" column="70" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
       <jump line="59" column="29" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="15" column="57" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="12" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="14" column="15" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpc1NwaW5uaW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>ref</text>
       </register>
       <register name="/" type="4">
         <text>LogoContainer</text>
       </register>
       <register name="0" type="4">
-        <text>withRotationAnimation(ProfilePicture, profilePictureProps)</text>
+        <text>onMouseEnter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpc1NwaW5uaW5nOiBmYWxzZSwK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBzcXVhcmVMZW5ndGggPSA3NTsK</text>
+        <text encoding="base64">ICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFByb2ZpbGVQaWN0dXJlIC8+Cg==</text>
+        <text encoding="base64">ICAgIG9uTW91c2VFbnRlcjogKCkgPT4gZGlzcGF0Y2godXBkYXRlU2VjdGlvbnMoKSksCiAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3dpdGhSb3RhdGlvbkFuaW1hdGlvbihQcm9maWxlUGljdHVyZSwgcHJvZmlsZVBpY3R1cmVQcm9wcyl9Cg==</text>
+        <text encoding="base64">Y29uc3QgbWVyZ2VQcm9wcyA9ICh3cmFwcGVkQ29tcG9uZW50UHJvcHMpID0+CiAgKHN0YXRlUHJvcHMsIGRpc3BhdGNoUHJvcHMsIG93blByb3BzKSA9PgogICAgKHsgLi4ub3duUHJvcHMsIC4uLnN0YXRlUHJvcHMsIC4uLmRpc3BhdGNoUHJvcHMsIC4uLndyYXBwZWRDb21wb25lbnRQcm9wcyB9KTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb2ZpbGVQaWN0dXJlUHJvcHMgPSB7CiAgICAgIGltYWdlOiBoZWFkU2hvdCwKICAgICAgaW1hZ2VXaWR0aDogMzIwLAogICAgICB4Q2VudGVyOiAxNjAsCiAgICAgIHlDZW50ZXI6IDgwLAogICAgICBjaXJjbGVEaWFtZXRlcjogMTUwLAogICAgfTsKCg==</text>
+        <text encoding="base64">ICAgIHJvdGF0aW9uU3RvcHBlZDogKHJlZikgPT4gZGlzcGF0Y2gocm90YXRpb25TdG9wcGVkKHJlZikpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByb3RhdGlvblN0b3BwZWQsCiAgc3RhcnRSb3RhdGlvbiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0YXRlLmlzU3Bpbm5pbmcpIHsKICAgICAgICByZXR1cm4gc3RhdGU7CiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc1NwaW5uaW5nOiBmYWxzZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFjdC1pbmZvIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibmFtZSI+Um9ja3kgR3JheSBKci48L3A+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRpdGxlIj48ZW0+U29mdHdhcmUgRW5naW5lZXI8L2VtPjwvcD4KICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBjb25zdCBzcXVhcmVMZW5ndGggPSA3NTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
