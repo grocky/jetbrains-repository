@@ -19,6 +19,12 @@
         <mark key="^" line="23" column="70" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/README.md" timestamp="1547327191586">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/reducers/logoReducer.js" timestamp="1559486277511">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="66" />
@@ -174,6 +180,12 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/mqttOpener/package.json" timestamp="1544909590470">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberBinsEntityService.php" timestamp="1431230113750">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="268" column="49" />
@@ -258,6 +270,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/redux.js" timestamp="1560041684578">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="9" />
+        <mark key="." line="30" column="9" />
+        <mark key="^" line="30" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/MemberSubscriptionChangeReasonsConstants.php" timestamp="1431247275657">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="20" column="0" />
@@ -271,6 +289,12 @@
         <mark key="]" line="26" column="44" />
         <mark key="^" line="26" column="44" />
         <mark key="." line="26" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animation/index.js" timestamp="1560043071336">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/Modules/Home/Views/AudioHome/AudioHomeView.php" timestamp="1432260386397">
         <mark key="'" line="1" column="0" />
@@ -292,6 +316,12 @@
         <mark key="]" line="47" column="5" />
         <mark key="^" line="47" column="5" />
         <mark key="." line="47" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/garage-remote/README.md" timestamp="1549221718631">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Member/Views/MemberBillingView.php" timestamp="1431216793641">
         <mark key="'" line="0" column="0" />
@@ -328,6 +358,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/www-domain.tf" timestamp="1541650731448">
+        <mark key="[" line="87" column="1" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Billing/LimelightPaymentGateway.php" timestamp="1431043805698">
         <mark key="'" line="177" column="37" />
         <mark key="[" line="64" column="0" />
@@ -341,6 +377,18 @@
         <mark key="]" line="1" column="41" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/learnGitBranching/src/js/commands/index.js" timestamp="1551482166053">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/IconLinkListItem.js" timestamp="1541621396852">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="58" />
+        <mark key="." line="7" column="58" />
+        <mark key="^" line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ongage/OngagePlanNames.php" timestamp="1432718745992">
         <mark key="'" line="0" column="0" />
@@ -356,18 +404,12 @@
         <mark key="^" line="51" column="1" />
         <mark key="." line="51" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/package.json" timestamp="1559514564816">
-        <mark key="'" line="25" column="5" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1560040313376">
-        <mark key="'" line="36" column="19" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" timestamp="1560045779398">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Signup/ViewModels/ActivationViewModel.php" timestamp="1431221632031">
         <mark key="'" line="50" column="0" />
@@ -416,6 +458,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="28" column="55" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/Makefile" timestamp="1544698725171">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Members/Step1MembersFormParameters.php" timestamp="1431046310517">
         <mark key="'" line="41" column="78" />
@@ -708,6 +756,12 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/routes/garage.js" timestamp="1545004563054">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="14" column="59" />
+        <mark key="." line="14" column="59" />
+      </file>
       <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545018828790">
         <mark key="'" line="37" column="20" />
         <mark key="[" line="60" column="41" />
@@ -729,6 +783,13 @@
         <mark key="^" line="217" column="15" />
         <mark key="." line="217" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" timestamp="1560042946010">
+        <mark key="'" line="45" column="24" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/ongage/OngageESP.php" timestamp="1431050593696">
         <mark key="'" line="349" column="0" />
         <mark key="[" line="19" column="12" />
@@ -742,6 +803,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/bin/www" timestamp="1545014387087">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/RootReducer.js" timestamp="1559497293440">
         <mark key="[" line="0" column="0" />
@@ -824,6 +891,12 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/package.json" timestamp="1544911756334">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/Controllers/ESPHealthController.php" timestamp="1432716522554">
         <mark key="'" line="91" column="4" />
         <mark key="[" line="59" column="5" />
@@ -872,6 +945,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/.dockerignore" timestamp="1545002626597">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1547434621287">
         <mark key="'" line="65" column="4" />
@@ -1054,6 +1133,13 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" timestamp="1560045841843">
+        <mark key="'" line="24" column="27" />
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/DTOs/MvcJsonDTO.php" timestamp="1431047741646">
         <mark key="'" line="53" column="41" />
         <mark key="[" line="4" column="21" />
@@ -1131,6 +1217,12 @@
         <mark key="^" line="169" column="23" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/server.js" timestamp="1545014769285">
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Widgets/ViewModels/VideoPlayerWidgetFileViewModel.php" timestamp="1432259227353">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="2" column="10" />
@@ -1194,6 +1286,12 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/mqtt/types/lib/client.d.ts" timestamp="1544899164483">
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="79" column="37" />
+        <mark key="^" line="79" column="37" />
+        <mark key="." line="79" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
@@ -1222,12 +1320,24 @@
         <mark key="^" line="87" column="39" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/client/src/components/Icon/index.js" timestamp="1545016762343">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/ActionResults/MvcJsonResult.php" timestamp="1432260719418">
         <mark key="'" line="115" column="1" />
         <mark key="[" line="115" column="1" />
         <mark key="]" line="115" column="1" />
         <mark key="^" line="115" column="1" />
         <mark key="." line="115" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/modules/s3_site/bucket-policy.json" timestamp="1541652843212">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/server/cleanup.js" timestamp="1545004309423">
         <mark key="'" line="15" column="35" />
@@ -1292,6 +1402,18 @@
         <mark key="." line="64" column="50" />
         <mark key="^" line="64" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/components/IconLinkListItem.js" timestamp="1558196432119">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/index.js" timestamp="1560043402158">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/AbTestHooks.php" timestamp="1431051758146">
         <mark key="'" line="75" column="21" />
         <mark key="[" line="360" column="55" />
@@ -1305,6 +1427,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/garage-state.json" timestamp="1544492760009">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/EngagementPosts/EngagementPostsEntityService.php" timestamp="1431052867182">
         <mark key="'" line="82" column="0" />
@@ -1326,6 +1454,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/logger.js" timestamp="1544904049043">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/VideoBlocks/Services/Contributors/ContributorTipaltiSyncService.php" timestamp="1431915555959">
         <mark key="'" line="61" column="37" />
@@ -1354,6 +1488,12 @@
         <mark key="]" line="43" column="1" />
         <mark key="^" line="43" column="1" />
         <mark key="." line="43" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/deployment/roles/common/tasks/main.yml" timestamp="1544964641027">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Framework/Assets.php" timestamp="1432154534639">
         <mark key="'" line="35" column="40" />
@@ -1404,12 +1544,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1559616138944">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="57" column="40" />
-        <mark key="]" line="58" column="35" />
-        <mark key="^" line="58" column="35" />
-        <mark key="." line="58" column="35" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" timestamp="1560043317545">
+        <mark key="'" line="6" column="42" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
@@ -1424,6 +1564,12 @@
         <mark key="]" line="151" column="25" />
         <mark key="^" line="151" column="25" />
         <mark key="." line="151" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/node_modules/express/lib/router/index.js" timestamp="1545012780103">
+        <mark key="[" line="427" column="30" />
+        <mark key="]" line="427" column="29" />
+        <mark key="^" line="427" column="29" />
+        <mark key="." line="427" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/RestApi/Helpers/RestApiResponseDefaultMessages.php" timestamp="1432390555462">
         <mark key="'" line="6" column="51" />
@@ -1468,6 +1614,12 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/Dockerfile" timestamp="1545003341289">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/debt-tracker/database/models/debts.js" timestamp="1525799911715">
         <mark key="'" line="13" column="33" />
         <mark key="[" line="1" column="39" />
@@ -1500,12 +1652,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/garage-remote/mqtt-switch/GpioFactory.js" timestamp="1547319519942">
-        <mark key="'" line="45" column="25" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Widgets/Widgets/SliderWidget.php" timestamp="1431119190219">
         <mark key="'" line="136" column="31" />
@@ -1576,6 +1722,18 @@
         <mark key="]" line="51" column="53" />
         <mark key="^" line="51" column="53" />
         <mark key="." line="51" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/public/manifest.json" timestamp="1541619102418">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/garage-remote/deployment/hosts" timestamp="1544697295924">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Modules/Admin/DTOs/ESPHealthCheckErrorDTO.php" timestamp="1432226682046">
         <mark key="'" line="0" column="0" />
@@ -1654,6 +1812,12 @@
         <mark key="^" line="430" column="26" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/garage-remote/server/socket.js" timestamp="1545014104704">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/give-for-the-gold-leaderboard/donors.js" timestamp="1528575941520">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="93" column="0" />
@@ -1684,23 +1848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfileContainer.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/RootReducer.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/ConfigureStore.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoReducer/logoReducer.js" />
-      <jump line="54" column="35" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoReducer/logoReducer.js" />
-      <jump line="2" column="25" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoActions.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
-      <jump line="5" column="1" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
-      <jump line="51" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoActions.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
-      <jump line="16" column="13" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="57" column="34" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/index.js" />
       <jump line="1" column="9" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/index.js" />
@@ -1755,7 +1902,6 @@
       <jump line="48" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="13" column="39" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="17" column="16" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="82" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
@@ -1784,60 +1930,87 @@
       <jump line="29" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfilePicture.js" />
       <jump line="52" column="42" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
       <jump line="7" column="4" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfilePicture.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/redux.js" />
+      <jump line="27" column="17" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/redux.js" />
+      <jump line="10" column="25" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/redux.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/redux.js" />
+      <jump line="59" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="27" column="14" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="29" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="45" column="24" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="9" column="42" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" />
+      <jump line="22" column="27" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
+      <jump line="4" column="30" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhY3QsIENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsK</text>
+      <register name="&quot;" type="4">
+        <text>ref</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC8+</text>
+        <text>ref</text>
       </register>
       <register name="/" type="4">
-        <text>social</text>
+        <text>props</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InNvY2lhbC1saW5rIiBrZXk9e3MubmFtZX0+CiAgICAgICAgPGEgaHJlZj17cy51cmx9IHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2BmYSBmYS0ke3MubmFtZX1gfT48L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsYWJlbCI+eyBgLyR7cy51cmwuc3BsaXQoJy8nKS5wb3AoKX1gIH08L2Rpdj4KICAgICAgICA8L2E+CiAgICAgIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IXByZXZTdGF0ZS5pc0FjdGl2ZSAmJiB0aGlzLnN0YXRlLmlzQWN0aXZl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhY3QsIENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPD4K</text>
+        <text encoding="base64">ICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgIGNsYXNzTmFtZT17Y29udGFpbmVyQ2xhc3N9CiAgICAgICBmaWxsPXtmaWxsQ29sb3J9CiAgICAgICB2aWV3Qm94PSIwIDAgMjE1IDMyMyIKICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQogICAgICAgcmVmPXtnZXRSZWZ9CiAgPgogICAgPGc+CiAgICAgIHsKICAgICAgICBzZWdtZW50cy5tYXAoc2VnbWVudCA9PiAoCiAgICAgICAgICA8TG9nb1BhdGgKICAgICAgICAgICAga2V5PXtzZWdtZW50LmlkfQogICAgICAgICAgICBmaWxsPXtoaWdobGlnaHRlZFNlY3Rpb25zLmluY2x1ZGVzKHNlZ21lbnQuaWQpID8gaGlnaGxpZ2h0Q29sb3IgOiBzZWdtZW50LmZpbGx9CiAgICAgICAgICAgIHBhdGg9e3NlZ21lbnQucGF0aH0KICAgICAgICAgICAgb25DbGljaz17b25DbGlja30KICAgICAgICAgICAgb25Nb3VzZUVudGVyPXtvbk1vdXNlRW50ZXJ9CiAgICAgICAgICAvPgogICAgICAgICkpCiAgICAgIH0KICAgIDwvZz4KICA8L3N2Zz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgUHJvZmlsZVBpY3R1cmUgPSAoeyBpbWFnZVdpZHRoLCBpbWFnZSwgeENlbnRlciwgeUNlbnRlciwgY2lyY2xlRGlhbWV0ZXIgfSkgPT4gewp9Owo=</text>
+        <text encoding="base64">ICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgIGNsYXNzTmFtZT17Y29udGFpbmVyQ2xhc3N9CiAgICAgICBmaWxsPXtmaWxsQ29sb3J9CiAgICAgICB2aWV3Qm94PSIwIDAgMjE1IDMyMyIKICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQogICAgICAgcmVmPXtnZXRSZWZ9CiAgPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvdGF0ZSA9ICgpID0+IHsKICAgIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgICAgICAgY2xhc3NOYW1lPXtjb250YWluZXJDbGFzc30KICAgICAgICAgICBmaWxsPXtmaWxsQ29sb3J9CiAgICAgICAgICAgdmlld0JveD0iMCAwIDIxNSAzMjMiCiAgICAgICAgICAgb25Nb3VzZUVudGVyPXtvbk1vdXNlRW50ZXJ9CiAgICAgICAgICAgcmVmPXtnZXRSZWZ9CiAgICAgID4KICAgICAgICA8Zz4KICAgICAgICAgIHsKICAgICAgICAgICAgc2VnbWVudHMubWFwKHNlZ21lbnQgPT4gKAogICAgICAgICAgICAgIDxMb2dvUGF0aAogICAgICAgICAgICAgICAga2V5PXtzZWdtZW50LmlkfQogICAgICAgICAgICAgICAgZmlsbD17aGlnaGxpZ2h0ZWRTZWN0aW9ucy5pbmNsdWRlcyhzZWdtZW50LmlkKSA/IGhpZ2hsaWdodENvbG9yIDogc2VnbWVudC5maWxsfQogICAgICAgICAgICAgICAgcGF0aD17c2VnbWVudC5wYXRofQogICAgICAgICAgICAgICAgb25DbGljaz17b25DbGlja30KICAgICAgICAgICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICkpCiAgICAgICAgICB9CiAgICAgICAgPC9nPgogICAgICA8L3N2Zz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVHdlZW5NYXgudG8odGhpcy5sb2dvUmVmLCAzLCB7CiAgICAgICAgdGhyb3dQcm9wczogewogICAgICAgICAgcm90YXRpb246IHsKICAgICAgICAgICAgdmVsb2NpdHk6IDgwMCwKICAgICAgICAgICAgZW5kOiBuYXR1cmFsTGFuZGluZ1ZhbHVlID0+IE1hdGgucm91bmQobmF0dXJhbExhbmRpbmdWYWx1ZSAvIDE4MCkgKiAxODAKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIGVhc2U6IFBvd2VyNC5lYXNlT3V0LAogICAgICAgIG9uQ29tcGxldGU6ICgpID0+IHsKICAgICAgICAgIHRoaXMucHJvcHMub25Sb3RhdGlvblN0b3AoKTsKICAgICAgICB9CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0ICA9IHByb3BzOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>{
+      segments,
+      highlightedSections,
+      containerClass,
+      fillColor,
+      highlightColor,
+      onMouseEnter,
+      onClick,
+      getRef,
+    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>social</last-search>
+      <last-search>props</last-search>
       <last-offset />
-      <last-pattern>social</last-pattern>
-      <last-replace>className</last-replace>
-      <last-substitute>class</last-substitute>
+      <last-pattern>props</last-pattern>
+      <last-replace>isActive</last-replace>
+      <last-substitute>isSpinning</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1871,7 +2044,6 @@
         <entry>class</entry>
         <entry>highlighted</entry>
         <entry>onMouseEnter</entry>
-        <entry>props</entry>
         <entry>highlightedSections</entry>
         <entry>createLogo</entry>
         <entry>updateSections</entry>
@@ -1880,6 +2052,8 @@
         <entry>s</entry>
         <entry>s\.</entry>
         <entry>social</entry>
+        <entry>isSpinning</entry>
+        <entry>props</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Makefile</entry>
@@ -1908,6 +2082,8 @@
         <entry>vsp</entry>
         <entry>FZF</entry>
         <entry>53</entry>
+        <entry>%s/isSpinning/isActive/g</entry>
+        <entry>18</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
