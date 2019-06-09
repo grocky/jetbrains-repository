@@ -60,7 +60,6 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/index.css" timestamp="1559517898706" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Signup/SubscriptionService.php" timestamp="1431285525066">
         <mark key="'" line="537" column="65" />
         <mark key="[" line="46" column="0" />
@@ -1131,11 +1130,11 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" timestamp="1560052775238">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="44" column="50" />
+      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" timestamp="1560053146964">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="40" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/DTOs/MvcJsonDTO.php" timestamp="1431047741646">
         <mark key="'" line="53" column="41" />
@@ -1596,7 +1595,6 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/common/SocialLinks/SocialLinks.module.css" timestamp="1560039689381" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/loggly/ApiRequests/EventsApiRequest.php" timestamp="1431051015655">
         <mark key="'" line="4" column="49" />
         <mark key="[" line="23" column="42" />
@@ -1795,6 +1793,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1560052972207" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1940,11 +1939,11 @@
       <jump line="6" column="28" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yZWYpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>isActive</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>props</text>
@@ -1953,34 +1952,34 @@
         <text encoding="base64">IXByZXZTdGF0ZS5pc0FjdGl2ZSAmJiB0aGlzLnN0YXRlLmlzQWN0aXZl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yZWYpOwo=</text>
+        <text encoding="base64">ICAgIGFjdGlvbnM6IHsKICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzQWN0aXZlOiBmYWxzZSB9KTsK</text>
+        <text encoding="base64">ICAgICAgc3RhcnRSb3RhdGlvbjogKHJlZikgPT4gZGlzcGF0Y2goc3RhcnRSb3RhdGlvbihyZWYpKSwKICAgICAgcm90YXRpb25TdG9wcGVkOiAocmVmKSA9PiBkaXNwYXRjaChyb3RhdGlvblN0b3BwZWQocmVmKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzQWN0aXZlOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5yZWYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICBpc0FjdGl2ZTogZmFsc2UsCiAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzQWN0aXZlOiBmYWxzZSB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzQWN0aXZlOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICBpc0FjdGl2ZTogZmFsc2UsCiAgICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHN0YXJ0Um90YXRpb24oKSB7CiAgcmV0dXJuIHsKICAgIHR5cGU6IFNQSU5fU1RBUlRFRCwKICAgIHBheWxvYWQ6IHsKICAgICAgaXNTcGlubmluZzogdHJ1ZQogICAgfQogIH0KfQoKZXhwb3J0IGZ1bmN0aW9uIHJvdGF0aW9uU3RvcHBlZCgpIHsKICByZXR1cm4gewogICAgdHlwZTogU1BJTl9TVE9QUEVELAogICAgcGF5bG9hZDogewogICAgICBpc1NwaW5uaW5nOiBmYWxzZQogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgTG9nb0NvbnRhaW5lciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKICAgIHRoaXMubG9nb1JlZiA9IFJlYWN0LmNyZWF0ZVJlZigpOwogIH0KCiAgcmVuZGVyKCkgewogICAgY29uc3QgewogICAgICBhY3Rpb25zOiB7CiAgICAgICAgdXBkYXRlU2VjdGlvbnMsCiAgICAgICAgcm90YXRpb25TdG9wcGVkLAogICAgICAgIHN0YXJ0Um90YXRpb24sCiAgICAgIH0sCiAgICAgIGxvZ29zOiB7CiAgICAgICAgbGV0dGVyR3JvdXBzOiB7CiAgICAgICAgICBzZWdtZW50cywKICAgICAgICB9LAogICAgICAgIGhpZ2hsaWdodGVkU2VjdGlvbnMsCiAgICAgICAgaXNTcGlubmluZywKICAgICAgfSwKICAgIH0gPSB0aGlzLnByb3BzOwogICAgcmV0dXJuICgKICAgICAgPExvZ28KICAgICAgICBpc1NwaW5uaW5nPXtpc1NwaW5uaW5nfQogICAgICAgIHN2Z1JlZj17dGhpcy5sb2dvUmVmfQogICAgICAgIHNlZ21lbnRzPXtzZWdtZW50c30KICAgICAgICBoaWdobGlnaHRlZFNlY3Rpb25zPXtoaWdobGlnaHRlZFNlY3Rpb25zfQogICAgICAgIG9uTW91c2VFbnRlcj17dXBkYXRlU2VjdGlvbnN9CiAgICAgICAgb25Sb3RhdGlvblN0b3A9e3JvdGF0aW9uU3RvcHBlZH0KICAgICAgICBzdGFydFJvdGF0aW9uPXtzdGFydFJvdGF0aW9ufQogICAgICAvPgogICAgKQogIH0KfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlU2VjdGlvbnM6ICgpID0+IGRpc3BhdGNoKHVwZGF0ZVNlY3Rpb25zKCkpLAo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHN0YXJ0Um90YXRpb24oKSB7CiAgcmV0dXJuIHsKICAgIHR5cGU6IFNQSU5fU1RBUlRFRCwKICAgIHBheWxvYWQ6IHsKICAgICAgaXNTcGlubmluZzogdHJ1ZQogICAgfQogIH0KfQoKZXhwb3J0IGZ1bmN0aW9uIHJvdGF0aW9uU3RvcHBlZCgpIHsKICByZXR1cm4gewogICAgdHlwZTogU1BJTl9TVE9QUEVELAogICAgcGF5bG9hZDogewogICAgICBpc1NwaW5uaW5nOiBmYWxzZQogICAgfQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1993,28 +1992,10 @@
       <last-replace>isActive</last-replace>
       <last-substitute>isSpinning</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>HIGH</entry>
-        <entry>signal</entry>
-        <entry>front-tier</entry>
-        <entry>back-tier</entry>
-        <entry>nodemon</entry>
-        <entry>favicon</entry>
-        <entry>buildDirectory</entry>
-        <entry>io</entry>
-        <entry>use</entry>
-        <entry>logo</entry>
-        <entry>sendingState</entry>
-        <entry>sending state</entry>
-        <entry>state</entry>
-        <entry>state =</entry>
-        <entry>up</entry>
-        <entry>comands</entry>
-        <entry>show</entry>
-        <entry>commit</entry>
         <entry>checkout</entry>
         <entry>font</entry>
         <entry>LogoActions</entry>
@@ -2037,16 +2018,6 @@
         <entry>props</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp Makefile</entry>
-        <entry>30</entry>
-        <entry>37</entry>
-        <entry>wq</entry>
-        <entry>%/s3_bucket.www/s3_bucket.bucket/</entry>
-        <entry>m-2</entry>
-        <entry>vsp server.js</entry>
-        <entry>vsp ./server.js</entry>
-        <entry>46</entry>
-        <entry>9</entry>
         <entry>31</entry>
         <entry>%s/project_name/webserver_name/g</entry>
         <entry>m+</entry>
