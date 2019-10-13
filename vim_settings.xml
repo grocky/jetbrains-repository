@@ -95,12 +95,12 @@
         <mark key="." line="3" column="51" />
         <mark key="^" line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" timestamp="1570921680579">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="14" />
-        <mark key="." line="100" column="14" />
-        <mark key="^" line="100" column="14" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" timestamp="1570924359141">
+        <mark key="'" line="97" column="17" />
+        <mark key="[" line="20" column="67" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="66" />
+        <mark key="^" line="20" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteBreadCrumbWidgetView.php" timestamp="1432154624711">
         <mark key="'" line="0" column="0" />
@@ -1227,6 +1227,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1570923512258">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteMemberProfileWidgetView.php" timestamp="1432154663590">
         <mark key="'" line="60" column="76" />
         <mark key="[" line="2" column="41" />
@@ -1848,12 +1854,7 @@
         <mark key="^" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/bin/jetbrains" timestamp="1570922148760">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-      </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/bin/jetbrains" timestamp="1570922148760" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronUpdateAbandonedCartsJob.php" timestamp="1431223439626">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="108" column="62" />
@@ -1863,9 +1864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="19" column="5" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="25" column="22" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
@@ -1963,62 +1961,65 @@
       <jump line="100" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/commander/index.js" />
+      <jump line="10" column="1" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
+      <jump line="97" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdmVyc2lvbiA9IHJlcXVpcmUoJy4uL3BhY2thZ2UuanNvbicpLnZlcnNpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>goLand</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>goLand</text>
       </register>
       <register name="/" type="4">
-        <text>LogoContainer</text>
+        <text>GoLand</text>
       </register>
-      <register name="0" type="4">
-        <text>onMouseEnter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHByb2plY3RTdGF0Lmhhc0dvTGFuZEZpbGVzKSB7CiAgICAgICAgICAgIGFwcE5hbWUgPSBpZGVzLmdvTGFuZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdmVyc2lvbiA9IHJlcXVpcmUoJy4uL3BhY2thZ2UuanNvbicpLnZlcnNpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Y29uc3QgdmVyc2lvbiA9IHJlcXVpcmUoJy4uL3BhY2thZ2UuanNvbicpLnZlcnNpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uTW91c2VFbnRlcjogKCkgPT4gZGlzcGF0Y2godXBkYXRlU2VjdGlvbnMoKSksCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIG9uTW91c2VFbnRlcj17b25Nb3VzZUVudGVyfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbWVyZ2VQcm9wcyA9ICh3cmFwcGVkQ29tcG9uZW50UHJvcHMpID0+CiAgKHN0YXRlUHJvcHMsIGRpc3BhdGNoUHJvcHMsIG93blByb3BzKSA9PgogICAgKHsgLi4ub3duUHJvcHMsIC4uLnN0YXRlUHJvcHMsIC4uLmRpc3BhdGNoUHJvcHMsIC4uLndyYXBwZWRDb21wb25lbnRQcm9wcyB9KTsKCg==</text>
+        <text encoding="base64">ICAgIG9uTW91c2VFbnRlcjogKCkgPT4gZGlzcGF0Y2godXBkYXRlU2VjdGlvbnMoKSksCiAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvdGF0aW9uU3RvcHBlZDogKHJlZikgPT4gZGlzcGF0Y2gocm90YXRpb25TdG9wcGVkKHJlZikpLAo=</text>
+        <text encoding="base64">Y29uc3QgbWVyZ2VQcm9wcyA9ICh3cmFwcGVkQ29tcG9uZW50UHJvcHMpID0+CiAgKHN0YXRlUHJvcHMsIGRpc3BhdGNoUHJvcHMsIG93blByb3BzKSA9PgogICAgKHsgLi4ub3duUHJvcHMsIC4uLnN0YXRlUHJvcHMsIC4uLmRpc3BhdGNoUHJvcHMsIC4uLndyYXBwZWRDb21wb25lbnRQcm9wcyB9KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb3RhdGlvblN0b3BwZWQsCiAgc3RhcnRSb3RhdGlvbiwK</text>
+        <text encoding="base64">ICAgIHJvdGF0aW9uU3RvcHBlZDogKHJlZikgPT4gZGlzcGF0Y2gocm90YXRpb25TdG9wcGVkKHJlZikpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LogoContainer</last-search>
+      <last-search>GoLand</last-search>
       <last-offset />
-      <last-pattern>LogoContainer</last-pattern>
-      <last-replace>isActive</last-replace>
-      <last-substitute>isSpinning</last-substitute>
+      <last-pattern>GoLand</last-pattern>
+      <last-replace>CLion</last-replace>
+      <last-substitute>GoLand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2042,6 +2043,8 @@
         <entry>isSpinning</entry>
         <entry>props</entry>
         <entry>LogoContainer</entry>
+        <entry>goLand</entry>
+        <entry>GoLand</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -2063,6 +2066,7 @@
         <entry>%s/isSpinning/isActive/g</entry>
         <entry>18</entry>
         <entry>49</entry>
+        <entry>s/GoLand/CLion/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
