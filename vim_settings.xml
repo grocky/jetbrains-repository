@@ -1227,12 +1227,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1570923512258">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteMemberProfileWidgetView.php" timestamp="1432154663590">
         <mark key="'" line="60" column="76" />
         <mark key="[" line="2" column="41" />
@@ -1294,6 +1288,9 @@
         <mark key="]" line="79" column="37" />
         <mark key="^" line="79" column="37" />
         <mark key="." line="79" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1570928229882">
+        <mark key="'" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1864,7 +1861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="22" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/redux.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
       <jump line="18" column="8" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
@@ -1964,6 +1960,7 @@
       <jump line="10" column="1" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
       <jump line="20" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
       <jump line="97" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
+      <jump line="8" column="20" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
