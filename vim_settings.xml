@@ -1066,12 +1066,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570981924092">
-        <mark key="'" line="28" column="14" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570982921876">
+        <mark key="'" line="33" column="14" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/CronJobs/Models/AudioCronSiteMapModel.php" timestamp="1431035223703">
         <mark key="'" line="44" column="0" />
@@ -2005,11 +2005,11 @@
       <jump line="30" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsc1N0dWIgPSBzYW5kYm94LnN0dWIoc2hlbGxqcywgJ2xzJyk7CiAgICAgICAgY29uc3QgZXhlY1N0dWIgPSBzYW5kYm94LnN0dWIoc2hlbGxqcywgJ2V4ZWMnKTsKICAgICAgICBjb25zdCByZWFkZGlyU3R1YiA9IHNhbmRib3guc3R1YihGcywgJ3JlYWRkaXJTeW5jJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>directory</text>
@@ -2018,34 +2018,34 @@
         <text encoding="base64">Y2FsbGJhY2s6IChlcnI6IE5vZGVKUy5FcnJub0V4Y2VwdGlvbiB8IG51bGwsIGZpbGVzOiBzdHJpbmdbXSkgPT4gdm9pZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsc1N0dWIgPSBzYW5kYm94LnN0dWIoc2hlbGxqcywgJ2xzJyk7CiAgICAgICAgY29uc3QgZXhlY1N0dWIgPSBzYW5kYm94LnN0dWIoc2hlbGxqcywgJ2V4ZWMnKTsKICAgICAgICBjb25zdCByZWFkZGlyU3R1YiA9IHNhbmRib3guc3R1YihGcywgJ3JlYWRkaXJTeW5jJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSgoKSA9PiB7CiAgICAgICAgc2FuZGJveCA9IGNyZWF0ZVNhbmRib3goKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc3Qgc2FuZGJveDogU2lub25TYW5kYm94ID0gY3JlYXRlU2FuZGJveCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBzYW5kYm94OiBTaW5vblNhbmRib3g7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBsc1N0dWIgPSBzYW5kYm94LnN0dWIoc2hlbGxqcywgJ2xzJyk7CiAgICAgICAgY29uc3QgZXhlY1N0dWIgPSBzYW5kYm94LnN0dWIoc2hlbGxqcywgJ2V4ZWMnKTsKICAgICAgICBjb25zdCByZWFkZGlyU3R1YiA9IHNhbmRib3guc3R1YihGcywgJ3JlYWRkaXJTeW5jJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgRnMgZnJvbSAnZnMnOwo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZSgoKSA9PiB7CiAgICAgICAgc2FuZGJveCA9IGNyZWF0ZVNhbmRib3goKTsKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzYW5kYm94OiBTaW5vblNhbmRib3g7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcGVuSmV0YnJhaW5zSWRlIGZyb20gJy4uL3NyYyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgRnMgZnJvbSAnZnMnOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZW5KZXRicmFpbnNJZGUgZnJvbSAnLi4vc3JjJzsK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcGVuSmV0YnJhaW5zSWRlIGZyb20gJy4uL3NyYyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIERlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>245</text>
