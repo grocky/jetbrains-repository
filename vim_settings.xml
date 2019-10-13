@@ -1081,12 +1081,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570940073338">
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570942008490">
         <mark key="'" line="16" column="35" />
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/CronJobs/Models/AudioCronSiteMapModel.php" timestamp="1431035223703">
         <mark key="'" line="44" column="0" />
@@ -1316,8 +1316,8 @@
         <mark key="^" line="79" column="37" />
         <mark key="." line="79" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1570939370240">
-        <mark key="'" line="28" column="13" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1570941929400">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1760,6 +1760,9 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="/JavaScript Console" timestamp="1570941959414">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Events/ListenerCollections/MarketplaceCustomerIOListenerCollection.php" timestamp="1431629782003">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="54" />
@@ -1849,7 +1852,6 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1560052972207" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1963,7 +1965,6 @@
       <jump line="20" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
       <jump line="97" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
       <jump line="8" column="20" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="0" column="7" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="87" column="8" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="48" column="10" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
@@ -1993,55 +1994,56 @@
       <jump line="33" column="21" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="20" column="9" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="94" column="4" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="1" column="15" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="83" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="13" column="35" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="28" column="13" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/shelljs/index.d.ts" />
+      <jump line="94" column="4" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>fs, 'readdir'</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>fs, 'readdir'</text>
       </register>
       <register name="/" type="4">
         <text>exit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZWFkZGlyU3R1YiA9IHNhbmRib3guc3R1YihmcywgJ3JlYWRkaXInKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBleGVjU3R1YiA9IHNhbmRib3guc3R1YihzaGVsbGpzLCAnZXhlYycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmc1N0dWIuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmc1N0dWIuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleTogdjEtZGVwZW5kZW5jaWVzLXt7IGNoZWNrc3VtICJwYWNrYWdlLWxvY2suanNvbiIgfX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBydW4gdGVzdHMhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
