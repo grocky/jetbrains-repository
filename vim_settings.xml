@@ -1066,12 +1066,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570978019434">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="33" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570978833932">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/CronJobs/Models/AudioCronSiteMapModel.php" timestamp="1431035223703">
         <mark key="'" line="44" column="0" />
@@ -1304,7 +1304,13 @@
         <mark key="^" line="79" column="37" />
         <mark key="." line="79" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1570946004694" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1570978830597">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
@@ -1753,7 +1759,7 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1570947079443">
+      <file name="/JavaScript Console" timestamp="1570978801123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="fs.js" timestamp="1570946807080">
@@ -1897,10 +1903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="1" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.css" />
-      <jump line="66" column="1" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.css" />
-      <jump line="49" column="11" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
-      <jump line="63" column="49" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
       <jump line="12" column="21" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/SocialLinks/SocialLinks.css" />
       <jump line="5" column="27" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfilePicture.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/ProfilePicture.js" />
@@ -1947,7 +1949,6 @@
       <jump line="48" column="10" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="91" column="15" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="86" column="25" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="90" column="36" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="75" column="32" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="89" column="36" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="44" column="12" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
@@ -1997,58 +1998,63 @@
       <jump line="2080" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
       <jump line="10" column="48" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="23" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
+      <jump line="22" column="26" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="88" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="90" column="28" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="21" column="32" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="25" column="28" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Functioncallbac</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Functioncallbac</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>readdir</text>
+        <text>directory</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2FsbGJhY2s6IChlcnI6IE5vZGVKUy5FcnJub0V4Y2VwdGlvbiB8IG51bGwsIGZpbGVzOiBzdHJpbmdbXSkgPT4gdm9pZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7IGNhbGxiYWNrKG51bGwsIFtdKSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCByZXdpcmVtb2NrLm1vZHVsZSgoKSA9PiBpbXBvcnQoJ2ZzJyksIHsKICAgICAgICAgICAgcmVhZGRpcjogcmVhZGRpclN0dWIsCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHBhdGg6IHN0cmluZywgY2FsbGJhY2s6IChlcnI6IE5vZGVKUy5FcnJub0V4Y2VwdGlvbiB8IG51bGwsIGZpbGVzOiBzdHJpbmdbXSkgPT4gdm9pZCkgPT4geyBjYWxsYmFjayhudWxsLCBbXSkgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXdpcmVtb2NrLmRpc2FibGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXdpcmVtb2NrLmVuYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb2plY3RTdGF0ID0gaXRlbXMucmVkdWNlKAogICAgICAoYWNjOiBQcm9qZWN0RmlsZXMsIGY6IHN0cmluZykgPT4gKHsKICAgICAgICBwcm9qZWN0RmlsZTogYWNjLnByb2plY3RGaWxlIHx8IChpc1Byb2plY3RGaWxlKGYpID8gZiA6IG51bGwpLAogICAgICAgIGhhc1dlYlN0b3JtRmlsZXM6IGFjYy5oYXNXZWJTdG9ybUZpbGVzIHx8IGlzV2ViU3Rvcm1GaWxlKGYpLAogICAgICAgIGhhc1BocFN0b3JtRmlsZXM6IGFjYy5oYXNQaHBTdG9ybUZpbGVzIHx8IGlzUGhwU3Rvcm1GaWxlKGYpLAogICAgICAgIGhhc0dvTGFuZEZpbGVzOiBhY2MuaGFzR29MYW5kRmlsZXMgfHwgaXNHb2xhbmRGaWxlKGYpLAogICAgICAgIGhhc0NMaW9uRmlsZXM6IGFjYy5oYXNDTGlvbkZpbGVzIHx8IGlzQ0xpb25GaWxlKGYpLAogICAgICB9KSwKICAgICAgewogICAgICAgIHByb2plY3RGaWxlOiBudWxsLAogICAgICAgIGhhc1dlYlN0b3JtRmlsZXM6IGZhbHNlLAogICAgICAgIGhhc1BocFN0b3JtRmlsZXM6IGZhbHNlLAogICAgICAgIGhhc0dvTGFuZEZpbGVzOiBmYWxzZSwKICAgICAgICBoYXNDTGlvbkZpbGVzOiBmYWxzZSwKICAgICAgfSwKICAgICk7CgogICAgbGV0IGFwcE5hbWUgPSAnJzsKICAgIGlmIChwcm9qZWN0U3RhdC5oYXNQaHBTdG9ybUZpbGVzKSB7CiAgICAgIGFwcE5hbWUgPSBJREVzLlBIUFN0b3JtOwogICAgfSBlbHNlIGlmIChwcm9qZWN0U3RhdC5oYXNXZWJTdG9ybUZpbGVzKSB7CiAgICAgIGFwcE5hbWUgPSBJREVzLldlYlN0b3JtOwogICAgfSBlbHNlIGlmIChwcm9qZWN0U3RhdC5oYXNHb0xhbmRGaWxlcykgewogICAgICBhcHBOYW1lID0gSURFcy5Hb0xhbmQ7CiAgICB9IGVsc2UgaWYgKHByb2plY3RTdGF0Lmhhc0NMaW9uRmlsZXMpIHsKICAgICAgYXBwTmFtZSA9IElERXMuQ0xpb247CiAgICB9IGVsc2UgewogICAgICBhcHBOYW1lID0gSURFcy5JbnRlbGxpSjsKICAgIH0KCiAgICBnZXRKZXRCcmFpbnNBcHAoYXBwTmFtZSwgKGVyciwgYXBwbGljYXRpb24pID0+IG9wZW5CeUFwcGxpY2F0aW9uKGVyciwgYXBwbGljYXRpb24sIHByb2plY3RTdGF0LnByb2plY3RGaWxlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCByZWFkZGlyTW9jazogTW9ja01hbmFnZXI8ZnNNb2R1bGUucHJvbWlzZXMuRmlsZUhhbmRsZS5yZWFkZGlyPjsK</text>
+        <text encoding="base64">ICAgICAgICB7IGNhbGxiYWNrKG51bGwsIFtdKSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgU2lub24gZnJvbSAnc2lub24nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtTaW5vblNhbmRib3h9IGZyb20gInNpbm9uIjsK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCByZXdpcmVtb2NrLm1vZHVsZSgoKSA9PiBpbXBvcnQoJ2ZzJyksIHsKICAgICAgICAgICAgcmVhZGRpcjogcmVhZGRpclN0dWIsCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBzYW5kYm94OiBTaW5vblNhbmRib3g7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXdpcmVtb2NrLmRpc2FibGUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>245</text>
       </register>
     </registers>
     <search>
-      <last-search>readdir</last-search>
+      <last-search>directory</last-search>
       <last-offset />
-      <last-pattern>readdir</last-pattern>
+      <last-pattern>directory</last-pattern>
       <last-replace>CLion</last-replace>
       <last-substitute>GoLand</last-substitute>
       <last-dir>1</last-dir>
@@ -2093,6 +2099,7 @@
         <entry>exit</entry>
         <entry>enable</entry>
         <entry>readdir</entry>
+        <entry>directory</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -2118,6 +2125,7 @@
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>245</entry>
       </history-cmd>
       <history-expr />
       <history-input />
