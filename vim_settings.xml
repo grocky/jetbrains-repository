@@ -805,12 +805,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" timestamp="1571003627883">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="90" column="30" />
-        <mark key="^" line="90" column="30" />
-        <mark key="." line="90" column="30" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" timestamp="1571004977524">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="87" column="7" />
+        <mark key="]" line="87" column="7" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="87" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1560056895577">
         <mark key="'" line="0" column="34" />
@@ -1207,12 +1207,12 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571000501770">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571005069819">
+        <mark key="'" line="22" column="31" />
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1734,14 +1734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="15" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/commander/index.js" />
-      <jump line="10" column="1" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
-      <jump line="20" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
-      <jump line="97" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.js" />
       <jump line="8" column="20" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="87" column="8" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
@@ -1822,7 +1814,6 @@
       <jump line="110" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="2" column="25" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="115" column="31" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="15" column="26" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
@@ -1830,62 +1821,71 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="20" column="42" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="96" column="19" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="115" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="86" column="50" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="69" column="6" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="18" column="6" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="20" column="52" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="22" column="9" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="19" column="31" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>projectFile</text>
+        <text>openJetbrainsIde</text>
       </register>
       <register name="-" type="4">
-        <text>projectFile</text>
+        <text>openJetbrainsIde</text>
       </register>
       <register name="/" type="4">
-        <text>appName</text>
+        <text>isProjectFile</text>
       </register>
       <register name="0" type="4">
         <text>openJetbrainsIde</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">biBwcm9qZWN0U3RhdDsK</text>
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgcmV0dXI=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBpdGVtczogc3RyaW5nW10gPSBmcy5yZWFkZGlyU3luYyhkaXJlY3RvcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXRKZXRCcmFpbnNBcHAoYXBwTmFtZSwgKGVyciwgYXBwbGljYXRpb24pID0+ICk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNoZWxsanMgZnJvbSAnc2hlbGxqcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgICAKICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNoYWxrIGZyb20gJ2NoYWxrJzsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgYXN5bmMgZnVuY3Rpb24gZ2V0SmV0QnJhaW5zQXBwKGFwcE5hbWU6IHN0cmluZyk6IFByb21pc2U8c3RyaW5nPiB7CiAgICBjb25zdCBhcHBsaWNhdGlvbiA9IHNoZWxsanMubHMoJy1kJywgYC9BcHBsaWNhdGlvbnMvJHthcHBOYW1lfSpgKS5wb3AoKTsKCiAgICBpZiAoIWFwcGxpY2F0aW9uKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihgVW5hYmxlIHRvIGZpbmQgJHthcHBOYW1lfSBhcHBsaWNhdGlvbmApOwogICAgfQogICAgCiAgICByZXR1cm4gYXBwbGljYXRpb247CiAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhcHBsaWNhdGlvbiA9PT0gJy5pZGVhJykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGFwcGxpY2F0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgZmlsZW5hbWUgPSBkaXJlY3Rvcnk7CiAgICB9IGVsc2UgewogICAgICBmaWxlbmFtZSA9IHByb2plY3QgfHwgZGlyZWN0b3J5OwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>appName</last-search>
+      <last-search>isProjectFile</last-search>
       <last-offset />
-      <last-pattern>appName</last-pattern>
+      <last-pattern>isProjectFile</last-pattern>
       <last-replace>CLion</last-replace>
       <last-substitute>GoLand</last-substitute>
       <last-dir>1</last-dir>
@@ -1904,7 +1904,6 @@
         <entry>build</entry>
         <entry>exports</entry>
         <entry>Error</entry>
-        <entry>shelljs</entry>
         <entry>exit</entry>
         <entry>enable</entry>
         <entry>readdir</entry>
@@ -1916,10 +1915,12 @@
         <entry>test</entry>
         <entry>root</entry>
         <entry>exec</entry>
-        <entry>fs</entry>
         <entry>readdirSync</entry>
         <entry>start</entry>
         <entry>appName</entry>
+        <entry>shelljs</entry>
+        <entry>fs</entry>
+        <entry>isProjectFile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/levels/Gpio/</entry>
