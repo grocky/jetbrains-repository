@@ -366,6 +366,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/rewiremock.ts" timestamp="1570987284491">
+        <mark key="'" line="2" column="20" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/rockygray.com/infrastructure/www-domain.tf" timestamp="1541650731448">
         <mark key="[" line="87" column="1" />
         <mark key="]" line="88" column="0" />
@@ -1069,11 +1076,11 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570985222297">
-        <mark key="'" line="20" column="42" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="52" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570988115589">
+        <mark key="'" line="22" column="44" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/CronJobs/Models/AudioCronSiteMapModel.php" timestamp="1431035223703">
         <mark key="'" line="44" column="0" />
@@ -1492,8 +1499,8 @@
         <mark key="^" line="14" column="50" />
         <mark key="." line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" timestamp="1570977985087">
-        <mark key="'" line="2080" column="17" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" timestamp="1570986034351">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="853" column="37" />
         <mark key="]" line="853" column="106" />
       </file>
@@ -1761,7 +1768,7 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1570984050757">
+      <file name="/JavaScript Console" timestamp="1570988118733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="fs.js" timestamp="1570946807080">
@@ -1849,8 +1856,8 @@
         <mark key="^" line="13" column="50" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" timestamp="1570984857569">
-        <mark key="'" line="78" column="69" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" timestamp="1570986317845">
+        <mark key="'" line="78" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Visitors/AbstractVisitorService.php" timestamp="1432157102808">
         <mark key="'" line="49" column="30" />
@@ -1859,6 +1866,7 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1570985307417" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1908,11 +1916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
-      <jump line="29" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
-      <jump line="45" column="24" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/RotationAnimation/RotationAnimation.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="9" column="42" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" />
       <jump line="22" column="27" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Animations/RotationAnimation.js" />
@@ -2006,60 +2009,65 @@
       <jump line="39" column="66" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="54" column="67" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="69" column="70" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
-      <jump line="78" column="69" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="19" column="42" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
+      <jump line="29" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
+      <jump line="1811" column="11" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
+      <jump line="78" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
+      <jump line="20" column="44" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
+      <jump line="4" column="20" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/rewiremock.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2lub25TYW5kYm94LCBjcmVhdGVTYW5kYm94IH0gZnJvbSAnc2lub24nOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bW9ja0ZzID0g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bW9ja0ZzID0g</text>
       </register>
       <register name="/" type="4">
-        <text>Sandbox</text>
+        <text>stubCallable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjU3R1YiA9IHNhbmRib3guc3R1YihTaGVsbGpzLCAnZXhlYycpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXdpcmVtb2NrLmVuYWJsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2lub25TYW5kYm94LCBjcmVhdGVTYW5kYm94IH0gZnJvbSAnc2lub24nOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtjcmVhdGVTYW5kYm94LCBTaW5vblNhbmRib3gsIFNpbm9uU3R1Yn0gZnJvbSAnc2lub24nOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdHViUmVhZGRpclN5bmMgPSBtb2NrRnMucmVhZGRpclN5bmM7CiAgICAgICAgbW9ja0ZzLnJldHVybnMoWydmb28nXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkZGlyU3luY1N0dWIgPSBzYW5kYm94LnN0dWIoRnMsICdyZWFkZGlyU3luYycpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBtb2NrRnM6IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmc1N0dWIgPSBzYW5kYm94LnN0dWIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmc1N0dWIuCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrLnJlYWRkaXJTeW5jLnJldHVybnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZWFkZGlyU3R1Ygo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrLnJlYWRkaXJTeW5jKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IGxzU3R1YiA9IHNhbmRib3guc3R1YihzaGVsbGpzLCAnbHMnKTsKY29uc3QgZXhlY1N0dWIgPSBzYW5kYm94LnN0dWIoc2hlbGxqcywgJ2V4ZWMnKTsKY29uc3QgcmVhZGRpclN0dWIgPSBzYW5kYm94LnN0dWIoRnMsICdyZWFkZGlyU3luYycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrLnJlYWRkaXJTeW5jKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB7IHJlYWRkaXJTeW5jIH0gPSBhd2FpdCBpbXBvcnQoJ2ZzJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgVHNTaW5vbiBmcm9tICdAc2FsZXNmb3JjZS90cy1zaW5vbic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Sandbox</last-search>
+      <last-search>stubCallable</last-search>
       <last-offset />
-      <last-pattern>Sandbox</last-pattern>
+      <last-pattern>stubCallable</last-pattern>
       <last-replace>CLion</last-replace>
       <last-substitute>GoLand</last-substitute>
       <last-dir>1</last-dir>
@@ -2067,25 +2075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font</entry>
-        <entry>LogoActions</entry>
-        <entry>Provider</entry>
-        <entry>index</entry>
-        <entry>Logo</entry>
-        <entry>react</entry>
-        <entry>class</entry>
-        <entry>highlighted</entry>
-        <entry>onMouseEnter</entry>
-        <entry>highlightedSections</entry>
-        <entry>createLogo</entry>
-        <entry>updateSections</entry>
-        <entry>mergeProps</entry>
-        <entry>onRotationStop</entry>
-        <entry>s</entry>
-        <entry>s\.</entry>
-        <entry>social</entry>
-        <entry>isSpinning</entry>
-        <entry>props</entry>
         <entry>LogoContainer</entry>
         <entry>goLand</entry>
         <entry>GoLand</entry>
@@ -2106,12 +2095,10 @@
         <entry>directory</entry>
         <entry>chalk</entry>
         <entry>Sandbox</entry>
+        <entry>readdirSync</entry>
+        <entry>stubCallable</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
-        <entry>%s/project_name/webserver_name/g</entry>
-        <entry>m+</entry>
-        <entry>%s/controller_name/switch_name/g</entry>
         <entry>%s/levels/Gpio/</entry>
         <entry>%s/front-tier/frontend/g</entry>
         <entry>%s/back-tier/devices/</entry>
