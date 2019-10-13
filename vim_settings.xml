@@ -805,12 +805,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" timestamp="1571001760630">
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" timestamp="1571003627883">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="100" column="20" />
-        <mark key="]" line="100" column="20" />
-        <mark key="^" line="100" column="62" />
-        <mark key="." line="100" column="20" />
+        <mark key="[" line="90" column="5" />
+        <mark key="]" line="90" column="30" />
+        <mark key="^" line="90" column="30" />
+        <mark key="." line="90" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1560056895577">
         <mark key="'" line="0" column="34" />
@@ -1837,10 +1837,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>projectFile</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>projectFile</text>
       </register>
       <register name="/" type="4">
         <text>appName</text>
@@ -1849,34 +1849,34 @@
         <text>openJetbrainsIde</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRKZXRCcmFpbnNBcHAoYXBwTmFtZSwgKGVyciwgYXBwbGljYXRpb24pID0+ICk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgICAKICB9Cg==</text>
+        <text encoding="base64">biBwcm9qZWN0U3RhdDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgcmV0dXI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgYXN5bmMgZnVuY3Rpb24gZ2V0SmV0QnJhaW5zQXBwKGFwcE5hbWU6IHN0cmluZyk6IFByb21pc2U8c3RyaW5nPiB7CiAgICBjb25zdCBhcHBsaWNhdGlvbiA9IHNoZWxsanMubHMoJy1kJywgYC9BcHBsaWNhdGlvbnMvJHthcHBOYW1lfSpgKS5wb3AoKTsKCiAgICBpZiAoIWFwcGxpY2F0aW9uKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihgVW5hYmxlIHRvIGZpbmQgJHthcHBOYW1lfSBhcHBsaWNhdGlvbmApOwogICAgfQogICAgCiAgICByZXR1cm4gYXBwbGljYXRpb247CiAgfQo=</text>
+        <text encoding="base64">ICBnZXRKZXRCcmFpbnNBcHAoYXBwTmFtZSwgKGVyciwgYXBwbGljYXRpb24pID0+ICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICB0cnkgewogICAgICAKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGFwcGxpY2F0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sobnVsbCwgYXBwbGljYXRpb24udHJpbSgpKTsK</text>
+        <text encoding="base64">CiAgYXN5bmMgZnVuY3Rpb24gZ2V0SmV0QnJhaW5zQXBwKGFwcE5hbWU6IHN0cmluZyk6IFByb21pc2U8c3RyaW5nPiB7CiAgICBjb25zdCBhcHBsaWNhdGlvbiA9IHNoZWxsanMubHMoJy1kJywgYC9BcHBsaWNhdGlvbnMvJHthcHBOYW1lfSpgKS5wb3AoKTsKCiAgICBpZiAoIWFwcGxpY2F0aW9uKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihgVW5hYmxlIHRvIGZpbmQgJHthcHBOYW1lfSBhcHBsaWNhdGlvbmApOwogICAgfQogICAgCiAgICByZXR1cm4gYXBwbGljYXRpb247CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sobmV3IEVycm9yKCkpOwo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGFwcGxpY2F0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
