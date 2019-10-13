@@ -1207,12 +1207,11 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571005069819">
-        <mark key="'" line="22" column="31" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571006532627">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1734,7 +1733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="20" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="87" column="8" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="48" column="10" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
@@ -1761,7 +1759,6 @@
       <jump line="33" column="21" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="13" column="35" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="28" column="13" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/shelljs/index.d.ts" />
       <jump line="24" column="10" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
@@ -1834,13 +1831,15 @@
       <jump line="22" column="9" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="19" column="31" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="28" column="29" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="8" column="28" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>openJetbrainsIde</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBvcGVuQnlBcHBsaWNhdGlvbihhcHBsaWNhdGlvbjogSURFcywgcHJvamVjdDogc3RyaW5nIHwgbnVsbCkgewogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>openJetbrainsIde</text>
+        <text>Unable to find ${ide} application</text>
       </register>
       <register name="/" type="4">
         <text>isProjectFile</text>
@@ -1849,34 +1848,34 @@
         <text>openJetbrainsIde</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBvcGVuQnlBcHBsaWNhdGlvbihhcHBsaWNhdGlvbjogSURFcywgcHJvamVjdDogc3RyaW5nIHwgbnVsbCkgewogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZmlsZW5hbWUgPSBhcHBsaWNhdGlvbiA9PT0gJy5pZGVhJwogICAgICAgICAgICAgICAgPyBkaXJlY3RvcnkKICAgICAgICAgICAgICAgIDogcHJvamVjdCB8fCBkaXJlY3Rvcnk7CgogICAgICAgICAgICBjb25zb2xlLmxvZyhjaGFsay5ncmVlbihgb3BlbmluZyB3aXRoICR7YXBwbGljYXRpb259YCkpOwogICAgICAgICAgICBzaGVsbGpzLmV4ZWMoYG9wZW4gLWEgIiR7YXBwbGljYXRpb259IiAiJHtmaWxlbmFtZX0iYCwgKGNvZGUsIHN0ZG91dCwgc3RkZXJyKSA9PiB7CiAgICAgICAgICAgICAgICBpZiAoY29kZSAhPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoY2hhbGsuYm9sZC5yZWQoYCR7c3Rkb3V0fWApKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmVycm9yKGNoYWxrLmJvbGQucmVkKGAke3N0ZGVycn1gKSk7CiAgICAgICAgICAgICAgICAgICAgc2hlbGxqcy5leGl0KGNvZGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBpdGVtczogc3RyaW5nW10gPSBmcy5yZWFkZGlyU3luYyhkaXJlY3RvcnkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNoZWxsanMgZnJvbSAnc2hlbGxqcyc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWxrIGZyb20gJ2NoYWxrJzsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBhcHBsaWNhdGlvbiA9IGdldEpldEJyYWluc0FwcChhcHBOYW1lKTsKICAgICAgICBvcGVuQnlBcHBsaVZrY2F0aW9uKGFwcE5hbWUsIHByb2plY3RGaWxlcy5wcm9qZWN0RmlsZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBgKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgcHJvZ3JhbSA9IHJlcXVpcmUoJ2NvbW1hbmRlcicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChhcHBsaWNhdGlvbiA9PT0gJy5pZGVhJykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsZW5hbWUgPSBkaXJlY3Rvcnk7CiAgICB9IGVsc2UgewogICAgICBmaWxlbmFtZSA9IHByb2plY3QgfHwgZGlyZWN0b3J5OwogICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgdmVyc2lvbiA9IHJlcXVpcmUoJy4uL3BhY2thZ2UuanNvbicpLnZlcnNpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
