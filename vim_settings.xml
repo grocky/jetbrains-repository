@@ -46,6 +46,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/shelljs/index.d.ts" timestamp="1570939907543">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526798439654">
         <mark key="'" line="82" column="4" />
         <mark key="[" line="50" column="15" />
@@ -769,6 +772,13 @@
         <mark key="^" line="60" column="41" />
         <mark key="." line="60" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" timestamp="1570938077747">
+        <mark key="'" line="19" column="21" />
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
         <mark key="[" line="463" column="76" />
@@ -1071,6 +1081,13 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" timestamp="1570940073338">
+        <mark key="'" line="16" column="35" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/AudioBlocks/CronJobs/Models/AudioCronSiteMapModel.php" timestamp="1431035223703">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="29" column="87" />
@@ -1298,6 +1315,9 @@
         <mark key="]" line="79" column="37" />
         <mark key="^" line="79" column="37" />
         <mark key="." line="79" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1570939370240">
+        <mark key="'" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1864,11 +1884,11 @@
         <mark key="^" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/bin/jetbrains" timestamp="1570933947397">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="7" column="20" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/bin/jetbrains" timestamp="1570936686924">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Resque/Jobs/CronUpdateAbandonedCartsJob.php" timestamp="1431223439626">
         <mark key="'" line="116" column="0" />
@@ -1879,14 +1899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="1" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/component.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="40" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="48" column="18" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/LogoContainer.js" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
       <jump line="17" column="16" filename="$USER_HOME$/Projects/grocky/rockygray.com/src/common/Logo/Logo.js" />
@@ -1956,7 +1968,6 @@
       <jump line="87" column="8" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="48" column="10" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="91" column="15" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="1" column="32" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="86" column="25" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="90" column="36" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="75" column="32" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
@@ -1979,37 +1990,46 @@
       <jump line="116" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="41" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="80" column="38" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="33" column="21" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
+      <jump line="20" column="9" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="94" column="4" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="1" column="15" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="83" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="13" column="35" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
+      <jump line="28" column="13" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/shelljs/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>Error</text>
+        <text>exit</text>
       </register>
-      <register name="0" type="4">
-        <text>distribution</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCByZWFkZGlyU3R1YiA9IHNhbmRib3guc3R1YihmcywgJ3JlYWRkaXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyKGsgPT4gdHlwZW9mIGsgPT09ICdzdHJpbmcnKQogICAgICAgIC5tYXAoayA9PiBJREVzW2tdKTsK</text>
+        <text encoding="base64">ICAgICAgICBmc1N0dWIuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoayA9PiB0eXBlb2YgayA9PT0gJ3N0cmluZycpCiAgICAubWFwKGsgPT4gSURFc1trXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0eXBlcyI6IFsibm9kZSJdLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2018,19 +2038,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaWRlcyA9IHsKICAgIHBocFN0b3JtOiAnUGhwU3Rvcm0nLAogICAgd2ViU3Rvcm06ICdXZWJTdG9ybScsCiAgICBpbnRlbGxpSjogJ0ludGVsbGlKJywKICAgIGdvTGFuZDogJ0dvTGFuZCcsCiAgICBjTGlvbjogJ0NMaW9uJywKfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGtleTogdjEtZGVwZW5kZW5jaWVzLXt7IGNoZWNrc3VtICJwYWNrYWdlLWxvY2suanNvbiIgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm1vY2hhIC0tY29tcGlsZXJzIGpzOmJhYmVsLWNvcmUvcmVnaXN0ZXIgdGVzdHMvIiwK</text>
+        <text encoding="base64">ICAgICAgIyBydW4gdGVzdHMhCg==</text>
       </register>
       <register name=":" type="4">
-        <text>26</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>Error</last-search>
+      <last-search>exit</last-search>
       <last-offset />
-      <last-pattern>Error</last-pattern>
+      <last-pattern>exit</last-pattern>
       <last-replace>CLion</last-replace>
       <last-substitute>GoLand</last-substitute>
       <last-dir>1</last-dir>
@@ -2070,6 +2090,9 @@
         <entry>build</entry>
         <entry>exports</entry>
         <entry>Error</entry>
+        <entry>shelljs</entry>
+        <entry>exec</entry>
+        <entry>exit</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -2084,7 +2107,6 @@
         <entry>39</entry>
         <entry>32</entry>
         <entry>75</entry>
-        <entry>vsp</entry>
         <entry>FZF</entry>
         <entry>%s/isSpinning/isActive/g</entry>
         <entry>18</entry>
@@ -2092,8 +2114,9 @@
         <entry>s/GoLand/CLion/g</entry>
         <entry>15</entry>
         <entry>53</entry>
-        <entry>w</entry>
         <entry>26</entry>
+        <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="add" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="TypeHierarchy" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
