@@ -1560,6 +1560,12 @@
         <mark key="^" line="13" column="96" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tsconfig.json" timestamp="1570929216580">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
         <mark key="'" line="16" column="2" />
         <mark key="[" line="18" column="26" />
@@ -1964,10 +1970,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>goLand</text>
+        <text>es6</text>
       </register>
       <register name="-" type="4">
-        <text>goLand</text>
+        <text>es6</text>
       </register>
       <register name="/" type="4">
         <text>GoLand</text>
