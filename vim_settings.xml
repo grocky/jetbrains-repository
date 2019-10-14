@@ -1156,12 +1156,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1571031764023">
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1571032722481">
         <mark key="'" line="17" column="3" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteMemberProfileWidgetView.php" timestamp="1432154663590">
         <mark key="'" line="60" column="76" />
@@ -1854,11 +1853,11 @@
       <jump line="17" column="3" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/src/*.js</text>
       </register>
       <register name="/" type="4">
         <text>prepare</text>
@@ -1867,34 +1866,34 @@
         <text encoding="base64">ICBmaWx0ZXJzOgogICAgdGFnczoKICAgICAgb25seTogL152LiovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
+        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
+        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogInRzbGludCAtcCB0c2NvbmZpZy5qc29uIiwKICAgICJsaW50OmZpeCI6ICJ0c2xpbnQgLXAgdHNjb25maWcuanNvbiAtLWZpeCIsCg==</text>
+        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLnRzXCIgXCJzcmMvKiovKi5qc1wiIiwK</text>
+        <text encoding="base64">ICAgICJsaW50IjogInRzbGludCAtcCB0c2NvbmZpZy5qc29uIiwKICAgICJsaW50OmZpeCI6ICJ0c2xpbnQgLXAgdHNjb25maWcuanNvbiAtLWZpeCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAogICAgImJ1aWxkOmNoZWNrIjogInRzYyAtLW5vRW1pdCIsCg==</text>
+        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLnRzXCIgXCJzcmMvKiovKi5qc1wiIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAogICAgImJ1aWxkOmNoZWNrIjogInRzYyAtLW5vRW1pdCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbW9jaGEiOiAiNS4yLjciLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvY2hhbGsiOiAiMi4yLjAiLAogICAgIkB0eXBlcy9ub2RlIjogIjEyLjcuMTIiLAogICAgIkB0eXBlcy9zaGVsbGpzIjogIjAuOC41IiwK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbW9jaGEiOiAiNS4yLjciLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
