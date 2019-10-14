@@ -1156,12 +1156,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1571029402017">
-        <mark key="'" line="86" column="2" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1571031764023">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteMemberProfileWidgetView.php" timestamp="1432154663590">
         <mark key="'" line="60" column="76" />
@@ -1464,11 +1464,11 @@
         <mark key="^" line="13" column="96" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/tsconfig.json" timestamp="1571022485190">
-        <mark key="'" line="8" column="19" />
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tsconfig.json" timestamp="1571030148413">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/Profile/Profile.js" timestamp="1559496401723">
@@ -1752,10 +1752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="19" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="233" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/sinon/lib/sinon/behavior.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="0" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="31" column="67" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="39" column="66" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="54" column="67" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
@@ -1841,7 +1837,6 @@
       <jump line="3" column="21" filename="$USER_HOME$/Projects/grocky/jetbrains/tsconfig.json" />
       <jump line="8" column="19" filename="$USER_HOME$/Projects/grocky/jetbrains/tsconfig.json" />
       <jump line="19" column="34" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="16" column="11" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="57" column="12" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
       <jump line="12" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
@@ -1852,58 +1847,63 @@
       <jump line="9" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
       <jump line="18" column="9" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="86" column="2" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/tsconfig.json" />
+      <jump line="41" column="5" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="17" column="3" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmaWx0ZXJzOgogICAgdGFnczoKICAgICAgb25seTogL152LiovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>files</text>
+        <text>prepare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmaWx0ZXJzOgogICAgdGFnczoKICAgICAgb25seTogL152LiovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIGJyYW5jaGVzOgogICAgICAgICAgICAgIGlnbm9yZTogLy4qLwogICAgICAgICAgICB0YWdzOgogICAgICAgICAgICAgIG9ubHk6IC9edi4qLwo=</text>
+        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFnczoKICAgICAgICAgICAgICBvbmx5OiAvXnYuKi8K</text>
+        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBwdWJsaXNoOgogICAgICAgICAgcmVxdWlyZXM6CiAgICAgICAgICAgIC0gYnVpbGQKICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIGJyYW5jaGVzOgogICAgICAgICAgICAgIGlnbm9yZTogLy4qLwogICAgICAgICAgICB0YWdzOgogICAgICAgICAgICAgIG9ubHk6IC9edi4qLwo=</text>
+        <text encoding="base64">ICAgICJsaW50IjogInRzbGludCAtcCB0c2NvbmZpZy5qc29uIiwKICAgICJsaW50OmZpeCI6ICJ0c2xpbnQgLXAgdHNjb25maWcuanNvbiAtLWZpeCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpvYnM6CiAgICAgIC0gdGVzdAo=</text>
+        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLnRzXCIgXCJzcmMvKiovKi5qc1wiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBkZXBsb3k6CiAgICAgICAgICByZXF1aXJlczoKICAgICAgICAgICAgLSB0ZXN0CiAgICAgICAgICBmaWx0ZXJzOgogICAgICAgICAgICB0YWdzOgogICAgICAgICAgICAgIG9ubHk6IC9edi4qLwogICAgICAgICAgICBicmFuY2hlczoKICAgICAgICAgICAgICBpZ25vcmU6IC8uKi8K</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAogICAgImJ1aWxkOmNoZWNrIjogInRzYyAtLW5vRW1pdCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJiaW4iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbW9jaGEiOiAiNS4yLjciLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvY2hhbGsiOiAiMi4yLjAiLAogICAgIkB0eXBlcy9ub2RlIjogIjEyLjcuMTIiLAogICAgIkB0eXBlcy9zaGVsbGpzIjogIjAuOC41IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>files</last-search>
+      <last-search>prepare</last-search>
       <last-offset />
-      <last-pattern>files</last-pattern>
+      <last-pattern>prepare</last-pattern>
       <last-replace>dist</last-replace>
       <last-substitute>distribution</last-substitute>
       <last-dir>1</last-dir>
@@ -1951,6 +1951,10 @@
         <entry>distr</entry>
         <entry>distribution</entry>
         <entry>files</entry>
+        <entry>declar</entry>
+        <entry>depend</entry>
+        <entry>types</entry>
+        <entry>prepare</entry>
       </history-search>
       <history-cmd>
         <entry>%s/levels/Gpio/</entry>
