@@ -560,11 +560,12 @@
         <mark key="^" line="34" column="36" />
         <mark key="." line="34" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/jetbrains.spec.ts" timestamp="1571011479742">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/tests/jetbrains.spec.ts" timestamp="1571014207140">
+        <mark key="'" line="8" column="38" />
+        <mark key="[" line="39" column="110" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/Lib/Mvc/Database/Scaffolding/MvcScaffoldTableColumn.php" timestamp="1431280680299">
         <mark key="'" line="173" column="86" />
@@ -811,12 +812,12 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" timestamp="1571007251798">
-        <mark key="'" line="10" column="24" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="6" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" timestamp="1571014151762">
+        <mark key="'" line="87" column="13" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="29" />
         <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1560056895577">
         <mark key="'" line="0" column="34" />
@@ -1151,7 +1152,6 @@
         <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1570997924475">
-        <mark key="'" line="49" column="24" />
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="32" />
@@ -1743,11 +1743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="11" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/rewiremock/rewiremock.d.ts" />
-      <jump line="14" column="4" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="1829" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
-      <jump line="2055" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
-      <jump line="2059" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
       <jump line="2062" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
       <jump line="2066" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
       <jump line="2069" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
@@ -1843,60 +1838,65 @@
       <jump line="1705" column="68" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/chai/index.d.ts" />
       <jump line="1713" column="44" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/chai/index.d.ts" />
       <jump line="1717" column="68" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/chai/index.d.ts" />
+      <jump line="87" column="13" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
+      <jump line="29" column="12" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/jetbrains.spec.ts" />
+      <jump line="30" column="12" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/jetbrains.spec.ts" />
+      <jump line="31" column="94" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/jetbrains.spec.ts" />
+      <jump line="8" column="38" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/jetbrains.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>include</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBleHBlY3RlZEFwcGxpY2F0aW9uOiAnQ0xpb24nLCBleHBlY3RlZFRhcmdldDogbnVsbCwgZmlsZXM6IFsncGxhdGZvcm1pby5pbmknXSB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>include</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>array</text>
+        <text>package</text>
       </register>
-      <register name="0" type="4">
-        <text>openJetbrainsIde</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBleHBlY3RlZEFwcGxpY2F0aW9uOiAnQ0xpb24nLCBleHBlY3RlZFRhcmdldDogbnVsbCwgZmlsZXM6IFsncGxhdGZvcm1pby5pbmknXSB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAocHJvamVjdEZpbGVzLmhhc1dlYlN0b3JtRmlsZXMpIHsKICAgICAgICByZXR1cm4gSURFcy5XZWJTdG9ybTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAocHJvamVjdEZpbGVzLmhhc1dlYlN0b3JtRmlsZXMpIHsKICAgICAgICByZXR1cm4gSURFcy5XZWJTdG9ybTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFmdGVyKCgpID0+IHsKICAgICAgICBzYW5kYm94LnJlc3RvcmUoKTsKICAgICAgICByZXdpcmVtb2NrLmRpc2FibGUoKTsKICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgIFsncGFja2FnZS5qc29uJ10sCiAgICAgICAgICAgIFsnYm93ZXIuanNvbiddLAogICAgICAgICAgICBbJ2d1bHBmaWxlLmpzb24nXSwKICAgICAgICAgICAgWydncnVudGZpbGUuanNvbiddLAogICAgICAgIF0uZm9yRWFjaChmaWxlcyA9PgogICAgICAgICAgICBpdCgnc2hvdWxkIG9wZW4gV2Vic3Rvcm0nLCAoKSA9PiB7CgogICAgICAgICAgICB9KQogICAgICAgICk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZShhc3luYyAoKSA9PiB7CiAgICB9KTsK</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYW5kYm94ID0gY3JlYXRlU2FuZGJveCgpOwoKICAgICAgICBmcy5yZWFkZGlyU3luYyA9IHNhbmRib3guc3R1YigpOwogICAgICAgIGNvbnNvbGUubG9nID0gc2FuZGJveC5zdHViKCk7CgogICAgICAgIGV4ZWNTdHViID0gc2FuZGJveC5zdHViKFNoZWxsanMsICdleGVjJyk7CiAgICAgICAgbHNTdHViID0gc2FuZGJveC5zdHViKFNoZWxsanMsICdscycpOwoKICAgICAgICBhd2FpdCByZXdpcmVtb2NrLm1vZHVsZSgoKSA9PiBpbXBvcnQoJ2ZzJyksIHsKICAgICAgICAgICAgcmVhZGRpclN5bmM6IHJlYWRkaXJTeW5jU3R1YgogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBtb2NrRnM6IHsgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBzYW5kYm94OiBTaW5vblNhbmRib3g7CgogICAgbGV0IHJlYWRkaXJTeW5jU3R1YjogU2lub25TdHViOwogICAgbGV0IGV4ZWNTdHViOlNpbm9uU3R1YiA7CiAgICBsZXQgbHNTdHViOiBTaW5vblN0dWI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCBmcyBmcm9tICdmcyc7CmltcG9ydCBzaGVsbGpzIGZyb20gJ3NoZWxsanMnOwo=</text>
+        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIG9wZW4gSW50ZWxsaUogd2l0aCBhcHByb3ByaWF0ZSB0YXJnZXQnLCBhc3luYyAoKSA9PiB7CiAgICAgICAgICAgIGxldCBpZGVUYXJnZXQgPSBkZXRlcm1pbmVKZXRicmFpbnNJREUoWydwb20ueG1sJ10pOwogICAgICAgICAgICBleHBlY3QoaWRlVGFyZ2V0LnRhcmdldCkudG8uZXF1YWwoJ3BvbS54bWwnKTsKICAgICAgICAgICAgZXhwZWN0KGlkZVRhcmdldC5pZGUpLnRvLmVxdWFsKCdJbnRlbGxpSicpOwoKICAgICAgICAgICAgaWRlVGFyZ2V0ID0gZGV0ZXJtaW5lSmV0YnJhaW5zSURFKFsnLmlwciddKTsKICAgICAgICAgICAgZXhwZWN0KGlkZVRhcmdldC50YXJnZXQpLnRvLmVxdWFsKCcuaXByJyk7CiAgICAgICAgICAgIGV4cGVjdChpZGVUYXJnZXQuaWRlKS50by5lcXVhbCgnSW50ZWxsaUonKTsKCiAgICAgICAgICAgIGlkZVRhcmdldCA9IGRldGVybWluZUpldGJyYWluc0lERShbJ2J1aWxkLnhtbCddKTsKICAgICAgICAgICAgZXhwZWN0KGlkZVRhcmdldC50YXJnZXQpLnRvLmVxdWFsKCdidWlsZC54bWwnKTsKICAgICAgICAgICAgZXhwZWN0KGlkZVRhcmdldC5pZGUpLnRvLmVxdWFsKCdJbnRlbGxpSicpOwoKICAgICAgICAgICAgaWRlVGFyZ2V0ID0gZGV0ZXJtaW5lSmV0YnJhaW5zSURFKFsnLmlkZWEnXSk7CiAgICAgICAgICAgIGV4cGVjdChpZGVUYXJnZXQudGFyZ2V0KS50by5lcXVhbCgnLmlkZWEnKTsKICAgICAgICAgICAgZXhwZWN0KGlkZVRhcmdldC5pZGUpLnRvLmVxdWFsKCdJbnRlbGxpSicpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>array</last-search>
+      <last-search>package</last-search>
       <last-offset />
-      <last-pattern>array</last-pattern>
-      <last-replace>CLion</last-replace>
-      <last-substitute>GoLand</last-substitute>
+      <last-pattern>package</last-pattern>
+      <last-replace>gruntfile</last-replace>
+      <last-substitute>package</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1934,6 +1934,8 @@
         <entry>all</entry>
         <entry>collection</entry>
         <entry>array</entry>
+        <entry>bower</entry>
+        <entry>package</entry>
       </history-search>
       <history-cmd>
         <entry>%s/levels/Gpio/</entry>
@@ -1955,6 +1957,9 @@
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>245</entry>
+        <entry>s/package/bower/g</entry>
+        <entry>s/bower/gulpfile/g</entry>
+        <entry>s/package/gruntfile/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
