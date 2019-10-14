@@ -707,11 +707,12 @@
         <mark key="^" line="60" column="41" />
         <mark key="." line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" timestamp="1571019304969">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" timestamp="1571020885402">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/tests/common/modules/admin/TestAdminMembersControllerBilling.php" timestamp="1431285570152">
         <mark key="'" line="464" column="75" />
@@ -1751,8 +1752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2076" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
-      <jump line="2080" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
       <jump line="10" column="48" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="23" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="88" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
@@ -1851,6 +1850,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
       <jump line="9" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="28" column="23" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="24" column="23" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
+      <jump line="0" column="11" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1872,28 +1873,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgInRlc3QvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKSwK</text>
+        <text encoding="base64">ICAgICAgInRlc3QvIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBhY2MuaGFzUGhwU3Rvcm1GaWxlcyB8fCBpc1BocFN0b3JtRmlsZShmKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNHb0xhbmRGaWxlczogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICBoYXNQaHBTdG9ybUZpbGVzOiBmYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNDTGlvbkZpbGVzOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICBoYXNHb0xhbmRGaWxlczogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0RmlsZTogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICBoYXNDTGlvbkZpbGVzOiBmYWxzZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0RmlsZTogYWNjLnByb2plY3RGaWxlIHx8IChpc1Byb2plY3RGaWxlKGYpID8gZiA6IG51bGwpLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0RmlsZTogbnVsbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhc0NMaW9uRmlsZXM6IGFjYy5oYXNDTGlvbkZpbGVzIHx8IGlzQ0xpb25GaWxlKGYpLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0RmlsZTogYWNjLnByb2plY3RGaWxlIHx8IChpc1Byb2plY3RGaWxlKGYpID8gZiA6IG51bGwpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
