@@ -707,10 +707,10 @@
         <mark key="^" line="60" column="41" />
         <mark key="." line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" timestamp="1571024835006">
-        <mark key="'" line="1" column="4" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" timestamp="1571028541786">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="18" />
         <mark key="." line="64" column="0" />
         <mark key="^" line="61" column="33" />
       </file>
@@ -1156,12 +1156,12 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1571022908618">
-        <mark key="'" line="16" column="11" />
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="13" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/package.json" timestamp="1571029402017">
+        <mark key="'" line="86" column="2" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Templates/Widgets/Common/Views/SiteMemberProfileWidgetView.php" timestamp="1432154663590">
         <mark key="'" line="60" column="76" />
@@ -1219,8 +1219,8 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571016863390">
-        <mark key="'" line="1" column="30" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571027857435">
+        <mark key="'" line="45" column="8" />
         <mark key="[" line="44" column="12" />
         <mark key="]" line="44" column="32" />
         <mark key="^" line="44" column="32" />
@@ -1752,11 +1752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="22" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="20" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="83" column="20" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="94" column="22" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="21" column="1" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="84" column="19" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="233" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/sinon/lib/sinon/behavior.js" />
       <jump line="28" column="8" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
@@ -1852,19 +1847,24 @@
       <jump line="12" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
       <jump line="64" column="14" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
       <jump line="1" column="4" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
+      <jump line="45" column="8" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="37" column="9" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/.circleci/config.yml" />
+      <jump line="18" column="9" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="86" column="2" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIGJyYW5jaGVzOgogICAgICAgICAgICAgIGlnbm9yZTogLy4qLwogICAgICAgICAgICB0YWdzOgogICAgICAgICAgICAgIG9ubHk6IC9edi4qLwo=</text>
+        <text encoding="base64">ICBmaWx0ZXJzOgogICAgdGFnczoKICAgICAgb25seTogL152LiovCg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>distribution</text>
+        <text>files</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpvYnM6CiAgICAgIC0gYnVpbGQK</text>
+        <text encoding="base64">ICBmaWx0ZXJzOgogICAgdGFnczoKICAgICAgb25seTogL152LiovCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIGJyYW5jaGVzOgogICAgICAgICAgICAgIGlnbm9yZTogLy4qLwogICAgICAgICAgICB0YWdzOgogICAgICAgICAgICAgIG9ubHk6IC9edi4qLwo=</text>
@@ -1901,9 +1901,9 @@
       </register>
     </registers>
     <search>
-      <last-search>distribution</last-search>
+      <last-search>files</last-search>
       <last-offset />
-      <last-pattern>distribution</last-pattern>
+      <last-pattern>files</last-pattern>
       <last-replace>dist</last-replace>
       <last-substitute>distribution</last-substitute>
       <last-dir>1</last-dir>
@@ -1950,6 +1950,7 @@
         <entry>nyc</entry>
         <entry>distr</entry>
         <entry>distribution</entry>
+        <entry>files</entry>
       </history-search>
       <history-cmd>
         <entry>%s/levels/Gpio/</entry>
