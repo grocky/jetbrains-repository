@@ -1218,12 +1218,12 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571027857435">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="32" />
-        <mark key="^" line="44" column="32" />
-        <mark key="." line="44" column="32" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571105042309">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="37" column="50" />
+        <mark key="]" line="37" column="62" />
+        <mark key="." line="37" column="62" />
+        <mark key="^" line="37" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1751,7 +1751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="67" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="39" column="66" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="54" column="67" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="69" column="70" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
@@ -1851,58 +1850,59 @@
       <jump line="87" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="17" column="3" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
+      <jump line="25" column="28" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>`opening with ${applicationPath}\n`</text>
       </register>
       <register name="-" type="4">
-        <text>/src/*.js</text>
+        <text>`opening with ${applicationPath}\n`</text>
       </register>
       <register name="/" type="4">
-        <text>prepare</text>
+        <text>write</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmaWx0ZXJzOgogICAgdGFnczoKICAgICAgb25seTogL152LiovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzcy5zdGRvdXQud3JpdGUoY2hhbGsuZ3JlZW4oYG9wZW5pbmcgd2l0aCAke2FwcGxpY2F0aW9uUGF0aH1cbmApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
+        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
+        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogInRzbGludCAtcCB0c2NvbmZpZy5qc29uIiwKICAgICJsaW50OmZpeCI6ICJ0c2xpbnQgLXAgdHNjb25maWcuanNvbiAtLWZpeCIsCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLnRzXCIgXCJzcmMvKiovKi5qc1wiIiwK</text>
+        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAogICAgImJ1aWxkOmNoZWNrIjogInRzYyAtLW5vRW1pdCIsCg==</text>
+        <text encoding="base64">ICAgICJsaW50IjogInRzbGludCAtcCB0c2NvbmZpZy5qc29uIiwKICAgICJsaW50OmZpeCI6ICJ0c2xpbnQgLXAgdHNjb25maWcuanNvbiAtLWZpeCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLnRzXCIgXCJzcmMvKiovKi5qc1wiIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbW9jaGEiOiAiNS4yLjciLAo=</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAogICAgImJ1aWxkOmNoZWNrIjogInRzYyAtLW5vRW1pdCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prepare</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>prepare</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace>dist</last-replace>
       <last-substitute>distribution</last-substitute>
       <last-dir>1</last-dir>
@@ -1954,6 +1954,7 @@
         <entry>depend</entry>
         <entry>types</entry>
         <entry>prepare</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>%s/levels/Gpio/</entry>
