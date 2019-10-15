@@ -819,6 +819,9 @@
         <mark key="^" line="96" column="33" />
         <mark key="." line="96" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/debug/index.d.ts" timestamp="1571105492343">
+        <mark key="'" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/grocky/rockygray.com/src/rootRedux.js" timestamp="1560056895577">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="7" column="13" />
@@ -1218,12 +1221,12 @@
         <mark key="^" line="489" column="2" />
         <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571105042309">
-        <mark key="'" line="25" column="28" />
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="62" />
-        <mark key="." line="37" column="62" />
-        <mark key="^" line="37" column="62" />
+      <file name="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" timestamp="1571106084582">
+        <mark key="'" line="32" column="32" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/rockygray.com/upgraded-app/src/components/Card.module.css" timestamp="1541620869979">
         <mark key="'" line="0" column="0" />
@@ -1751,9 +1754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="66" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
-      <jump line="54" column="67" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
-      <jump line="69" column="70" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
       <jump line="19" column="42" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="29" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
       <jump line="1811" column="11" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
@@ -1851,13 +1851,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="17" column="3" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
       <jump line="25" column="28" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/debug/index.d.ts" />
+      <jump line="39" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="32" column="32" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`opening with ${applicationPath}\n`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IERlYnVnIGZyb20gJ2RlYnVnJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>`opening with ${applicationPath}\n`</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>write</text>
@@ -1866,34 +1869,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzcy5zdGRvdXQud3JpdGUoY2hhbGsuZ3JlZW4oYG9wZW5pbmcgd2l0aCAke2FwcGxpY2F0aW9uUGF0aH1cbmApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IERlYnVnIGZyb20gJ2RlYnVnJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb2Nlc3MuZW52LkpFVEJSQUlOU19ERUJVRyA9PT0gJzEnKSB7CiAgICAgICAgICAgICAgICBwcm9jZXNzLnN0ZG91dC53cml0ZShjaGFsay55ZWxsb3coYCR7Y29tbWFuZH1cbmApKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
+        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogInRzbGludCAtcCB0c2NvbmZpZy5qc29uIiwKICAgICJsaW50OmZpeCI6ICJ0c2xpbnQgLXAgdHNjb25maWcuanNvbiAtLWZpeCIsCg==</text>
+        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLnRzXCIgXCJzcmMvKiovKi5qc1wiIiwK</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAogICAgImJ1aWxkOmNoZWNrIjogInRzYyAtLW5vRW1pdCIsCg==</text>
+        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
