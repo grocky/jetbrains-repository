@@ -1760,12 +1760,11 @@
         <mark key="^" line="109" column="62" />
         <mark key="." line="109" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1585545309342">
-        <mark key="'" line="11" column="11" />
-        <mark key="[" line="32" column="2" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1585588562445">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1853,7 +1852,6 @@
       <jump line="148" column="2" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="159" column="0" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="156" column="14" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
-      <jump line="12" column="46" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="28" column="18" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="4" column="17" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/node_modules/mqtt/types/lib/client-options.d.ts" />
       <jump line="33" column="33" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
@@ -1869,58 +1867,59 @@
       <jump line="70" column="0" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="151" column="53" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
       <jump line="11" column="11" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="12" column="6" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
-        <text>AVAIL</text>
+        <text>received</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgTVFUVF9BVkFJTEFCSUxJVFlfVE9QSUMgPSAnZ2FyYWdlL2Nvbm5lY3RlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiB0aGUgcmV0YWluIGZsYWcKICAgKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAgKiB0aGUgUW9TCiAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioKICAgKiB0aGUgbWVzc2FnZSB0byBwdWJsaXNoCiAgICovCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgcmV0YWluIGZsYWcKICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgKiB0aGUgdG9waWMgdG8gcHVibGlzaAogICAqLwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgUW9TCiAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgbWVzc2FnZSB0byBwdWJsaXNoCiAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1xdHRDbGllbnQuZW5kKGZvcmNlLCByZXMpOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgdG9waWMgdG8gcHVibGlzaAogICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcmNlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZygnY2xvc2luZyBtcXR0IGNvbm5lY3Rpb24nKTsK</text>
+        <text encoding="base64">ICAgIG1xdHRDbGllbnQuZW5kKGZvcmNlLCByZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AVAIL</last-search>
+      <last-search>received</last-search>
       <last-offset />
-      <last-pattern>AVAIL</last-pattern>
+      <last-pattern>received</last-pattern>
       <last-replace>dist</last-replace>
       <last-substitute>distribution</last-substitute>
       <last-dir>1</last-dir>
@@ -1955,6 +1954,7 @@
         <entry>garage</entry>
         <entry>garage\/press</entry>
         <entry>AVAIL</entry>
+        <entry>received</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isSpinning/isActive/g</entry>
