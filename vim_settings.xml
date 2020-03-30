@@ -43,6 +43,12 @@
       <file name="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/shelljs/index.d.ts" timestamp="1570939907543">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/node_modules/mqtt/types/lib/connect/index.d.ts" timestamp="1585544736472">
+        <mark key="[" line="7" column="86" />
+        <mark key="]" line="7" column="85" />
+        <mark key="^" line="7" column="85" />
+        <mark key="." line="7" column="85" />
+      </file>
       <file name="$USER_HOME$/Projects/debt-tracker/routes/users.js" timestamp="1526798439654">
         <mark key="'" line="82" column="4" />
         <mark key="[" line="50" column="15" />
@@ -699,6 +705,9 @@
         <mark key="]" line="11" column="25" />
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/node_modules/mqtt/types/lib/client-options.d.ts" timestamp="1585544830645">
+        <mark key="'" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/garage-remote/client/src/components/App/index.js" timestamp="1545018828790">
         <mark key="'" line="37" column="20" />
@@ -1709,7 +1718,6 @@
         <mark key="^" line="58" column="37" />
         <mark key="." line="58" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Entities/Extensions/esps/AbstractESPDTO.php" timestamp="1570985307417" />
       <file name="$USER_HOME$/Projects/StockBlocks/CoreSites/Common/Services/Members/MemberEntityService.php" timestamp="1432156737570">
         <mark key="'" line="652" column="15" />
         <mark key="[" line="41" column="0" />
@@ -1752,28 +1760,15 @@
         <mark key="^" line="109" column="62" />
         <mark key="." line="109" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" timestamp="1585545309342">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="42" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="29" column="30" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="1811" column="11" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
-      <jump line="78" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@salesforce/ts-sinon/lib/index.d.ts" />
-      <jump line="20" column="44" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="4" column="20" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/rewiremock.ts" />
-      <jump line="49" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/package.json" />
-      <jump line="6" column="23" filename="$USER_HOME$/Projects/grocky/jetbrains/bin/jetbrains" />
-      <jump line="17" column="24" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="110" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="115" column="31" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="15" column="26" filename="$USER_HOME$/Projects/grocky/jetbrains/tests/index.spec.ts" />
-      <jump line="0" column="15" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/node/fs.d.ts" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
-      <jump line="96" column="19" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="115" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/src/jetbrains.ts" />
@@ -1854,58 +1849,78 @@
       <jump line="48" column="0" filename="$USER_HOME$/Projects/grocky/jetbrains/node_modules/@types/debug/index.d.ts" />
       <jump line="39" column="17" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
       <jump line="32" column="32" filename="$USER_HOME$/Projects/grocky/jetbrains/src/index.ts" />
+      <jump line="18" column="6" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="148" column="2" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="156" column="14" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="12" column="46" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="28" column="18" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="4" column="17" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/node_modules/mqtt/types/lib/client-options.d.ts" />
+      <jump line="33" column="33" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="106" column="33" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="107" column="2" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="117" column="48" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="87" column="3" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="66" column="3" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="151" column="53" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
+      <jump line="11" column="11" filename="$USER_HOME$/Projects/grocky/garage-remote/mqtt-switch/garage.mqtt.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IERlYnVnIGZyb20gJ2RlYnVnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text>AVAIL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzcy5zdGRvdXQud3JpdGUoY2hhbGsuZ3JlZW4oYG9wZW5pbmcgd2l0aCAke2FwcGxpY2F0aW9uUGF0aH1cbmApKTsK</text>
+        <text encoding="base64">Y29uc3QgTVFUVF9BVkFJTEFCSUxJVFlfVE9QSUMgPSAnZ2FyYWdlL2Nvbm5lY3RlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IERlYnVnIGZyb20gJ2RlYnVnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb2Nlc3MuZW52LkpFVEJSQUlOU19ERUJVRyA9PT0gJzEnKSB7CiAgICAgICAgICAgICAgICBwcm9jZXNzLnN0ZG91dC53cml0ZShjaGFsay55ZWxsb3coYCR7Y29tbWFuZH1cbmApKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgcmV0YWluIGZsYWcKICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgUW9TCiAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgbWVzc2FnZSB0byBwdWJsaXNoCiAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiB0aGUgdG9waWMgdG8gcHVibGlzaAogICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZmlsZXMiOiBbIi9kaXN0Il0sCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJSRUFETUUubWQiCg==</text>
+        <text encoding="base64">ICAgIG1xdHRDbGllbnQuZW5kKGZvcmNlLCByZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmNvdmVyYWdlIjogIm55YyBtb2NoYSIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcmNlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwcmVwYXJlIjogIm5wbSBydW4gYnVpbGQiCg==</text>
+        <text encoding="base64">ICAgIGxvZygnY2xvc2luZyBtcXR0IGNvbm5lY3Rpb24nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>write</last-search>
+      <last-search>AVAIL</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern>AVAIL</last-pattern>
       <last-replace>dist</last-replace>
       <last-substitute>distribution</last-substitute>
       <last-dir>1</last-dir>
@@ -1913,31 +1928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LogoContainer</entry>
-        <entry>goLand</entry>
-        <entry>GoLand</entry>
-        <entry>sh</entry>
-        <entry>bold</entry>
-        <entry>main</entry>
-        <entry>ides</entry>
-        <entry>bin</entry>
-        <entry>build</entry>
-        <entry>exports</entry>
-        <entry>Error</entry>
-        <entry>exit</entry>
-        <entry>enable</entry>
-        <entry>readdir</entry>
-        <entry>directory</entry>
-        <entry>chalk</entry>
-        <entry>Sandbox</entry>
-        <entry>stubCallable</entry>
-        <entry>source</entry>
-        <entry>test</entry>
-        <entry>root</entry>
-        <entry>exec</entry>
-        <entry>readdirSync</entry>
-        <entry>start</entry>
-        <entry>appName</entry>
         <entry>shelljs</entry>
         <entry>fs</entry>
         <entry>isProjectFile</entry>
@@ -1958,17 +1948,15 @@
         <entry>types</entry>
         <entry>prepare</entry>
         <entry>write</entry>
+        <entry>adfd</entry>
+        <entry>publish</entry>
+        <entry>will</entry>
+        <entry>mqttClient</entry>
+        <entry>garage</entry>
+        <entry>garage\/press</entry>
+        <entry>AVAIL</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/levels/Gpio/</entry>
-        <entry>%s/front-tier/frontend/g</entry>
-        <entry>%s/back-tier/devices/</entry>
-        <entry>17</entry>
-        <entry>%s/class/className/g</entry>
-        <entry>39</entry>
-        <entry>32</entry>
-        <entry>75</entry>
-        <entry>FZF</entry>
         <entry>%s/isSpinning/isActive/g</entry>
         <entry>18</entry>
         <entry>49</entry>
